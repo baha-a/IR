@@ -1,0 +1,12 @@
+compressive buckling of simply supplorted plates withlongitudinal stiffeners .
+
+seide,p. and stein,m.
+
+naca tn.1825, 1949.
+
+compressive buckling of simply supplorted plates with
+longitudinal stiffeners .
+  charts are presented for the analysis of the stability under
+compression of simply supported rectangular plates with one, two, three,
+and an infinite number of identical equally spaced longitudinal
+stiffeners that have zero torsional stiffness .

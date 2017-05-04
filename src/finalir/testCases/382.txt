@@ -1,0 +1,11 @@
+a note on the laminar boundary layer on a circular cylinder inaxial incompressible flow .
+
+howard r. kelly
+
+u.s. naval ordnance test station, inyokern, china lake, calif.
+
+a note on the laminar boundary layer on a circular cylinder in
+axial incompressible flow .
+a correction is made for the equation to compute the ratio
+of the displacement thickness on a cylinder to the corresponding
+thickness on a flat plate .

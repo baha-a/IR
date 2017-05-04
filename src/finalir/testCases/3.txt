@@ -1,0 +1,9 @@
+the boundary layer in simple shear flow past a flat plate .
+
+m. b. glauert
+
+department of mathematics, university of manchester, manchester,england
+
+the boundary layer in simple shear flow past a flat plate .
+the boundary-layer equations are presented for steady
+incompressible flow with no pressure gradient .
