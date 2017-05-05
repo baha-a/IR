@@ -4,28 +4,33 @@ import java.util.*;
 
 public class InvertedIndex {
 
-    private Map<String, Map<Integer, DocumentEntry>> _index;
-    private List<Document> _docs;
-    
-    public InvertedIndex() {
-        _index = new HashMap<>();
-        _docs = new ArrayList<>();
-    }
+    private Map<String, Map<Integer, DocumentTermEntry>> _index = new HashMap<>();
+    private Map<Integer, Document> _docs = new HashMap<>();
     
     public Document AddDoc(String name,int length){
         Document d = new Document(name,length);
-        _docs.add(d);
+        _docs.put(d.getId(),d);
         return d;
     }
     
-    public InvertedIndex Add(String term, Document doc, int position, TermType type) {
+    public Document GetDoc(int id){
+        return _docs.get(id);
+    }
+    
+    public InvertedIndex AddTerm(String term, Document doc, int position, TermType type) {
+        
         if (_index.containsKey(term) == false) {
-            _index.put(term, new HashMap<>())
-                    .put(doc.getId(), new DocumentEntry(doc))
-                    .Add(position, type);
+            Map<Integer, DocumentTermEntry> e = new HashMap<>();
+            e.put(doc.getId(), new DocumentTermEntry(doc,term).Add(position, type));
+            _index.put(term, e);
         }
-        else 
-            _index.get(term).get(doc.getId()).Add(position, type);
+        else {
+            Map<Integer, DocumentTermEntry> e =_index.get(term);
+            if(e.containsKey(doc.getId()) == false)
+                e.put(doc.getId(), new DocumentTermEntry(doc,term).Add(position, type));
+            else
+                e.get(doc.getId()).Add(position, type);
+        }
         
         return this;
     }
@@ -35,13 +40,13 @@ public class InvertedIndex {
     }
     
     public int getTF(String term, Document doc) {
-        return _index.get(term).get(doc.getId()).getOccurrencesCount();
+        return _index.get(term).get(doc.getId()).getLength();  // .getFrequency() ??
     }
     
     public int getSiqmaTF(String term) {
         int sum = 0;
-        for (DocumentEntry d : _index.get(term).values()) 
-            sum += d.getOccurrencesCount();
+        for (DocumentTermEntry d : _index.get(term).values()) 
+            sum += d.getLength();                              // .getFrequency() ??
         return sum;
     }
     
@@ -50,125 +55,21 @@ public class InvertedIndex {
     }
     
     public double getAvaregeDocumentLength(){
-        int sum = 0;
-        for (Document d : _docs)
+        if(getAllDocumentsCount() == 0)
+            return 0;
+        
+        double sum = 0;
+        for (Document d : _docs.values())
             sum += d.getLength();
         
-        return sum * 1.0 / getAllDocumentsCount();
-    }
-}
-
-
-class DocumentEntry {
-    private Document document;
-    private ArrayList<Occurrence> occurrence;
-    private double frequencyMatrix;
-    
-    public DocumentEntry(Document doc) {
-        occurrence = new ArrayList<>();
-        document = doc;
-    }
-
-    public DocumentEntry Add(int position, TermType t) {        
-        occurrence.add(getIndexToAddSorted(position), new Occurrence(position, t));
-        upadteDocumentMaxTF();
-        return this;
+        return sum / getAllDocumentsCount();
     }
     
-    private int getIndexToAddSorted(int value)
-    {
-        int i = 0;
-        while(i < occurrence.size() && occurrence.get(i).getPosition() < value)
-            i++;
-        return i;
+    public int GetMaxTF(Document doc){
+        return _docs.get(doc.getId()).getMaxTF();
     }
     
-    private void upadteDocumentMaxTF(){
-        if(occurrence.size() > document.getMaxTF())
-            document.setMaxTF(occurrence.size());
-    }
-    
-    public int getOccurrencesCount(){
-        return occurrence.size();
-    }
-    
-    public double getFrequencyValue(){
-        // ????? from Basel's Code
-        return getOccurrencesCount() * (1.0 / document.getLength());
-    }
-}
-
-class Occurrence {
-    private int position;
-    private TermType type;
-
-    public Occurrence(int pos, TermType t) {
-        position = pos;
-        type = t;
-    }
-
-    public int getPosition() {
-        return position;
-    }
-
-    public TermType getType() {
-        return type;
-    }
-        
-    public int getTypeWeight() {
-        switch(type)
-        {
-            case Titel:       return 10;
-            case Author:      return 7;
-            case Description: return 4;
-        }
-        return 1;
-    }
-}
-
-enum TermType {
-    Titel,
-    Author,
-    Description,
-    Text,
-}
-
-class Document {
-    private int id;
-    private String name;
-    private int length;
-
-    public int maxTF = 0;
-    
-    private static int counter = 0;
-    public Document() {
-        this.id = counter++; 
-    }
-    
-    public Document(String name, int length) {
-        this.id = counter++; 
-        this.name = name;
-        this.length = length;
-    }
-        
-    public int getId(){
-        return id;
-    }
-    
-    public String getName(){
-        return name;
-    }
-    
-    public int getLength(){
-        return length;
-    }
-    
-    public Document setMaxTF(int newTf){
-        maxTF = newTf;
-        return this;
-    }
-    
-    public int getMaxTF(){
-        return maxTF;
+    public Collection<DocumentTermEntry> searchFor(String term){
+        return _index.get(term).values();
     }
 }
