@@ -7,6 +7,8 @@ import java.io.File;
 import java.io.IOException;
 import static java.lang.Math.sqrt;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class IndexerX{
     Tokenizer toky = new Tokenizer();
@@ -16,8 +18,9 @@ public class IndexerX{
     public IndexerX IndexText(String t){
         List<CoreLabel> words = toky.getTokens(t);
         Document d = index.AddDoc("NotFile" + id++, words.size());
+        int postion = 0;
         for (CoreLabel w : words)
-            index.AddTerm(w.lemma(), d, w.beginPosition(), TermType.Text);
+            index.AddTerm(w.lemma(), d, postion++ , w.beginPosition(), TermType.Text);
         
         return this;
     }
@@ -25,16 +28,23 @@ public class IndexerX{
     public IndexerX IndexFile(File f) throws IOException{
         List<CoreLabel> words = toky.getTokens(f);
         Document d = index.AddDoc(f.getName(), words.size());
+        int postion = 0;
         for (CoreLabel w : words)
-            index.AddTerm(w.lemma(), d, w.beginPosition(), TermType.Text);
+            index.AddTerm(w.lemma(), d, postion++, w.beginPosition(), TermType.Text);
         
         return this;
     }
     
     public IndexerX IndexFiles(File[] files) throws IOException{
-        for (File f : files)
+        int i = 0;
+        for (File f : files){
             IndexFile(f);
+            
+            if(i++ % 100 == 0)
+                Print((i * 100 / files.length) + "%");
+        }
         
+        Print((i * 100 / files.length) + " %");
         return this;
     }
     
@@ -82,7 +92,6 @@ public class IndexerX{
             .IndexText("get your eyes over here wonderfully ")
             .IndexText("this is the project to solve your information retrivel problems, enjoy it and have a good day")
             .IndexText("the sun is not yellow and the sky isn't realy blue, red red red, the end");
-           //.IndexFiles(getFiles());
 
         Print("AllDocumentsCount: \t" +  indx.index.getAllDocumentsCount());
         Print("AvaregeDocumentLength: \t" +  indx.index.getAvaregeDocumentLength());
@@ -94,5 +103,23 @@ public class IndexerX{
         Print("MaxTF(GetDoc(0)): \t" +  indx.index.GetMaxTF(indx.index.GetDoc(0)));
 
         Print("Stopwrods removed: \t" + indx.toky.getRemovedWordsCount());
+        
+        Print("");
+        Print("" + indx.index.search("orjkgojrgojsrkmlkgmkdsmg").size());
+        Print("" + indx.index.search("sun").size());
+        Print("" + indx.index.search("SUN").size());
+        Print("" + indx.index.search("the").size());
+        Print("" + indx.index.search("problem").size());
+                
+    }
+    
+    public List<DocumentTermEntry> SearchQuery(String query){
+    
+    }
+    private List<DocumentTermEntry> Search(String term){
+        
+        // lemma
+        // search
+        
     }
 }
