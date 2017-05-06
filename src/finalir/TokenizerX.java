@@ -8,25 +8,26 @@ import java.io.*;
 import java.nio.file.Files;
 import java.util.*;
 
-public class tokenizer {
+public class TokenizerX {
+    
     Properties props = new Properties();
     StanfordCoreNLP pipeline;
 
-    HashSet<String> stopwordcorpus = new HashSet<>();
+    HashSet<String> stopwords = new HashSet<>();
     
-    public tokenizer() throws FileNotFoundException {
+    public TokenizerX() {
 
         props.setProperty("annotators", "tokenize,ssplit,pos,lemma");
         pipeline = new StanfordCoreNLP(props);
         
         try
         {
-            stopwordcorpus.addAll(Files.readAllLines(new File("src\\finalir\\stopwords.txt").toPath()));
+            stopwords.addAll(Files.readAllLines(new File("src\\finalir\\stopwords.txt").toPath()));
         }
-        catch(IOException ex)
-        {
+        catch(IOException ex){
             IR.PrintErr("Can't load stopwords file . . .");
         }
+        
     }
     
     public List<CoreLabel> getTokens(File f) throws FileNotFoundException, IOException {
@@ -45,13 +46,9 @@ public class tokenizer {
     }
     
     private List<CoreLabel> removeStopWords(List<CoreLabel> tokens) {
-        Integer tmp =  tokens.size();
-        
-        //tokens.removeAll(stopwordcorpus);
-        
-        for (int i = 0; i < tokens.size(); i++)
-            if (stopwordcorpus.contains(tokens.get(i).word()))
-                tokens.remove(i);
+        int tmp =  tokens.size();
+       
+        tokens.removeIf( x -> stopwords.contains(x.word()) );
         
         removedWordsCount += tmp - tokens.size();
         return tokens;

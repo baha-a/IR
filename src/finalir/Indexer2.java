@@ -4,7 +4,7 @@ import edu.stanford.nlp.ling.CoreLabel;
 import static java.lang.Math.sqrt;
 import java.util.*;
 
-public class Indexer {
+public class Indexer2 {
 
     public float[][] frequencyMatrix;
     public float[][] vectors;
@@ -18,7 +18,7 @@ public class Indexer {
 
     public TreeMap result = new TreeMap();
 
-    public Indexer() {
+    public Indexer2() {
         this.frequencyMatrix = new float[100][100000];
         this.vectors = new float[100][100000];
     }
