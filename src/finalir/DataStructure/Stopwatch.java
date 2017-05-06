@@ -4,6 +4,7 @@ public class Stopwatch {
     
     private long time;
     private long duration;
+    private long totalSum;
     private boolean started = false;
     
     public Stopwatch Start(){
@@ -24,13 +25,33 @@ public class Stopwatch {
         return this;
     }
     
-    public long getMilisec(){
+    public Stopwatch StoreTime(){
+        totalSum += duration;
+        return this;
+    }
+    
+    public Stopwatch ResetTotal(){
+        totalSum = 0;
+        return this;
+    }
+
+    
+    public long CurrentTimeMillis(){
+        return System.currentTimeMillis();
+    }
+    
+    public long GetTotal(){
+        return totalSum;
+    }
+    
+     
+    public long GetMilisec(){
         if(started)
             return (System.currentTimeMillis() - time) + duration;
         return duration;
     }
     
-    public long getSec(){
-        return Math.round(getMilisec() / 1000.0);
+    public long GetSec(){
+        return Math.round(GetMilisec() / 1000.0);
     }
 }
