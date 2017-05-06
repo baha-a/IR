@@ -121,6 +121,8 @@ public class IndexerX{
         Print("" + indx.SearchNot("sun","red").size());
         Print("" + indx.SearchAnd("sky","blue").size());
         Print("" + indx.SearchNot(indx.SearchAnd("sky","blue"), "red").size());
+        Print("" +indx.SearchAnd("sky",indx.SearchAnd("red", "yellow")).size());        
+        Print("" +indx.SearchAnd("sky",indx.SearchAnd("red", indx.SearchAnd("eye", "yellow"))).size());
     }
     
     public Collection<DocumentTermEntry> SearchQuery(String query){
