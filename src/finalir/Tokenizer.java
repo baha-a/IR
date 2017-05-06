@@ -8,14 +8,14 @@ import java.io.*;
 import java.nio.file.Files;
 import java.util.*;
 
-public class TokenizerX {
+public class Tokenizer {
     
     Properties props = new Properties();
     StanfordCoreNLP pipeline;
 
     HashSet<String> stopwords = new HashSet<>();
     
-    public TokenizerX() {
+    public Tokenizer() {
 
         props.setProperty("annotators", "tokenize,ssplit,pos,lemma");
         pipeline = new StanfordCoreNLP(props);

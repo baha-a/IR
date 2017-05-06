@@ -11,12 +11,12 @@ import java.util.Collection;
 import java.util.List;
 
 public class Google{
-    TokenizerX toky;
+    Tokenizer toky;
     InvertedIndex index;
     Searcher searcher;
     
     public Google(){
-        toky = new TokenizerX();
+        toky = new Tokenizer();
         index = new InvertedIndex();
         searcher = new Searcher(index);
     }
