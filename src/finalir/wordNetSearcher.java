@@ -16,8 +16,8 @@ public class wordNetSearcher {
         wordNetSearcher w = new wordNetSearcher();
         w.getSynonyms("capacity");
 
-        System.out.println(st.Stop().getMilisec());
-        System.out.println(st.getSec());
+        System.out.println(st.Stop().GetMilisec());
+        System.out.println(st.GetSec());
     }
 
     void getSynonyms(String wordForm) {
