@@ -1,7 +1,5 @@
 package finalir;
 
-import edu.stanford.nlp.ling.CoreLabel;
-import finalir.DataStructure.*;
 import static finalir.IR.Print;
 import java.io.*;
 import java.util.*;
@@ -35,31 +33,18 @@ public class IR {
         
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-          Google.Pizza();
-          //new Google().IndexFiles(getFiles());
+        //Google.Pizza();
+        Google g = new Google().IndexFiles(getFiles()).ComputeTF_IDF();
         
+        String query;
+        do
+        {
+            Print("google: ");
+            Print(g.SearchQuery(query = new Scanner(System.in).next()).size());
+        }while(!query.toLowerCase().equals("x"));
         
-        
-        
-//        Tokenizer tokenizer = new Tokenizer();        
-//        Indexer indexer = new Indexer();
-//        
-//        for (File doc : getFiles())
-//            indexer.indexingDoc(tokenizer.getTokens(doc), doc.getName());
-//        
-//        Print(tokenizer.getRemovedWordsCount() + " Stopwrods removed");
-//
-//        indexer.printFrequencyMatrix();
-//        indexer.applyTf_Idf();
-//        indexer.printWightMatrix();
-//
-//        String Queri = "love first movie"; // new Scanner(System.in).next();
 //        indexer.indexingQuery(tokenizer.getTokens(Queri));
-//        
-//        Print("cos :");
 //        indexer.match("cos");
-//        
-//        Print("inner :");
 //        indexer.match("inner");
     }
 }

@@ -35,36 +35,36 @@ public class Searcher {
         return sqrt(res);
     }
     
-    public List<DocumentTermEntry> SearchOr(String term1,String term2){                  // make this private
+    public List<DocumentTermEntry> SearchOr(String term1,String term2){                   // make this private
         return Or(search(term1), search(term2));
     }
     
-    public List<DocumentTermEntry> SearchOr(String term1,List<DocumentTermEntry> d){              // make this private
+    public List<DocumentTermEntry> SearchOr(String term1,List<DocumentTermEntry> d){      // make this private
         return Or(search(term1), d);
     }
     
-    public List<DocumentTermEntry> SearchAnd(String term1,String term2){                 // make this private
+    public List<DocumentTermEntry> SearchAnd(String term1,String term2){                   // make this private
         return And(search(term1),search(term2));
     }
     
-    public List<DocumentTermEntry> SearchAnd(String term1,List<DocumentTermEntry> d){             // make this private
+    public List<DocumentTermEntry> SearchAnd(String term1,List<DocumentTermEntry> d){       // make this private
         return And(search(term1),d);
     }
     
-    public List<DocumentTermEntry> SearchNot(String term1,String term2){                 // make this private
+    public List<DocumentTermEntry> SearchNot(String term1,String term2){                    // make this private
         return Not(search(term1),search(term2));
     }
     
-    public List<DocumentTermEntry> SearchNot(String term1,List<DocumentTermEntry> d){             // make this private
+    public List<DocumentTermEntry> SearchNot(String term1,List<DocumentTermEntry> d){       // make this private
         return Not(search(term1),d);
     }
     
-    public List<DocumentTermEntry> SearchNot(List<DocumentTermEntry> d,String term2){             // make this private
+    public List<DocumentTermEntry> SearchNot(List<DocumentTermEntry> d,String term2){       // make this private
         return Not(d, search(term2));
     }
     
     
-    public List<DocumentTermEntry> SearchNear(int target, String... terms){             // make this private
+    public List<DocumentTermEntry> SearchNear(int target, String... terms){                 // make this private
         if(terms.length < 2)
             return new ArrayList<>();
         
@@ -148,7 +148,7 @@ public class Searcher {
         return index.search(term);
     }
     
-    public List<Document> extractDocument(List<DocumentTermEntry> t){
+    public List<Document> convertDocument(List<DocumentTermEntry> t){
         List<Document> docs = new ArrayList<>();
         t.forEach(d -> docs.add(d.getDocument()));
         return docs;
