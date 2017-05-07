@@ -17,7 +17,7 @@ public class InvertedIndex {
         return _docs.get(id);
     }
     
-    public int getTermCount(){
+    public int getTermCount() {
         return _index.size();
     }
     
@@ -47,7 +47,7 @@ public class InvertedIndex {
     public int getTF(String term, Document doc) {
         term = term.toLowerCase();
         if(_index.containsKey(term) && _index.get(term).containsKey(doc.getId()))
-            return _index.get(term).get(doc.getId()).getLength();                // .getFrequency() ??
+            return _index.get(term).get(doc.getId()).getTf();                     // .getFrequency() ??
         return 0;
     }
     
@@ -55,7 +55,7 @@ public class InvertedIndex {
         term = term.toLowerCase();
         int sum = 0;
         for (DocumentTermEntry d : _index.get(term).values()) 
-            sum += d.getLength();                                                // .getFrequency() ??
+            sum += d.getTf();                                                     // .getFrequency() ??
         return sum;
     }
     
@@ -83,5 +83,13 @@ public class InvertedIndex {
         if(_index.containsKey(term))
             return new ArrayList<>(_index.get(term).values());
         return new ArrayList<>();     // insted of 'null' to avoid Exeption
+    }
+    
+    
+    public InvertedIndex ApplyTF_IDF(){
+        for (Map<Integer, DocumentTermEntry> m : _index.values())
+            for (DocumentTermEntry d : m.values())
+                d.setTfIDF( d.getTf() / d.getDocumentMaxTf() * Math.log( getCountOfDocuments() / m.size() ) );
+        return this;
     }
 }

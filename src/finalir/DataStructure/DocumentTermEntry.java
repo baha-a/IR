@@ -6,6 +6,7 @@ public class DocumentTermEntry {
     private String term;
     private Document document;
     private ArrayList<Observation> observation;
+    private double tfidf;
     
     public DocumentTermEntry(Document doc,String trm) {
         observation = new ArrayList<>();
@@ -13,6 +14,22 @@ public class DocumentTermEntry {
         term = trm;
     }
 
+    public void setTfIDF(double d){
+        tfidf = d;
+    }
+    
+    public double getTfIDF(){
+        return tfidf;
+    }
+    
+    public int getDocumentMaxTf(){
+        return document.getMaxTF();
+    }
+    
+    public int getDocumentSize(){
+        return document.getLength();
+    }
+    
     public String getTerm(){
         return term;
     }
@@ -37,12 +54,11 @@ public class DocumentTermEntry {
             document.setMaxTF(observation.size());
     }
     
-    public int getLength(){
+    public int getTf(){
         return observation.size();
     }
     
     public double getFrequency(){
-        // ?????  this from Basel's Code
         return observation.size() * (1.0 / document.getLength());
     }
     

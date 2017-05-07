@@ -53,6 +53,6 @@ public class Document {
     
         
     public int compareWith(Document d){
-        return id - d.id;
+        return Math.abs(id - d.id);
     }
 }
