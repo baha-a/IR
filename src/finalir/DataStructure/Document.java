@@ -1,10 +1,12 @@
 package finalir.DataStructure;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Document {
-    private List<DocumentTermEntry> docTermEntry;
+    private Map<String,DocumentTermEntry> docTermEntry;
     private int id;
     private String name;
     private int length;
@@ -17,18 +19,26 @@ public class Document {
         this.id = counter++; 
         this.name = name;
         this.length = length;
-        docTermEntry = new ArrayList<>();
+        docTermEntry = new HashMap<>();
     }
     
     public Document addDocumentTermEntry(DocumentTermEntry d){
-        docTermEntry.add(d);
+        docTermEntry.put(d.getTerm(),d);
         return this;
     }
     
     public List<DocumentTermEntry> getDocumentTermEntryList(){
-        return docTermEntry;
+        return new ArrayList<>(docTermEntry.values());
     }
-        
+    
+    public boolean Contains(String t){
+        return docTermEntry.containsKey(t);
+    }
+    
+    public DocumentTermEntry getDocTermEntry(String t){
+        return docTermEntry.get(t);
+    }
+    
     public int getId(){
         return id;
     }
@@ -54,5 +64,11 @@ public class Document {
         
     public int compareWith(Document d){
         return Math.abs(id - d.id);
+    }
+    
+    public static List<Document> convert(List<DocumentTermEntry> dte){
+        List<Document> doc = new ArrayList<>();
+        dte.forEach(d -> doc.add(d.getDocument()));
+        return doc;
     }
 }

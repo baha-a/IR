@@ -41,21 +41,23 @@ public class InvertedIndex {
     
     public int getDF(String term){
         term = term.toLowerCase();
+        if(_index.get(term) == null)
+            return 1;
         return _index.get(term).size();
     }
     
-    public int getTF(String term, Document doc) {
+    public double getTF(String term, Document doc) {
         term = term.toLowerCase();
         if(_index.containsKey(term) && _index.get(term).containsKey(doc.getId()))
-            return _index.get(term).get(doc.getId()).getTf();                     // .getFrequency() ??
+            return _index.get(term).get(doc.getId()).getFrequency();
         return 0;
     }
     
-    public int getSiqmaTF(String term) {
+    public double getSiqmaTF(String term) {
         term = term.toLowerCase();
         int sum = 0;
         for (DocumentTermEntry d : _index.get(term).values()) 
-            sum += d.getTf();                                                     // .getFrequency() ??
+            sum += d.getFrequency();
         return sum;
     }
     
@@ -89,7 +91,7 @@ public class InvertedIndex {
     public InvertedIndex ApplyTF_IDF(){
         for (Map<Integer, DocumentTermEntry> m : _index.values())
             for (DocumentTermEntry d : m.values())
-                d.setTfIDF( d.getTf() / d.getDocumentMaxTf() * Math.log( getCountOfDocuments() / m.size() ) );
+                d.setTfIDF( d.getFrequency() / d.getDocumentMaxTf() * Math.log( getCountOfDocuments() / m.size() ) );
         return this;
     }
 }
