@@ -1,11 +1,17 @@
 package finalir;
 
 import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.util.Pair;
 import finalir.DataStructure.*;
+import static finalir.IR.Print;
 import static finalir.IR.Print;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
 
 public class Google{
 
@@ -28,7 +34,7 @@ public class Google{
     
     private static int id = 0;
     public Google IndexText(String t){
-        indexing("NotFile" + id++, toky.getTokens(t));
+        indexing("NotFile" + ++id, toky.getTokens(t));
         return this;
     }
     
@@ -59,26 +65,26 @@ public class Google{
     
     
         
-    public List<DocumentTermEntry> SearchQuery(String query){
+    public List<DocumentResult> SearchQuery(String query){
         
-        // to-do later: complete this method
-        // first, parse the query and execute
-        //
+        query = query.toLowerCase();
         
+        List<DocumentTermEntry> r = new ArrayList<>();
+
         for (CoreLabel w : toky.getTokens(query))
-            return searcher.search(w.lemma());
-        return null;
+            r = searcher.SearchOr(w.lemma(), r);
+        
+        return searcher.ranking(Document.convert(r), convertQueryToVector(toky.getTokens(query)));
     }
-    
     
     public static void Pizza(){
         
         Google indx = new Google()
-            .IndexText("the sun is yellow and the sky it is blue, the weather is wonderful sun blue blue very blue")
-            .IndexText("the sun is yellow and very blue")
+            .IndexText("the sun is yellow and the sky it is blue, the weather is wonderful sun green blue very white")
+            .IndexText("the sun is yellow and very blue, not sky red eye")
             .IndexText("get your eyes over here wonderfully")
             .IndexText("this is the project to solve your information retrivel problems, enjoy it and have a good day")
-            .IndexText("the sun is not yellow and the sky isn't realy blue red red red, the end")
+            .IndexText("the sun is not yellow and the sky isn't realy red red red, the end eye")
             .ComputeTF_IDF();
         
         
@@ -112,9 +118,16 @@ public class Google{
         Print(indx.searcher.SearchNot("sun","red").size());
         Print(indx.searcher.SearchAnd("sky","blue").size());
         Print(indx.searcher.SearchNot(indx.searcher.SearchAnd("sky","blue"), "red").size());
+        Print(" ---- 3 ---- ");
         Print(indx.searcher.SearchAnd("sky",indx.searcher.SearchAnd("red", "yellow")).size());
         Print(indx.searcher.SearchAnd("sky",indx.searcher.SearchAnd("red", indx.searcher.SearchAnd("eye", "yellow"))).size());
+        Print(indx.searcher.SearchAnd("sky", "red", "yellow").size());
+        Print(indx.searcher.SearchAnd("sky", "blue","sun", "yellow").size());
+        Print(indx.searcher.SearchAnd("boy", "blue","sun", "yellow").size());
+        Print(indx.searcher.SearchOr ("sky", "blue","sun", "yellow").size());
+        Print(indx.searcher.SearchOr ("red", "problem").size());
         
+        Print(" ---- 4 ---- ");
         Print(indx.searcher.SearchNear(2,"sky","blue").size());
         Print(indx.searcher.SearchNear(1,"sky","eye").size());
         
@@ -124,30 +137,50 @@ public class Google{
         Print(indx.searcher.SearchNear(1,"sky","realy","blue","red","red","red","end").size());
         Print(indx.searcher.SearchNear(1,"sky","realy","red","red","red","end").size());
         
-        for (int i = 0; i < 10*1000*1000; i++) 
-            indx.searcher.search("sun");
         
-        IR.Print("" + st.Stop().GetMilisec());
+        IR.Print(""+ st.Stop().GetMilisec());
+        for(;;)
+            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in).nextLine()))
+                Print(d.getDocument().getName() + " --> " + d.getRank());
     }
      
-//    void indexingQuery(List<CoreLabel> tokens) {
-//        for (int j = 0; j < query.length; j++)
-//            query[j] = (float) ((0.5 + 0.5 * (query[j] / maxFrequencyInQuery)) * (Math.log(Documents.size() / dfi[j])));
-//    }
-//
-//    List<String> match(String similarityFunction) {
-//        result.clear();
-//        for (int i = 0; i < Documents.size(); i++) 
-//        {
-//            float sim = 0;
-//            if (similarityFunction == "cos")
-//                sim = cosine(query, vectors[i]);
-//            else if (similarityFunction == "inner")
-//                sim = dot(query, vectors[i]);
-//
-//            result.put(sim, Documents.get(i));
-//        }
-//
-//        return result;
-//    }
+    
+    private List<QueryTerm> convertQueryToVector(List<CoreLabel> tokens) {   
+       List<QueryTerm> query = new ArrayList<>();
+
+       double max = (1.0 / tokens.size());
+       
+       for (CoreLabel c : tokens)
+       {
+           boolean found = false;
+           for (QueryTerm p : query)
+           {
+               if(p.term.equals(c.lemma()))
+               {
+                   p.value += (1.0 / tokens.size());
+                   if(p.value > max)
+                       max = p.value;
+                   found = true;
+                   break;
+               }
+           }
+           if(found == false)
+             query.add(new QueryTerm(c.lemma(), (1.0 / tokens.size())));
+       }
+       
+        for (int j = 0; j < query.size(); j++)
+            query.get(j).value = ((0.5 + 0.5 * query.get(j).value / max) * 
+                    (Math.log(index.getCountOfDocuments() / index.getDF(query.get(j).term))));
+        
+        return query;
+    }
+}
+
+class QueryTerm {
+    public String term;
+    public double value;
+    public QueryTerm(String t,double v) {
+        term = t;
+        value = v;
+    }
 }

@@ -1,5 +1,6 @@
 package finalir;
 
+import finalir.DataStructure.DocumentResult;
 import static finalir.IR.Print;
 import java.io.*;
 import java.util.*;
@@ -7,6 +8,10 @@ import javax.swing.JFileChooser;
 
 public class IR {
 
+    public static void PrintR(String str){
+        System.out.print(str);
+    }
+    
     public static void Print(String str) {
         System.out.println(str);
     }
@@ -33,15 +38,22 @@ public class IR {
         
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        //Google.Pizza();
+        Google.Pizza();
         Google g = new Google().IndexFiles(getFiles()).ComputeTF_IDF();
         
         String query;
+        List<DocumentResult> res;
         do
         {
-            Print("google: ");
-            Print(g.SearchQuery(query = new Scanner(System.in).next()).size());
-        }while(!query.toLowerCase().equals("x"));
+            PrintR("google: ");
+            res = g.SearchQuery(query = new Scanner(System.in).nextLine());
+            
+            if(res.size() == 0)
+                Print("nothing found");
+            
+            for (DocumentResult d : res)
+                Print(d.getDocument().getName() + " -> " + d.getRank());
+        } while(!query.toLowerCase().equals("x"));
         
 //        indexer.indexingQuery(tokenizer.getTokens(Queri));
 //        indexer.match("cos");
