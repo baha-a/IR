@@ -6,7 +6,6 @@ import static finalir.IR.Print;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
@@ -16,11 +15,12 @@ public class Engine{
     Tokenizer toky;
     InvertedIndex index;
     Searcher searcher;
-    
+    Cache cache;
     public Engine(){
         toky = new Tokenizer();
         index = new InvertedIndex();
         searcher = new Searcher(index);
+        cache = new Cache();
     }
     
     private void indexing(String name,List<CoreLabel> words){
@@ -28,6 +28,8 @@ public class Engine{
         int postion = 0;
         for (CoreLabel w : words)
             index.AddTerm(w.lemma(), d, postion++ , w.beginPosition(), TermType.Text);
+        
+        cache.clear();
     }
     
     private static int id = 0;
@@ -63,9 +65,12 @@ public class Engine{
     
     
         
-    public List<DocumentResult> SearchQuery(String query) {
+    public List<DocumentResult> SearchQuery(String q) {
         
-        query = query.toLowerCase();
+        String query = q.toLowerCase();
+        
+        if(cache.check(query))
+            return cache.get(query);
         
         for (CoreLabel w : toky.getTokens(query))
             for(String s : WordNet.getSynonyms(w.lemma()))
@@ -80,10 +85,12 @@ public class Engine{
         res.sort(new Comparator<DocumentResult>() {
             @Override
             public int compare(DocumentResult d1, DocumentResult d2) {
-                if(d1.getRank() > d2.getRank()) return 1;
-                else if(d1.getRank() < d2.getRank()) return -1;
+                if(d1.getRank() < d2.getRank()) return 1;
+                else if(d1.getRank() > d2.getRank()) return -1;
                 return 0;
             }});
+        
+        cache.save(q, res);
         return res;
     }
     
@@ -166,7 +173,7 @@ public class Engine{
         Print(indx.searcher.SearchNear(1,"sky","realy","red","red","red","end").size());
         
         
-        IR.Print(""+ st.Stop().GetMilisec());
+        Print(""+ st.Stop().GetMilisec());
         for(int i = 0; i < 10; i++)
             for (DocumentResult d : indx.SearchQuery(new Scanner(System.in).nextLine()))
                 Print(d.getDocument().getName() + " --> " + d.getRank());
