@@ -5,6 +5,7 @@ import static java.lang.Math.sqrt;
 import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.TreeMap;
 
 public class Searcher {
     
@@ -165,8 +166,11 @@ public class Searcher {
         return multiwordsSearch(terms, (x, y, z)-> { return Near(x, y, z); }, target);
     }
     
+    public List<DocumentTermEntry> SearchNear(int target, String term2, List<DocumentTermEntry> d){   // make this private
+        return Near(d, search(term2), target);
+    }
 
-    
+	
     public static List<Document> convertDocument(List<DocumentTermEntry> t){
         List<Document> docs = new ArrayList<>();
         t.forEach(d -> docs.add(d.getDocument()));
@@ -177,7 +181,7 @@ public class Searcher {
         
     public List<DocumentResult> ranking(List<Document> list, List<QueryTerm> query) {
         List<DocumentResult> result = new ArrayList<>();
-        
+        double c ;
         for (Document d : list)
             result.add(new DocumentResult(d, cosine(d,query)));
         return result;
@@ -187,17 +191,22 @@ public class Searcher {
     private double cosine(Document d, List<QueryTerm> v2) {
         double[] q1 = new double[v2.size()];
         double[] q2 = new double[v2.size()];
+        
+        
+        double[] q3 = d.getTfIdfVector();
+
         for (int i = 0; i < q1.length; i++) {
             q2[i] = v2.get(i).value;
             
             if(d.Contains(v2.get(i).term))
                 q1[i] = d.getDocTermEntry(v2.get(i).term).getTfIDF();
         }
-        return cosine(q1,q2);
+        
+        return cosine(q1,q2,q3);
     }
     
-    private double cosine(double[] v1, double[] v2) {
-        double t = normF(v1) * normF(v2);
+    private double cosine(double[] v1, double[] v2,double[] v11) {
+        double t = normF(v11) * normF(v2);
         if (t <= 0)
             return 0;
         return dot(v1, v2) / t;

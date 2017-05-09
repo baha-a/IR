@@ -38,8 +38,8 @@ public class IR {
         
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        Google.Pizza();
-        Google g = new Google().IndexFiles(getFiles()).ComputeTF_IDF();
+        Engine.Pizza();
+        Engine g = new Engine().IndexFiles(getFiles()).ComputeTF_IDF();
         
         String query;
         List<DocumentResult> res;
@@ -54,9 +54,5 @@ public class IR {
             for (DocumentResult d : res)
                 Print(d.getDocument().getName() + " -> " + d.getRank());
         } while(!query.toLowerCase().equals("x"));
-        
-//        indexer.indexingQuery(tokenizer.getTokens(Queri));
-//        indexer.match("cos");
-//        indexer.match("inner");
     }
 }
