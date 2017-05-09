@@ -54,9 +54,9 @@ public class DocumentTermEntry {
             document.setMaxTF(observation.size());
     }
     
-//    public int getTf(){
-//        return observation.size();
-//    }
+    public double getTf(){
+        return observation.size();
+    }
     
     public double getFrequency(){
         return observation.size() * (1.0 / document.getLength());

@@ -1,5 +1,6 @@
 package finalir.DataStructure;
 
+import static java.lang.Math.sqrt;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -60,8 +61,16 @@ public class Document {
         return maxTF;
     }
     
+    public double[] getTfIdfVector(){
+        double[] v = new double[docTermEntry.size()];
+        int i = 0;
+        for (DocumentTermEntry d : docTermEntry.values()) {
+            v[i++] = d.getTfIDF();
+        }
+        return v;
+    }
     
-        
+
     public int compareWith(Document d){
         return Math.abs(id - d.id);
     }

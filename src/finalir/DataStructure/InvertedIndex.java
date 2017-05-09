@@ -1,5 +1,6 @@
 package finalir.DataStructure;
 
+import static finalir.IR.PrintErr;
 import java.util.*;
 
 public class InvertedIndex {
@@ -15,6 +16,10 @@ public class InvertedIndex {
     
     public Document GetDoc(int id){
         return _docs.get(id);
+    }
+    
+    public boolean Contains(String trm){
+        return _index.containsKey(trm);
     }
     
     public int getTermCount() {
@@ -42,22 +47,22 @@ public class InvertedIndex {
     public int getDF(String term){
         term = term.toLowerCase();
         if(_index.get(term) == null)
-            return 1;
+            return 0;
         return _index.get(term).size();
     }
     
     public double getTF(String term, Document doc) {
         term = term.toLowerCase();
         if(_index.containsKey(term) && _index.get(term).containsKey(doc.getId()))
-            return _index.get(term).get(doc.getId()).getFrequency();
+            return _index.get(term).get(doc.getId()).getTf();
         return 0;
     }
     
     public double getSiqmaTF(String term) {
         term = term.toLowerCase();
-        int sum = 0;
+        double sum = 0;
         for (DocumentTermEntry d : _index.get(term).values()) 
-            sum += d.getFrequency();
+            sum += d.getTf();
         return sum;
     }
     
@@ -90,8 +95,9 @@ public class InvertedIndex {
     
     public InvertedIndex ApplyTF_IDF(){
         for (Map<Integer, DocumentTermEntry> m : _index.values())
-            for (DocumentTermEntry d : m.values())
-                d.setTfIDF( d.getFrequency() / d.getDocumentMaxTf() * Math.log( getCountOfDocuments() / m.size() ) );
+            for (DocumentTermEntry d : m.values()){
+                d.setTfIDF( (d.getTf() / d.getDocumentMaxTf()) * Math.log( getCountOfDocuments() * 1.0 / m.size() ) );
+            }
         return this;
     }
 }
