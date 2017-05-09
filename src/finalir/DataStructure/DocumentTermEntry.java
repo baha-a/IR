@@ -55,7 +55,10 @@ public class DocumentTermEntry {
     }
     
     public double getTf(){
-        return observation.size();
+        double d = 0.0;
+        for (Observation b : observation)
+            d += b.getTypeWeight();
+        return d;
     }
     
     public double getFrequency(){

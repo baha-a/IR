@@ -9,18 +9,21 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
+import org.apache.tika.Tika;
+import org.apache.tika.exception.TikaException;
 
 public class Engine{
 
     Tokenizer toky;
     InvertedIndex index;
     Searcher searcher;
-    Cache cache;
+    Cache<DocumentResult> cache;
+    
     public Engine(){
         toky = new Tokenizer();
         index = new InvertedIndex();
         searcher = new Searcher(index);
-        cache = new Cache();
+        cache = new Cache<>();
     }
     
     private void indexing(String name,List<CoreLabel> words){
@@ -38,12 +41,12 @@ public class Engine{
         return this;
     }
     
-    public Engine IndexFile(File f) throws IOException{
-        indexing(f.getName(), toky.getTokens(f));
+    public Engine IndexFile(File f) throws IOException, TikaException{
+        indexing(f.getName(), toky.getTokens(new Tika().parseToString(f)));
         return this;
     }
     
-    public Engine IndexFiles(File[] files) throws IOException{
+    public Engine IndexFiles(File[] files) throws IOException, TikaException{
         int i = 0;
         for (File f : files){
             IndexFile(f);
@@ -99,7 +102,7 @@ public class Engine{
                 return 0;
             }});
         
-        cache.save(q, res);        
+        cache.save(q, res);
         return res;
     }
     
@@ -218,14 +221,5 @@ public class Engine{
                     (Math.log(index.getCountOfDocuments() * 1.0 / index.getDF(query.get(j).term))));
         }
         return query;
-    }
-}
-
-class QueryTerm {
-    public String term;
-    public double value;
-    public QueryTerm(String t,double v) {
-        term = t;
-        value = v;
     }
 }

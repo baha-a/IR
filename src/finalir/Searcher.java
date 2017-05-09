@@ -2,10 +2,8 @@ package finalir;
 
 import finalir.DataStructure.*;
 import static java.lang.Math.sqrt;
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.TreeMap;
 
 public class Searcher {
     
@@ -134,39 +132,39 @@ public class Searcher {
     
     
     
-    public List<DocumentTermEntry> SearchOr(String... terms){                   // make this private
+    public List<DocumentTermEntry> SearchOr(String... terms){
         return multiwordsSearch(terms, (x,y,z) -> { return Or(x, y); });
     }
     
-    public List<DocumentTermEntry> SearchOr(String term1,List<DocumentTermEntry> d){      // make this private
+    public List<DocumentTermEntry> SearchOr(String term1,List<DocumentTermEntry> d){
         return Or(search(term1), d);
     }
     
-    public List<DocumentTermEntry> SearchAnd(String... terms){                   // make this private
+    public List<DocumentTermEntry> SearchAnd(String... terms){
         return multiwordsSearch(terms, (x,y,z) -> { return And(x, y); });
     }
     
-    public List<DocumentTermEntry> SearchAnd(String term1,List<DocumentTermEntry> d){       // make this private
+    public List<DocumentTermEntry> SearchAnd(String term1,List<DocumentTermEntry> d){
         return And(search(term1),d);
     }
     
-    public List<DocumentTermEntry> SearchNot(String term1,String term2){                    // make this private
+    public List<DocumentTermEntry> SearchNot(String term1,String term2){
         return Not(search(term1),search(term2));
     }
     
-    public List<DocumentTermEntry> SearchNot(String term1,List<DocumentTermEntry> d){       // make this private
+    public List<DocumentTermEntry> SearchNot(String term1,List<DocumentTermEntry> d){
         return Not(search(term1),d);
     }
     
-    public List<DocumentTermEntry> SearchNot(List<DocumentTermEntry> d,String term2){       // make this private
+    public List<DocumentTermEntry> SearchNot(List<DocumentTermEntry> d,String term2){
         return Not(d, search(term2));
     }
     
-    public List<DocumentTermEntry> SearchNear(int target, String... terms){                 // make this private
+    public List<DocumentTermEntry> SearchNear(int target, String... terms){
         return multiwordsSearch(terms, (x, y, z)-> { return Near(x, y, z); }, target);
     }
     
-    public List<DocumentTermEntry> SearchNear(int target, String term2, List<DocumentTermEntry> d){   // make this private
+    public List<DocumentTermEntry> SearchNear(int target, String term2, List<DocumentTermEntry> d){
         return Near(d, search(term2), target);
     }
 
@@ -181,7 +179,6 @@ public class Searcher {
         
     public List<DocumentResult> ranking(List<Document> list, List<QueryTerm> query) {
         List<DocumentResult> result = new ArrayList<>();
-        double c ;
         for (Document d : list)
             result.add(new DocumentResult(d, cosine(d,query)));
         return result;
@@ -189,20 +186,17 @@ public class Searcher {
     
     
     private double cosine(Document d, List<QueryTerm> v2) {
-        double[] q1 = new double[v2.size()];
-        double[] q2 = new double[v2.size()];
-        
-        
-        double[] q3 = d.getTfIdfVector();
+        double[] dV = new double[v2.size()];
+        double[] qV = new double[v2.size()];
 
-        for (int i = 0; i < q1.length; i++) {
-            q2[i] = v2.get(i).value;
+        for (int i = 0; i < dV.length; i++) {
+            qV[i] = v2.get(i).value;
             
             if(d.Contains(v2.get(i).term))
-                q1[i] = d.getDocTermEntry(v2.get(i).term).getTfIDF();
+                dV[i] = d.getDocTermEntry(v2.get(i).term).getTfIDF();
         }
         
-        return cosine(q1,q2,q3);
+        return cosine(dV, qV , d.getTfIdfVector());
     }
     
     private double cosine(double[] v1, double[] v2,double[] v11) {

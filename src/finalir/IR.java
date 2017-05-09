@@ -5,6 +5,7 @@ import static finalir.IR.Print;
 import java.io.*;
 import java.util.*;
 import javax.swing.JFileChooser;
+import org.apache.tika.exception.TikaException;
 
 public class IR {
 
@@ -36,29 +37,26 @@ public class IR {
         return files;
     }
         
-    public static void main(String[] args) throws FileNotFoundException, IOException {
+    public static void main(String[] args) throws FileNotFoundException, IOException, TikaException {
         
         //Engine.Pizza();
         Engine g = new Engine().IndexFiles(getFiles()).ComputeTF_IDF();
         
-        String query;
+        String query = "";
         List<DocumentResult> res;
-        int top;
-        do
-        {
-            PrintR("google: ");
+        
+        for(int top = 10; !query.toLowerCase().equals("x"); top = 10){
+            PrintR("Query: ");
             res = g.SearchQuery(query = new Scanner(System.in).nextLine());
             
-            if(res.size() == 0)
+            if(res.isEmpty())
                 Print("nothing found");
             
-            top = 10;
-            for (DocumentResult d : res)
-            {
+            for (DocumentResult d : res) {
                 if(top-- == 0)
                     break;
                 Print(d.getDocument().getName() + " -> " + d.getRank());
             }
-        } while(!query.toLowerCase().equals("x"));
+        }
     }
 }
