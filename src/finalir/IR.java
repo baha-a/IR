@@ -38,11 +38,12 @@ public class IR {
         
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        Engine.Pizza();
+        //Engine.Pizza();
         Engine g = new Engine().IndexFiles(getFiles()).ComputeTF_IDF();
         
         String query;
         List<DocumentResult> res;
+        int top;
         do
         {
             PrintR("google: ");
@@ -51,8 +52,13 @@ public class IR {
             if(res.size() == 0)
                 Print("nothing found");
             
+            top = 10;
             for (DocumentResult d : res)
+            {
+                if(top-- == 0)
+                    break;
                 Print(d.getDocument().getName() + " -> " + d.getRank());
+            }
         } while(!query.toLowerCase().equals("x"));
     }
 }

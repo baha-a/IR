@@ -6,22 +6,28 @@ public class Stopwatch {
     private long duration;
     private long totalSum;
     private boolean started = false;
+    private long memoryUsage;
     
     public Stopwatch Start(){
         started = true;
         time = System.currentTimeMillis();
+        
+        memoryUsage = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
         return this;
     }
     
     public Stopwatch Stop(){
         if(started == true)
+        {
             duration += System.currentTimeMillis() - time;
+            memoryUsage = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory() - memoryUsage;
+        }
         started = false;
         return this;
     }
     
     public Stopwatch Reset(){
-        duration = time = 0;
+        duration = time = memoryUsage = 0;
         return this;
     }
     
@@ -44,6 +50,9 @@ public class Stopwatch {
         return totalSum;
     }
     
+    public long GetMemoryUsage(){
+        return memoryUsage;
+    }
      
     public long GetMilisec(){
         if(started)

@@ -64,8 +64,17 @@ public class Engine{
     
     
     
-        
     public List<DocumentResult> SearchQuery(String q) {
+        Stopwatch st = new Stopwatch().Start();
+        
+        List<DocumentResult> res = SearchQuery2(q);
+        
+        st.Stop();
+        Print(" TIME : " + st.GetMilisec() + " msec     RAM  : " + (st.GetMemoryUsage()/1024) + " Kbyte");
+        return res;
+    }
+    
+    public List<DocumentResult> SearchQuery2(String q) {
         
         String query = q.toLowerCase();
         
@@ -90,7 +99,7 @@ public class Engine{
                 return 0;
             }});
         
-        cache.save(q, res);
+        cache.save(q, res);        
         return res;
     }
     
@@ -113,7 +122,7 @@ public class Engine{
     }
     
     public static void Pizza(){
-        
+    
         Engine indx = new Engine()
             .IndexText("the sun is yellow and the  sky it is blue, the weather is wonderful sun green blue very white")
             .IndexText("the sun is yellow and very blue, not sky red eye")
@@ -134,8 +143,6 @@ public class Engine{
 
         Print("Stopwrods removed: \t"     + indx.toky.getRemovedWordsCount());
         
-        
-        Stopwatch st = new Stopwatch().Start();
         
         
         Print(" ---- 1 ---- ");
@@ -173,7 +180,7 @@ public class Engine{
         Print(indx.searcher.SearchNear(1,"sky","realy","red","red","red","end").size());
         
         
-        Print(""+ st.Stop().GetMilisec());
+        Print("Enter query:");
         for(int i = 0; i < 10; i++)
             for (DocumentResult d : indx.SearchQuery(new Scanner(System.in).nextLine()))
                 Print(d.getDocument().getName() + " --> " + d.getRank());
