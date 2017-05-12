@@ -26,6 +26,7 @@ public class IR {
         System.err.println(str);
     }
     
+    
     public static File[] getFiles() {    
         final JFileChooser chooser = new JFileChooser(new File("src\\finalir\\testCases"));
         chooser.setMultiSelectionEnabled(true);
@@ -36,29 +37,30 @@ public class IR {
             files = chooser.getSelectedFiles();
         }
         return files;
-    }
-        
-    public static void main(String[] args) throws FileNotFoundException, IOException, TikaException {
+    }    
+    
+    public static void main(String[] args) throws FileNotFoundException, IOException, TikaException, Exception {
+        //Engine.Pizza();
         MAIN();
     }
         
-    public static void MAIN() throws FileNotFoundException, IOException, TikaException {
+    public static void MAIN() throws FileNotFoundException, IOException, TikaException, Exception {
+        
         try  { UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName()); } catch (Exception ex) { }
 
-        
         //Engine.Pizza();
         Engine g = new Engine().IndexFiles(getFiles()).ComputeTF_IDF();
         JazzySpellChecker speller = new JazzySpellChecker();
         
         String query = "";
         List<DocumentResult> res;
-        
+     
         for(int top; !query.equals("x");){
             
             top = 10;
             
             PrintR("Query: ");
-            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase());
+            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase(),false);
             
             if(speller.HasError(query))
                 PrintR("Did you mean: " + speller.getCorrectedLine(query));
@@ -77,5 +79,13 @@ public class IR {
                 Print(d.getDocument().getName() + " -> " + d.getRank());
             }
         }
+
+//        new PrintWriter("C:\\json.txt").write(
+//                new ObjectMapper()
+//                .writer()
+//                .writeValueAsString(g));
+        
+        
+        //System.out.println(new Gson().toJson(g));
     }
 }

@@ -6,6 +6,7 @@ import java.util.Map;
 
 public class Cache <T>{
     private Map<String,List<T>> memory;
+
     public Cache(){
         memory = new HashMap<>();
     }

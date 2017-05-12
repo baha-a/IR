@@ -14,12 +14,11 @@ public class Searcher {
     }
     
     
-    
-    private List<DocumentTermEntry> Or(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2){
+    public List<DocumentTermEntry> Or(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2){
         return Or(c1,c2,0);
     }
     
-    private List<DocumentTermEntry> Or(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2,int target){
+    public List<DocumentTermEntry> Or(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2,int target){
         List<DocumentTermEntry> union = new ArrayList<>(c1);
         
         for (DocumentTermEntry d : c2)
@@ -38,11 +37,11 @@ public class Searcher {
     
     
     
-    private List<DocumentTermEntry> And(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2){
+    public List<DocumentTermEntry> And(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2){
         return And(c1,c2,0);
     }
 
-    private List<DocumentTermEntry> And(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2,int target){
+    public List<DocumentTermEntry> And(List<DocumentTermEntry> c1,List<DocumentTermEntry> c2,int target){
         
         List<DocumentTermEntry> intersection = new ArrayList<>();
         
@@ -67,7 +66,7 @@ public class Searcher {
     
     
     
-    private List<DocumentTermEntry> Near(List<DocumentTermEntry> c1, List<DocumentTermEntry> c2,int target){
+    public  List<DocumentTermEntry> Near(List<DocumentTermEntry> c1, List<DocumentTermEntry> c2,int target){
         
         List<DocumentTermEntry> near = new ArrayList<>();
         
@@ -93,7 +92,7 @@ public class Searcher {
     
     
     
-    private List<DocumentTermEntry> Not(List<DocumentTermEntry> c1, List<DocumentTermEntry> c2){
+    public List<DocumentTermEntry> Not(List<DocumentTermEntry> c1, List<DocumentTermEntry> c2){
         
         List<DocumentTermEntry> not = new ArrayList<>();
         
@@ -141,9 +140,13 @@ public class Searcher {
     }
     
     public List<DocumentTermEntry> SearchAnd(String... terms){
-        return multiwordsSearch(terms, (x,y,z) -> { return And(x, y); });
+        return multiwordsSearch(selectSmallestDFfirst(terms), (x,y,z) -> { return And(x, y); });
     }
     
+    public List<DocumentTermEntry> SearchAnd2(String... terms){
+        return multiwordsSearch(terms, (x,y,z) -> { return And(x, y); });
+    }
+        
     public List<DocumentTermEntry> SearchAnd(String term1,List<DocumentTermEntry> d){
         return And(search(term1),d);
     }
@@ -174,7 +177,7 @@ public class Searcher {
         t.forEach(d -> docs.add(d.getDocument()));
         return docs;
     }
-    
+ 
  
         
     public List<DocumentResult> ranking(List<Document> list, List<QueryTerm> query) {
@@ -219,5 +222,26 @@ public class Searcher {
             score += v1[i] * v2[i];
         
         return score;
+    }
+    
+    
+     
+    private String[] selectSmallestDFfirst(String... terms){
+        int indx = 0;
+        int min = Integer.MAX_VALUE;
+        
+        for (int i = 0; i < terms.length; i++)
+            if(min > index.getDF(terms[i])){
+                min = index.getDF(terms[i]);
+                indx = i;
+            }
+        
+        if(indx > 0){
+            String tmp = terms[0];
+            terms[0] = terms[indx];
+            terms[indx] = tmp;
+        }
+        
+        return terms;
     }
 }

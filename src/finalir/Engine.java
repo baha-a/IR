@@ -20,7 +20,7 @@ public class Engine{
     Autocomplete completer;
     
     public Engine(){
-        toky = new Tokenizer();
+        toky = new Tokenizer(true);
         index = new InvertedIndex();
         searcher = new Searcher(index);
         cache = new Cache<>();
@@ -68,17 +68,17 @@ public class Engine{
     
     
     
-    public List<DocumentResult> SearchQuery(String q) {
+    public List<DocumentResult> SearchQuery(String q,boolean advanceSearch) {
         Stopwatch st = new Stopwatch().Start();
         
-        List<DocumentResult> res = SearchQuery2(q);
+        List<DocumentResult> res = searchQuery2(q, advanceSearch);
         
         st.Stop();
         Print(" TIME : " + st.GetMilisec() + " msec     RAM  : " + (st.GetMemoryUsage()/1024) + " Kbyte");
         return res;
     }
     
-    public List<DocumentResult> SearchQuery2(String q) {
+    private List<DocumentResult> searchQuery2(String q,boolean advanceSearch) {
         
         String query = q = q.toLowerCase();
         
@@ -87,12 +87,19 @@ public class Engine{
         
         for (CoreLabel w : toky.getTokens(query))
             for(String s : WordNet.getSynonyms(w.lemma()))
-                    query += " " + s;
+            {
+                query += " " + s;
+                break;
+            }
         
         List<DocumentTermEntry> r = new ArrayList<>();
 
-        for (CoreLabel w : toky.getTokens(query))
-            r = searcher.SearchOr(w.lemma(), r);
+        if(advanceSearch)
+            r = ParseQuery(q);
+        else
+            for (CoreLabel w : toky.getTokens(query))
+                r = searcher.SearchOr(w.lemma(), r);
+        
         
         List<DocumentResult> res = searcher.ranking(Document.convert(r), convertQueryToVector(toky.getTokens(query)));
         res.sort((DocumentResult d1, DocumentResult d2) -> 
@@ -107,23 +114,77 @@ public class Engine{
         return res;
     }
     
-    public List<DocumentTermEntry> parseQuery(String[] q){  // incomplete
-        List<String> p = new ArrayList<>();
-        List<DocumentTermEntry> res = new ArrayList<>();
-        
-        for (int i = 0; i < q.length; i++) 
-        {
-            if(q.equals("and"))
-                res = searcher.SearchAnd(q[i+1], res);
-            else if(q.equals("not"))
-                res = searcher.SearchNot(q[i+1], res);
-            else if(q.equals("near"))
-                res = searcher.SearchNear(1,q[i+1], res);
-            else// if(q.equals("or"))
-                res = searcher.SearchOr(q[i+1], res);
-        }
-        return res;
+    public String[] tokinzing(String t){
+        List<String> res = new ArrayList<>();
+        toky.getTokens(t).forEach(x -> res.add(x.lemma()));
+        return res.toArray(new String[res.size()]);
     }
+    
+    private List<DocumentTermEntry> ParseQuery(String q){
+        
+        if(q.length() <= 1)
+            return new ArrayList<>();
+        q = q.trim();
+        
+        if(q.startsWith("\"") && q.endsWith("\""))
+            return searcher.SearchNear(1, tokinzing(q));
+        
+        int arc = 0;
+        boolean arcAppered = false;
+        String operator = "";
+
+        String leftWord = "";
+        String rightWord = "";
+
+        int i = 0;
+        for (; i < q.length(); i++) 
+        {
+            if(q.charAt(i) == '('){
+                if(arc != 0) leftWord += q.charAt(i);
+                arc++;
+                arcAppered = true;
+            }
+            else if(q.charAt(i) == ')'){
+                arc--;
+                if(arc != 0) leftWord += q.charAt(i);
+            }
+            else if(q.charAt(i) == ' ' || i == q.length()-1)
+            {
+                if(operator.equals("and") || operator.equals("or") || operator.equals("not"))
+                    break;
+                else
+                {    
+                    if(q.charAt(i) != ' ' && i == q.length()-1)
+                        leftWord += operator + q.charAt(i) + " ";
+                    else
+                        leftWord += operator + " ";
+                    operator = "";
+                }
+            }
+            else if(arc == 0)
+               operator += q.charAt(i);
+            else
+                leftWord += q.charAt(i);
+        }
+
+
+        if(arc == 0 && operator.isEmpty() && arcAppered)
+            return ParseQuery(q.substring(1, q.length()-1));
+        else if(arc == 0 && operator.isEmpty() && !arcAppered)
+            return searcher.SearchOr(tokinzing(leftWord));
+        else
+        {
+            if(i < q.length())
+                rightWord = q.substring(i+1);
+            
+            if(operator.equals("and"))
+                return searcher.And(ParseQuery(leftWord), ParseQuery(rightWord));
+            else if(operator.equals("not"))
+                return searcher.Not(ParseQuery(leftWord), ParseQuery(rightWord));    
+            return searcher.Or(ParseQuery(leftWord), ParseQuery(rightWord));
+        }
+    }
+    
     
     public List<String> getSuggestions(String s){
         return completer.suggest(s.toLowerCase());
@@ -191,7 +252,7 @@ public class Engine{
         
         Print("Enter query:");
         for(int i = 0; i < 10; i++)
-            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in).nextLine()))
+            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in).nextLine(),true))
                 Print(d.getDocument().getName() + " --> " + d.getRank());
     }
      

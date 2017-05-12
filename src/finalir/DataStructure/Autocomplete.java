@@ -11,7 +11,7 @@ public class Autocomplete {
     
     private int top = 10;
     private TreeSet<String> memory;   //  make this TreeMap<String, Integer>
-    
+        
     public Autocomplete(){
         memory = new TreeSet<>();
     }
@@ -30,7 +30,7 @@ public class Autocomplete {
         List<String> d = new ArrayList<>();
         
         int top2 = top;
-        for (String s : memory.tailSet(t)) {
+        for (String s : memory.tailSet(t,true)) {
             if(s.equals(t))
                 continue;
             d.add(s);
