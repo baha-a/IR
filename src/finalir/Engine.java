@@ -292,4 +292,8 @@ public class Engine{
         }
         return query;
     }
+    
+    public int getDocumentsCount(){
+        return index.getCountOfDocuments();
+    }
 }
