@@ -75,15 +75,18 @@ public class Engine{
         
         st.Stop();
         Print(" TIME : " + st.GetMilisec() + " msec     RAM  : " + (st.GetMemoryUsage()/1024) + " Kbyte");
+        lastTime = st.GetMilisec();
         return res;
     }
+    private long lastTime;
+    public long getLastTime(){ return lastTime;}
     
     private List<DocumentResult> searchQuery2(String q,boolean advanceSearch) {
         
         String query = q = q.toLowerCase();
         
-        if(cache.check(query))
-            return cache.get(query);
+        if(cache.check(q + advanceSearch))
+            return cache.get(q + advanceSearch);
         
         for (CoreLabel w : toky.getTokens(query))
             for(String s : WordNet.getSynonyms(w.lemma()))
@@ -109,7 +112,7 @@ public class Engine{
             return 0;
         });
         
-        cache.save(q, res);
+        cache.save(q + advanceSearch, res);
         completer.save(q);
         return res;
     }
@@ -180,7 +183,7 @@ public class Engine{
             if(operator.equals("and"))
                 return searcher.And(ParseQuery(leftWord), ParseQuery(rightWord));
             else if(operator.equals("not"))
-                return searcher.Not(ParseQuery(leftWord), ParseQuery(rightWord));    
+                return searcher.Not(ParseQuery(leftWord), ParseQuery(rightWord));
             return searcher.Or(ParseQuery(leftWord), ParseQuery(rightWord));
         }
     }

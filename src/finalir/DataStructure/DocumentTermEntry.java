@@ -77,4 +77,8 @@ public class DocumentTermEntry {
                     return target;
         return Integer.MAX_VALUE;
     }
+
+    public boolean equals(DocumentTermEntry b){
+        return document.getName().equals(b.document.getName());
+    }
 }

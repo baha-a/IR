@@ -96,10 +96,20 @@ public class Searcher {
         
         List<DocumentTermEntry> not = new ArrayList<>();
         
+        boolean found;
         for (DocumentTermEntry d : c1)
-            if(c2.contains(d) == false)
+        {
+            found = false;
+            for (DocumentTermEntry b : c2)
+                if(d.equals(b))
+                {
+                    found = true;
+                    break;
+                }
+            
+            if(found == false)
                 not.add(d);
-        
+        }
         return not;
     }
     

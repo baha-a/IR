@@ -60,7 +60,7 @@ public class IR {
             top = 10;
             
             PrintR("Query: ");
-            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase(),false);
+            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase(),true);
             
             if(speller.HasError(query))
                 PrintR("Did you mean: " + speller.getCorrectedLine(query));
