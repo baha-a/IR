@@ -1,9 +1,12 @@
-an analysis of base pressure at supersonic velocities andcomparison with experiment .
-
+.I 188
+.T
+an analysis of base pressure at supersonic velocities and
+comparison with experiment .
+.A
 chapman, dean r .
-
+.B
 naca report 1051
-
+.W
 an analysis of base pressure at supersonic velocities and
 comparison with experiment .
    in the first part of the investigation an analysis is made of

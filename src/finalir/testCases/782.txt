@@ -1,9 +1,12 @@
-calculated subsonic span loads and resulting stability derivatives ofunswept and 45degree sweptback tail surfaces in sideslip and steady roll .
-
+.I 782
+.T
+calculated subsonic span loads and resulting stability derivatives of
+unswept and 45degree sweptback tail surfaces in sideslip and steady roll .
+.A
 queiijo, m.j. and riley, d.r.
-
+.B
 naca, tn 3245, 1954 .
-
+.W
 calculated subsonic span loads and resulting stability derivatives of
 unswept and 45degree sweptback tail surfaces in sideslip and steady roll .
 subsonic span loads and the resulting stability derivatives have been

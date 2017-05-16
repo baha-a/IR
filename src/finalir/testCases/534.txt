@@ -1,9 +1,12 @@
-consideration of energy separation for laminar slipflow in a circular tube .
-
+.I 534
+.T
+consideration of energy separation for laminar slip
+flow in a circular tube .
+.A
 inman,r.m.
-
+.B
 j. ae. scs. 29, 1962, 1014.
-
+.W
 consideration of energy separation for laminar slip
 flow in a circular tube .
   the energy separation for laminar low-density-nonunity prandtl

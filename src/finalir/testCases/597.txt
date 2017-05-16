@@ -1,9 +1,12 @@
-measurements of pitching moment derivatives for blunt-nose aerofoilsoscillating in two-dimensional supersonic flow .
-
+.I 597
+.T
+measurements of pitching moment derivatives for blunt-nose aerofoils
+oscillating in two-dimensional supersonic flow .
+.A
 pugh, p.g. and woodgate, l.
-
+.B
 arc. 23, 012, 1961 .
-
+.W
 measurements of pitching moment derivatives for blunt-nose aerofoils
 oscillating in two-dimensional supersonic flow .
 direct pitching moment derivatives have been measured using the method

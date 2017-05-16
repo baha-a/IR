@@ -1,9 +1,11 @@
+.I 610
+.T
 corner interference effects .
-
+.A
 gersten,k.
-
+.B
 agard r.299, 1959.
-
+.W
 corner interference effects .
   the three-dimensional incompressible flow of fluid along the corner of
 two semi-infinite plates intersecting at right angles, especially the

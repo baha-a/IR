@@ -1,9 +1,12 @@
-discussion of solar proton events and manned spaceflights .
-
+.I 83
+.T
+discussion of solar proton events and manned space
+flights .
+.A
 anderson,k. and sinchtel,c.d.
-
+.B
 nasa tn.d671, 1961.
-
+.W
 discussion of solar proton events and manned space
 flights .
   as a result of studies made during the

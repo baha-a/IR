@@ -1,9 +1,12 @@
-linearised transonic flow about slender bodies at zeroangle of attack .
-
+.I 469
+.T
+linearised transonic flow about slender bodies at zero
+angle of attack .
+.A
 maeder,p.f. and thommen,h.u.
-
+.B
 asme trans. j.app.mech. 28, 1961.
-
+.W
 linearised transonic flow about slender bodies at zero
 angle of attack .
   the simple linearized transonic flow theory

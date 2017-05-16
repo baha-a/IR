@@ -1,9 +1,13 @@
-accuracy of approximate methods for predicting pressureon pointed non-lifting bodies of revolution in supersonicflow .
-
+.I 232
+.T
+accuracy of approximate methods for predicting pressure
+on pointed non-lifting bodies of revolution in supersonic
+flow .
+.A
 ehret,d.m.
-
+.B
 naca tn.2764.
-
+.W
 accuracy of approximate methods for predicting pressure
 on pointed non-lifting bodies of revolution in supersonic
 flow .

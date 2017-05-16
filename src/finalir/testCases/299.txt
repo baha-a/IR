@@ -1,9 +1,11 @@
+.I 299
+.T
 magnetohydrodynamic flow past a semi-infinite plate .
-
+.A
 meksyn,d.
-
+.B
 j. ae.scs. 29, 1962.
-
+.W
 magnetohydrodynamic flow past a semi-infinite plate .
   the flow of viscous electrically conducting fluid
 past a semi-infinite plate is considered .  the

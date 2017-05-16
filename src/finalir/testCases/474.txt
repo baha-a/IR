@@ -1,9 +1,10 @@
+.I 474
+.T
 laminar mixing of a compressible fluid .
-
+.A
 dean r. chapman
-
-
-
+.B
+.W
 laminar mixing of a compressible fluid .
 a theoretical investigation of the velocity profiles for laminar
 mixing of a high-velocity stream with a region of fluid at rest

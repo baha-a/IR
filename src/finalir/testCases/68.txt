@@ -1,9 +1,12 @@
-some aspects of air-helium simulation and hypersonicapproximations .
-
+.I 68
+.T
+some aspects of air-helium simulation and hypersonic
+approximations .
+.A
 love,e.s.
-
+.B
 nasa tn.d49, 1959.
-
+.W
 some aspects of air-helium simulation and hypersonic
 approximations .
   some illustrations of the differences that may be expected between

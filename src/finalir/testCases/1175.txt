@@ -1,9 +1,12 @@
-stresses from local loadings in cylindrical pressurevessels .
-
+.I 1175
+.T
+stresses from local loadings in cylindrical pressure
+vessels .
+.A
 bijlaard,p.p.
-
+.B
 asme trans. 77, 1953.
-
+.W
 stresses from local loadings in cylindrical pressure
 vessels .
   a short discussion is given of the possible methods for

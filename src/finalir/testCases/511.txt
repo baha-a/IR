@@ -1,9 +1,12 @@
-tunnel tests on a double cascade to determine the interactionbetween the rotor and the nozzles of a supersonic turbine .
-
+.I 511
+.T
+tunnel tests on a double cascade to determine the interaction
+between the rotor and the nozzles of a supersonic turbine .
+.A
 stratford,b.s.
-
+.B
 ngte m359.
-
+.W
 tunnel tests on a double cascade to determine the interaction
 between the rotor and the nozzles of a supersonic turbine .
   experimental confirmation has been required that in a supersonic

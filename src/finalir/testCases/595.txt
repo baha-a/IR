@@ -1,9 +1,11 @@
+.I 595
+.T
 the equilibrium piston technique for gun tunnel operation .
-
+.A
 east,r.a. and pennelegion,l.
-
+.B
 arc 22, 852, 1961.
-
+.W
 the equilibrium piston technique for gun tunnel operation .
   a modified technique for the operation of a gun tunnel is
 suggested based on experimental results .  if the piston mass and the

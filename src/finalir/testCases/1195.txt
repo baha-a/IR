@@ -1,9 +1,11 @@
+.I 1195
+.T
 experiments with two-dimensional, transversely impinging jets .
-
+.A
 dosanjh,d.s. and sheerlan,w.j.
-
+.B
 aiaa jnl. 1963, 1, 329.
-
+.W
 experiments with two-dimensional, transversely impinging jets .
   experiments on the interaction of transversely
 impinging two-dimensional jet flows were

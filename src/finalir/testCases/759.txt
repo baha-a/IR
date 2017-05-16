@@ -1,9 +1,13 @@
-stability investigation of a blunted cone and a bluntedogive with a flared cylinder afterbody at mach numbersfrom 0. 30 to 2. 85 .
-
+.I 759
+.T
+stability investigation of a blunted cone and a blunted
+ogive with a flared cylinder afterbody at mach numbers
+from 0. 30 to 2. 85 .
+.A
 coltrane,l.c.
-
+.B
 nasa tn.d1506, 1962.
-
+.W
 stability investigation of a blunted cone and a blunted
 ogive with a flared cylinder afterbody at mach numbers
 from 0. 30 to 2. 85 .

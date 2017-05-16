@@ -1,9 +1,12 @@
-calibration of the standard pitot-static head usedin the rae low speed wind tunnels .
-
+.I 904
+.T
+calibration of the standard pitot-static head used
+in the rae low speed wind tunnels .
+.A
 kettle,d.j.
-
+.B
 rae tech.memo 222, 1951.
-
+.W
 calibration of the standard pitot-static head used
 in the rae low speed wind tunnels .
   recent results of tests in the

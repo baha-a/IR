@@ -1,9 +1,12 @@
-a study of the simulation of flow with free stream mach number 1 in achoked wind tunnel .
-
+.I 1153
+.T
+a study of the simulation of flow with free stream mach number 1 in a
+choked wind tunnel .
+.A
 spreiter, j.r., smith, d.w. and hyett, b.j.
-
+.B
 nasa tr r-73, 1960 .
-
+.W
 a study of the simulation of flow with free stream mach number 1 in a
 choked wind tunnel .
 the degree to which experimental results obtained under choking

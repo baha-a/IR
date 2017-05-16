@@ -1,9 +1,12 @@
-an investigation of lifting effects on the intensityof sonic booms .
-
+.I 811
+.T
+an investigation of lifting effects on the intensity
+of sonic booms .
+.A
 morris,j.
-
+.B
 j. roy. aero. soc. 64, 1960, 610.
-
+.W
 an investigation of lifting effects on the intensity
 of sonic booms .
   this paper is a brief summary of

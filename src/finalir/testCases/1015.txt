@@ -1,9 +1,9 @@
+.I 1015
+.T
 principles of creep buckling weight-strength analysis .
-
-
-
-
-
+.A
+.B
+.W
 principles of creep buckling weight-strength analysis .
   the determination of column deflections and
 column buckling loads has been considered for

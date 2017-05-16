@@ -1,9 +1,13 @@
-the stability under axial compression and lateral pressureof circular cylindrical shells with a soft elasticcore .
-
+.I 1171
+.T
+the stability under axial compression and lateral pressure
+of circular cylindrical shells with a soft elastic
+core .
+.A
 seide,p.
-
+.B
 j. ae. scs. 1962.
-
+.W
 the stability under axial compression and lateral pressure
 of circular cylindrical shells with a soft elastic
 core .

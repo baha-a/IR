@@ -1,9 +1,13 @@
-stability of cylindrical and conical shells of circularcross section, with simultaneous action of axial compressionand external normal pressure .
-
+.I 934
+.T
+stability of cylindrical and conical shells of circular
+cross section, with simultaneous action of axial compression
+and external normal pressure .
+.A
 mushtari,k.m. and sachenkov,a.v.
-
+.B
 naca tm.1433, 1958.
-
+.W
 stability of cylindrical and conical shells of circular
 cross section, with simultaneous action of axial compression
 and external normal pressure .

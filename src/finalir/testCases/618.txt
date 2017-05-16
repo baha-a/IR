@@ -1,9 +1,11 @@
+.I 618
+.T
 orbit decay and prediction of the motion of artificial satellites .
-
+.A
 michielsen, h.f.
-
+.B
 advances in astronautical science, vol 4 plenum press 1959 . pp 255-310
-
+.W
 orbit decay and prediction of the motion of artificial satellites .
 the rate of decay of elliptic satellite orbits, due to atmospheric drag,
  is investigated through variation of parameters and through use of an

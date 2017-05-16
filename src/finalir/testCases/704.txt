@@ -1,9 +1,12 @@
-a systematic kernel function procedure for determining aerodynamicforces on oscillating or steady finite wings at subsonic speeds .
-
+.I 704
+.T
+a systematic kernel function procedure for determining aerodynamic
+forces on oscillating or steady finite wings at subsonic speeds .
+.A
 watkins, c.e., woolston, d.s. and cunningham, h.j.a.
-
+.B
 nasa tr r-48, 1959 .
-
+.W
 a systematic kernel function procedure for determining aerodynamic
 forces on oscillating or steady finite wings at subsonic speeds .
 a detailed description is given of a method of approximating solutions

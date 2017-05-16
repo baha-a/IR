@@ -1,9 +1,12 @@
-two dimensional transonic unsteady flow with shockwaves .
-
+.I 903
+.T
+two dimensional transonic unsteady flow with shock
+waves .
+.A
 eckhaus,w.
-
+.B
 m.i.t. fluid dynamics res. group r.59-3, 1959.
-
+.W
 two dimensional transonic unsteady flow with shock
 waves .
   a study is made of the unsteady flow around an

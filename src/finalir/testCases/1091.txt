@@ -1,9 +1,12 @@
-data from a static thrust investigation of a largescale general research vtol-stol model in ground effect .
-
+.I 1091
+.T
+data from a static thrust investigation of a large
+scale general research vtol-stol model in ground effect .
+.A
 huston,r.j. and winston,m.m.
-
+.B
 nasa tn.d397, 1960.
-
+.W
 data from a static thrust investigation of a large
 scale general research vtol-stol model in ground effect .
   the model was tested at two different elevations with the wing

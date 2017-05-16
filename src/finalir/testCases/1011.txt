@@ -1,9 +1,9 @@
+.I 1011
+.T
 free-flight measurements of the static and dynamic .
-
-
-
-
-
+.A
+.B
+.W
 free-flight measurements of the static and dynamic .
   charts have been prepared relating the thermodynamic properties of
 air in chemical equilibrium for temperatures to 15,000 k and for

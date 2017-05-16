@@ -1,9 +1,12 @@
-effects of jet billowing on stability of missile-typebodies at mach 3. 85 .
-
+.I 1350
+.T
+effects of jet billowing on stability of missile-type
+bodies at mach 3. 85 .
+.A
 salmi,r.j.
-
+.B
 nasa tn.d284, 1960.
-
+.W
 effects of jet billowing on stability of missile-type
 bodies at mach 3. 85 .
   the interference effects of a

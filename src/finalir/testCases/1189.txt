@@ -1,9 +1,11 @@
+.I 1189
+.T
 nonequilibrium flow past a wedge .
-
+.A
 capiaux,r. and washington,m.
-
+.B
 aiaa jnl. 1963, 1, 650.
-
+.W
 nonequilibrium flow past a wedge .
   an exact numerical solution is obtained for
 the chemically reacting flow past a wedge .  the

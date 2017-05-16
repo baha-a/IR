@@ -1,9 +1,11 @@
+.I 157
+.T
 the hodographic transformation in transonic flow .
-
+.A
 lighthill,m.j.
-
+.B
 proc. roy.s. a, 191, 1947, 323.
-
+.W
 the hodographic transformation in transonic flow .
   the author studies the problem of finding the shape of a
 symmetrical nozzle with the velocity along the axis (x-axis)

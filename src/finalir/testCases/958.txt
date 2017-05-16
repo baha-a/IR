@@ -1,9 +1,11 @@
+.I 958
+.T
 air scooping vehicle .
-
+.A
 berner,f. and camac,m.
-
+.B
 avco-everett res. lab. r.76, 1959.
-
+.W
 air scooping vehicle .
   a satellite vehicle is described
 which collects gases from the

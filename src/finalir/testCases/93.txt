@@ -1,9 +1,11 @@
+.I 93
+.T
 the supersonic blunt body problem - review and extensions .
-
+.A
 van dyke,m.d.
-
+.B
 j. ae. scs. 25, 1958, 485.
-
+.W
 the supersonic blunt body problem - review and extensions .
   a survey of existing analytical treatments of the supersonic or
 hypersonic blunt-body problem indicates that none is adequate

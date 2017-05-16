@@ -1,9 +1,12 @@
-the boundary layer near the stagnation point in hypersonicflow past a sphere .
-
+.I 328
+.T
+the boundary layer near the stagnation point in hypersonic
+flow past a sphere .
+.A
 herring,t.r.
-
+.B
 j. fluid mech. 7, 1960, 257.
-
+.W
 the boundary layer near the stagnation point in hypersonic
 flow past a sphere .
   flow properties behind shock waves caused by bluff bodies

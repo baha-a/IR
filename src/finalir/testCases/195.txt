@@ -1,9 +1,12 @@
-correlation of theoretical and photo-thermoelasticresults on thermal stresses in idealized wing structure .
-
+.I 195
+.T
+correlation of theoretical and photo-thermoelastic
+results on thermal stresses in idealized wing structure .
+.A
 tramposch,h. and gerard,g.
-
+.B
 j.app.mech. 27, 1960.
-
+.W
 correlation of theoretical and photo-thermoelastic
 results on thermal stresses in idealized wing structure .
 after a rather complete exploratory program

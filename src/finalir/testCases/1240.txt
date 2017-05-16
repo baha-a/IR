@@ -1,9 +1,13 @@
-nonsimilar solutions of the compressible laminar boundarylayer equations with applications to the upstream-transpirationcooling problem .
-
+.I 1240
+.T
+nonsimilar solutions of the compressible laminar boundary
+layer equations with applications to the upstream-transpiration
+cooling problem .
+.A
 pallone,a.
-
+.B
 j. ae. scs. 1961, 449.
-
+.W
 nonsimilar solutions of the compressible laminar boundary
 layer equations with applications to the upstream-transpiration
 cooling problem .

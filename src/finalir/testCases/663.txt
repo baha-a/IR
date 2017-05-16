@@ -1,9 +1,11 @@
+.I 663
+.T
 viscous flow along a flat plate moving at high speeds .
-
+.A
 kuo,y.h.
-
+.B
 j.ae.scs. 23, 1956, 125.
-
+.W
 viscous flow along a flat plate moving at high speeds .
   by the distortion of coordinates, it is shown that, in the case
 of supersonic viscous flow past a flat plate, the boundary-layer

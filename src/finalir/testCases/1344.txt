@@ -1,9 +1,13 @@
-atmospheric entries with vehicle lift-drag ratio modulatedto limit deceleration and rate of deceleration vehicleswith maximum lift-drag ratio of 0. 5.
-
+.I 1344
+.T
+atmospheric entries with vehicle lift-drag ratio modulated
+to limit deceleration and rate of deceleration vehicles
+with maximum lift-drag ratio of 0. 5.
+.A
 katzen,e.d. and levy,l.l.
-
+.B
 nasa tn.d1145, 1961.
-
+.W
 atmospheric entries with vehicle lift-drag ratio modulated
 to limit deceleration and rate of deceleration vehicles
 with maximum lift-drag ratio of 0. 5.

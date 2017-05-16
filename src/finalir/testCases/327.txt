@@ -1,9 +1,12 @@
-on local flat plate similarity in the hypersonic boundarylayer .
-
+.I 327
+.T
+on local flat plate similarity in the hypersonic boundary
+layer .
+.A
 moore,f.k.
-
+.B
 j. ae. scs. 28, 1961.
-
+.W
 on local flat plate similarity in the hypersonic boundary
 layer .
   a study is made of lees' /local flat-plate similarity/ rule for

@@ -1,9 +1,12 @@
-flutter of a two dimensional simply supported buckledpanel with elastic restraint against edge displacement .
-
+.I 894
+.T
+flutter of a two dimensional simply supported buckled
+panel with elastic restraint against edge displacement .
+.A
 smith,g.e.
-
+.B
 rae r. struct.269, 1961.
-
+.W
 flutter of a two dimensional simply supported buckled
 panel with elastic restraint against edge displacement .
   the critical flutter speed is evaluated for a two-dimensional thin

@@ -1,9 +1,12 @@
-factors affecting lift-drag ratios at mach numbersfrom 5 to 20 .
-
+.I 1188
+.T
+factors affecting lift-drag ratios at mach numbers
+from 5 to 20 .
+.A
 goebel,t.p. martin,j.j. and boyd,j.a.
-
+.B
 aiaa jnl. 1963, 640.
-
+.W
 factors affecting lift-drag ratios at mach numbers
 from 5 to 20 .
   yawed-cone working charts and an engineering

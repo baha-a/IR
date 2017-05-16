@@ -1,9 +1,12 @@
-the supersonic boom of a projectile related to dragand volume .
-
+.I 1247
+.T
+the supersonic boom of a projectile related to drag
+and volume .
+.A
 ryhming,i.l.
-
+.B
 j. ae. scs. 1961.
-
+.W
 the supersonic boom of a projectile related to drag
 and volume .
   the whitham theory predicting the far-flow field around a

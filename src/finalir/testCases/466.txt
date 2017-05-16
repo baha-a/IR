@@ -1,9 +1,11 @@
-development of the vapour screen method of flowvisualization in the 3ft tunnel at rae bedford.
-
+.I 466
+.T
+development of the vapour screen method of flow
+visualization in the 3ft tunnel at rae bedford.
+.A
 mcgregor,i.
-
-
-
+.B
+.W
 development of the vapour screen method of flow
 visualization in the 3ft tunnel at rae bedford.
   the vapour screen method of flow visualisation in supersonic wind

@@ -1,9 +1,9 @@
+.I 346
+.T
 measurements of turbulent friction on a smooth flat plate in supersonic .
-
-
-
-
-
+.A
+.B
+.W
 measurements of turbulent friction on a smooth flat plate in supersonic .
   direct measurements of supersonic local skin friction, using the
 floating-element technique, are presented for mach numbers from

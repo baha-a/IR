@@ -1,9 +1,12 @@
-pressure and boundary-layer measurements on a two dimensional wing atlow speed .
-
+.I 671
+.T
+pressure and boundary-layer measurements on a two dimensional wing at
+low speed .
+.A
 brebner, g.g. and bagley, j.a.
-
+.B
 a.r.c. r + m 2886, july, 1962 .
-
+.W
 pressure and boundary-layer measurements on a two dimensional wing at
 low speed .
 results are given of pressure measurements and boundary-layer traverses

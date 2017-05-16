@@ -1,9 +1,12 @@
-a geometric problem related to the optimum distributionof lift on a planar wing in supersonic flow .
-
+.I 561
+.T
+a geometric problem related to the optimum distribution
+of lift on a planar wing in supersonic flow .
+.A
 graham,e.w.
-
+.B
 j. ae. scs. 1958, 771.
-
+.W
 a geometric problem related to the optimum distribution
 of lift on a planar wing in supersonic flow .
   the problem studied may be regarded as a problem of

@@ -1,9 +1,12 @@
-design of thin walled torispherical and toriconicalpressure - vessel heads .
-
+.I 1136
+.T
+design of thin walled torispherical and toriconical
+pressure - vessel heads .
+.A
 shield,r.t. and drucker,d.c.
-
+.B
 j. app. mech. 28, 1961, 292.
-
+.W
 design of thin walled torispherical and toriconical
 pressure - vessel heads .
   the failure under hydrostatic test of a large storage vessel

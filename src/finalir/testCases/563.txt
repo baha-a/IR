@@ -1,9 +1,11 @@
+.I 563
+.T
 the law of the wake in the turbulent boundary layer .
-
+.A
 coles,d.
-
+.B
 j. fluid mech. 1, 1956,191.
-
+.W
 the law of the wake in the turbulent boundary layer .
   after an extensive survey of mean-velocity profile measurements
 in various two-dimensional incompressible turbulent

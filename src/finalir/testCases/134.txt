@@ -1,9 +1,13 @@
-note on an interaction between the boundary layer and the inviscidflow .
-
+.I 134
+.T
+note on an interaction between the boundary layer and the inviscid
+flow .
+.A
 antonio ferri and paul a. libby
-
-department of aeronautical engineering and applied mechanics,polytechnic institute of brooklyn, brooklyn, n.y.
-
+.B
+department of aeronautical engineering and applied mechanics,
+polytechnic institute of brooklyn, brooklyn, n.y.
+.W
 note on an interaction between the boundary layer and the inviscid
 flow .
 according to the classical boundary-layer theory the flow about bodies

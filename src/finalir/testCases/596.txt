@@ -1,9 +1,12 @@
-the properties of crossed flexure pivots, and the influence of thepoint at which the strips cross .
-
+.I 596
+.T
+the properties of crossed flexure pivots, and the influence of the
+point at which the strips cross .
+.A
 wittrick, w.h.
-
+.B
 aero. quart. v. 2, 1950-1 .
-
+.W
 the properties of crossed flexure pivots, and the influence of the
 point at which the strips cross .
 it is shown that the rotational stiffness of a crossed flexure pivot

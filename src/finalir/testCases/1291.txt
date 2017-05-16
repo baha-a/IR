@@ -1,9 +1,12 @@
-atmosphere entries with spacecraft lift-drag ratiosmodulated to limit decelerations .
-
+.I 1291
+.T
+atmosphere entries with spacecraft lift-drag ratios
+modulated to limit decelerations .
+.A
 levy,l.l.
-
+.B
 nasa tn.d1427, 1962.
-
+.W
 atmosphere entries with spacecraft lift-drag ratios
 modulated to limit decelerations .
   an analysis has been made of

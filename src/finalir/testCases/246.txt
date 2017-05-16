@@ -1,9 +1,13 @@
-the design of minimum drag tip fins . with an appendix- on the conformal transformation of a wing with afin .
-
+.I 246
+.T
+the design of minimum drag tip fins . with an appendix
+- on the conformal transformation of a wing with a
+fin .
+.A
 falkner,v.m.
-
+.B
 arc r + m 2279, 1945.
-
+.W
 the design of minimum drag tip fins . with an appendix
 - on the conformal transformation of a wing with a
 fin .

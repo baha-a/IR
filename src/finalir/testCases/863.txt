@@ -1,9 +1,11 @@
+.I 863
+.T
 loads and deformations of buckled rectangular plates .
-
+.A
 stein,m.
-
+.B
 nasa tr r40, 1959.
-
+.W
 loads and deformations of buckled rectangular plates .
   the nonlinear large deflection equations of von karman for plates
 are converted into a set of linear equations by expanding the

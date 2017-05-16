@@ -1,9 +1,12 @@
-the lower bound of attainable sonic-boom over-pressureand design methods of approaching this limit .
-
+.I 758
+.T
+the lower bound of attainable sonic-boom over-pressure
+and design methods of approaching this limit .
+.A
 carlson,h.w.
-
+.B
 nasa tn.d1494, 1962.
-
+.W
 the lower bound of attainable sonic-boom over-pressure
 and design methods of approaching this limit .
   from a study of existing sonic-boom

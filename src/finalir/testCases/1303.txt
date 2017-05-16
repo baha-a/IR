@@ -1,9 +1,11 @@
+.I 1303
+.T
 air pressure on a cone moving at high speeds .
-
+.A
 taylor,g.i. and maccoll,j.w.
-
+.B
 proc. roy. soc. a, 139, 1933, 278.
-
+.W
 air pressure on a cone moving at high speeds .
   the cone is considered to be
 moving at a velocity higher than that

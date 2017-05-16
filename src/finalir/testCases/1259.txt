@@ -1,9 +1,12 @@
-second-order theory for unsteady supersonic flow pastslender pointed bodies of revolution .
-
+.I 1259
+.T
+second-order theory for unsteady supersonic flow past
+slender pointed bodies of revolution .
+.A
 revell,j.d.
-
+.B
 j. ae. scs.1960, 730.
-
+.W
 second-order theory for unsteady supersonic flow past
 slender pointed bodies of revolution .
   an analysis is made of the second-order effects of thickness on

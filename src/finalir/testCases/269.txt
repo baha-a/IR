@@ -1,9 +1,13 @@
-on a laminar free-convection flow and heat transferof electrically conducting fluid on a vertical flatplate in the presence of a transverse magnetic field .
-
+.I 269
+.T
+on a laminar free-convection flow and heat transfer
+of electrically conducting fluid on a vertical flat
+plate in the presence of a transverse magnetic field .
+.A
 mori,y.
-
+.B
 trans. japan soc. ae. sc. 2, 1959.
-
+.W
 on a laminar free-convection flow and heat transfer
 of electrically conducting fluid on a vertical flat
 plate in the presence of a transverse magnetic field .

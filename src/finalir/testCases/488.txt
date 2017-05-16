@@ -1,9 +1,12 @@
-a reaction-rate parameter for gasdynamics of a chemicallyreacting gas mixture .
-
+.I 488
+.T
+a reaction-rate parameter for gasdynamics of a chemically
+reacting gas mixture .
+.A
 leonard,m.
-
+.B
 j.ae.scs. 29, 1962, 995.
-
+.W
 a reaction-rate parameter for gasdynamics of a chemically
 reacting gas mixture .
   presented note proposes a linearized reaction rate parameter

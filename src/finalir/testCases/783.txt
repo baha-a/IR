@@ -1,9 +1,12 @@
-a method for calculating the subsonic steady-state loading on anairplane with a wing of arbitrary planform and stiffness .
-
+.I 783
+.T
+a method for calculating the subsonic steady-state loading on an
+airplane with a wing of arbitrary planform and stiffness .
+.A
 gray, w.l.
-
+.B
 naca tn 3030, 1953 .
-
+.W
 a method for calculating the subsonic steady-state loading on an
 airplane with a wing of arbitrary planform and stiffness .
 a method for computing the steady-state span load distribution on an

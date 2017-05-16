@@ -1,9 +1,12 @@
-the contraction of satellite orbits under the influence of air drag .part iii . high eccentricity orbits . /0.2 e 1/ .
-
+.I 615
+.T
+the contraction of satellite orbits under the influence of air drag .
+part iii . high eccentricity orbits . /0.2 e 1/ .
+.A
 king-hele, d.g.
-
+.B
 r.a.e. tn. space 1, 1962 .
-
+.W
 the contraction of satellite orbits under the influence of air drag .
 part iii . high eccentricity orbits . /0.2 e 1/ .
 the effect of air drag on satellite orbits of eccentricity e less than

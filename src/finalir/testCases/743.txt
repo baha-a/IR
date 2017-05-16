@@ -1,9 +1,12 @@
-new developments in the nonlinear theories of the buckling of thincylindrical shells .
-
+.I 743
+.T
+new developments in the nonlinear theories of the buckling of thin
+cylindrical shells .
+.A
 w. f. thielemann
-
+.B
 deutsche versuchsanstalt fur luftfahrt mulheim (ruhr), germany
-
+.W
 new developments in the nonlinear theories of the buckling of thin
 cylindrical shells .
 in the present paper a short survey will be given first of the buckling

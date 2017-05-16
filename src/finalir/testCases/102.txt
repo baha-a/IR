@@ -1,9 +1,11 @@
+.I 102
+.T
 advantages and limitations of models .
-
+.A
 sobey,a.j.
-
+.B
 j. r. ae. s. 63, 1959, 646.
-
+.W
 advantages and limitations of models .
 summary ..  the use of models for structural test investigations in the
 presence of kinetic heating effects is examined .  the principal

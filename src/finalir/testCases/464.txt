@@ -1,9 +1,12 @@
-flow studies on flat plate delta wings at supersonicspeeds .
-
+.I 464
+.T
+flow studies on flat plate delta wings at supersonic
+speeds .
+.A
 michael,w.h.
-
+.B
 naca tn.3472, 1955.
-
+.W
 flow studies on flat plate delta wings at supersonic
 speeds .
   an experimental study has been made to investigate some aspects

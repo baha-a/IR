@@ -1,9 +1,11 @@
+.I 141
+.T
 free-flight techniques for high speed aerodynamic research .
-
+.A
 hamilton,j.a. and hufton,p.a.
-
+.B
 j.roy.ae.s. 60, 1956, 151.
-
+.W
 free-flight techniques for high speed aerodynamic research .
   the development rocket-borne and rocket-launched high-speed
 airplane model test is described .  details of airborne components,

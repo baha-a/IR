@@ -1,9 +1,12 @@
+.I 362
+.T
 three-dimensional effect of flutter in a real fluid .
-
+.A
 wen-hwa chu
-
-senior research engineer, department of mechanical sciences,southwest research institute, 8500 culebra road, san antonio 6, texas
-
+.B
+senior research engineer, department of mechanical sciences,
+southwest research institute, 8500 culebra road, san antonio 6, texas
+.W
 three-dimensional effect of flutter in a real fluid .
 in ref. 1, an alternative semi-empirical formulation for flutter in a
 real fluid is given .  for more accurate determination of the empirical

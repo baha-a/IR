@@ -1,9 +1,12 @@
-an approximate theory of base pressure in two dimensionalflow at supersonic speeds .
-
+.I 242
+.T
+an approximate theory of base pressure in two dimensional
+flow at supersonic speeds .
+.A
 kirk,f.n.
-
+.B
 rae tn.aero.2377, 1954.
-
+.W
 an approximate theory of base pressure in two dimensional
 flow at supersonic speeds .
   an approximate theory of the base pressure in two-dimensional flow

@@ -1,72 +1,62 @@
 package finalir;
 
-import edu.stanford.nlp.ling.CoreAnnotations;
-import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import java.io.*;
 import java.nio.file.Files;
 import java.util.*;
 
 public class Tokenizer {
 
-    Properties props = new Properties();
-    StanfordCoreNLP pipeline;
-
     HashSet<String> stopwords = new HashSet<>();
-
-    private boolean stemming;
     
-    public Tokenizer(boolean stemmingOnly) {
-
-        stemming = stemmingOnly;
-        
-        if(stemmingOnly == true)
-            props.setProperty("annotators", "tokenize,ssplit");//,pos,lemma");
-        else
-            props.setProperty("annotators", "tokenize,ssplit,pos,lemma");    
-        pipeline = new StanfordCoreNLP(props);
-
-        try {
+    public Tokenizer() {        
+        try 
+        {
             stopwords.addAll(Files.readAllLines(new File("src\\finalir\\stopwords.txt").toPath()));
-        } catch (IOException ex) {
-            IR.PrintErr("Can't load stopwords file . . .");
-        }
+        } catch (IOException ex) { Engine.PrintErr("Can't load stopwords file . . ."); }
 
     }
 
     public List<CoreLabel> getTokens(File f) throws FileNotFoundException, IOException {
         return getTokens(new Scanner(f).useDelimiter("\\Z").next());
     }
-    
-    
-    public List<CoreLabel> getTokens(String queri) {
-        Annotation ann = new Annotation(queri);
-        pipeline.annotate(ann);
-        List<CoreLabel> res = removeStopWords(ann.get(CoreAnnotations.TokensAnnotation.class));
-        if(stemming)
-            res = stemming(res);
-        return res;
+        
+    public List<CoreLabel> getTokens(String txt) {  
+        return stemming(removeStopWords(Split(txt)));
     }
     
     private int removedWordsCount = 0;
-
     public int getRemovedWordsCount() {
         return removedWordsCount;
     }
  
+    Stemmer enStemmer = new Stemmer();
+    ArabicStemmer arStemmer = new ArabicStemmer();
     
-    private List<CoreLabel> stemming(List<CoreLabel> tokens) {
-        Stemmer s = new Stemmer();
-        for (CoreLabel c : tokens)
-            c.setLemma(s.stem(c.word()));
-        return tokens;
+    private List<CoreLabel> stemming(List<String> tokens) {
+        
+        List<CoreLabel> words = new ArrayList<>();
+        
+        int pos = 0;
+        for (String c : tokens)
+            if(c.length() > 0){
+                words.add(new CoreLabel(c,(c.charAt(0) <= 255) ? enStemmer.stem(c) : arStemmer.stem(c), pos));
+                pos += c.length() + 1;
+            }
+        return words;
     }
     
-    private List<CoreLabel> removeStopWords(List<CoreLabel> tokens) {
-        int tmp =  tokens.size();
-        tokens.removeIf( x -> stopwords.contains(x.word()) );
-        removedWordsCount += tmp - tokens.size();
-        return tokens;
+    private List<String> removeStopWords(List<String> tokens) {
+        List<String> t = new ArrayList<>();
+        for (String s : tokens)
+            if(stopwords.contains(s) == false)
+                t.add(s);
+        removedWordsCount +=  t.size();
+        return t;
+    }
+    
+    
+    final String delimitersRegex = "[\\[\\]*/=+!@#$%^&!?~|}{)(.,\n\r\t\\ ]";
+    private List<String> Split(String str){
+        return Arrays.asList(str.split(delimitersRegex));
     }
 }

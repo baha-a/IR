@@ -1,9 +1,12 @@
-on the hypersonic viscous flow past slender bodiesof revolution .
-
+.I 192
+.T
+on the hypersonic viscous flow past slender bodies
+of revolution .
+.A
 yashura,m.
-
+.B
 j.phys.soc. japan, 11, 1956, 878.
-
+.W
 on the hypersonic viscous flow past slender bodies
 of revolution .
   a similar solution of the hypersonic viscous flow past slender bodies

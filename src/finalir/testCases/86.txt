@@ -1,9 +1,12 @@
-inviscid-incompressible flow theory of static peripheraljets in proximity to the ground .
-
+.I 86
+.T
+inviscid-incompressible flow theory of static peripheral
+jets in proximity to the ground .
+.A
 strand,t.
-
+.B
 j. ae. scs. 1961, 27.
-
+.W
 inviscid-incompressible flow theory of static peripheral
 jets in proximity to the ground .
   an /exact/ flow theory of peripheral jets issuing

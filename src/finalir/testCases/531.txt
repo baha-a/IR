@@ -1,9 +1,11 @@
+.I 531
+.T
 the flow about a moving body in the upper ionosphere .
-
+.A
 bird,g.a.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 the flow about a moving body in the upper ionosphere .
   a particle approach is used to study the flow pattern around a
 body moving in the upper layers of the ionosphere .  the effects

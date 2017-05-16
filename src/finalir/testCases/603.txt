@@ -1,9 +1,11 @@
-the 7 in. x 7 in. hypersonic wind tunnel at r.a.e. farnboroughpart ii. heater performance .
-
+.I 603
+.T
+the 7 in. x 7 in. hypersonic wind tunnel at r.a.e. farnborough
+part ii. heater performance .
+.A
 j. f. w. crane
-
-
-
+.B
+.W
 the 7 in. x 7 in. hypersonic wind tunnel at r.a.e. farnborough
 part ii. heater performance .
 tests on the storage heater, which is cylindrical in form and mounted

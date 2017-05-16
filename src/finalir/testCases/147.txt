@@ -1,9 +1,12 @@
-supersonic flow past slender pointed wings with ?similar?cross sections at zero lift .
-
+.I 147
+.T
+supersonic flow past slender pointed wings with ?similar?
+cross sections at zero lift .
+.A
 lord,w.t. and brebner,g.g.
-
+.B
 aero.quart. 10, 1959, 79.
-
+.W
 supersonic flow past slender pointed wings with ?similar?
 cross sections at zero lift .
   some recent theoretical work on slender pointed wings at zero lift is

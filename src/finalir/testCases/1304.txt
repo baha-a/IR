@@ -1,9 +1,11 @@
+.I 1304
+.T
 newtonian flow over a surface .
-
+.A
 giraud,j.p.
-
+.B
 colston symposium on hypersonic flow, bristol, 1959.
-
+.W
 newtonian flow over a surface .
 a general method is presented for
 the study of a three-dimensional

@@ -1,9 +1,11 @@
+.I 1100
+.T
 an analytical investigation of ablation .
-
+.A
 rashis, b. and hopko, r.n.
-
+.B
 nasa tm x-300, 1960 .
-
+.W
 an analytical investigation of ablation .
 an analytical procedure is described which enables the derivation of
 effective heat of ablation relationships for any type of boundary layer

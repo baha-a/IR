@@ -1,9 +1,11 @@
+.I 34
+.T
 constant-temperature magneto-gasdynamic channel flow .
-
+.A
 kerrebrock,j.p. and marble,f.e.
-
+.B
 j. ae. scs. 27, 1960, 78.
-
+.W
 constant-temperature magneto-gasdynamic channel flow .
 in the course of investigating boundary-layer flow in
 continuous plasma accelerators with crossed electric and

@@ -1,9 +1,9 @@
+.I 1040
+.T
 on transverse vibrations of thin, shallow elastic shells .
-
-
-
-
-
+.A
+.B
+.W
 on transverse vibrations of thin, shallow elastic shells .
   experimental measurements of pressures and heat-transfer
 rates over three blunt afterbodies of small fineness ratio in fully

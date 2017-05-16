@@ -1,9 +1,12 @@
-compressive and torsional buckling of thin-wall cylindersin the yield region .
-
+.I 1121
+.T
+compressive and torsional buckling of thin-wall cylinders
+in the yield region .
+.A
 gerard,g.
-
+.B
 naca tn.3726, 1956.
-
+.W
 compressive and torsional buckling of thin-wall cylinders
 in the yield region .
   based on assumptions which have

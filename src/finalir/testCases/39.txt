@@ -1,9 +1,11 @@
+.I 39
+.T
 on the flow of a sonic stream past an airfoil surface .
-
+.A
 sinnott,c.s.
-
+.B
 j.ae.scs. 26, 1959, 169.
-
+.W
 on the flow of a sonic stream past an airfoil surface .
   this study of the flow about an airfoil in a near-sonic stream
 indicates the important factors determining the pressure

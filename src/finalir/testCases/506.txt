@@ -1,9 +1,12 @@
-a note on havelock's shallow-water wave-resistancecurves .
-
+.I 506
+.T
+a note on havelock's shallow-water wave-resistance
+curves .
+.A
 brandmaier,h.e.
-
+.B
 j. ae. scs. 29, 1962, 257.
-
+.W
 a note on havelock's shallow-water wave-resistance
 curves .
 in the continuous quest for improved means of

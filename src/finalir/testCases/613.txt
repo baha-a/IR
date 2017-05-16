@@ -1,9 +1,12 @@
-the contraction of satellite orbits under the influence of air dragpart i . with spherically symmetrical atmosphere .
-
+.I 613
+.T
+the contraction of satellite orbits under the influence of air drag
+part i . with spherically symmetrical atmosphere .
+.A
 king-hele, d.g., cook, g.e. and walker, d.m.c.
-
+.B
 r.a.e. tn. gw. 533. 1959 .
-
+.W
 the contraction of satellite orbits under the influence of air drag
 part i . with spherically symmetrical atmosphere .
 the effect of air drag on satellite orbits of small eccentricity e/0.2/

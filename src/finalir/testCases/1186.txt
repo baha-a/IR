@@ -1,9 +1,12 @@
-lift of slender delta wings according to newtoniantheory .
-
+.I 1186
+.T
+lift of slender delta wings according to newtonian
+theory .
+.A
 messiter,a.f.
-
+.B
 aiaa jnl. 1963,795
-
+.W
 lift of slender delta wings according to newtonian
 theory .
   an approximate system of equations is derived to

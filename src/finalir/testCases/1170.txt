@@ -1,9 +1,11 @@
+.I 1170
+.T
 structural loads surveys on two tilt-wing vtol configurations .
-
+.A
 ward,j.f.
-
+.B
 nasa tn.d729, 1961.
-
+.W
 structural loads surveys on two tilt-wing vtol configurations .
   the results of two structural-loads
 surveys are summarized .  the

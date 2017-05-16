@@ -1,9 +1,12 @@
-the downstream influence of mass transfer at the noseof a slender cone .
-
+.I 123
+.T
+the downstream influence of mass transfer at the nose
+of a slender cone .
+.A
 cresci,r.j. and libby,p.a.
-
+.B
 j.aer.scs. 29, 1962, 815.
-
+.W
 the downstream influence of mass transfer at the nose
 of a slender cone .
   the influence of localized mass transfer at the nose of a slender

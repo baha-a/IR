@@ -1,9 +1,13 @@
-some experiments relating to the problem of simulation of hot jetengines in studies of jet effects on adjacent surfaces at a free-streammach number of 1.80 .
-
+.I 695
+.T
+some experiments relating to the problem of simulation of hot jet
+engines in studies of jet effects on adjacent surfaces at a free-stream
+mach number of 1.80 .
+.A
 bressette, w.e.
-
+.B
 naca rm l56e07. 1956 .
-
+.W
 some experiments relating to the problem of simulation of hot jet
 engines in studies of jet effects on adjacent surfaces at a free-stream
 mach number of 1.80 .

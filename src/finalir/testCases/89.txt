@@ -1,9 +1,12 @@
-an investigation of separated flows, part i: the pressurefield .
-
+.I 89
+.T
+an investigation of separated flows, part i: the pressure
+field .
+.A
 charwat,a.f.
-
+.B
 j. ae. scs. 28, 1961, 457.
-
+.W
 an investigation of separated flows, part i: the pressure
 field .
   the present article describes an investigation of several types of

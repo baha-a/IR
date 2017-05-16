@@ -1,9 +1,11 @@
+.I 1299
+.T
 hypersonic viscous shock layer .
-
+.A
 scala,s.m.
-
+.B
 ars jnl. 1959, 29, 520.
-
+.W
 hypersonic viscous shock layer .
 a decade ago tsien (1) (as well as others) and, more
 recently, adams and probstein (2) have attempted to

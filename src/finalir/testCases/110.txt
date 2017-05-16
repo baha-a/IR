@@ -1,9 +1,11 @@
+.I 110
+.T
 dynamics of a dissociating gas .
-
+.A
 lighthill,m.j.
-
+.B
 j.fluid mech. 2, 1957, 1.
-
+.W
 dynamics of a dissociating gas .
   this is a lucid introduction to the effects of dissociation
 in gas dynamics .  the problem in view is that of air flow

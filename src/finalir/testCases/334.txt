@@ -1,9 +1,12 @@
-influence of the leading-edge shock wave on the laminar boundary layerat hypersonic speeds .
-
+.I 334
+.T
+influence of the leading-edge shock wave on the laminar boundary layer
+at hypersonic speeds .
+.A
 lester lees
-
+.B
 california institute of technology
-
+.W
 influence of the leading-edge shock wave on the laminar boundary layer
 at hypersonic speeds .
 in order to bring out the importance of the leading-edge region at

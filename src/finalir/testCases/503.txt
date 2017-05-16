@@ -1,9 +1,12 @@
-theoretical prediction of the transonic characteristicsof airfoils .
-
+.I 503
+.T
+theoretical prediction of the transonic characteristics
+of airfoils .
+.A
 sinnott,c.s.
-
+.B
 j. ae. scs. 29, 1962, 275.
-
+.W
 theoretical prediction of the transonic characteristics
 of airfoils .
   it is shown that the author's transonic-flow airfoil theory

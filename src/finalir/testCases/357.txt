@@ -1,9 +1,12 @@
-optimum nose shapes for missiles in the super-aerodynamicregion .
-
+.I 357
+.T
+optimum nose shapes for missiles in the super-aerodynamic
+region .
+.A
 carter,w.j.
-
+.B
 j. ae. scs. 24, 1957, 527.
-
+.W
 optimum nose shapes for missiles in the super-aerodynamic
 region .
   the mechanics of the kinetic theory of gases is employed to

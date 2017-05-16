@@ -1,9 +1,13 @@
-some effects of variations in several parameters includingfluid density on the flutter speed of light uniformcantilever wings .
-
+.I 442
+.T
+some effects of variations in several parameters including
+fluid density on the flutter speed of light uniform
+cantilever wings .
+.A
 woolston,d.c. and castile,g.e.
-
+.B
 naca tn.2558, 1951.
-
+.W
 some effects of variations in several parameters including
 fluid density on the flutter speed of light uniform
 cantilever wings .

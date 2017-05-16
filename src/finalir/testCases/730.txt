@@ -1,9 +1,11 @@
+.I 730
+.T
 on the bending of a clamped plate .
-
+.A
 weinstein,a., rock,d.h.
-
+.B
 q. app. math. 2, 1944, 262.
-
+.W
 on the bending of a clamped plate .
   the present paper contains an application
 of a recently developed variational

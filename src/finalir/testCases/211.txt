@@ -1,9 +1,12 @@
-effect of slight blunting of leading edge of an immersedbody on the flow around it at hypersonic speed .
-
+.I 211
+.T
+effect of slight blunting of leading edge of an immersed
+body on the flow around it at hypersonic speed .
+.A
 chernyi,g.g.
-
+.B
 nasa tt f-35, 1960.
-
+.W
 effect of slight blunting of leading edge of an immersed
 body on the flow around it at hypersonic speed .
   manufacturing and maintainance of ideally sharp leading edges

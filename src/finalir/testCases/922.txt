@@ -1,9 +1,12 @@
-supersonic flow past slender bodies of revolution,slope of whose median section is discontinuous .
-
+.I 922
+.T
+supersonic flow past slender bodies of revolution,
+slope of whose median section is discontinuous .
+.A
 lighthill,m.j.
-
+.B
 q. j. mech. app. math. 1948, 90.
-
+.W
 supersonic flow past slender bodies of revolution,
 slope of whose median section is discontinuous .
   the theory of supersonic flow around

@@ -1,9 +1,11 @@
+.I 439
+.T
 a factor affecting transonic leading edge flow separation .
-
+.A
 wood,g.p. and gooderum,p.b.
-
+.B
 naca tn.3804, 1956.
-
+.W
 a factor affecting transonic leading edge flow separation .
   a change in flow pattern that was observed as the free-stream mach
 number was increased in the vicinity of 0.8 was described in naca

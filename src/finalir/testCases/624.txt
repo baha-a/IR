@@ -1,9 +1,11 @@
+.I 624
+.T
 cruise performance of channel-flow ground effect machines .
-
+.A
 strand,t.
-
+.B
 j. ae. scs. 29, 1962, 702.
-
+.W
 cruise performance of channel-flow ground effect machines .
   the performance theory for high-speed air-cushion vehicles
 operating in close proximity to the ground is developed .  the

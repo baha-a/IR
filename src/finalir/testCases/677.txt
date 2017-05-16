@@ -1,9 +1,11 @@
-methods for calculating the lift distribution of wings /subsoniclifting surface theory/ .
-
-
-
+.I 677
+.T
+methods for calculating the lift distribution of wings /subsonic
+lifting surface theory/ .
+.A
+.B
 r + m 2884, r.a.e. rep. aero. 2353. a.r.c. 13,439. january 1950 .
-
+.W
 methods for calculating the lift distribution of wings /subsonic
 lifting surface theory/ .
 this report contains some fairly simple and economic methods for

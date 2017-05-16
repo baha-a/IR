@@ -1,9 +1,12 @@
-on the ground level disturbance from large aircraftflying at supersonic speeds .
-
+.I 253
+.T
+on the ground level disturbance from large aircraft
+flying at supersonic speeds .
+.A
 lilley,g.m. and spillman,j.j.
-
+.B
 coa n103.
-
+.W
 on the ground level disturbance from large aircraft
 flying at supersonic speeds .
   the whitham-walkden theory for the estimation of the strength

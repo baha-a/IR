@@ -1,9 +1,11 @@
+.I 1327
+.T
 on the propagation and structure of the blast wave .
-
+.A
 sakurai,a.
-
+.B
 j. phys. soc. japan, 8, 1953, 662.
-
+.W
 on the propagation and structure of the blast wave .
   concerning blast waves with front surfaces of plane, cylindrical and
 spherical shape, the propagation velocity u and the distribution of

@@ -1,9 +1,12 @@
-note on the three-point boundary layer problem forthe blasius equations .
-
+.I 527
+.T
+note on the three-point boundary layer problem for
+the blasius equations .
+.A
 martin,e.d.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 note on the three-point boundary layer problem for
 the blasius equations .
 in a recent paper a method was presented for obtaining

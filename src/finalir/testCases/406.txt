@@ -1,9 +1,9 @@
+.I 406
+.T
 on the behaviour of boundary layers at supersonic speeds .
-
-
-
-
-
+.A
+.B
+.W
 on the behaviour of boundary layers at supersonic speeds .
 this paper considers the implications of recent advances in knowledge of
  the behaviour of boundary layers in supersonic flow . only the simplest

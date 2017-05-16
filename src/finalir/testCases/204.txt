@@ -1,9 +1,13 @@
-a study of the application of airfoil section datato the estimation of the high subsonic speed characteristicsof swept wings .
-
+.I 204
+.T
+a study of the application of airfoil section data
+to the estimation of the high subsonic speed characteristics
+of swept wings .
+.A
 hunton,l.w.
-
+.B
 naca rm a55c23, 1955.
-
+.W
 a study of the application of airfoil section data
 to the estimation of the high subsonic speed characteristics
 of swept wings .

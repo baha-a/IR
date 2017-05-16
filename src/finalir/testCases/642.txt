@@ -1,9 +1,12 @@
-the buckling strength of a uniform circular cylinderloaded in axial compression .
-
+.I 642
+.T
+the buckling strength of a uniform circular cylinder
+loaded in axial compression .
+.A
 sobey,a.j.
-
+.B
 rae r. struct,279, 1962.
-
+.W
 the buckling strength of a uniform circular cylinder
 loaded in axial compression .
   the theoretical estimation of the buckling strength of a cylinder

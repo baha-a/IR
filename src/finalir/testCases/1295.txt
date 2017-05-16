@@ -1,9 +1,11 @@
+.I 1295
+.T
 recent advances in nonequilibrium dissociating gasdynamics .
-
+.A
 li,t.y.
-
+.B
 ars jnl. 1961.
-
+.W
 recent advances in nonequilibrium dissociating gasdynamics .
   the purpose of this paper is to review some recent
 advances in the study of gasdynamic problems including

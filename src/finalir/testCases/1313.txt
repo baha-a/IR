@@ -1,9 +1,11 @@
+.I 1313
+.T
 on the flow in a reflected shock tunnel .
-
+.A
 holder, d.w. and schultz, d.l.
-
+.B
 arc r + m 3265, august 1960 .
-
+.W
 on the flow in a reflected shock tunnel .
 the performance of a shock tunnel operated by the reflected-shock
 technique is examined theoretically neglecting viscous effects and

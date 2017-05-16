@@ -1,9 +1,12 @@
-the determination of turbulent skin friction by meansof pitot tubes .
-
+.I 140
+.T
+the determination of turbulent skin friction by means
+of pitot tubes .
+.A
 preston,j.h.
-
+.B
 j.roy.ae.s. 58, 1954, 109.
-
+.W
 the determination of turbulent skin friction by means
 of pitot tubes .
   a simple method of determining

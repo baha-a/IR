@@ -1,9 +1,13 @@
-a study of the acoustic fatigue characteristics ofsome flat and curved aluminium panels exposed to randomand discrete noise .
-
+.I 727
+.T
+a study of the acoustic fatigue characteristics of
+some flat and curved aluminium panels exposed to random
+and discrete noise .
+.A
 hess,r.w., herr,r.w. and mayes,w.h.
-
+.B
 nasa tn.d1.
-
+.W
 a study of the acoustic fatigue characteristics of
 some flat and curved aluminium panels exposed to random
 and discrete noise .

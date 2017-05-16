@@ -1,9 +1,11 @@
+.I 1150
+.T
 preliminary results of density measurements from an air force satellite.
-
+.A
 mcisaac, j., pond, h. and stergis, g.
-
+.B
 air force, cambridge lab., 63-24. february, 1963 .
-
+.W
 preliminary results of density measurements from an air force satellite.
 atmospheric density was determined from a singly mounted ionization
 gauge flown on an air force satellite . included is a brief description

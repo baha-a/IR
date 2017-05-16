@@ -1,9 +1,12 @@
-charts for equilibrium flow properties of air inhyper-velocity nozzles .
-
+.I 949
+.T
+charts for equilibrium flow properties of air in
+hyper-velocity nozzles .
+.A
 jorgensen,l.h. and baum,g.m.
-
+.B
 nasa tn.d1333, 1962.
-
+.W
 charts for equilibrium flow properties of air in
 hyper-velocity nozzles .
   for initial stagnation pressures

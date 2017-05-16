@@ -1,9 +1,12 @@
-temperature measurements of shock-waves by spectrum-line reversal, ii adouble beam method .
-
+.I 1316
+.T
+temperature measurements of shock-waves by spectrum-line reversal, ii a
+double beam method .
+.A
 clouston, j.g., gaydon, a.g. and hurle, i.r
-
+.B
 proc. roy. soc. a252, p143, september 1959 .
-
+.W
 temperature measurements of shock-waves by spectrum-line reversal, ii a
 double beam method .
 the sodium-line reversal method, as previously described, using a

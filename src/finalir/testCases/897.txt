@@ -1,9 +1,12 @@
-some results on buckling and postbuckling of cylindricalshells .
-
+.I 897
+.T
+some results on buckling and postbuckling of cylindrical
+shells .
+.A
 kempner,j.
-
+.B
 nasa tn.d1510, 1962, 173.
-
+.W
 some results on buckling and postbuckling of cylindrical
 shells .
   in this summary paper, the

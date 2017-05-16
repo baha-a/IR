@@ -1,9 +1,12 @@
-on flow of electrically conducting fluids over a flatplate in the presence of a transverse magnetic field .
-
+.I 61
+.T
+on flow of electrically conducting fluids over a flat
+plate in the presence of a transverse magnetic field .
+.A
 rossow,v.j.
-
+.B
 naca tn.3971, 1957.
-
+.W
 on flow of electrically conducting fluids over a flat
 plate in the presence of a transverse magnetic field .
   the use of a magnetic field to control the motion of electrically

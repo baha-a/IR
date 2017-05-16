@@ -1,9 +1,13 @@
-an improved smoke generator for use in the visualisationof airflow, particularly boundary layer flow at highreynolds numbers .
-
+.I 244
+.T
+an improved smoke generator for use in the visualisation
+of airflow, particularly boundary layer flow at high
+reynolds numbers .
+.A
 preston,j.h. and sweeting,n.e.
-
+.B
 arc r + m 2023, 1943.
-
+.W
 an improved smoke generator for use in the visualisation
 of airflow, particularly boundary layer flow at high
 reynolds numbers .

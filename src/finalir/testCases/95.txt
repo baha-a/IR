@@ -1,9 +1,12 @@
-temperature distribution and thermal stresses in amodel of a supersonic wing .
-
+.I 95
+.T
+temperature distribution and thermal stresses in a
+model of a supersonic wing .
+.A
 pohle,f.v. and oliver,h.
-
+.B
 j. ae. scs. 21, 1954, 8.
-
+.W
 temperature distribution and thermal stresses in a
 model of a supersonic wing .
   the transient temperature distribution and the thermal

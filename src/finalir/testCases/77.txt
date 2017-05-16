@@ -1,9 +1,12 @@
-a comparative analysis of the performance of long rangehypervelocity vehicles .
-
+.I 77
+.T
+a comparative analysis of the performance of long range
+hypervelocity vehicles .
+.A
 eggers,a.j.
-
+.B
 naca tn.4046, 1957.
-
+.W
 a comparative analysis of the performance of long range
 hypervelocity vehicles .
   long-range hypervelocity vehicles are studied in terms of their

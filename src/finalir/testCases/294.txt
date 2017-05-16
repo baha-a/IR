@@ -1,9 +1,12 @@
-an investigation of laminar transitional and turbulentheat transfer on blunt-nosed bodies in hypersonic flow .
-
+.I 294
+.T
+an investigation of laminar transitional and turbulent
+heat transfer on blunt-nosed bodies in hypersonic flow .
+.A
 cresci,r.j. and mackenzie,d.a.
-
+.B
 j. ae. scs. 27, 1960.
-
+.W
 an investigation of laminar transitional and turbulent
 heat transfer on blunt-nosed bodies in hypersonic flow .
   laminar, transitional, and turbulent heating rates have been

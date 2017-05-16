@@ -1,6 +1,5 @@
 package finalir.DataStructure;
 
-import static java.lang.Math.sqrt;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -72,7 +71,7 @@ public class Document {
     
 
     public int compareWith(Document d){
-        return Math.abs(id - d.id);
+        return id - d.id;
     }
     
     public static List<Document> convert(List<DocumentTermEntry> dte){

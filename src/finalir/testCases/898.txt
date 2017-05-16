@@ -1,9 +1,12 @@
-a survey of buckling theory and experiment for circularconical shells of constant thickness .
-
+.I 898
+.T
+a survey of buckling theory and experiment for circular
+conical shells of constant thickness .
+.A
 seide,p.
-
+.B
 nasa tn.d1510, 1962, 401.
-
+.W
 a survey of buckling theory and experiment for circular
 conical shells of constant thickness .
   a survey of the state-of-the-art

@@ -1,9 +1,12 @@
-similitude of hypersonic flows over slender bodiesin non-equilibrium dissociated gases .
-
+.I 541
+.T
+similitude of hypersonic flows over slender bodies
+in non-equilibrium dissociated gases .
+.A
 inger,g.r.
-
+.B
 a.i.a.a. j. 1963, 46.
-
+.W
 similitude of hypersonic flows over slender bodies
 in non-equilibrium dissociated gases .
   this paper is concerned with the similitude laws

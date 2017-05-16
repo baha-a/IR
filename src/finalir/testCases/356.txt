@@ -1,9 +1,12 @@
-on optimum nose curves for missiles in the super-aerodynamicregime .
-
+.I 356
+.T
+on optimum nose curves for missiles in the super-aerodynamic
+regime .
+.A
 tan,h.s.
-
+.B
 j. ae. scs. 25, 1958, 56.
-
+.W
 on optimum nose curves for missiles in the super-aerodynamic
 regime .
   author shows that the differential equations defining the

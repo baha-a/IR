@@ -1,9 +1,14 @@
-investigation of the effects of ground proximity andpropeller position on the effectiveness of a wing withlarge chord slotted flaps in redirecting propellerslipstream downward for vertical take-off .
-
+.I 1094
+.T
+investigation of the effects of ground proximity and
+propeller position on the effectiveness of a wing with
+large chord slotted flaps in redirecting propeller
+slipstream downward for vertical take-off .
+.A
 kuhn,r.e.
-
+.B
 naca tn.3629, 1956.
-
+.W
 investigation of the effects of ground proximity and
 propeller position on the effectiveness of a wing with
 large chord slotted flaps in redirecting propeller

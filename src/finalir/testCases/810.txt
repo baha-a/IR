@@ -1,9 +1,12 @@
-the shock wave noise problem of supersonic aircraftin steady flight .
-
+.I 810
+.T
+the shock wave noise problem of supersonic aircraft
+in steady flight .
+.A
 maglieri,d.j. and carlson,h.w.
-
+.B
 nasa memo 3-4-59l, 1959.
-
+.W
 the shock wave noise problem of supersonic aircraft
 in steady flight .
   data are presented which provide

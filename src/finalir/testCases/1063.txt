@@ -1,9 +1,12 @@
-on obtaining solutions to the navier-stokes equationswith high speed digital computers .
-
+.I 1063
+.T
+on obtaining solutions to the navier-stokes equations
+with high speed digital computers .
+.A
 russell,d.b.
-
+.B
 arc 23,797, 1962.
-
+.W
 on obtaining solutions to the navier-stokes equations
 with high speed digital computers .
   the purpose of this paper is

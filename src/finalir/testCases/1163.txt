@@ -1,9 +1,13 @@
-force-test investigation of the stability and controlcharacteristics of a scale model of a tilt-wing verticaltake-off and landing aircraft .
-
+.I 1163
+.T
+force-test investigation of the stability and control
+characteristics of a scale model of a tilt-wing vertical
+take-off and landing aircraft .
+.A
 newson,w.a. and tosti,l.p.
-
+.B
 nasa memo 11-3-58l, 1959.
-
+.W
 force-test investigation of the stability and control
 characteristics of a scale model of a tilt-wing vertical
 take-off and landing aircraft .

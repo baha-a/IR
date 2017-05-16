@@ -1,9 +1,12 @@
-measurements of the effect of two-dimensional and three-dimensionalroughness elements on boundary layer transition .
-
+.I 8
+.T
+measurements of the effect of two-dimensional and three-dimensional
+roughness elements on boundary layer transition .
+.A
 klebanoff,p.s.
-
+.B
 j. ae. scs. 22, 1955, 803.
-
+.W
 measurements of the effect of two-dimensional and three-dimensional
 roughness elements on boundary layer transition .
 in his study of the effect of roughness on transition, h. l.

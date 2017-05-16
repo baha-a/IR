@@ -1,9 +1,9 @@
+.I 1016
+.T
 principles of creep buckling weight-strength analysis .
-
-
-
-
-
+.A
+.B
+.W
 principles of creep buckling weight-strength analysis .
   the relation of the time-dependent tangent-modulus
 load--as conceived by shanley--to actual column capacity

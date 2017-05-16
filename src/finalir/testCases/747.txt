@@ -1,9 +1,12 @@
-bodt freedom flutter of ground launched rocket modelsat supersonic and high subsonic speeds .
-
+.I 747
+.T
+bodt freedom flutter of ground launched rocket models
+at supersonic and high subsonic speeds .
+.A
 gaukroger,d.r.
-
+.B
 rae r. struct.237, 1957.
-
+.W
 bodt freedom flutter of ground launched rocket models
 at supersonic and high subsonic speeds .
   a theoretical investigation of symmetric

@@ -1,9 +1,11 @@
+.I 1174
+.T
 general theory of buckling .
-
+.A
 langhaar,h.l.
-
+.B
 app. mech. rev. 11, 1958.
-
+.W
 general theory of buckling .
 various aspects of the theory of buckling are expounded
 in many treatises (1 to 15) .  the books of bleich (2)

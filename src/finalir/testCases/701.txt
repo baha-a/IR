@@ -1,9 +1,13 @@
-numerical determination of indical lift of a two-dimensional sinkingairfoil at subsonic mach numbers from oscillatory lift coefficients with calculations for mach number 0.7 .
-
+.I 701
+.T
+numerical determination of indical lift of a two-dimensional sinking
+airfoil at subsonic mach numbers from oscillatory lift coefficients with
+ calculations for mach number 0.7 .
+.A
 mazelsky, b.
-
+.B
 naca tn 2562, 1951 .
-
+.W
 numerical determination of indical lift of a two-dimensional sinking
 airfoil at subsonic mach numbers from oscillatory lift coefficients with
  calculations for mach number 0.7 .

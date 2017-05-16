@@ -1,9 +1,11 @@
+.I 1193
+.T
 some exact solutions for cavitating curvilinear bodies .
-
+.A
 ehrich,f.f.
-
+.B
 aiaa jnl. 1, 1963, 675.
-
+.W
 some exact solutions for cavitating curvilinear bodies .
   a special case of cavitating flow solutions is
 postulated and transformed to a semi-infinite

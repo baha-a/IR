@@ -1,9 +1,11 @@
+.I 142
+.T
 the problem of aerodynamic heating .
-
+.A
 van driest,e.r.
-
+.B
 aero.eng.rev. 15, 1956.
-
+.W
 the problem of aerodynamic heating .
   paper is a good review of knowledge to date on convective heat
 transfer to objects moving through air at low and high speeds .

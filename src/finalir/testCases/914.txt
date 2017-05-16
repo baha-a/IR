@@ -1,9 +1,11 @@
+.I 914
+.T
 transtability flutter of supersonic aircraft panels .
-
+.A
 r. p. isaacs
-
+.B
 rand corp.
-
+.W
 transtability flutter of supersonic aircraft panels .
 for certain aero-elastic configurations it is possible to ascertain
 critical flutter conditions from static considerations alone .  the

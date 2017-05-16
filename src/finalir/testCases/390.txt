@@ -1,9 +1,11 @@
+.I 390
+.T
 some panel-flutter studies using piston theory .
-
+.A
 johns,d.j.
-
+.B
 j. ae. scs. 25, 1958.
-
+.W
 some panel-flutter studies using piston theory .
   the use of piston theory was recently advocated for
 supersonic aeroelastic analyses, including the problem of panel flutter,

@@ -1,9 +1,12 @@
-the occurrence and development of boundary layer separations at highincidences and high speeds .
-
+.I 316
+.T
+the occurrence and development of boundary layer separations at high
+incidences and high speeds .
+.A
 pearcey, h. h.
-
+.B
 r + m 3109, arc 17901, september 1955 .
-
+.W
 the occurrence and development of boundary layer separations at high
 incidences and high speeds .
 this note describes the manner in which the onset of the effects of

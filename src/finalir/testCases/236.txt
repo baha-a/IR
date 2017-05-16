@@ -1,9 +1,11 @@
+.I 236
+.T
 criteria for thermodynamic equilibrium in gas flow .
-
+.A
 rudin,m.
-
+.B
 phys.fluids, 1, 1958.
-
+.W
 criteria for thermodynamic equilibrium in gas flow .
   when gases flow at high velocity, the rates
 of internal processes may not be fast enough to

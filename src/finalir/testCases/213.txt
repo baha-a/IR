@@ -1,9 +1,11 @@
+.I 213
+.T
 the performance of supersonic turbine nozzles .
-
+.A
 stratford,b.s. and sansome,g.e.
-
+.B
 arc r + m 3273, 1959.
-
+.W
 the performance of supersonic turbine nozzles .
   an investigation has been conducted
 at the national gas turbine establishment into the

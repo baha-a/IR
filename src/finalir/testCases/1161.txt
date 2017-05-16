@@ -1,9 +1,12 @@
-stagnation point heat transfer measurements in dissociatedair .
-
+.I 1161
+.T
+stagnation point heat transfer measurements in dissociated
+air .
+.A
 rose,p.h. and stark,w.i.
-
+.B
 j. ae. scs. 26, 1958, 86.
-
+.W
 stagnation point heat transfer measurements in dissociated
 air .
   the results of an experimental investigation of the laminar heat

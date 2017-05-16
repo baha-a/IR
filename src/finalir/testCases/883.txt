@@ -1,9 +1,11 @@
+.I 883
+.T
 correlated fatigue data for aircraft structural joints .
-
+.A
 heywood,r.b.
-
+.B
 arc cp.227, 1955.
-
+.W
 correlated fatigue data for aircraft structural joints .
   results of fatigue tests carried out at r.a.e. on typical aircraft
 wing structural joints are correlated to give an indication of general

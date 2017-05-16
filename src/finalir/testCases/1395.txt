@@ -1,9 +1,12 @@
-low density stagnation point heat transfer measurementsin the hypersonic shock tunnel .
-
+.I 1395
+.T
+low density stagnation point heat transfer measurements
+in the hypersonic shock tunnel .
+.A
 wilson,m.r. and wittliff,c.e.
-
+.B
 ars jnl. 32, 1962, 275.
-
+.W
 low density stagnation point heat transfer measurements
 in the hypersonic shock tunnel .
   presents absolute heat-transfer measurements, using resistance

@@ -1,9 +1,11 @@
+.I 1176
+.T
 bending tests of ring-stiffened circular cylinders .
-
+.A
 peterson,j.p.
-
+.B
 naca tn.3735, 1956.
-
+.W
 bending tests of ring-stiffened circular cylinders .
   twenty-five ring-stiffened circular
 cylinders were loaded to

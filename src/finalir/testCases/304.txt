@@ -1,9 +1,12 @@
-first-order approach to a strong interaction problemin hypersonic flow over an insulated flat plate .
-
+.I 304
+.T
+first-order approach to a strong interaction problem
+in hypersonic flow over an insulated flat plate .
+.A
 oguchi,h.
-
+.B
 univ. tokyo aero.res r330, 1958.
-
+.W
 first-order approach to a strong interaction problem
 in hypersonic flow over an insulated flat plate .
   the present paper concerns with

@@ -1,9 +1,12 @@
-limit analysis of symmetrically loaded thin shellsof revolution .
-
+.I 1135
+.T
+limit analysis of symmetrically loaded thin shells
+of revolution .
+.A
 drucker,d.c. and shield,r.t.
-
+.B
 j. app. mech. 26, 1959, 61.
-
+.W
 limit analysis of symmetrically loaded thin shells
 of revolution .
 the yield surface for a thin cylindrical shell

@@ -1,9 +1,11 @@
+.I 1101
+.T
 a sensor for obtaining ablation rates .
-
+.A
 winters, c.w. and bracalente, e.m.
-
+.B
 nasa tn d-800, 1961 .
-
+.W
 a sensor for obtaining ablation rates .
 a variable-capacitance ablation-rate sensor which allows continuous
 measurements of ablation rates for teflon and similar polymers has been

@@ -1,9 +1,12 @@
-temperature charts for induction and constant temperatureheating .
-
+.I 158
+.T
+temperature charts for induction and constant temperature
+heating .
+.A
 heisler,m.p.
-
+.B
 a.s.m.e.trans. 14, 1947, 227.
-
+.W
 temperature charts for induction and constant temperature
 heating .
   charts are presented for determining complete

@@ -1,9 +1,12 @@
+.I 17
+.T
 remarks on the eddy viscosity in compressible mixing flows .
-
+.A
 lu ting and paul a. libby
-
-polytechnic institute of brooklyn, and general applied sciencelaboratories, inc.
-
+.B
+polytechnic institute of brooklyn, and general applied science
+laboratories, inc.
+.W
 remarks on the eddy viscosity in compressible mixing flows .
 in connection with a study of the wakes behind bodies in hypersonic flow
 carried out for the missile and space vehicle division of the general

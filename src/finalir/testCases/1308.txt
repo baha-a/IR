@@ -1,9 +1,11 @@
+.I 1308
+.T
 a guide to the use of the m. i. t.  cone tables .
-
+.A
 roberts,r.c. and riley,j.d.
-
+.B
 j. ae. scs. 21, 1954, 336.
-
+.W
 a guide to the use of the m. i. t.  cone tables .
   the second and third volumes of the m.i.t. cone tables have
 been found to be unsatisfactory in two respects .  they have been

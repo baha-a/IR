@@ -1,9 +1,11 @@
+.I 144
+.T
 heat flow in composite slabs .
-
+.A
 mayer,e.
-
+.B
 j.am.r.s. 22, 1952, 150.
-
+.W
 heat flow in composite slabs .
   this paper presents the solution of the heat flow
 problem in composite walls under heat transfer conditions

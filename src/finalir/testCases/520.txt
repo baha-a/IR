@@ -1,9 +1,12 @@
-wing-tail interference as a cause of 'magnus' effectson a finned missile .
-
+.I 520
+.T
+wing-tail interference as a cause of 'magnus' effects
+on a finned missile .
+.A
 benton,e.r.
-
+.B
 j. ae. scs. 29, 1962, 1358.
-
+.W
 wing-tail interference as a cause of 'magnus' effects
 on a finned missile .
   wing-tail interference is shown to cause large /magnus/ effects

@@ -1,9 +1,10 @@
+.I 588
+.T
 compressor operation with one or more blade rows stalled .
-
-
-
+.A
+.B
 naca rm e56b03b, 1956 . chapter xiii
-
+.W
 compressor operation with one or more blade rows stalled .
 an analysis of the part-speed operating problems of high-pressure-ratio
 ratio multistage axial-flow compressors was made by means of a

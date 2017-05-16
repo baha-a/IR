@@ -1,9 +1,13 @@
-a further note on the calculation of heat transferthrough the axisymmetrical laminar boundary layer ona circular cylinder .
-
+.I 789
+.T
+a further note on the calculation of heat transfer
+through the axisymmetrical laminar boundary layer on
+a circular cylinder .
+.A
 bourne,d.e., davies,d.r. and wardle,s..
-
+.B
 q. j. mech. app. math. 12, 1959, 257.
-
+.W
 a further note on the calculation of heat transfer
 through the axisymmetrical laminar boundary layer on
 a circular cylinder .

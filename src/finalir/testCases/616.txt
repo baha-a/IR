@@ -1,9 +1,12 @@
-determination of upper-atmosphere air density and scale height fromsatellite observations .
-
+.I 616
+.T
+determination of upper-atmosphere air density and scale height from
+satellite observations .
+.A
 groves, g.v.
-
+.B
 proc. roy. soc. a. 252, 16-27, 1959 .
-
+.W
 determination of upper-atmosphere air density and scale height from
 satellite observations .
 a solution is obtained for the rate of change of semi-major axis and

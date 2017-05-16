@@ -1,9 +1,12 @@
-transition measurements on cones in free flight ballisticsrange tests .
-
+.I 505
+.T
+transition measurements on cones in free flight ballistics
+range tests .
+.A
 lyons,w.c.
-
+.B
 j. ae. scs. 29, 1962, 352.
-
+.W
 transition measurements on cones in free flight ballistics
 range tests .
   navy-sponsored experimental investigation of the location of

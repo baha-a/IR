@@ -1,9 +1,12 @@
-general theory of large deflections of thin shellswith special applications to conical shells .
-
+.I 930
+.T
+general theory of large deflections of thin shells
+with special applications to conical shells .
+.A
 dill,e.h.
-
+.B
 nasa tn.d826, 1961.
-
+.W
 general theory of large deflections of thin shells
 with special applications to conical shells .
   a general theory is developed for the case of large deflections

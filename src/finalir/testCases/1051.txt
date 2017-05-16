@@ -1,9 +1,13 @@
-the stability of thin-walled unstiffened circular cylindersunder axial compression including the effects of internalpressure .
-
+.I 1051
+.T
+the stability of thin-walled unstiffened circular cylinders
+under axial compression including the effects of internal
+pressure .
+.A
 harris,l.a.
-
+.B
 j. ae. scs. 24, 1957, 587.
-
+.W
 the stability of thin-walled unstiffened circular cylinders
 under axial compression including the effects of internal
 pressure .

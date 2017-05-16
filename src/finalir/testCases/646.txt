@@ -1,9 +1,12 @@
-thermal diffusion effects on energy transfer in a turbulentboundary layer with helium injection .
-
+.I 646
+.T
+thermal diffusion effects on energy transfer in a turbulent
+boundary layer with helium injection .
+.A
 tewfik,o.e., eckert,e.r.g. and shirtliffe,c.j.
-
+.B
 to be presented at the 1962 heat transfer and fluid mech.inst. seattle,
-
+.W
 thermal diffusion effects on energy transfer in a turbulent
 boundary layer with helium injection .
   a circular cylinder with two-inch

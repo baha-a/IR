@@ -1,9 +1,12 @@
-the stacking of compressor stage characteristics togive an overall compressor performance map .
-
+.I 543
+.T
+the stacking of compressor stage characteristics to
+give an overall compressor performance map .
+.A
 doyle,m.d.c.
-
+.B
 aero. aquart. 13, 1962.
-
+.W
 the stacking of compressor stage characteristics to
 give an overall compressor performance map .
   a method of calculation is developed to compute the overall

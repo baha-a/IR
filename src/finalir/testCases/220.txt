@@ -1,9 +1,13 @@
-a general purpose analogue correlator for the analysis ofrandom noise signals .
-
-g. a. allcock, a.m.i.e.e., a.m.brit.i.r.e.p. l. tanner, m.sc. (eng), grad. i.e.e.k. r. mclachlan, a.m.brit. i.r.e.
-
-
-
+.I 220
+.T
+a general purpose analogue correlator for the analysis of
+random noise signals .
+.A
+g. a. allcock, a.m.i.e.e., a.m.brit.i.r.e.
+p. l. tanner, m.sc. (eng), grad. i.e.e.
+k. r. mclachlan, a.m.brit. i.r.e.
+.B
+.W
 a general purpose analogue correlator for the analysis of
 random noise signals .
 a large proportion of the current research programme of the

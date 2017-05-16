@@ -1,9 +1,11 @@
+.I 36
+.T
 supersonic flow around blunt bodies .
-
+.A
 serbin,h.
-
+.B
 j. ae. scs. 25, 1958, 58.
-
+.W
 supersonic flow around blunt bodies .
 the newtonian theory of impact has been shown to be
 useful for pressure calculations on the forward facing part

@@ -1,9 +1,12 @@
-heat transfer in the laminar boundary layer with ablationof vapor of arbitrary molecular weight .
-
+.I 1226
+.T
+heat transfer in the laminar boundary layer with ablation
+of vapor of arbitrary molecular weight .
+.A
 faulders,c.r.
-
+.B
 j. ae. scs. 1962, 76.
-
+.W
 heat transfer in the laminar boundary layer with ablation
 of vapor of arbitrary molecular weight .
   the reduction of heat transfer in the laminar boundary layer

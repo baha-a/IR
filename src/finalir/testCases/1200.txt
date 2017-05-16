@@ -1,9 +1,11 @@
+.I 1200
+.T
 hypersonic viscous flow over a sweat-cooled flat plate .
-
+.A
 tien,c.l. and gee,c.
-
+.B
 aiaa jnl. 1963, 159.
-
+.W
 hypersonic viscous flow over a sweat-cooled flat plate .
   this paper presents a theoretical analysis of the hypersonic
 viscous flow over a sweat-cooled flat plate .  the physical

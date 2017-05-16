@@ -1,9 +1,12 @@
-a linearized analysis of the forces exerted on a rigidwing by a shock wave .
-
+.I 1208
+.T
+a linearized analysis of the forces exerted on a rigid
+wing by a shock wave .
+.A
 ehlers,f.e. and shoemaker,e.m.
-
+.B
 j. ae. scs. 1959, 75.
-
+.W
 a linearized analysis of the forces exerted on a rigid
 wing by a shock wave .
   solutions are obtained in closed form for the pressures exerted

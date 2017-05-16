@@ -1,9 +1,12 @@
-numerical solution of the navier-stokes equations for the flow around acircular cylinder at reynolds number 40 .
-
+.I 1081
+.T
+numerical solution of the navier-stokes equations for the flow around a
+circular cylinder at reynolds number 40 .
+.A
 kawaguti, m.
-
+.B
 j. phys. soc. japan, v. 8, no. 6 p. 747, 1953 .
-
+.W
 numerical solution of the navier-stokes equations for the flow around a
 circular cylinder at reynolds number 40 .
 the steady two-dimensional flow around a circular cylinder submerged in

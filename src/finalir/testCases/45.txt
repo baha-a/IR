@@ -1,9 +1,12 @@
-an investigation of separated flows, part ii: flowin the cavity and heat transfer .
-
+.I 45
+.T
+an investigation of separated flows, part ii: flow
+in the cavity and heat transfer .
+.A
 charwat,a.f.
-
+.B
 j. ae. scs. 28, 1961, 513.
-
+.W
 an investigation of separated flows, part ii: flow
 in the cavity and heat transfer .
   the first portion of this paper describes studies of the internal

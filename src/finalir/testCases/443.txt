@@ -1,9 +1,12 @@
-calculated and measured pressure distributions over the midspan sectionof the naca 4412 airfoil .
-
+.I 443
+.T
+calculated and measured pressure distributions over the midspan section
+of the naca 4412 airfoil .
+.A
 pinkerton, r. m.
-
+.B
 naca r. 563, 1936 .
-
+.W
 calculated and measured pressure distributions over the midspan section
 of the naca 4412 airfoil .
 pressures were simultaneously measured in the variable-density tunnel

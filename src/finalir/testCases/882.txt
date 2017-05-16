@@ -1,9 +1,12 @@
-the variation of gust frequency with gust velocityand altitude .
-
+.I 882
+.T
+the variation of gust frequency with gust velocity
+and altitude .
+.A
 bullen,n.i.
-
+.B
 arc cp.324, 1956.
-
+.W
 the variation of gust frequency with gust velocity
 and altitude .
   information on atmospheric turbulence obtained from counting

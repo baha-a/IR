@@ -1,9 +1,12 @@
-subsonic aerodynamic flutter derivatives for wings and control surfaces, /compressible and incompressible flow/ .
-
+.I 748
+.T
+subsonic aerodynamic flutter derivatives for wings and control surfaces,
+ /compressible and incompressible flow/ .
+.A
 minhinnick, i. t.
-
+.B
 r.a.e. rep. structs. 87. july 1950 .
-
+.W
 subsonic aerodynamic flutter derivatives for wings and control surfaces,
  /compressible and incompressible flow/ .
 this report gives tables of the two-dimensional subsonic flutter

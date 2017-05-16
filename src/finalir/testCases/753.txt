@@ -1,9 +1,12 @@
-development of a quasi-steady approach to flutter andcorrelation with kernel-function results .
-
+.I 753
+.T
+development of a quasi-steady approach to flutter and
+correlation with kernel-function results .
+.A
 gravitz,s.i., laidlaw,w.r., bryce,w.w. and cooper,r.e.
-
+.B
 j.ae.scs. 29, 1962, 445.
-
+.W
 development of a quasi-steady approach to flutter and
 correlation with kernel-function results .
   the quasi-steady approach to flutter utilizes experimental or

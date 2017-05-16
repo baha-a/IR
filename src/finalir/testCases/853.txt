@@ -1,9 +1,11 @@
+.I 853
+.T
 the accuracy of donnell's equations .
-
+.A
 hoff,n.j.
-
+.B
 j. app. mech. 22, 1955.
-
+.W
 the accuracy of donnell's equations .
   solutions of donnell's equations of the small
 deformations of the perfectly elastic thin-walled circular

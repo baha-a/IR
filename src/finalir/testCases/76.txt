@@ -1,9 +1,12 @@
-flight measurement of wall pressure fluctuations andboundary-layer turbulence .
-
+.I 76
+.T
+flight measurement of wall pressure fluctuations and
+boundary-layer turbulence .
+.A
 mull,h.r. and algranti,j.s.
-
+.B
 nasa tn.d280, 1960.
-
+.W
 flight measurement of wall pressure fluctuations and
 boundary-layer turbulence .
   the results are presented for a flight test program using a fighter

@@ -1,9 +1,12 @@
-the analytical design of an axially symmetric lavalnozzle for a parallel and uniform jet .
-
+.I 341
+.T
+the analytical design of an axially symmetric laval
+nozzle for a parallel and uniform jet .
+.A
 foelsch,k.
-
+.B
 j. ae. scs. 16, 1949.
-
+.W
 the analytical design of an axially symmetric laval
 nozzle for a parallel and uniform jet .
   the equations for the nozzle's contours are derived by

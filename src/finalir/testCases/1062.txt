@@ -1,9 +1,12 @@
-an experimental and theoretical investigation of second-orderwing-body interference at high mach number .
-
+.I 1062
+.T
+an experimental and theoretical investigation of second-order
+wing-body interference at high mach number .
+.A
 wilby,p.g.
-
+.B
 ffa r.91, stockholm, 1962.
-
+.W
 an experimental and theoretical investigation of second-order
 wing-body interference at high mach number .
   the second-order wing-body interference theory

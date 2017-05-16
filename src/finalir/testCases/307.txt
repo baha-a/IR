@@ -1,9 +1,12 @@
-an approximate solution of hypersonic laminar boundarylayer equations and its application .
-
+.I 307
+.T
+an approximate solution of hypersonic laminar boundary
+layer equations and its application .
+.A
 nagakura,t. and naruse,h.
-
+.B
 j. phys. soc. japan, 12, 1957, 1298.
-
+.W
 an approximate solution of hypersonic laminar boundary
 layer equations and its application .
   approximate formulae of the displacement thickness and the skin

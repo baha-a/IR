@@ -1,9 +1,12 @@
-viscous and inviscid stagnation flow in a dissociated hypervelocity free stream .
-
+.I 576
+.T
+viscous and inviscid stagnation flow in a dissociated hypervelocity free
+ stream .
+.A
 inger, g.r.
-
+.B
 proc. 1962. heat transfer and fluid mech. inst .
-
+.W
 viscous and inviscid stagnation flow in a dissociated hypervelocity free
  stream .
 high reynolds number hypersonic stagnation flow over a blunt-nosed body
@@ -44,6 +47,7 @@ discussion of variable-geometry features such as air bleed and adjustable
  gas model . numerical solutions of non-equilibrium airflows with fully
 coupled chemistry provide a preliminary verification of such scaling for
 benser, w.a.
+.W
 limit characteristics . the analysis indicated that all these problems
 could be attributed to discontinuities in the performance
 characteristics of the front stages . such discontinuities can be due to the type

@@ -1,9 +1,11 @@
+.I 792
+.T
 some low speed problems of high speed aircraft .
-
+.A
 spence, a. and clean, d.
-
+.B
 j. royal aero. soc. v. 66, april 1962, pp 211-225 .
-
+.W
 some low speed problems of high speed aircraft .
 the first part of the paper deals with the low speed aerodynamics of
 aircraft shapes suggested by kuchemann, at the second international

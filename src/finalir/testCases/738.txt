@@ -1,9 +1,11 @@
+.I 738
+.T
 finding zero's of arbitrary functions .
-
+.A
 frank,w.l.
-
+.B
 j. assoc. comput. mach. 5, 1958, 154.
-
+.W
 finding zero's of arbitrary functions .
   a method for finding real and complex
 roots of polynomial equations, due to

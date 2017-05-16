@@ -1,9 +1,14 @@
-oscillatory derivative measurements on sting-mountedwind tunnel models method of test and results for pitchand yaw on a cambered ogee wing at mach numbers upto 2. 6.
-
+.I 755
+.T
+oscillatory derivative measurements on sting-mounted
+wind tunnel models method of test and results for pitch
+and yaw on a cambered ogee wing at mach numbers up
+to 2. 6.
+.A
 thompson,j.s.
-
+.B
 rae r.aero.2668, 1962.
-
+.W
 oscillatory derivative measurements on sting-mounted
 wind tunnel models method of test and results for pitch
 and yaw on a cambered ogee wing at mach numbers up

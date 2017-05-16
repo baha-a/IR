@@ -1,9 +1,13 @@
-a method for calculating the lift and centre of pressureof wing-body-tail combinations at subsonic, transonicspeeds .
-
+.I 924
+.T
+a method for calculating the lift and centre of pressure
+of wing-body-tail combinations at subsonic, transonic
+speeds .
+.A
 nielsen,j.n., kaattari,g.e. and anastasio,r.f.
-
+.B
 naca til.3959.
-
+.W
 a method for calculating the lift and centre of pressure
 of wing-body-tail combinations at subsonic, transonic
 speeds .

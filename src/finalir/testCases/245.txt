@@ -1,9 +1,11 @@
+.I 245
+.T
 the ground effect on the jet flap in two dimensions .
-
+.A
 huggett,d.j.
-
+.B
 arc 19,713, 1957.
-
+.W
 the ground effect on the jet flap in two dimensions .
   this paper presents the results of the first part of an
 experimental investigation of the ground effect on simple jet flap

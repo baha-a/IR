@@ -1,9 +1,13 @@
-calculation and compilation of the unsteady lift functions for a rigidwing subjected to sinusoidal gusts and to sinusoidal sinkingoscillations .
-
+.I 779
+.T
+calculation and compilation of the unsteady lift functions for a rigid
+wing subjected to sinusoidal gusts and to sinusoidal sinking
+oscillations .
+.A
 drischler, j.a.
-
+.B
 naca tn 3748, october 1956
-
+.W
 calculation and compilation of the unsteady lift functions for a rigid
 wing subjected to sinusoidal gusts and to sinusoidal sinking
 oscillations .

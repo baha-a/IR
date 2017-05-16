@@ -1,9 +1,9 @@
+.I 1027
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   a phenomenological relation between
 stress, strain rate, and

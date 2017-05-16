@@ -1,9 +1,12 @@
-a donnell-type theory for asymmetrical bending andbuckling of thin conical shells .
-
+.I 936
+.T
+a donnell-type theory for asymmetrical bending and
+buckling of thin conical shells .
+.A
 seide,p.
-
+.B
 j. app. mech. 24, 1957, 547.
-
+.W
 a donnell-type theory for asymmetrical bending and
 buckling of thin conical shells .
   equations, somewhat more accurate than those recently

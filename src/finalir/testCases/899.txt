@@ -1,9 +1,11 @@
+.I 899
+.T
 aerodynamic effects on boundary layer unsteadiness .
-
+.A
 moore,f.k.
-
+.B
 6th a.a.aero.conf. 1957.
-
+.W
 aerodynamic effects on boundary layer unsteadiness .
   with a view to the study of
 aerodynamic problems, a review is made

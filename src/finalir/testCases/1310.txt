@@ -1,9 +1,12 @@
-survey of inviscid hypersonic flow theory for geometricallyslender shapes .
-
+.I 1310
+.T
+survey of inviscid hypersonic flow theory for geometrically
+slender shapes .
+.A
 crabtree,l.f.
-
+.B
 rae tn. aero.2695, 1960.
-
+.W
 survey of inviscid hypersonic flow theory for geometrically
 slender shapes .
   a survey is made of existing

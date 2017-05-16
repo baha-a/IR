@@ -1,9 +1,11 @@
+.I 1314
+.T
 production of high temperature gases in shock tubes .
-
+.A
 resler,e.l., lin,s.c. and kantrowitz,a.
-
+.B
 j. app. phys., 23, 1852, 1390.
-
+.W
 production of high temperature gases in shock tubes .
   this paper is intended to set forth aerodynamic and
 thermodynamic calculations which are useful in the

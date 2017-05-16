@@ -1,9 +1,11 @@
+.I 682
+.T
 the lift of twisted and cambered wings in supersonic flow .
-
+.A
 lance, g.n.
-
+.B
 aero. quart. v. 6/2/, may, 1955 .
-
+.W
 the lift of twisted and cambered wings in supersonic flow .
 a generalised conical flow theory is used to deduce an integral equation
  relating the velocity potential on a delta wing/with subsonic leading

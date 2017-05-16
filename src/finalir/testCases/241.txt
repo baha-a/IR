@@ -1,9 +1,12 @@
-laminar mixing of a non-uniform stream with a fluidat rest .
-
+.I 241
+.T
+laminar mixing of a non-uniform stream with a fluid
+at rest .
+.A
 nash,j.f.
-
+.B
 arc 22245, 1960.
-
+.W
 laminar mixing of a non-uniform stream with a fluid
 at rest .
   a theoretical analysis is made of the constant pressure

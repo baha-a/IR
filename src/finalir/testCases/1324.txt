@@ -1,9 +1,12 @@
-the effect on transition of isolated surface excrescencesin the boundary layer .
-
+.I 1324
+.T
+the effect on transition of isolated surface excrescences
+in the boundary layer .
+.A
 gregory,n. and walker,w.s.
-
+.B
 pt. 1, arc r + m 2779, 1950.
-
+.W
 the effect on transition of isolated surface excrescences
 in the boundary layer .
   the effect of isolated surface excrescences in a

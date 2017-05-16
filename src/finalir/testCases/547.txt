@@ -1,9 +1,11 @@
+.I 547
+.T
 boundary layer characteristics of caret wings .
-
+.A
 catherall,d.
-
+.B
 rae tn.aero.2835, 1962.
-
+.W
 boundary layer characteristics of caret wings .
   the theory of laminar boundary
 layers along flat surfaces has been

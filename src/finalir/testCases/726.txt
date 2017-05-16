@@ -1,9 +1,11 @@
+.I 726
+.T
 on structural fatigue under random loading .
-
+.A
 miles,j.w.
-
+.B
 j. ae. scs. 21, 1954, 753.
-
+.W
 on structural fatigue under random loading .
   experience has shown that the fluctuating loads induced by a
 jet may cause fatigue failure of aircraft structural components .

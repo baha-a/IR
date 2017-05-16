@@ -1,9 +1,12 @@
-theory and tunnel tests of rotor blade for supersonicturbines .
-
+.I 212
+.T
+theory and tunnel tests of rotor blade for supersonic
+turbines .
+.A
 stratford,b.s. and sansome,g.e.
-
+.B
 arc r + m 3275, 1960.
-
+.W
 theory and tunnel tests of rotor blade for supersonic
 turbines .
   in special circumstances where a large work

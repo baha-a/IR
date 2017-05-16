@@ -1,9 +1,12 @@
+.I 1032
+.T
 on the conservativeness of various distributed force systems .
-
+.A
 sol r. bodner
-
-assistant professor of engineering, brown university, providence,r.i.
-
+.B
+assistant professor of engineering, brown university, providence,
+r.i.
+.W
 on the conservativeness of various distributed force systems .
 the necessity of determining the conservativeness of force systems in
 instability problems is discussed in reference 1 .  it is shown that,

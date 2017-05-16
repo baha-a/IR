@@ -1,9 +1,11 @@
+.I 1080
+.T
 viscous flow round a sphere at low reynolds numbers . /l40/ .
-
+.A
 jenson, v.g.
-
+.B
 proc. roy. soc. series, a. v. 249, p. 346, 1959 .
-
+.W
 viscous flow round a sphere at low reynolds numbers . /l40/ .
 relaxation methods are outlined, and the present problem formulated in
 modified spherical polar co-ordinates . the results of calculations made

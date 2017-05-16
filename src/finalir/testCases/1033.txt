@@ -1,9 +1,10 @@
-the design of tubes under uniform external pressure on thebasis of assumed inaccuracies .
-
-
-
-
-
+.I 1033
+.T
+the design of tubes under uniform external pressure on the
+basis of assumed inaccuracies .
+.A
+.B
+.W
 the design of tubes under uniform external pressure on the
 basis of assumed inaccuracies .
 since the failure of tubes under uniform external pressure depends

@@ -1,9 +1,11 @@
+.I 649
+.T
 the hovercraft - a new concept in maritime transport .
-
+.A
 crewe,p.r. and eggington,w.j.
-
+.B
 trans. roy. inst. naval arch. 1960.
-
+.W
 the hovercraft - a new concept in maritime transport .
   the hovercraft is the first operational british
 project in the ground-effect machine field .

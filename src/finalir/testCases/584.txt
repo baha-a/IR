@@ -1,9 +1,12 @@
-conduction of heat in a solid with a power law of heattransfer at its surface .
-
+.I 584
+.T
+conduction of heat in a solid with a power law of heat
+transfer at its surface .
+.A
 jaeger,j.c.
-
+.B
 proc. cam.phil. s. 46, 1950, 634.
-
+.W
 conduction of heat in a solid with a power law of heat
 transfer at its surface .
   the nonlinear boundary value problem, where

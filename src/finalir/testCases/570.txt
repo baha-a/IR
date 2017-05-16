@@ -1,9 +1,12 @@
-on the boundary layer equations in hypersonic flowand their approximate solutions .
-
+.I 570
+.T
+on the boundary layer equations in hypersonic flow
+and their approximate solutions .
+.A
 lees,l.
-
+.B
 j. ae. scs. 20, 1953, 143.
-
+.W
 on the boundary layer equations in hypersonic flow
 and their approximate solutions .
   analytical solutions of the prandtl boundary-layer equations are

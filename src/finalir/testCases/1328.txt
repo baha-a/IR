@@ -1,9 +1,12 @@
-the production of aerodynamic forces by heat additionon external surfaces of aircraft .
-
+.I 1328
+.T
+the production of aerodynamic forces by heat addition
+on external surfaces of aircraft .
+.A
 willmarth,w.w.
-
+.B
 rand corp. rm.2078, 1957.
-
+.W
 the production of aerodynamic forces by heat addition
 on external surfaces of aircraft .
   within the framework of linearized

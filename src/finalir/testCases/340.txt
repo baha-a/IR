@@ -1,9 +1,13 @@
-analysis of effects of diffusion of a foreign gas intothe laminar boundary layer of a supersonic flow ofair in a tube .
-
+.I 340
+.T
+analysis of effects of diffusion of a foreign gas into
+the laminar boundary layer of a supersonic flow of
+air in a tube .
+.A
 radbill,j.r. and kaye,j.
-
+.B
 j.ae.scs. 26, 1959.
-
+.W
 analysis of effects of diffusion of a foreign gas into
 the laminar boundary layer of a supersonic flow of
 air in a tube .

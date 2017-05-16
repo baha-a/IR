@@ -1,9 +1,12 @@
-reverse flow and variational theorems for lifting surfacesin nonstationary compressible flow .
-
+.I 379
+.T
+reverse flow and variational theorems for lifting surfaces
+in nonstationary compressible flow .
+.A
 flax,a.h.
-
+.B
 j. ae. scs. 20, 1953.
-
+.W
 reverse flow and variational theorems for lifting surfaces
 in nonstationary compressible flow .
   a reverse-flow theorem for compressible nonsteady flow, valid

@@ -1,9 +1,11 @@
+.I 1198
+.T
 the blunt-leading-edge problem in hypersonic flow .
-
+.A
 oguchi,h.
-
+.B
 aiaa jnl. u, 1963, 361.
-
+.W
 the blunt-leading-edge problem in hypersonic flow .
   the present paper is mainly concerned with
 the hypersonic flow over a flat plate with a

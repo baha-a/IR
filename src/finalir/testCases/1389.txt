@@ -1,9 +1,11 @@
+.I 1389
+.T
 numerical construction of detached shock waves .
-
+.A
 garabedian,p.r.
-
+.B
 j.math.phys. 36, 1957, 192.
-
+.W
 numerical construction of detached shock waves .
   this article proposes a new method for solving the problem
 of the detached shock wave .  if the shock wave is assumed

@@ -1,9 +1,13 @@
-exact solution of the neumann problem . calculationfor non- circulatory plane and axially symmetric flowsabout or within arbitrary boundaries .
-
+.I 266
+.T
+exact solution of the neumann problem . calculation
+for non- circulatory plane and axially symmetric flows
+about or within arbitrary boundaries .
+.A
 smith,a.n.c. and pierce,j.
-
+.B
 3rd nat. con. app. mech. 1958.
-
+.W
 exact solution of the neumann problem . calculation
 for non- circulatory plane and axially symmetric flows
 about or within arbitrary boundaries .

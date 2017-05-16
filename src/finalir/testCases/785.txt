@@ -1,9 +1,11 @@
+.I 785
+.T
 the flow of fluid along cylinders .
-
+.A
 cooke, j.c.
-
+.B
 quart. j. mech. app. math, vol.x /3/, 1957, p. 312-321 .
-
+.W
 the flow of fluid along cylinders .
 the boundary layer equations for uniform flow parallel to the generators
  of any cylinder without corners are put into the form of a series of

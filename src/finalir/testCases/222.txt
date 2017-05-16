@@ -1,9 +1,12 @@
-the flow over delta wings at low speeds with leadingedge separation .
-
+.I 222
+.T
+the flow over delta wings at low speeds with leading
+edge separation .
+.A
 marsden,d.j., simpson,r.w. and rainbird,w.j.
-
+.B
 coa r114, 1957.
-
+.W
 the flow over delta wings at low speeds with leading
 edge separation .
   a low speed investigation of the flow over a 40 apex angle delta

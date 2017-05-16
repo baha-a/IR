@@ -1,9 +1,12 @@
-determination of upper-atmosphere air density profile from satelliteobservations .
-
+.I 617
+.T
+determination of upper-atmosphere air density profile from satellite
+observations .
+.A
 groves, g.v.
-
+.B
 proc. roy. soc. a. 252, 28-34, 1959 .
-
+.W
 determination of upper-atmosphere air density profile from satellite
 observations .
 the theory previously developed for the changes in the perigee distance

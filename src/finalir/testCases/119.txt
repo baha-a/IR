@@ -1,9 +1,12 @@
-conduction of fluctuating heat flow in a wall consistingof many layers .
-
+.I 119
+.T
+conduction of fluctuating heat flow in a wall consisting
+of many layers .
+.A
 vodicka,v.
-
+.B
 app.sc.res. 5, 1955, 108.
-
+.W
 conduction of fluctuating heat flow in a wall consisting
 of many layers .
   van gorcum has pointed to interesting and important analogies

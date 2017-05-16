@@ -1,9 +1,12 @@
-some effects of wind-tunnel interference observed in tests ontwo-dimensional aerofoils at high subsonic and transonic speeds .
-
+.I 799
+.T
+some effects of wind-tunnel interference observed in tests on
+two-dimensional aerofoils at high subsonic and transonic speeds .
+.A
 pearcey, h.h., sinnott, c.s. and osborne, j.
-
+.B
 n.p.l. aero. 373. february 1959 .
-
+.W
 some effects of wind-tunnel interference observed in tests on
 two-dimensional aerofoils at high subsonic and transonic speeds .
 in the high-speed research on two-dimensional aerofoils at the national

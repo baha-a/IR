@@ -1,9 +1,12 @@
-a graphical approximation for temperatures and sublimation rates atsurfaces subjected to small net and large gross heat transfer rates .
-
+.I 509
+.T
+a graphical approximation for temperatures and sublimation rates at
+surfaces subjected to small net and large gross heat transfer rates .
+.A
 adams, e. w.
-
+.B
 j. aero. sc. v. 29, march 1962, pp. 360-1 .
-
+.W
 a graphical approximation for temperatures and sublimation rates at
 surfaces subjected to small net and large gross heat transfer rates .
 considers a material, acted upon by heat of conduction, which changes

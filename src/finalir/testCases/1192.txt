@@ -1,9 +1,12 @@
-an integral method for calculation of supersonic laminarboundary layer with heat transfer on yawed cone .
-
+.I 1192
+.T
+an integral method for calculation of supersonic laminar
+boundary layer with heat transfer on yawed cone .
+.A
 yen,shee-mang and thyson,n.a.
-
+.B
 aiaa jnl. 1, 1963, 672.
-
+.W
 an integral method for calculation of supersonic laminar
 boundary layer with heat transfer on yawed cone .
   an integral method for calculating the three-dimensional

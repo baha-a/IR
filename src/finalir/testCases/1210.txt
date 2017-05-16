@@ -1,9 +1,11 @@
+.I 1210
+.T
 on slender airfoil theory for nonequilibrium flow .
-
+.A
 ryhming,i.l.
-
+.B
 j.ae.scs. 1962, 1076.
-
+.W
 on slender airfoil theory for nonequilibrium flow .
   an exact linear theory for nonequilibrium flow past a thin
 airfoil is given .  green's function technique is used to solve the

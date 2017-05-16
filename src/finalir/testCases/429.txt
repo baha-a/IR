@@ -1,9 +1,12 @@
-a description of the r. a. e.  high speed supersonictunnel .
-
+.I 429
+.T
+a description of the r. a. e.  high speed supersonic
+tunnel .
+.A
 poole,j.a.
-
+.B
 rae tn.aero.2678,1960
-
+.W
 a description of the r. a. e.  high speed supersonic
 tunnel .
   an account is given of the high supersonic speed tunnel now nearing

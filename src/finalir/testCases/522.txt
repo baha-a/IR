@@ -1,9 +1,12 @@
-laminar, transitional and turbulent heat transfer toa cone-cylinder-flare body at mach 8. 0.
-
+.I 522
+.T
+laminar, transitional and turbulent heat transfer to
+a cone-cylinder-flare body at mach 8. 0.
+.A
 zakkay,v. and callahan,c.j.
-
+.B
 j. ae. scs. 29, 1962, 1403.
-
+.W
 laminar, transitional and turbulent heat transfer to
 a cone-cylinder-flare body at mach 8. 0.
   an experimental investigation of the laminar, transitional, and

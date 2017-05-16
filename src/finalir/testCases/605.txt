@@ -1,9 +1,12 @@
-pressure measurements on a cone-cylinder-flare configuration at smallincidences for m 6.8 .
-
+.I 605
+.T
+pressure measurements on a cone-cylinder-flare configuration at small
+incidences for m 6.8 .
+.A
 woodley, j.g.
-
+.B
 r.a.e. tn. aero. 2739 .
-
+.W
 pressure measurements on a cone-cylinder-flare configuration at small
 incidences for m 6.8 .
 pressure measurements were made on a slender cone-cylinder-flare

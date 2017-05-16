@@ -1,9 +1,12 @@
-new thermo-mechanical reciprocity relations with applicationto thermal stress analysis .
-
+.I 580
+.T
+new thermo-mechanical reciprocity relations with application
+to thermal stress analysis .
+.A
  biot,m.a.
-
+.B
 j. ae. scs. 26, 1959.
-
+.W
 new thermo-mechanical reciprocity relations with application
 to thermal stress analysis .
   based on the variational formulation of linear

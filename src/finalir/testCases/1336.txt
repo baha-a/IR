@@ -1,9 +1,12 @@
-studies of the use of freon-12 as a wind tunnel testingmedium .
-
+.I 1336
+.T
+studies of the use of freon-12 as a wind tunnel testing
+medium .
+.A
 vondoenhoff.
-
+.B
 naca tn.3000, 1953.
-
+.W
 studies of the use of freon-12 as a wind tunnel testing
 medium .
   a number of studies relating to

@@ -1,9 +1,11 @@
+.I 575
+.T
 atomic recombination in a hypersonic wind tunnel nozzle .
-
+.A
 bray, k.n.c.
-
+.B
 j. fluid mech. v.6 part 1, 1-32. july, 1959 .
-
+.W
 atomic recombination in a hypersonic wind tunnel nozzle .
 the flow of an ideal dissociating gas through a nearly conical nozzle is
  considered . the equations of one-dimensional motion are solved

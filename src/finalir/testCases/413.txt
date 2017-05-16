@@ -1,9 +1,12 @@
-turbulent skin friction at high mach numbers and reynoldsnumbers in air and helium . nasa r82, 1960 .
-
+.I 413
+.T
+turbulent skin friction at high mach numbers and reynolds
+numbers in air and helium . nasa r82, 1960 .
+.A
 matting,f.w., chapman,d.r., nyholm,j.r. and thomas,a.g.
-
+.B
 naca r847, 1946.
-
+.W
 turbulent skin friction at high mach numbers and reynolds
 numbers in air and helium . nasa r82, 1960 .
   results are given of local skin-friction measurements in turbulent

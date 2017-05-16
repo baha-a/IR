@@ -1,9 +1,13 @@
-pressure distribution and force measurements on a vtoltilting wing-propeller model . pt .ii, analysis ofresults .
-
+.I 1090
+.T
+pressure distribution and force measurements on a vtol
+tilting wing-propeller model . pt .ii, analysis of
+results .
+.A
 currie,m.m. and dunsby,j.a.
-
+.B
 rep. lr-284, nat. res. council of canada, 1960.
-
+.W
 pressure distribution and force measurements on a vtol
 tilting wing-propeller model . pt .ii, analysis of
 results .

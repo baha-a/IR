@@ -1,9 +1,13 @@
-an extension of the linearized characteristics methodfor calculating the supersonic flow around ellipticcones .
-
+.I 1262
+.T
+an extension of the linearized characteristics method
+for calculating the supersonic flow around elliptic
+cones .
+.A
 martellucci,a.
-
+.B
 j. ae. scs. 1960, 667.
-
+.W
 an extension of the linearized characteristics method
 for calculating the supersonic flow around elliptic
 cones .

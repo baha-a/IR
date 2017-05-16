@@ -1,9 +1,9 @@
+.I 1009
+.T
 free-flight measurements of the static and dynamic .
-
-
-
-
-
+.A
+.B
+.W
 free-flight measurements of the static and dynamic .
   charts of thermodynamic properties for equilibrium air are presented
 with sufficient accuracy to permit the calculation of flow parameters in

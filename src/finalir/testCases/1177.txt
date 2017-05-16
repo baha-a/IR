@@ -1,9 +1,11 @@
+.I 1177
+.T
 effects of rapid heating on strength of airframe components .
-
+.A
 pride,r.a.
-
+.B
 naca tn.4051, 1957.
-
+.W
 effects of rapid heating on strength of airframe components .
   results of several experimental
 investigations are presented which

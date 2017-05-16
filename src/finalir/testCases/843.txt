@@ -1,9 +1,12 @@
-a simplified method of elastic stability analysis forthin cylindrical shells .
-
+.I 843
+.T
+a simplified method of elastic stability analysis for
+thin cylindrical shells .
+.A
 batdorf,s.b.
-
+.B
 i. donnell's equation.  naca tn.1341, 1947.
-
+.W
 a simplified method of elastic stability analysis for
 thin cylindrical shells .
   the equation for the equilibrium of cylindrical

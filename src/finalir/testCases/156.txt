@@ -1,9 +1,11 @@
+.I 156
+.T
 the effect of shallow water on wave resistance .
-
+.A
 havelock,t.h.
-
+.B
 proc.roy.s.a, 100,1922,499.
-
+.W
 the effect of shallow water on wave resistance .
   the general character of experimental
 results dealing with the effect of

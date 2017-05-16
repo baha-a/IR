@@ -1,9 +1,12 @@
-some instabilities arising from the interaction betweenshock waves and boundary layer .
-
+.I 265
+.T
+some instabilities arising from the interaction between
+shock waves and boundary layer .
+.A
 lambourne,n.c.
-
+.B
 npl aero.348, 1958.
-
+.W
 some instabilities arising from the interaction between
 shock waves and boundary layer .
   a brief review is made of the available information concerning

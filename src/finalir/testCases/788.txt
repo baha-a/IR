@@ -1,9 +1,12 @@
-an approximate boundary layer theory for semi-infinite cylinders ofarbitrary cross-section .
-
+.I 788
+.T
+an approximate boundary layer theory for semi-infinite cylinders of
+arbitrary cross-section .
+.A
 varley, e.
-
+.B
 j. fluid mech. vol. 3. 1958, p. 601-614 .
-
+.W
 an approximate boundary layer theory for semi-infinite cylinders of
 arbitrary cross-section .
 an estimate is given of the distribution of skin frictional force per

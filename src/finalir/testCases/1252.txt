@@ -1,9 +1,12 @@
-on the approach to chemical and vibrational equilibriumbehind a strong normal shock wave .
-
+.I 1252
+.T
+on the approach to chemical and vibrational equilibrium
+behind a strong normal shock wave .
+.A
 dorrance,w.h.
-
+.B
 j. ae. scs. 161, 43.
-
+.W
 on the approach to chemical and vibrational equilibrium
 behind a strong normal shock wave .
   the concurrent approach to chemical and vibrational

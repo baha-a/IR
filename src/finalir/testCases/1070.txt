@@ -1,9 +1,11 @@
+.I 1070
+.T
 buckling of orthotropic and stiffened conical shells .
-
+.A
 singer,j.
-
+.B
 nasa tn.d1510, 1962,463.
-
+.W
 buckling of orthotropic and stiffened conical shells .
   donnell type stability equations for thin circular orthotropic
 conical shells are presented and solved for external pressure, axial

@@ -1,9 +1,12 @@
-thermal distributions in jeffrey-hamel flows between nonparallel planewalls .
-
+.I 351
+.T
+thermal distributions in jeffrey-hamel flows between nonparallel plane
+walls .
+.A
 millsaps, k. and pohlhausen, k.
-
+.B
 j. aero. sc. v. 20. march 1953, pp 187-196 .
-
+.W
 thermal distributions in jeffrey-hamel flows between nonparallel plane
 walls .
 the authors give the exact solution for the thermal distributions for

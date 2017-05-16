@@ -1,9 +1,13 @@
-notes on waves through gases at pressures small comparedwith the magnetic pressure, with applications to upperatmosphere aerodynamics .
-
+.I 296
+.T
+notes on waves through gases at pressures small compared
+with the magnetic pressure, with applications to upper
+atmosphere aerodynamics .
+.A
 lighthill,m.j.
-
+.B
 j. fluid mech. 9, 1960, 465.
-
+.W
 notes on waves through gases at pressures small compared
 with the magnetic pressure, with applications to upper
 atmosphere aerodynamics .

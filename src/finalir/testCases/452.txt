@@ -1,9 +1,11 @@
+.I 452
+.T
 symmetric joukowsky airfoils in shear flow .
-
+.A
 tsien,h.s.
-
+.B
 q. app. math. 1, 1943, 130.
-
+.W
 symmetric joukowsky airfoils in shear flow .
   the velocity components of the fluid far from the airfoil
 are given by where c is the chord of

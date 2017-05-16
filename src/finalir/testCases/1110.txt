@@ -1,9 +1,11 @@
+.I 1110
+.T
 on supersonic flow past a slightly yawing cone .
-
+.A
 stone,ah.
-
+.B
 j. math. phys. 27, 1948, 67.
-
+.W
 on supersonic flow past a slightly yawing cone .
   this paper is concerned
 with the motion of a circular cone, of

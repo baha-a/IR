@@ -1,9 +1,12 @@
-experiments on circular cones at yaw in supersonicflow .
-
+.I 1306
+.T
+experiments on circular cones at yaw in supersonic
+flow .
+.A
 holt,m. and blackie,j.
-
+.B
 j. ae. scs. 23, 1956, 931.
-
+.W
 experiments on circular cones at yaw in supersonic
 flow .
   pressure measurements made in the fort halstead

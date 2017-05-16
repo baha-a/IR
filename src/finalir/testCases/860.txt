@@ -1,9 +1,12 @@
-test of an aerodynamically heated multi-- web wingstructure (mw-1) in a free jet at mach number 2.
-
+.I 860
+.T
+test of an aerodynamically heated multi-- web wing
+structure (mw-1) in a free jet at mach number 2.
+.A
 heldenfels,r.s., rosecrans,r. and grifith,g.e.
-
+.B
 naca rm l53e27, 1953.
-
+.W
 test of an aerodynamically heated multi-- web wing
 structure (mw-1) in a free jet at mach number 2.
   a multiweb wing structure, representing an airplane or missile wing,

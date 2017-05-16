@@ -1,9 +1,11 @@
+.I 462
+.T
 photo-thermoelasticity .
-
+.A
 gerard,g and gilbert,a.c.
-
+.B
 j.app.mech. 24, 1957.
-
+.W
 photo-thermoelasticity .
   this paper summarizes the optical and physical
 properties of the photoelastic model material paraplex p-43 over

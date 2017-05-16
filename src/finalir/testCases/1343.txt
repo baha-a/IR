@@ -1,9 +1,13 @@
-formulas for the supersonic loading, lift and dragof flat swept back wings with leading edges behindthe mach lines .
-
+.I 1343
+.T
+formulas for the supersonic loading, lift and drag
+of flat swept back wings with leading edges behind
+the mach lines .
+.A
 cohen,d.
-
+.B
 naca r.1050, 1951.
-
+.W
 formulas for the supersonic loading, lift and drag
 of flat swept back wings with leading edges behind
 the mach lines .

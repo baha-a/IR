@@ -1,9 +1,12 @@
-the behaviour of thin cylindrical shells after bucklingunder axial compression .
-
+.I 741
+.T
+the behaviour of thin cylindrical shells after buckling
+under axial compression .
+.A
 michielsen,h.f.
-
+.B
 j. ae. scs. 15, 1948, 738.
-
+.W
 the behaviour of thin cylindrical shells after buckling
 under axial compression .
   the fundamental investigations of von karman and tsien

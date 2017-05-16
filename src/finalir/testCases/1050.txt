@@ -1,9 +1,12 @@
-compressive buckling of simply supported curved platesand cylinders of sandwich construction .
-
+.I 1050
+.T
+compressive buckling of simply supported curved plates
+and cylinders of sandwich construction .
+.A
 stein,m. and mayers,j.
-
+.B
 naca tn.2601, 1952.
-
+.W
 compressive buckling of simply supported curved plates
 and cylinders of sandwich construction .
   theoretical solutions are presented

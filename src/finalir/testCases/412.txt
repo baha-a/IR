@@ -1,9 +1,12 @@
-critical combinations of shear and transverse directstress for an infinitely long flat plate withedges elastically restrained against rotation .
-
+.I 412
+.T
+critical combinations of shear and transverse direct
+stress for an infinitely long flat plate with
+edges elastically restrained against rotation .
+.A
 batdorf,s.b. and houbolt,j.c.
-
-
-
+.B
+.W
 critical combinations of shear and transverse direct
 stress for an infinitely long flat plate with
 edges elastically restrained against rotation .

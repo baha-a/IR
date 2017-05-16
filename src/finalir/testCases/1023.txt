@@ -1,9 +1,9 @@
+.I 1023
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   a theory of creep buckling is presented in which the instantaneous
 elastic and plastic deformations following the application of a load, as

@@ -1,9 +1,12 @@
-addendum to 'heat transfer to satellite vehicles re-entering theatmosphere .
-
+.I 983
+.T
+addendum to 'heat transfer to satellite vehicles re-entering the
+atmosphere .
+.A
 detra, r.w., kemp, n.h. and riddell, f.r.
-
+.B
 jet propulsion, vol. 27, december 1957 . pp 1256-57 .
-
+.W
 addendum to 'heat transfer to satellite vehicles re-entering the
 atmosphere .
 the original paper gave a correlation formula for stagnation point heat

@@ -1,9 +1,12 @@
-pressure distributions . axially symmetric bodies inoblique flow .
-
+.I 196
+.T
+pressure distributions . axially symmetric bodies in
+oblique flow .
+.A
 campbell,i.j. and lewis,r.g.
-
+.B
 arc cp213, 1955.
-
+.W
 pressure distributions . axially symmetric bodies in
 oblique flow .
   a simple picture, known from the work of i. lotz, of the flow over

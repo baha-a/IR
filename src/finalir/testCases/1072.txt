@@ -1,9 +1,11 @@
+.I 1072
+.T
 ignition and combustion in a laminar mixing zone .
-
+.A
 marble,f. and adamson,t.c.
-
+.B
 jet prop. 24, 1954, 85.
-
+.W
 ignition and combustion in a laminar mixing zone .
   the analytic investigation of laminar combustion
 processes which are essentially two- or three-dimensional

@@ -1,9 +1,11 @@
+.I 913
+.T
 vibrations of beams on many supports .
-
+.A
 miles,j.w.
-
+.B
 proc. a.s.c.e., 82, 1956.
-
+.W
 vibrations of beams on many supports .
   the natural frequencies of a continuous
 beam resting on an arbitrary

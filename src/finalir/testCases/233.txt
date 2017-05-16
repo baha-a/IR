@@ -1,9 +1,11 @@
+.I 233
+.T
 the theoretical wave drag of some bodies of revolution .
-
+.A
 fraenkel,l.e.
-
+.B
 rae r.aero.2420.
-
+.W
 the theoretical wave drag of some bodies of revolution .
   this report investigates the wave drag of bodies
 of revolution with pointed or open-nose forebodies

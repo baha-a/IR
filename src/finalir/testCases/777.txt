@@ -1,9 +1,12 @@
-a technique for rendering approximate solutions tophysical problems uniformly valid .
-
+.I 777
+.T
+a technique for rendering approximate solutions to
+physical problems uniformly valid .
+.A
 lighthill,m.j.
-
+.B
 phil. mag. 40, 1949, 1179.
-
+.W
 a technique for rendering approximate solutions to
 physical problems uniformly valid .
   a method is described for treating

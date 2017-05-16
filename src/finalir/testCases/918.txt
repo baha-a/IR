@@ -1,9 +1,12 @@
-on the low aspect ratio oscillating rectangular wingin supersonic flow .
-
+.I 918
+.T
+on the low aspect ratio oscillating rectangular wing
+in supersonic flow .
+.A
 miles,j.w.
-
+.B
 aero. quart. 4, 1953, 231.
-
+.W
 on the low aspect ratio oscillating rectangular wing
 in supersonic flow .
   the laplace transform of

@@ -1,9 +1,12 @@
-bending of a square plate with two adjacent edges freeand the others clamped or simply supported .
-
+.I 422
+.T
+bending of a square plate with two adjacent edges free
+and the others clamped or simply supported .
+.A
 leissa,a.w. and niedenfuhr,f.w.
-
+.B
 a.i.a.a. jnl. 1, 1963, 116.
-
+.W
 bending of a square plate with two adjacent edges free
 and the others clamped or simply supported .
   the title problems were solved for the two cases ..  (1) uniform

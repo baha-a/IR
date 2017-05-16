@@ -1,9 +1,12 @@
-sweepback effects in the turbulent boundary-layer shock-waveinteraction .
-
+.I 291
+.T
+sweepback effects in the turbulent boundary-layer shock-wave
+interaction .
+.A
 stalker,r.j.
-
+.B
 j. ae. scs. 27, 1960.
-
+.W
 sweepback effects in the turbulent boundary-layer shock-wave
 interaction .
   experiments are reported on the interaction of turbulent

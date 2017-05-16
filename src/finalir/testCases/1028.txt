@@ -1,9 +1,9 @@
+.I 1028
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   the phenomenological theory previously
 proposed in naca technical

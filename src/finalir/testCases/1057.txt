@@ -1,9 +1,11 @@
+.I 1057
+.T
 the uniform section disk spring .
-
+.A
 almen,j.o. and laszlo,a.
-
+.B
 asme trans. 58, 1936, 305.
-
+.W
 the uniform section disk spring .
   the authors point out in this paper that initially coned
 annular-disk springs of uniform cross section may be

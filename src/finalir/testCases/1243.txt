@@ -1,9 +1,11 @@
+.I 1243
+.T
 supersonic boom of wing-body configurations .
-
+.A
 ryhming,i.l. and yoler,y.a.
-
+.B
 j. ae. scs. 1961, 313.
-
+.W
 supersonic boom of wing-body configurations .
   the supersonic boom in steady, level flight of a wing-body
 configuration is due to the effects of body volume, wing volume,

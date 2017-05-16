@@ -1,9 +1,12 @@
-large deflections of structures subjected to heatingand external loads .
-
+.I 1361
+.T
+large deflections of structures subjected to heating
+and external loads .
+.A
 turner,j.m.
-
+.B
 j. ae. scs. 1960.
-
+.W
 large deflections of structures subjected to heating
 and external loads .
   the method of direct formulation of the stiffness matrix is

@@ -1,9 +1,13 @@
-the flow field over blunted flat plates and its effecton turbulent boundary growth and heat transfer at amach number of 4. 7.
-
+.I 1107
+.T
+the flow field over blunted flat plates and its effect
+on turbulent boundary growth and heat transfer at a
+mach number of 4. 7.
+.A
 tendeland,t.
-
+.B
 nasa tn.d689, 1961.
-
+.W
 the flow field over blunted flat plates and its effect
 on turbulent boundary growth and heat transfer at a
 mach number of 4. 7.

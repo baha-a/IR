@@ -1,9 +1,12 @@
-effects of surface tension and viscosity on taylorinstability .
-
+.I 331
+.T
+effects of surface tension and viscosity on taylor
+instability .
+.A
 bellman,r. and pennington,r.h.
-
+.B
 q. app. math. 12, 1954.
-
+.W
 effects of surface tension and viscosity on taylor
 instability .
   the model used is that of two

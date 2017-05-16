@@ -1,9 +1,11 @@
+.I 403
+.T
 magnetohydrodynamic shock waves .
-
+.A
 helger,l.
-
+.B
 astrophys. j. 117, 1953, 177.
-
+.W
 magnetohydrodynamic shock waves .
   an interpretation of the de hoffman-teller shock-wave
 equations for an infinitely conducting

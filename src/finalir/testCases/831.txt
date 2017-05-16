@@ -1,9 +1,11 @@
+.I 831
+.T
 buckling of shallow shells under external pressure .
-
+.A
 reiss,e.l.
-
+.B
 j. app. mech. 25, 1958,556.
-
+.W
 buckling of shallow shells under external pressure .
 a formula for the initial buckling loads for clamped, shallow spherical
 shells under uniform external pressure is obtained by combining the

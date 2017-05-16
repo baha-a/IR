@@ -1,9 +1,11 @@
+.I 459
+.T
 on the solution of the laminar boundary layer equations .
-
+.A
 tani,i.
-
+.B
 j.phys.soc.japan, 4, 1949, 149.
-
+.W
 on the solution of the laminar boundary layer equations .
   the theory of the laminar boundary layer
 offers a means of determining the skin friction

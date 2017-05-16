@@ -1,9 +1,12 @@
-predicted shock envelopes about two types of vehiclesat large angles of attack .
-
+.I 69
+.T
+predicted shock envelopes about two types of vehicles
+at large angles of attack .
+.A
 kaattari,g.e.
-
+.B
 nasa tn.d860, 1961.
-
+.W
 predicted shock envelopes about two types of vehicles
 at large angles of attack .
   methods based on oblique- and normal-shock relationships and the

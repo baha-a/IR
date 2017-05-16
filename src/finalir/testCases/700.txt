@@ -1,9 +1,11 @@
+.I 700
+.T
 two and three-dimensional unsteady lift problems in high speed flight .
-
+.A
 lomax et al.
-
+.B
 naca rep. 1077, 1952 .
-
+.W
 two and three-dimensional unsteady lift problems in high speed flight .
 the problem of transient lift on two- and three-dimensional wings flying
  at high speeds is discussed as a boundary-value problem for the

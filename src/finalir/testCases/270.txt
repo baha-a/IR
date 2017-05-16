@@ -1,9 +1,13 @@
-on combined free and forced convection laminar magnetohydrodynamicflow and heat transfer in channels with transversemagnetic field .
-
+.I 270
+.T
+on combined free and forced convection laminar magnetohydrodynamic
+flow and heat transfer in channels with transverse
+magnetic field .
+.A
 mori,y.
-
+.B
 int. devel. in heat transfer,1961.
-
+.W
 on combined free and forced convection laminar magnetohydrodynamic
 flow and heat transfer in channels with transverse
 magnetic field .

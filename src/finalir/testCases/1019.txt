@@ -1,9 +1,9 @@
+.I 1019
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   a method for estimating allowable
 load capacities of columns subject

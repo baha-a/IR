@@ -1,9 +1,13 @@
-simplified method for determination of the criticalheight of distributed roughness particles for boundarylayer transition at mach numbers from 0 to 5.
-
+.I 314
+.T
+simplified method for determination of the critical
+height of distributed roughness particles for boundary
+layer transition at mach numbers from 0 to 5.
+.A
 braslow,a.l. and knox,e.c.
-
+.B
 naca tn.4363, 1958.
-
+.W
 simplified method for determination of the critical
 height of distributed roughness particles for boundary
 layer transition at mach numbers from 0 to 5.

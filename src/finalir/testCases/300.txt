@@ -1,9 +1,12 @@
-on a particular class of similar solutions of the equationsof motion and energy of a viscous fluid .
-
+.I 300
+.T
+on a particular class of similar solutions of the equations
+of motion and energy of a viscous fluid .
+.A
 reeves,b.l. and kippenhan,c.j.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 on a particular class of similar solutions of the equations
 of motion and energy of a viscous fluid .
   by introducing the similarity concept to the two-dimensional,

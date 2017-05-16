@@ -1,9 +1,11 @@
+.I 209
+.T
 boundary layer induced noise in the interior of aircraft .
-
+.A
 ribner,h.s.
-
+.B
 utia r37, 1956.
-
+.W
 boundary layer induced noise in the interior of aircraft .
   at high speeds the turbulent boundary layer washing the
 airplane fuselage excites appreciable skin vibration, promoting strong

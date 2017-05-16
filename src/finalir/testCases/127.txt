@@ -1,9 +1,11 @@
+.I 127
+.T
 supersonic axially symmetric nozzles .
-
+.A
 clippinger,r.f.
-
+.B
 b. r. l. r794, 1951.
-
+.W
 supersonic axially symmetric nozzles .
   at each of twenty-one exit mach numbers, ranging
 from 1.008 to 8.238, ten supersonic axially symmetric

@@ -1,9 +1,13 @@
-cavitation and pressure distributionhead forms at zero angle of yaw .
-
+.I 907
+.T
+cavitation and pressure distribution
+head forms at zero angle of yaw .
+.A
 hunter rouse and john s. mcnown
-
-iowa institute of hydraulic research, state university of iowaiowa city
-
+.B
+iowa institute of hydraulic research, state university of iowa
+iowa city
+.W
 cavitation and pressure distribution
 head forms at zero angle of yaw .
 early in the fall of 1943 the iowa institute of hydraulic research

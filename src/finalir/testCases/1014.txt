@@ -1,9 +1,9 @@
+.I 1014
+.T
 principles of creep buckling weight-strength analysis .
-
-
-
-
-
+.A
+.B
+.W
 principles of creep buckling weight-strength analysis .
 a problem of creep stability of columns and plates
 is considered .  in an analysis use is made

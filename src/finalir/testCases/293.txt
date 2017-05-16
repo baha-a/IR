@@ -1,9 +1,12 @@
-recent studies on the effect of cooling on boundarylayer transition at mach 4.
-
+.I 293
+.T
+recent studies on the effect of cooling on boundary
+layer transition at mach 4.
+.A
 wisniewski,r.j. and jack,j.r.
-
+.B
 j. ae. scs. 28, 1961.
-
+.W
 recent studies on the effect of cooling on boundary
 layer transition at mach 4.
 the advent of high-speed flight has necessitated the study of

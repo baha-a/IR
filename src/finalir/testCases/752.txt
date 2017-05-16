@@ -1,9 +1,11 @@
+.I 752
+.T
 slender not-so-thin wing theory .
-
+.A
 cooke,j.c.
-
+.B
 rae r.aero.2660, 1962.
-
+.W
 slender not-so-thin wing theory .
   a method for making an approximate thickness correction to slender
 thin-wing theory is presented .  the method is tested by applying it to

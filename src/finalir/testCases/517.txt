@@ -1,9 +1,11 @@
+.I 517
+.T
 reaction-resisted shock fronts .
-
+.A
 clarke,j.f.
-
+.B
 coa r.150, 1961.
-
+.W
 reaction-resisted shock fronts .
   it is shown that shock waves whose
 structure is determined solely by the effects

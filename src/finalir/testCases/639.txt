@@ -1,9 +1,12 @@
-analytical study of the tumbling motions of vehiclesentering planetary atmospheres .
-
+.I 639
+.T
+analytical study of the tumbling motions of vehicles
+entering planetary atmospheres .
+.A
 tobak,m.
-
+.B
 nasa tn.d1549, 1962.
-
+.W
 analytical study of the tumbling motions of vehicles
 entering planetary atmospheres .
   the tumbling motion of vehicles

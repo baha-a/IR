@@ -1,9 +1,12 @@
-experimental study of the random vibrations of an aircraftstructure excited by jet noise .
-
+.I 911
+.T
+experimental study of the random vibrations of an aircraft
+structure excited by jet noise .
+.A
 clarkson,b.l. and ford,r.d.
-
+.B
 u.s.a.a. r.128, univ. of southampton, 1960.
-
+.W
 experimental study of the random vibrations of an aircraft
 structure excited by jet noise .
   recordings have been made of the strains induced in a

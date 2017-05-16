@@ -1,9 +1,12 @@
-heat transfer through the laminar boundary layer ona circular cylinder in axial incompressible flow .
-
+.I 784
+.T
+heat transfer through the laminar boundary layer on
+a circular cylinder in axial incompressible flow .
+.A
 bourne,d.e. and davies,d.r.
-
+.B
 q. j. mech. app. math. 11, 1958, 52.
-
+.W
 heat transfer through the laminar boundary layer on
 a circular cylinder in axial incompressible flow .
   this paper presents a method of calculating

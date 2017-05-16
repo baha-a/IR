@@ -1,9 +1,13 @@
-analysis and calculation by integral methods of laminarcompressible boundary layer with heat transfer andwith and without pressure gradient .
-
+.I 1386
+.T
+analysis and calculation by integral methods of laminar
+compressible boundary layer with heat transfer and
+with and without pressure gradient .
+.A
 morduchow,m.
-
+.B
 naca r.1245, 1955.
-
+.W
 analysis and calculation by integral methods of laminar
 compressible boundary layer with heat transfer and
 with and without pressure gradient .

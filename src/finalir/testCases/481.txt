@@ -1,9 +1,12 @@
-mass transfer cooling of a laminary boundary layerby injection of a light weight foreign gas .
-
+.I 481
+.T
+mass transfer cooling of a laminary boundary layer
+by injection of a light weight foreign gas .
+.A
 eckert,e., schneider,p., hayday,a. and larson,r.
-
+.B
 jet prop. 1958, 34.
-
+.W
 mass transfer cooling of a laminary boundary layer
 by injection of a light weight foreign gas .
   analytical predictions are given for the development of

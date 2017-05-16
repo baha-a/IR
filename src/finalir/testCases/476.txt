@@ -1,9 +1,11 @@
+.I 476
+.T
 the blasius equation with three-point boundary conditions .
-
+.A
 napolitano, i. g.
-
+.B
 quart. appl. math. v. 16, no. 4, pp 397-408, 1958 .
-
+.W
 the blasius equation with three-point boundary conditions .
 the blasius equation subject to three-point boundary conditions,
 describing the interaction between two parallel streams, is solved by way

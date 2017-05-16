@@ -1,9 +1,11 @@
+.I 424
+.T
 cantilever plate with concentrated edge load .
-
+.A
 holl,d.l.
-
+.B
 j.app.mech. 1937, 8.
-
+.W
 cantilever plate with concentrated edge load .
   the author gives, by the method of finite differences, an
 approximate solution of the problem of a finite length

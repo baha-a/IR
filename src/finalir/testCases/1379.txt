@@ -1,9 +1,11 @@
+.I 1379
+.T
 hypersonic flight and the re-entry problem .
-
+.A
 allen, h.j.
-
+.B
 j. aerospace sce. 25, 217-227, 1958 .
-
+.W
 hypersonic flight and the re-entry problem .
 paper reviews the possibilities and some of the main problems of three
 types of long-range vehicle, the ballistic, the glide, and the skip

@@ -1,9 +1,11 @@
+.I 706
+.T
 on som reciprocal relations in the theory of nonstationary flows .
-
+.A
 garrick, i.e.
-
+.B
 naca rep. 629. 1938 .
-
+.W
 on som reciprocal relations in the theory of nonstationary flows .
 in the theory of nonstationary flows about airfoils, the /indicial lift/
  function k /s/ of wagner and the /alternating lift/ function c /k/ of

@@ -1,9 +1,12 @@
-experimental investigation of the aerodynamics of awing in a slipstream .
-
+.I 1
+.T
+experimental investigation of the aerodynamics of a
+wing in a slipstream .
+.A
 brenckman,m.
-
+.B
 j. ae. scs. 25, 1958, 324.
-
+.W
 experimental investigation of the aerodynamics of a
 wing in a slipstream .
   an experimental study of a wing in a propeller slipstream was

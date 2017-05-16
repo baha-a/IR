@@ -1,9 +1,11 @@
+.I 223
+.T
 a note on the theory of the stanton tube .
-
+.A
 gadd,g.e.
-
+.B
 arc r + m 3147, 1958.
-
+.W
 a note on the theory of the stanton tube .
   existing theories for the stanton tube are
 critically reviewed, and the paper then outlines a

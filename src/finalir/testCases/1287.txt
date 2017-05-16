@@ -1,9 +1,12 @@
-progress report on an experiment on the effect of surfaceflexibility on the stability of laminar flow .
-
+.I 1287
+.T
+progress report on an experiment on the effect of surface
+flexibility on the stability of laminar flow .
+.A
 gregory,n. and love,e.m.
-
+.B
 arc cp.602, 1961.
-
+.W
 progress report on an experiment on the effect of surface
 flexibility on the stability of laminar flow .
   this paper describes the flexible

@@ -1,9 +1,12 @@
-aerodynamic characteristics of two winged reentry vehicles at supersonic and hypersonic speeds .
-
+.I 708
+.T
+aerodynamic characteristics of two winged reentry vehicles at supersonic
+ and hypersonic speeds .
+.A
 ladson, c.l. and johnston, p.j.
-
+.B
 nasa tm x 346, 1961 .
-
+.W
 aerodynamic characteristics of two winged reentry vehicles at supersonic
  and hypersonic speeds .
 tests were conducted at the langley research center on two winged

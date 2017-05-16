@@ -1,9 +1,12 @@
-bending and compression tests of pressurised ring-stiffenedcylinders .
-
+.I 838
+.T
+bending and compression tests of pressurised ring-stiffened
+cylinders .
+.A
 dow,m.b. and peterson,j.p.
-
+.B
 nasa tn.d360, 1960.
-
+.W
 bending and compression tests of pressurised ring-stiffened
 cylinders .
   the results of tests on pressurized ring-stiffened cylinders

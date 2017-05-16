@@ -1,9 +1,11 @@
+.I 1385
+.T
 air flow in a separating laminar boundary layer .
-
+.A
 schubauer,g.b.
-
+.B
 naca r.527, 1935.
-
+.W
 air flow in a separating laminar boundary layer .
   the speed distribution in a laminar boundary layer on
 the surface of an elliptic cylinder, of major and minor

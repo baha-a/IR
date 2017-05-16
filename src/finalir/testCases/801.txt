@@ -1,9 +1,13 @@
-experimental study of the equivalence of transonicflow about slender cone-cylinders of circular and ellipticcross section .
-
+.I 801
+.T
+experimental study of the equivalence of transonic
+flow about slender cone-cylinders of circular and elliptic
+cross section .
+.A
 page,w.a.
-
+.B
 naca tn.4233, 1958.
-
+.W
 experimental study of the equivalence of transonic
 flow about slender cone-cylinders of circular and elliptic
 cross section .

@@ -1,9 +1,12 @@
-a note on the use of sandwich structures in severe acousticenvironments .
-
+.I 720
+.T
+a note on the use of sandwich structures in severe acoustic
+environments .
+.A
 d. j. mead, d. c. ae.
-
+.B
 d. j. mead, d.c.ae.
-
+.W
 a note on the use of sandwich structures in severe acoustic
 environments .
 this paper reviews some of the experience to date of using sandwich type

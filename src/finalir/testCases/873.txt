@@ -1,9 +1,12 @@
-lagrangian thermodynamics of heat transfer in systemsincluding fluid motion .
-
+.I 873
+.T
+lagrangian thermodynamics of heat transfer in systems
+including fluid motion .
+.A
 biot,m.a.
-
+.B
 j. ae. scs. 29, 1962, 568.
-
+.W
 lagrangian thermodynamics of heat transfer in systems
 including fluid motion .
   the lagrangian thermodynamic equations of irreversible

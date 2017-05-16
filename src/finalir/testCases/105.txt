@@ -1,9 +1,12 @@
-the asymptotic boundary layer on a circular cylinderin axial incompressible flow .
-
+.I 105
+.T
+the asymptotic boundary layer on a circular cylinder
+in axial incompressible flow .
+.A
 stewartson,k.
-
+.B
 q.app.math. 13, 1955, 113.
-
+.W
 the asymptotic boundary layer on a circular cylinder
 in axial incompressible flow .
   in this paper the incompressible boundary layer over a

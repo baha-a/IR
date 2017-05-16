@@ -1,9 +1,12 @@
-on the model of the free shock separation, turbulentboundary layer .
-
+.I 358
+.T
+on the model of the free shock separation, turbulent
+boundary layer .
+.A
 mager,a.
-
+.B
 j. ae. scs. 1956, 181.
-
+.W
 on the model of the free shock separation, turbulent
 boundary layer .
   by free shock-separated boundary layers, one means that type of

@@ -1,9 +1,11 @@
+.I 1099
+.T
 a theoretical study of stagnation point ablation .
-
+.A
 roberts, l.
-
+.B
 nasa tr r-9, 1959 .
-
+.W
 a theoretical study of stagnation point ablation .
 a simplified analysis is made of the shielding mechanism which reduces
 the stagnation-point heat transfer when ablation takes place at the

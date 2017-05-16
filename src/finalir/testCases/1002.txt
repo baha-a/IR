@@ -1,9 +1,11 @@
+.I 1002
+.T
 preliminary investigations of spiked bodies at hypersonic speeds .
-
+.A
 bogdonoff, s.m. and vas, i.e.
-
+.B
 jnl. aero. sci. february 1959, p. 65-74 .
-
+.W
 preliminary investigations of spiked bodies at hypersonic speeds .
 generally accepted solutions for the problems of hypersonic flight
 appear, at the moment, to be centered around the use of blunt bodies to

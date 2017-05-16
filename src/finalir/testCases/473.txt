@@ -1,9 +1,9 @@
+.I 473
+.T
 freeman method .
-
-
-
-
-
+.A
+.B
+.W
 freeman method .
 the freeman method (ref. 26) is similar to
 chester's method in that the newtonian-plus-centrifugal solution (eq.

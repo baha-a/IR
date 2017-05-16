@@ -1,9 +1,11 @@
+.I 550
+.T
 laminar heat transfer in tubes under slip-flow conditions .
-
+.A
 sparrow,e.m. and lin,s.h.
-
+.B
 asme paper 61-wa-165.
-
+.W
 laminar heat transfer in tubes under slip-flow conditions .
 the effects of low-density phenomena on the
 fully developed heat-transfer characteristics

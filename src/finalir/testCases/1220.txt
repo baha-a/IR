@@ -1,9 +1,12 @@
-boundary layer transition in the presence of streamwisevortices .
-
+.I 1220
+.T
+boundary layer transition in the presence of streamwise
+vortices .
+.A
 tani,i. and komoda,h.
-
+.B
 j. ae. scs.1962, 440.
-
+.W
 boundary layer transition in the presence of streamwise
 vortices .
   results of an experimental investigation of instability leading

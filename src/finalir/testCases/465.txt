@@ -1,9 +1,11 @@
+.I 465
+.T
 slender delta wings with sharp edges at zero lift .
-
+.A
 weber,j.
-
+.B
 rae tn.aero.2508.
-
+.W
 slender delta wings with sharp edges at zero lift .
   several slender wings of delta planform with sharp edges have been
 investigated theoretically at zero lift at subsonic and at supersonic

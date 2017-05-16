@@ -1,9 +1,11 @@
+.I 942
+.T
 secondary gas injection in a conical rocket nozzle .
-
+.A
 walker,r.e., stone,a.r. and shandor,m.
-
+.B
 aiaa jnl. u, 1963, 334.
-
+.W
 secondary gas injection in a conical rocket nozzle .
   data are presented on side forces generated
 by secondary gas injection in a 15 conical

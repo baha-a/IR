@@ -1,9 +1,12 @@
-on the application of mathieu functions in the theoryof subsonic compressible flow past oscillating airfoils .
-
+.I 445
+.T
+on the application of mathieu functions in the theory
+of subsonic compressible flow past oscillating airfoils .
+.A
 reissner,e.
-
+.B
 naca tn.1961.
-
+.W
 on the application of mathieu functions in the theory
 of subsonic compressible flow past oscillating airfoils .
   an account is given of explicit solutions in terms of mathieu function

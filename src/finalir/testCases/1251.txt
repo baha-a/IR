@@ -1,9 +1,11 @@
+.I 1251
+.T
 viscous flow past a quarter infinite plate .
-
+.A
 stewartson,k.
-
+.B
 j. ae. scs. 1961, 1.
-
+.W
 viscous flow past a quarter infinite plate .
   a study is made of the motion of an incompressible viscous
 fluid past a quarter-infinite plate, whose leading edge is

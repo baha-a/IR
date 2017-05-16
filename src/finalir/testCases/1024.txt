@@ -1,9 +1,9 @@
+.I 1024
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   the general dynamic equation of
 creep bending of a beam loaded

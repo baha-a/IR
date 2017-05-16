@@ -1,9 +1,11 @@
+.I 579
+.T
 further developments of new methods in heat flow analysis .
-
+.A
 biot,m.a.
-
+.B
 j.ae.scs.26, 1959.
-
+.W
 further developments of new methods in heat flow analysis .
   lagrangian methods in heat-flow problems and transport
 phenomena were introduced by the writer in some previous work .

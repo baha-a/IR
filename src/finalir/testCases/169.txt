@@ -1,9 +1,10 @@
+.I 169
+.T
 on the sudden contact between a hot gas and a cold solid .
-
+.A
 j. f. clarke, b.sc., ph.d., a.f.r.ae.s.
-
-
-
+.B
+.W
 on the sudden contact between a hot gas and a cold solid .
 the flow induced by the sudden contact between a semi-infinite expanse
 of gas and a solid, initially at different temperatures, is examined on

@@ -1,9 +1,12 @@
-stagnation temperature measurements in a hypersonic gun tunnel using the sodium-line reversal method .
-
+.I 1318
+.T
+stagnation temperature measurements in a hypersonic gun tunnel using the
+ sodium-line reversal method .
+.A
 stollery, j.l.
-
+.B
 arc 22854, may 1961 .
-
+.W
 stagnation temperature measurements in a hypersonic gun tunnel using the
  sodium-line reversal method .
 the sodium line reversal /s.l.r./ method has recently been used to

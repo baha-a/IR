@@ -1,9 +1,12 @@
-laminar boundary layer behind shock advancing intostationary fluid .
-
+.I 71
+.T
+laminar boundary layer behind shock advancing into
+stationary fluid .
+.A
 mirels,h.
-
+.B
 naca tn.3401, 1955.
-
+.W
 laminar boundary layer behind shock advancing into
 stationary fluid .
   a study was made of the laminar compressible boundary layer induced

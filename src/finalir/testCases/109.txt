@@ -1,9 +1,11 @@
+.I 109
+.T
 the production of uniform shear flow in a wind tunnel .
-
+.A
 owen,p.r. and zienkiewicz,h.k.
-
+.B
 j.fluid mech. 2, 1957, 521.
-
+.W
 the production of uniform shear flow in a wind tunnel .
   a nearly uniform shear flow was obtained in the working
 section of a wind tunnel by inserting a grid of parallel rods with

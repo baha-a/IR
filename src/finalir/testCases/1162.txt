@@ -1,9 +1,13 @@
-force-test investigation of the stability and controlcharacteristics of a 1/8 scale model of a tilt-wingvertical take-off and landing airplane .
-
+.I 1162
+.T
+force-test investigation of the stability and control
+characteristics of a 1/8 scale model of a tilt-wing
+vertical take-off and landing airplane .
+.A
 tosti,l.p.
-
+.B
 nasa tn.d44, 1960.
-
+.W
 force-test investigation of the stability and control
 characteristics of a 1/8 scale model of a tilt-wing
 vertical take-off and landing airplane .

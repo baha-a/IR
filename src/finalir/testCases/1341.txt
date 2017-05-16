@@ -1,9 +1,12 @@
-investigation of wing flutter at transonic speeds for six systematically varied wing plan forms .
-
+.I 1341
+.T
+investigation of wing flutter at transonic speeds for six systematically
+ varied wing plan forms .
+.A
 jones, g.w. and dubose, h.c.
-
+.B
 naca rml53g10a, 1953 .
-
+.W
 investigation of wing flutter at transonic speeds for six systematically
  varied wing plan forms .
 an investigation of the effects of systematic variations in wing plan

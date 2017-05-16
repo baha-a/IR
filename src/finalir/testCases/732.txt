@@ -1,9 +1,12 @@
-on the analogues relating flexure and extension offlat plates .
-
+.I 732
+.T
+on the analogues relating flexure and extension of
+flat plates .
+.A
 southwell,r.v.
-
+.B
 q. j. mech. app. math. 3, 1950, 257.
-
+.W
 on the analogues relating flexure and extension of
 flat plates .
   the displacement of a flat plate bent

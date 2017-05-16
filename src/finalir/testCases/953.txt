@@ -1,9 +1,12 @@
-vibrations of infinitely long cylindrical shells underinitial stress .
-
+.I 953
+.T
+vibrations of infinitely long cylindrical shells under
+initial stress .
+.A
 armenakas,a.e.
-
+.B
 aiaa jnl. 1, 1963, 100.
-
+.W
 vibrations of infinitely long cylindrical shells under
 initial stress .
   the general bending theory of shells under the influence of

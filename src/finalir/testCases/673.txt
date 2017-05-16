@@ -1,9 +1,12 @@
-investigation of full scale split trailing edge wingflaps with various chords and hinge locations .
-
+.I 673
+.T
+investigation of full scale split trailing edge wing
+flaps with various chords and hinge locations .
+.A
 wallace,r.
-
+.B
 naca r.539, 1935.
-
+.W
 investigation of full scale split trailing edge wing
 flaps with various chords and hinge locations .
   an investigation was conducted in the n. a. c. a.

@@ -1,9 +1,12 @@
-the effect of entrance velocity on the flow of a rarefiedgas, through a tube .
-
+.I 1139
+.T
+the effect of entrance velocity on the flow of a rarefied
+gas, through a tube .
+.A
 pond,h.l.
-
+.B
 j. ae. scs. 29, 1962, 917.
-
+.W
 the effect of entrance velocity on the flow of a rarefied
 gas, through a tube .
   the flow of a rarefied gas through a circular tube is considered .

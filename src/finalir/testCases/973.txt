@@ -1,9 +1,12 @@
-interaction effects produced by jet exhausting laterally near base ofogive-cylinder model in supersonic main stream .
-
+.I 973
+.T
+interaction effects produced by jet exhausting laterally near base of
+ogive-cylinder model in supersonic main stream .
+.A
 vinson, p.w., amick, j.l. and liepman, h.p.
-
+.B
 nasa memo 12-5-58w, february, 1959 .
-
+.W
 interaction effects produced by jet exhausting laterally near base of
 ogive-cylinder model in supersonic main stream .
 the experimentally determined interaction effects of a side jet

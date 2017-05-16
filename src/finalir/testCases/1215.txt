@@ -1,9 +1,11 @@
+.I 1215
+.T
 the effect of slip particularly for highly cooled walls .
-
+.A
 rott,n. and lenard,m.
-
+.B
 j. ae. scs. 1962, 591.
-
+.W
 the effect of slip particularly for highly cooled walls .
   it is found that for boundary conditions on the velocity slip
 and on the temperature jump which are not oversimplified in an

@@ -1,9 +1,12 @@
+.I 587
+.T
 variational analysis of ablation .
-
+.A
 m. a. biot and h. daughaday
-
-consultant and principal research engineer, respectively, cornellaeronautical laboratory, inc., buffalo 21, n.y.
-
+.B
+consultant and principal research engineer, respectively, cornell
+aeronautical laboratory, inc., buffalo 21, n.y.
+.W
 variational analysis of ablation .
 the variational and lagrangian thermodynamics developed in earlier
 publications are directly applicable to problems of heat conduction

@@ -1,9 +1,11 @@
+.I 628
+.T
 thermal effects on a transpiration cooled hemisphere .
-
+.A
 gollnick,a.f.
-
+.B
 j. ae. scs. 29, 1962, 583.
-
+.W
 thermal effects on a transpiration cooled hemisphere .
   an approximate method is used to obtain the
 injection distribution which would exist on an isothermal,

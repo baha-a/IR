@@ -1,9 +1,12 @@
-stresses and small displacements of shallow sphericalshells .
-
+.I 828
+.T
+stresses and small displacements of shallow spherical
+shells .
+.A
 reissner,e.
-
+.B
 j. math. phys. 25, 1946, 80.
-
+.W
 stresses and small displacements of shallow spherical
 shells .
   the purpose of the present paper is to derive a system of

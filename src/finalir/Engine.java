@@ -1,13 +1,15 @@
 package finalir;
 
-import edu.stanford.nlp.ling.CoreLabel;
+import Form.EngineClient;
 import finalir.DataStructure.*;
-import static finalir.IR.Print;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import javax.swing.JFileChooser;
+import javax.swing.UIManager;
 import org.apache.tika.Tika;
 import org.apache.tika.exception.TikaException;
 
@@ -19,8 +21,8 @@ public class Engine{
     Cache<DocumentResult> cache;
     Autocomplete completer;
     
-    public Engine(){
-        toky = new Tokenizer(true);
+    public Engine(boolean stemmingOnly){
+        toky = new Tokenizer();
         index = new InvertedIndex();
         searcher = new Searcher(index);
         cache = new Cache<>();
@@ -47,16 +49,20 @@ public class Engine{
         return this;
     }
     
-    public Engine IndexFiles(File[] files) throws IOException, TikaException{
+    public Engine IndexFiles(File[] files) throws IOException, TikaException {
+        return IndexFiles(files, t -> Print(t + " %"));
+    }
+    
+    public Engine IndexFiles(File[] files, Callable2<Integer> processBar) throws IOException, TikaException{
         int i = 0;
         for (File f : files){
             IndexFile(f);
             
-            if(i++ % 100 == 0)
-                Print((i * 100 / files.length) + "%");
+            if(i++ % 10 == 0)
+                processBar.call((i * 100 / files.length));
         }
         
-        Print((i * 100 / files.length) + " %");
+        processBar.call(100);
         return this;
     }
     
@@ -85,15 +91,15 @@ public class Engine{
         
         String query = q = q.toLowerCase();
         
+        System.out.println(q);
         if(cache.check(q + advanceSearch))
             return cache.get(q + advanceSearch);
         
+        
         for (CoreLabel w : toky.getTokens(query))
             for(String s : WordNet.getSynonyms(w.lemma()))
-            {
-                query += " " + s;
-                break;
-            }
+                query += " or " + s;
+        
         
         List<DocumentTermEntry> r = new ArrayList<>();
 
@@ -196,12 +202,12 @@ public class Engine{
     
     public static void Pizza(){
     
-        Engine indx = new Engine()
+        Engine indx = new Engine(true)
             .IndexText("the sun is yellow and the  sky it is blue, the weather is wonderful sun green blue very white")
             .IndexText("the sun is yellow and very blue, not sky red eye")
             .IndexText("get your eyes over here  wonderfully")
             .IndexText("this is the project to solve your information retrivel problems, enjoy it and have a good day")
-            .IndexText("the sun is not yellow and the sky isn't realy red red red, the end eye")
+            .IndexText("the sun is not yellow and the sky isn't realy red red red, the end eye السيارة")
             .ComputeTF_IDF();
         
         
@@ -253,9 +259,21 @@ public class Engine{
         Print(indx.searcher.SearchNear(1,"sky","realy","red","red","red","end").size());
         
         
+        Print(" ---- 5 ---- ");
+        List<DocumentTermEntry> d1 = indx.searcher.search("sky");
+        List<DocumentTermEntry> d2 = indx.searcher.search("red");
+        List<DocumentTermEntry> d3 = indx.searcher.And(d1, d2);
+        List<DocumentTermEntry> d4 = indx.searcher.And(d2, d1);
+        
+        for (DocumentTermEntry d : d3)
+            Print(d.getDocument().getName());   
+        Print("-");
+        for (DocumentTermEntry d : d4)
+            Print(d.getDocument().getName());   
+        
         Print("Enter query:");
         for(int i = 0; i < 10; i++)
-            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in).nextLine(),true))
+            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in,"UTF-8").nextLine(),true))
                 Print(d.getDocument().getName() + " --> " + d.getRank());
     }
      
@@ -295,5 +313,81 @@ public class Engine{
     
     public int getDocumentsCount(){
         return index.getCountOfDocuments();
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    public static void PrintR(String str){ System.out.print(str); }
+    public static void Print(String str) { System.out.println(str); }
+    public static void Print(int t) { System.out.println(t); }
+    public static void PrintErr(String str) { System.err.println(str); }
+    
+    public static File[] getFiles() {    
+        final JFileChooser chooser = new JFileChooser(new File("src\\finalir\\testCases"));
+        chooser.setMultiSelectionEnabled(true);
+        chooser.setAcceptAllFileFilterUsed(false);
+
+        File[] files = null;
+        if (chooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION) {
+            files = chooser.getSelectedFiles();
+        }
+        return files;
+    }    
+            
+    public static void MAIN() throws FileNotFoundException, IOException, TikaException, Exception {
+        Engine g = new Engine(true).IndexFiles(getFiles()).ComputeTF_IDF();
+        JazzySpellChecker speller = new JazzySpellChecker();
+        
+        String query = "";
+        List<DocumentResult> res;
+     
+        for(int top; !query.equals("x");){
+            
+            top = 10;
+            
+            PrintR("Query: ");
+            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase(),true);
+            
+            if(speller.HasError(query))
+                PrintR("Did you mean: " + speller.getCorrectedLine(query));
+            
+            if(res.isEmpty())
+                Print("nothing found");
+            
+            PrintErr(" AutoCompleting : ");
+            for (String str : g.getSuggestions(query))
+                Print(str);
+            
+            PrintErr(" RESULT : ");
+            for (DocumentResult d : res) {
+                if(top-- == 0)
+                    break;
+                Print(d.getDocument().getName() + " -> " + d.getRank());
+            }
+        }
+
+//        new PrintWriter("C:\\json.txt").write(
+//                new ObjectMapper()
+//                .writer()
+//                .writeValueAsString(g));
+        
+        
+        //System.out.println(new Gson().toJson(g));
+    }
+     
+    
+    public static void main(String[] args) throws FileNotFoundException, IOException, TikaException, Exception {
+        try  { UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName()); } catch (Exception ex) { }
+        
+        //Engine.Pizza();
+        //MAIN();    
+        
+        java.awt.EventQueue.invokeLater( () -> { new EngineClient().setVisible(true); });
     }
 }

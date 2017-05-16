@@ -1,9 +1,12 @@
-hangling qualities experience with several vtol researchaircraft .
-
+.I 1169
+.T
+hangling qualities experience with several vtol research
+aircraft .
+.A
 reeder,j.p.
-
+.B
 nasa tn.d735, 1961.
-
+.W
 hangling qualities experience with several vtol research
 aircraft .
   all of the vtol research aircraft

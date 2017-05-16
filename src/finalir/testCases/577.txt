@@ -1,9 +1,11 @@
+.I 577
+.T
 on hypersonic similitude .
-
+.A
 hayes,w.d.
-
+.B
 q. app. math. 5, 1947, 105.
-
+.W
 on hypersonic similitude .
   tsien in a recent paper (j. math. phys. mass. inst. tech.
 sonic flows around slender bodies and has pointed out that

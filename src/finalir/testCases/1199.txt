@@ -1,9 +1,12 @@
-theoretical investigations of a supersonic laminarboundary layer with foreign-gas injection .
-
+.I 1199
+.T
+theoretical investigations of a supersonic laminar
+boundary layer with foreign-gas injection .
+.A
 freedman,s.i., radbill,j.r. and kaye,j.
-
+.B
 aiaa jnl. 1, 1963.
-
+.W
 theoretical investigations of a supersonic laminar
 boundary layer with foreign-gas injection .
   the phenomena arising from the uniform injection of helium,

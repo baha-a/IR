@@ -1,9 +1,13 @@
-design and calibration at low speeds of a static tubeand a pitot-static tube with semi-ellipsoidal noseshapes .
-
+.I 239
+.T
+design and calibration at low speeds of a static tube
+and a pitot-static tube with semi-ellipsoidal nose
+shapes .
+.A
 kettle,d.j.
-
+.B
 rae tn.aero.2247, 1953.
-
+.W
 design and calibration at low speeds of a static tube
 and a pitot-static tube with semi-ellipsoidal nose
 shapes .

@@ -1,9 +1,11 @@
+.I 415
+.T
 the aerodynamic design of section shapes for swept wings .
-
+.A
 pearcey, h.h.
-
+.B
 2nd inter. congr. of int. council of aero. sc. september, 1960 .
-
+.W
 the aerodynamic design of section shapes for swept wings .
 an extension of work of lock and rogers and the result of cooperation by
 n.p.l., r.a.e. and members of the british aircraft industry to achieve a

@@ -1,9 +1,12 @@
-turbulent diffusion in the wake of a blunt nosed bodyat hypersonic speeds .
-
+.I 976
+.T
+turbulent diffusion in the wake of a blunt nosed body
+at hypersonic speeds .
+.A
 lees,l. and hromas,l.
-
+.B
 j. ae. scs. 29, 1962, 976.
-
+.W
 turbulent diffusion in the wake of a blunt nosed body
 at hypersonic speeds .
   at reynolds numbers greater than about 5 x 10

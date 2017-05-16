@@ -1,9 +1,12 @@
-exploratory tests of the effects of jet plumes on theflow over cone- cylinder flare bodies .
-
+.I 1351
+.T
+exploratory tests of the effects of jet plumes on the
+flow over cone- cylinder flare bodies .
+.A
 falanga,r.a.
-
+.B
 nasa tn.d1000, 1962.
-
+.W
 exploratory tests of the effects of jet plumes on the
 flow over cone- cylinder flare bodies .
   schlieren photographs have been

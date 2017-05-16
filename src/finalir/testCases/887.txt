@@ -1,9 +1,12 @@
-buckling due to thermal stress of cylindrical shellssubjected to axial temperature distributions .
-
+.I 887
+.T
+buckling due to thermal stress of cylindrical shells
+subjected to axial temperature distributions .
+.A
 johns,d.j.
-
+.B
 coa r.147, 1961.
-
+.W
 buckling due to thermal stress of cylindrical shells
 subjected to axial temperature distributions .
   thermal stress distributions in uniform circular cylindrical shells

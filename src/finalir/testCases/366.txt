@@ -1,9 +1,12 @@
-helium injection into the boundary layer at an axisymmetricstagnation point .
-
+.I 366
+.T
+helium injection into the boundary layer at an axisymmetric
+stagnation point .
+.A
 fox,h. and libby,p.a.
-
+.B
 j. ae. scs. 1962, 921.
-
+.W
 helium injection into the boundary layer at an axisymmetric
 stagnation point .
   this report presents a theoretical analysis of the boundary

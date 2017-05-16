@@ -1,9 +1,12 @@
-compressible two dimensional jet mixing at constantpressure .
-
+.I 961
+.T
+compressible two dimensional jet mixing at constant
+pressure .
+.A
 korst,h.h. and page,r.h.
-
+.B
 univ. of illinois dept. mech. eng. me-tn-392-1, 1954.
-
+.W
 compressible two dimensional jet mixing at constant
 pressure .
   an analysis is made of turbulent constant pressure mixing for a

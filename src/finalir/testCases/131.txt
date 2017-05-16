@@ -1,9 +1,11 @@
+.I 131
+.T
 two-dimensional jet mixing of a compressible fluid .
-
+.A
 pai,s.i.
-
+.B
 j.aero.scs. 16, 1949, 463.
-
+.W
 two-dimensional jet mixing of a compressible fluid .
   the mixing and divergence of a supersonic jet exhausting into
 a supersonic stream are investigated theoretically .

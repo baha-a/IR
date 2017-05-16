@@ -1,9 +1,12 @@
-stability of rectangular plates under shear and bendingforces .
-
+.I 1398
+.T
+stability of rectangular plates under shear and bending
+forces .
+.A
 way,s.
-
+.B
 j. app. mech. 3, 1936, a131.
-
+.W
 stability of rectangular plates under shear and bending
 forces .
   the author first discusses the problem of a plane, simply

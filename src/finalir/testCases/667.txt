@@ -1,9 +1,13 @@
-hypersonic shock layer theory of the stagnation region at low reynoldsnumber .
-
+.I 667
+.T
+hypersonic shock layer theory of the stagnation region at low reynolds
+number .
+.A
 cheng, h.k.
-
-proc. 1961, heat transfer and fluid mech. inst. stanford. univ. press.1961 . p.161
-
+.B
+proc. 1961, heat transfer and fluid mech. inst. stanford. univ. press.
+1961 . p.161
+.W
 hypersonic shock layer theory of the stagnation region at low reynolds
 number .
 cheng, h.k.

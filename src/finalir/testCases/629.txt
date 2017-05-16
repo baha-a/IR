@@ -1,9 +1,11 @@
+.I 629
+.T
 second-order effects in laminar boundary layers .
-
+.A
 maslen,s.h.
-
+.B
 a.i.a.a. j. 1963, 33.
-
+.W
 second-order effects in laminar boundary layers .
   second-order boundary layer disturbances are
 due to the displacement of the main flow by

@@ -1,9 +1,12 @@
-wind tunnel techniques for the measurements of oscillatoryderivatives .
-
+.I 594
+.T
+wind tunnel techniques for the measurements of oscillatory
+derivatives .
+.A
 bratt, j.b.
-
+.B
 arc 22, 146, 1960
-
+.W
 wind tunnel techniques for the measurements of oscillatory
 derivatives .
 this paper discusses the basic principles employed in techniques for the

@@ -1,9 +1,12 @@
-a new design of pitot-static tube with a discussionof pitot-static tubes and their calibration factors .
-
+.I 893
+.T
+a new design of pitot-static tube with a discussion
+of pitot-static tubes and their calibration factors .
+.A
 salter,c.
-
+.B
 npl. aero. r.1013, 1962.
-
+.W
 a new design of pitot-static tube with a discussion
 of pitot-static tubes and their calibration factors .
   the report describes experiments devised to investigate

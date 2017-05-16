@@ -1,9 +1,12 @@
-analysis of stress at several junctions in pressurizedshells .
-
+.I 954
+.T
+analysis of stress at several junctions in pressurized
+shells .
+.A
 johns,r.h., morgan,w.c. and spera,d.a.
-
+.B
 aiaa jnl. 1, 1963, 455.
-
+.W
 analysis of stress at several junctions in pressurized
 shells .
   theoretical and experimental results are

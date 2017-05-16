@@ -1,9 +1,11 @@
+.I 829
+.T
 stability of thin-walled tubes under torsion .
-
+.A
 donnel,l.h.
-
+.B
 naca r.479, 1933, 12.
-
+.W
 stability of thin-walled tubes under torsion .
   in this paper a theoretical solution is developed for the
 torsion on a round thin-walled tube for which the walls

@@ -1,9 +1,12 @@
-analysis of quartz and teflon shields for a particularre-entry mission .
-
+.I 274
+.T
+analysis of quartz and teflon shields for a particular
+re-entry mission .
+.A
 adams,e.w.
-
+.B
 heat transfer and fluid mech. inst. 1961, 222.
-
+.W
 analysis of quartz and teflon shields for a particular
 re-entry mission .
   the transient performance of

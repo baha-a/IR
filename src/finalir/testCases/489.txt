@@ -1,9 +1,12 @@
-on calculation of the laminar separation point andresults of certain flows .
-
+.I 489
+.T
+on calculation of the laminar separation point and
+results of certain flows .
+.A
 morduchow,m.
-
+.B
 j.ae.scs. 29, 1962, 996.
-
+.W
 on calculation of the laminar separation point and
 results of certain flows .
   paper studies compressible laminar boundary layer in adverse

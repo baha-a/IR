@@ -1,9 +1,12 @@
-the flow pattern on a tapered sweptback wing at mach numbers between 0.6 and 1.6 .
-
+.I 793
+.T
+the flow pattern on a tapered sweptback wing at mach numbers between 0.6
+ and 1.6 .
+.A
 hall, i.m. and rogers, e.w.e.
-
+.B
 a.r.c. r + m 3271, part 1, july 1960 .
-
+.W
 the flow pattern on a tapered sweptback wing at mach numbers between 0.6
  and 1.6 .
 the development of the flow pattern on a swept wing with incidence and

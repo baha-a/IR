@@ -1,9 +1,11 @@
+.I 1128
+.T
 face wrinkling and core strength in sandwich construction .
-
+.A
 yuseff,s.
-
+.B
 j. ae. scs. 1960.
-
+.W
 face wrinkling and core strength in sandwich construction .
   the effect of initial waviness on the wrinkling of
 faces in sandwich construction is studied .  formulae are

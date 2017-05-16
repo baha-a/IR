@@ -1,9 +1,13 @@
-pressure loads produced on a flat-plate wing by rocket jets exhaustingin a spanwise direction below the wing and perpendicular to afree-stream flow of mach number 2.0 .
-
+.I 696
+.T
+pressure loads produced on a flat-plate wing by rocket jets exhausting
+in a spanwise direction below the wing and perpendicular to a
+free-stream flow of mach number 2.0 .
+.A
 falangan, r.a. and janos, j. j.
-
+.B
 nasa tn d-893, 1961 .
-
+.W
 pressure loads produced on a flat-plate wing by rocket jets exhausting
 in a spanwise direction below the wing and perpendicular to a
 free-stream flow of mach number 2.0 .

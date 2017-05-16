@@ -1,9 +1,12 @@
-experiments at hypersonic speeds on circular conesat incidence .
-
+.I 1285
+.T
+experiments at hypersonic speeds on circular cones
+at incidence .
+.A
 peckham,d.h.
-
+.B
 rae tn.aero.2863, 1963.
-
+.W
 experiments at hypersonic speeds on circular cones
 at incidence .
   pressure distribution measurements

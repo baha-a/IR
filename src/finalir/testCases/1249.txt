@@ -1,9 +1,11 @@
+.I 1249
+.T
 plasma flow over a thin charged conductor .
-
+.A
 yoshihara,h.
-
+.B
 j. ae. scs. 1961, 141.
-
+.W
 plasma flow over a thin charged conductor .
   the flow of a dense plasma over a wavy conducting wall of
 small amplitude is investigated where magnetic effects are

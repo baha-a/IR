@@ -1,9 +1,11 @@
+.I 786
+.T
 the skin friction on infinite cylinders moving parallell to their length .
-
+.A
 batchelor, g.k.
-
+.B
 quart. j. mech. app. math. vol. vii, /2/, 1954, p. 179-192 .
-
+.W
 the skin friction on infinite cylinders moving parallell to their length .
 the frictional force on a cylinder moving steadily parallel to its
 length through a viscous liquid which is initially at rest is determined

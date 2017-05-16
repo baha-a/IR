@@ -1,9 +1,11 @@
+.I 1104
+.T
 aerodynamic heating of blunt nose shapes at mach numbers up to 14 .
-
+.A
 stoney, w.e.
-
+.B
 naca rm l58 e05a, 1958 .
-
+.W
 aerodynamic heating of blunt nose shapes at mach numbers up to 14 .
 results are presented from recent investigations of the aerodynamic
 heating rates of blunt nose shapes at mach numbers up to 14 . data

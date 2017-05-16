@@ -1,9 +1,12 @@
-an integral method for calculating heat and mass transferin laminar boundary layers .
-
+.I 1185
+.T
+an integral method for calculating heat and mass transfer
+in laminar boundary layers .
+.A
 culick,f.e.c.
-
+.B
 aiaa jnl. 1963, 783.
-
+.W
 an integral method for calculating heat and mass transfer
 in laminar boundary layers .
   an integral method previously used successfully

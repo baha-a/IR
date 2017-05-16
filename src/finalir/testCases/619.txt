@@ -1,9 +1,12 @@
-density of the upper atmosphere from analysis of satellite orbits ..further results .
-
+.I 619
+.T
+density of the upper atmosphere from analysis of satellite orbits ..
+further results .
+.A
 king-hele, d.g.
-
+.B
 nature, v184, 1267-1270, 1959 . r.a.e. rep. gw. 25. appendix y .
-
+.W
 density of the upper atmosphere from analysis of satellite orbits ..
 further results .
 the method previously described has been refined by taking into account

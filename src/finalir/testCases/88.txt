@@ -1,9 +1,11 @@
+.I 88
+.T
 magnetohydrodynamic free-convection pipe flow .
-
+.A
 cramer,k.r.
-
+.B
 j. ae. scs. 28, 1961, 736.
-
+.W
 magnetohydrodynamic free-convection pipe flow .
 it has been shown that transverse magnetic fields of practical
 strengths exert considerable influence on liquid-metal,

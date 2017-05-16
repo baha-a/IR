@@ -1,9 +1,12 @@
+.I 835
+.T
 the problem of strain accumulation under thermal cycling .
-
+.A
 b. e. gatewood
-
-research coordinator, air force institute of technology,wright-patterson air force base, ohio
-
+.B
+research coordinator, air force institute of technology,
+wright-patterson air force base, ohio
+.W
 the problem of strain accumulation under thermal cycling .
 parkes and sprague and huang have shown that it is possible for strain
 growth to occur in a beam structure under temperature-load cycling .

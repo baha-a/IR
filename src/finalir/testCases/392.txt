@@ -1,9 +1,12 @@
-natural frequencies of rectangular plates with edgeselastically restrained against rotation .
-
+.I 392
+.T
+natural frequencies of rectangular plates with edges
+elastically restrained against rotation .
+.A
 jogarao,v. and lakshmikantham,c.
-
+.B
 j. ae. scs. 1957.
-
+.W
 natural frequencies of rectangular plates with edges
 elastically restrained against rotation .
   plates with attachments to heavier members along the

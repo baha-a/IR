@@ -1,9 +1,12 @@
-effect of diffusion fields on the laminar boundarylayer .
-
+.I 342
+.T
+effect of diffusion fields on the laminar boundary
+layer .
+.A
 smith,j.w.
-
+.B
 j.ze.scs. 21, 1954.
-
+.W
 effect of diffusion fields on the laminar boundary
 layer .
   a theory is developed which describes the effect of a general

@@ -1,9 +1,13 @@
-summary of laminar boundary layer solutions forwedge-type flow over convection and transpiration cooledsurfaces .
-
+.I 661
+.T
+summary of laminar boundary layer solutions for
+wedge-type flow over convection and transpiration cooled
+surfaces .
+.A
 livingood,j.n.b. and donoughe,p.
-
+.B
 naca tn.3588, 1955.
-
+.W
 summary of laminar boundary layer solutions for
 wedge-type flow over convection and transpiration cooled
 surfaces .

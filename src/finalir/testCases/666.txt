@@ -1,9 +1,11 @@
+.I 666
+.T
 blunt body heat transfer at hypersonic speed and low reynolds numbers .
-
+.A
 ferri, a. zakkay, v. and ting, l.
-
+.B
 j. aero. sc. v. 28. p. 862. 1961 .
-
+.W
 blunt body heat transfer at hypersonic speed and low reynolds numbers .
 an analytical method for the determination of effect of shock curvature
 on heat transfer in the region of the nose has been developed . it is

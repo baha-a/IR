@@ -1,9 +1,13 @@
+.I 177
+.T
 the mixing of free axially-symmetrical jets of mach number 1.40 .
-
+.A
 n. h. johannesen
-
-department of the mechanics of fluids, university of manchestercommunicated by the director-general of scientific research (air),ministry of supply
-
+.B
+department of the mechanics of fluids, university of manchester
+communicated by the director-general of scientific research (air),
+ministry of supply
+.W
 the mixing of free axially-symmetrical jets of mach number 1.40 .
 axially-symmetrical, supersonic, fully-expanded jets of diameter
 about 0.75 in. and of mach number 1.40 issuing into an atmosphere

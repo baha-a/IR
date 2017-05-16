@@ -1,9 +1,11 @@
+.I 1179
+.T
 a theory of asymmetric hypersonic blunt-body flows .
-
+.A
 swigart,r.j.
-
+.B
 aiaa jnl. 1963, 1034.
-
+.W
 a theory of asymmetric hypersonic blunt-body flows .
 two-dimensional asymmetric and three-dimensional
 inviscid blunt-body flows are analyzed

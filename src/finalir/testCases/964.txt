@@ -1,9 +1,12 @@
-on the theory of discharge coefficients for round entrance flowmetersand venturis .
-
+.I 964
+.T
+on the theory of discharge coefficients for round entrance flowmeters
+and venturis .
+.A
 rivas, m.a. and shapiro, a.h.
-
+.B
 trans. a.s.m.e., v. 78, april 1956, pp 489-497 .
-
+.W
 on the theory of discharge coefficients for round entrance flowmeters
 and venturis .
 a theory of rounded-entrance flowmeters, based on a consideration of the

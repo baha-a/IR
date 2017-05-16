@@ -1,9 +1,13 @@
-an investigation of the flow about a plane half-wingof cropped delta planform and 6( symmetrical sectionat stream mach numbers between 0. 8 and 1. 41 .
-
+.I 757
+.T
+an investigation of the flow about a plane half-wing
+of cropped delta planform and 6( symmetrical section
+at stream mach numbers between 0. 8 and 1. 41 .
+.A
 rogers,e.w.e., hall,i.m. and berry,c.j.
-
+.B
 arc r + m.3286, 1960.
-
+.W
 an investigation of the flow about a plane half-wing
 of cropped delta planform and 6( symmetrical section
 at stream mach numbers between 0. 8 and 1. 41 .

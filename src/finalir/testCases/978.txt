@@ -1,9 +1,11 @@
+.I 978
+.T
 temperature profiles inafinite solid with moving boundary .
-
+.A
 dewey, c.f., schlesinger, s.i. and sashkin, l.
-
+.B
 j. aero. sc. v. 27, 1960 .
-
+.W
 temperature profiles inafinite solid with moving boundary .
 a numerical solution is presented to the transient heat conduction
 equation for a cylinder of finite thickness with one moving boundary .

@@ -1,9 +1,11 @@
+.I 25
+.T
 inviscid hypersonic flow over blunt-nosed slender bodies .
-
+.A
 lees,l. and kubota,t.
-
+.B
 j. ae. scs. 24, 1957, 195.
-
+.W
 inviscid hypersonic flow over blunt-nosed slender bodies .
   at hypersonic speeds the drag area of a blunt nose is much
 larger than the drag area of a slender afterbody, and the energy

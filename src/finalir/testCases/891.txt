@@ -1,9 +1,12 @@
-buckling of a finite length cylindrical shell undera circumferential band of pressure .
-
+.I 891
+.T
+buckling of a finite length cylindrical shell under
+a circumferential band of pressure .
+.A
 almroth,b.o. and bruch,d.o.
-
+.B
 j. ae. scs. 28, 1961, 573.
-
+.W
 buckling of a finite length cylindrical shell under
 a circumferential band of pressure .
   this paper is concerned with buckling of a circular cylinder of

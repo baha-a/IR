@@ -1,9 +1,12 @@
-the relation between wall temperature and the effectof roughness on boundary layer transition .
-
+.I 43
+.T
+the relation between wall temperature and the effect
+of roughness on boundary layer transition .
+.A
 potter,j.l. and whitfield,j.d.
-
+.B
 j. ae. scs. 28, 1961, 663.
-
+.W
 the relation between wall temperature and the effect
 of roughness on boundary layer transition .
 the experimentally demonstrated rise and subsequent

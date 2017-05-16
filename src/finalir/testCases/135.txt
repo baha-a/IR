@@ -1,9 +1,12 @@
-the calculation of wall shearing stress from heat-transfer measurementsin compressible flows .
-
+.I 135
+.T
+the calculation of wall shearing stress from heat-transfer measurements
+in compressible flows .
+.A
 nick s. diaconis
-
+.B
 lewis flight propulsion laboratory, naca, cleveland, ohio
-
+.W
 the calculation of wall shearing stress from heat-transfer measurements
 in compressible flows .
 it has been shown by ludwieg that the wall shearing stress of a laminar

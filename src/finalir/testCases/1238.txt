@@ -1,9 +1,12 @@
-the newtonian approximation in magnetic hypersonicstagnation-point flow .
-
+.I 1238
+.T
+the newtonian approximation in magnetic hypersonic
+stagnation-point flow .
+.A
 lykoudis,p.s.
-
+.B
 j. ae. scs. 1961.
-
+.W
 the newtonian approximation in magnetic hypersonic
 stagnation-point flow .
   the hypersonic flow of an electrically conducting fluid around

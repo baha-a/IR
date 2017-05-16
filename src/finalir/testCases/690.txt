@@ -1,9 +1,12 @@
-investigaion of the flow over a spiked-nose hemispherecylinder at a mach number of 6. 8.
-
+.I 690
+.T
+investigaion of the flow over a spiked-nose hemisphere
+cylinder at a mach number of 6. 8.
+.A
 crawford,d.h.
-
+.B
 nasa tn.d118, 1959.
-
+.W
 investigaion of the flow over a spiked-nose hemisphere
 cylinder at a mach number of 6. 8.
   the shape and nature of the

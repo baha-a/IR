@@ -1,9 +1,13 @@
-correlation of base pressure and wake structure ofsharp and blunt-nose cones with reynolds number basedon boundary layer momentum thickness .
-
+.I 979
+.T
+correlation of base pressure and wake structure of
+sharp and blunt-nose cones with reynolds number based
+on boundary layer momentum thickness .
+.A
 lehnert,r. and schermerhorn,v.l.
-
+.B
 j. ae. scs. 26, 1959.
-
+.W
 correlation of base pressure and wake structure of
 sharp and blunt-nose cones with reynolds number based
 on boundary layer momentum thickness .

@@ -1,9 +1,12 @@
-investigation of separated flows in supersonic and subsonicstreams with emphasis on the effect of transition .
-
+.I 187
+.T
+investigation of separated flows in supersonic and subsonic
+streams with emphasis on the effect of transition .
+.A
 chapman, d.r., kuehn, d. m. and larson, h. k.
-
+.B
 naca report 1356
-
+.W
 investigation of separated flows in supersonic and subsonic
 streams with emphasis on the effect of transition .
 experimental and theoretical research has been conducted on

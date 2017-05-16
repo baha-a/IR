@@ -1,9 +1,12 @@
-on axially symmetric, turbulent, compressible mixing in the presenceof initial boundary layer .
-
+.I 1372
+.T
+on axially symmetric, turbulent, compressible mixing in the presence
+of initial boundary layer .
+.A
 gdalia kleinstein
-
+.B
 polytechnic institute of brooklyn, farmingdale, n.y.
-
+.W
 on axially symmetric, turbulent, compressible mixing in the presence
 of initial boundary layer .
 recent experimental results have shown that the

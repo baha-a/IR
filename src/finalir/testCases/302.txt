@@ -1,9 +1,12 @@
-approximations for the thermodynamic and transport properties of hightemperature air .
-
+.I 302
+.T
+approximations for the thermodynamic and transport properties of high
+temperature air .
+.A
 hansen, c. f.
-
+.B
 nasa tr r 50, 1959 .
-
+.W
 approximations for the thermodynamic and transport properties of high
 temperature air .
 the thermodynamic and transport properties of high-temperature air are

@@ -1,9 +1,12 @@
-design and operation of the n. g. t. e.  thermal shockanalogue .
-
+.I 868
+.T
+design and operation of the n. g. t. e.  thermal shock
+analogue .
+.A
 stanworth,c.g. and paine,d.s.c.
-
+.B
 arc cp.557, 1960.
-
+.W
 design and operation of the n. g. t. e.  thermal shock
 analogue .
   a description is given of the n.g.t.e. thermal shock analogue which

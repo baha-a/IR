@@ -1,9 +1,11 @@
+.I 1255
+.T
 the flow about a charged body moving in the lower atmosphere .
-
+.A
 hunziker,r.r.
-
+.B
 j. ae. scs. 1960.
-
+.W
 the flow about a charged body moving in the lower atmosphere .
   the flow about an electrically charged body traveling at high
 speeds through the lower ionosphere is analyzed .  a simple

@@ -1,9 +1,11 @@
+.I 772
+.T
 an experimental study of jet-flap compressor blades .
-
+.A
 clark, e.l. /jnr./ and ordway, d.e.
-
+.B
 j. aero. sc. november 1959. p. 698-702, 738 .
-
+.W
 an experimental study of jet-flap compressor blades .
 the results of a preliminary experimental investigation to determine the
  feasibility of using the jet flap to improve the section

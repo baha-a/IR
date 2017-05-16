@@ -1,9 +1,12 @@
-an experimental investigation of leading edge shock wave boundary layerinteraction at mach 5.8 .
-
+.I 569
+.T
+an experimental investigation of leading edge shock wave boundary layer
+interaction at mach 5.8 .
+.A
 kendall, j. m.
-
+.B
 j. aero. sc. v. 24, pp 47-56, 1957 .
-
+.W
 an experimental investigation of leading edge shock wave boundary layer
 interaction at mach 5.8 .
 the boundary layer on a slender body tends to be very thick at

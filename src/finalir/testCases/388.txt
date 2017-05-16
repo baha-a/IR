@@ -1,9 +1,12 @@
-the pressure gradient induced by shear flow past aflat plate .
-
+.I 388
+.T
+the pressure gradient induced by shear flow past a
+flat plate .
+.A
 glauert,m.b.
-
+.B
 j. ae. scs. 1962, 540.
-
+.W
 the pressure gradient induced by shear flow past a
 flat plate .
   article is a continuation of an earlier note on papers by li

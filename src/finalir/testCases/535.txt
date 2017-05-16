@@ -1,9 +1,13 @@
-shroud design for simulating hypersonic flow over the nose of ahemisphere .
-
+.I 535
+.T
+shroud design for simulating hypersonic flow over the nose of a
+hemisphere .
+.A
 roger dunlap
-
-associate research engineer, dept, of aeronautical andastronautical engineering, ann arbor, mich.
-
+.B
+associate research engineer, dept, of aeronautical and
+astronautical engineering, ann arbor, mich.
+.W
 shroud design for simulating hypersonic flow over the nose of a
 hemisphere .
 following is an analytical method for designing a shroud which will

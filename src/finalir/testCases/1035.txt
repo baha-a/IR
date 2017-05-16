@@ -1,9 +1,9 @@
+.I 1035
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   the stability of a compressed elastic
 ring has been studied by a method which

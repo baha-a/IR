@@ -1,9 +1,12 @@
-note on the hypersonic similarity law for an unyawedcone .
-
+.I 359
+.T
+note on the hypersonic similarity law for an unyawed
+cone .
+.A
 lees,l.
-
+.B
 j. ae. scs. 18, 1951.
-
+.W
 note on the hypersonic similarity law for an unyawed
 cone .
   it is now known that the hypersonic similarity law derived for

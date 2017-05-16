@@ -1,9 +1,12 @@
-review of published data on the effect of roughness on transition fromlaminar to turbulent flow .
-
+.I 96
+.T
+review of published data on the effect of roughness on transition from
+laminar to turbulent flow .
+.A
 hugh l. dryden
-
+.B
 national advisory committee for aeronautics
-
+.W
 review of published data on the effect of roughness on transition from
 laminar to turbulent flow .
 a review is presented of the published data on the effect of roughness,

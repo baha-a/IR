@@ -1,9 +1,12 @@
-transformation between compressible and incompressibleboundary layer equations .
-
+.I 376
+.T
+transformation between compressible and incompressible
+boundary layer equations .
+.A
 van le,n.
-
+.B
 j. ae. scs. 20, 1953.
-
+.W
 transformation between compressible and incompressible
 boundary layer equations .
 it is proposed to show that the boundary-layer equation of

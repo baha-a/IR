@@ -1,9 +1,11 @@
+.I 724
+.T
 structural acoustic proof testing .
-
+.A
 schjeldrup,h.c.
-
+.B
 air eng. 1959.
-
+.W
 structural acoustic proof testing .
 with the introduction of high-powered
 propulsion systems, and paralleling their

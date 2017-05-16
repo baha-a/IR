@@ -1,9 +1,12 @@
-a study of the cantilever square plate subjected toa uniform loading .
-
+.I 644
+.T
+a study of the cantilever square plate subjected to
+a uniform loading .
+.A
 leissa,a.w. and niedenfuhr,f.w.
-
+.B
 j. aero. sc. 29, 1962.
-
+.W
 a study of the cantilever square plate subjected to
 a uniform loading .
   plate problems involving free edges have been historically

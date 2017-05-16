@@ -1,9 +1,11 @@
+.I 1342
+.T
 the calculation of aerodynamic loading on surfaces of any shape .
-
+.A
 falkner, v.m.
-
+.B
 r + m 1910, august 1943 .
-
+.W
 the calculation of aerodynamic loading on surfaces of any shape .
 the object of the report is to establish a routine method for the
 calculation of aerodynamic loads on wings of arbitrary shape . the method

@@ -1,9 +1,12 @@
-a study of flow changes associated with airfoil sectiondrag rise at supercritical speeds .
-
+.I 70
+.T
+a study of flow changes associated with airfoil section
+drag rise at supercritical speeds .
+.A
 nitzburg,g.e. and crandall,s.
-
+.B
 naca tn.1813, 1949.
-
+.W
 a study of flow changes associated with airfoil section
 drag rise at supercritical speeds .
   a study of experimental pressure distributions and section

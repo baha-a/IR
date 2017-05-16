@@ -1,9 +1,12 @@
-piston theory - a new aerodynamic tool for theaeroelastician .
-
+.I 14
+.T
+piston theory - a new aerodynamic tool for the
+aeroelastician .
+.A
 ashley,h. and zartarian,g.
-
+.B
 j. ae. scs. 23, 1956, 1109.
-
+.W
 piston theory - a new aerodynamic tool for the
 aeroelastician .
   representative applications are described which illustrate the

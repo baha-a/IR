@@ -1,9 +1,12 @@
-the gyroscopic effect of a rigid rotating propelleron engine and wing vibration modes .
-
+.I 42
+.T
+the gyroscopic effect of a rigid rotating propeller
+on engine and wing vibration modes .
+.A
 scanlan,r.h. and truman,j.c.
-
+.B
 j. ae. scs. 17, 1950, 653.
-
+.W
 the gyroscopic effect of a rigid rotating propeller
 on engine and wing vibration modes .
   in many wing vibration analyses it is found necessary to take

@@ -1,9 +1,12 @@
-compression tests on circular cylinders stiffened longitudinallyby closely spaced z-section stringers .
-
+.I 1359
+.T
+compression tests on circular cylinders stiffened longitudinally
+by closely spaced z-section stringers .
+.A
 peterson,j.p. and dow,m.b.
-
+.B
 nasa memo. 2-12-59l, 1959.
-
+.W
 compression tests on circular cylinders stiffened longitudinally
 by closely spaced z-section stringers .
   six circular cylinders stiffened longitudinally by closely spaced

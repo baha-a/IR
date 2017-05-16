@@ -1,9 +1,12 @@
-elastic stability of simply supported corrugated coresand- wich cylinders .
-
+.I 956
+.T
+elastic stability of simply supported corrugated core
+sand- wich cylinders .
+.A
 harris,l.a. and baker,e.g.
-
+.B
 nasa tn.d1510, 1962, 331.
-
+.W
 elastic stability of simply supported corrugated core
 sand- wich cylinders .
   theoretical buckling coefficients

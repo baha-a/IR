@@ -1,9 +1,11 @@
+.I 1196
+.T
 growth of the turbulent wake behind a supersonic sphere .
-
+.A
 murphy,c.h. and dickinson,e.r.
-
+.B
 aiaa jnl. 1, 1963, 339.
-
+.W
 growth of the turbulent wake behind a supersonic sphere .
   experimental data are presented on the growth
 of turbulent wakes up to 8000 calibers

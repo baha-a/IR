@@ -1,9 +1,11 @@
+.I 492
+.T
 prediction of ogive-forebody pressures at angles of attack .
-
+.A
 earl r. keener
-
+.B
 aerodynamicist, nasa flight research center, edwards, calif.
-
+.W
 prediction of ogive-forebody pressures at angles of attack .
 various approximations are being suggested for obtaining surface
 pressures on arbitrary bodies at angle of attack .  this not presents

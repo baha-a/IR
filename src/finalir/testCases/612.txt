@@ -1,9 +1,12 @@
-pressure distributions and flow patterns at m=4 . onsome delta wings of inverted 'v' cross section .
-
+.I 612
+.T
+pressure distributions and flow patterns at m=4 . on
+some delta wings of inverted 'v' cross section .
+.A
 squire,l.c.
-
+.B
 rae tn.aero.2838, 1962.
-
+.W
 pressure distributions and flow patterns at m=4 . on
 some delta wings of inverted 'v' cross section .
   wind tunnel tests have been made

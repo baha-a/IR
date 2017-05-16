@@ -1,9 +1,11 @@
+.I 148
+.T
 on displacement thickness .
-
+.A
 lighthill,m.j.
-
+.B
 j.fluid mech. 4, 1958, 383.
-
+.W
 on displacement thickness .
   four alternative theoretical treatments of 'displacement
 thickness', and, generally, of the influence of boundary layers

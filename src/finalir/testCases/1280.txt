@@ -1,9 +1,11 @@
+.I 1280
+.T
 wings with minimum drag due to lift in supersonic flow .
-
+.A
 ginzel,i. and multhopp,h.
-
+.B
 j. ae. scs. 1960, 13.
-
+.W
 wings with minimum drag due to lift in supersonic flow .
   it has been shown by r. t. jones that, in order to produce
 minimum drag, the given lift must be distributed over the wing

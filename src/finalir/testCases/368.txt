@@ -1,9 +1,11 @@
+.I 368
+.T
 some problems of polar missile control .
-
+.A
 best,d.
-
+.B
 j.roy.ae.soc., 64, 1960.
-
+.W
 some problems of polar missile control .
   a polar-controlled missile is one in which manoeuvre
 is carried out by rotations about roll and pitch axes,

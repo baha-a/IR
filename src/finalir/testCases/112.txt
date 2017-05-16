@@ -1,9 +1,12 @@
-steady motion of conducting fluids in pipes under transversemagnetic fields .
-
+.I 112
+.T
+steady motion of conducting fluids in pipes under transverse
+magnetic fields .
+.A
 shercliff,j.a.
-
+.B
 proc. cam. phil.s. 49, 1953, 136.
-
+.W
 steady motion of conducting fluids in pipes under transverse
 magnetic fields .
   this paper studies the steady

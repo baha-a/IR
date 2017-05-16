@@ -1,9 +1,11 @@
+.I 377
+.T
 a turbulent analog of the stewartson-illingworth transformation .
-
+.A
 culick,f.e. and hill,j.
-
+.B
 j. ae. scs. 25, 1958.
-
+.W
 a turbulent analog of the stewartson-illingworth transformation .
   the stewartson-illingworth transformation is applied to the
 integral momentum equation for compressible boundary-layer

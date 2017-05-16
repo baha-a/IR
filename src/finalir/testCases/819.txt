@@ -1,9 +1,12 @@
-stresses in the plastic range around a normally loadedcircular hole in an infinite sheet .
-
+.I 819
+.T
+stresses in the plastic range around a normally loaded
+circular hole in an infinite sheet .
+.A
 magasarian,o.l.
-
+.B
 j. app. mech. 27, 1960, 65.
-
+.W
 stresses in the plastic range around a normally loaded
 circular hole in an infinite sheet .
 the stresses in the plastic range around a normally loaded circular hole

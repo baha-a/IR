@@ -1,9 +1,12 @@
-turbulent heat transfer through a highly cooled, partiallydissociated boundary layer .
-
+.I 1263
+.T
+turbulent heat transfer through a highly cooled, partially
+dissociated boundary layer .
+.A
 rose,p.h., probstein,r.f. and adams,m.c.
-
+.B
 j. ae. scs. 1958, 751.
-
+.W
 turbulent heat transfer through a highly cooled, partially
 dissociated boundary layer .
   the problem of heat transfer from high-temperature air

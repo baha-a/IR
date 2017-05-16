@@ -1,9 +1,12 @@
-a study of laminar compressible viscous pipe flow accelerated by anaxial body force, with application to magnetogasdynamics .
-
+.I 967
+.T
+a study of laminar compressible viscous pipe flow accelerated by an
+axial body force, with application to magnetogasdynamics .
+.A
 martin, d.e.
-
+.B
 nasa tn d-855, april 1961 .
-
+.W
 a study of laminar compressible viscous pipe flow accelerated by an
 axial body force, with application to magnetogasdynamics .
 a study is made of the steady laminar flow of a compressible viscous

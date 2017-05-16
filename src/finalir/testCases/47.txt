@@ -1,9 +1,11 @@
+.I 47
+.T
 analysis of low-aspect-ratio aircraft structures .
-
+.A
 samson,s.h. and bergmann,h.w.
-
+.B
 j. ae. scs. 27, 1960, 679.
-
+.W
 analysis of low-aspect-ratio aircraft structures .
   two methods are presented for the analysis of complex low-
 aspect-ratio aircraft structures .  both methods provide for

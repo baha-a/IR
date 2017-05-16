@@ -1,9 +1,11 @@
+.I 1182
+.T
 an approximate solution for laminar boundary layer flow .
-
+.A
 robert l. kosson
-
+.B
 grumman aircraft engineering corporation, bethpage, n.y.
-
+.W
 an approximate solution for laminar boundary layer flow .
 this paper presents an approximate solution for two-dimensional,
 incompressible, laminar boundary layer flow with arbitrary pressure

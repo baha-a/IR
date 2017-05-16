@@ -1,9 +1,11 @@
+.I 1277
+.T
 a study of vortex cancellation .
-
+.A
 schaffer,a.
-
+.B
 j. ae. scs. 1960, 193.
-
+.W
 a study of vortex cancellation .
   the cancellation of a vortex by means of another concentric
 vortex of equal strength but opposite spin is investigated .  when

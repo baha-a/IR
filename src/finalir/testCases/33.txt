@@ -1,9 +1,11 @@
+.I 33
+.T
 the prospects for magneto-aerodynamics .
-
+.A
 resler,e.j. and sears,w.r.
-
+.B
 j. ae. scs. 25, 1958, 235.
-
+.W
 the prospects for magneto-aerodynamics .
   the equations describing the flow of an electrically conducting
 fluid in the presence of electric and magnetic fields are written

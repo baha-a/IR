@@ -1,9 +1,12 @@
-a note on the explosion solution of sedov with applicationto the newtonian theory of unsteady hypersonic flow .
-
+.I 28
+.T
+a note on the explosion solution of sedov with application
+to the newtonian theory of unsteady hypersonic flow .
+.A
 freeman,n.c.
-
+.B
 j. ae. scs. 27, 1960, 77.
-
+.W
 a note on the explosion solution of sedov with application
 to the newtonian theory of unsteady hypersonic flow .
 an exact analytical solution of the equations of inviscid

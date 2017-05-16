@@ -1,9 +1,12 @@
-aerodynamic interaction effects ahead of a sonic jet exhaustingperpendicularly form a flat plate into a mach number 6 free stream .
-
+.I 972
+.T
+aerodynamic interaction effects ahead of a sonic jet exhausting
+perpendicularly form a flat plate into a mach number 6 free stream .
+.A
 romeo, d.j. and sterrett, j.r.
-
+.B
 nasa tn d-743, april 1961 .
-
+.W
 aerodynamic interaction effects ahead of a sonic jet exhausting
 perpendicularly form a flat plate into a mach number 6 free stream .
 an investigation of the effects of the interaction ahead of a

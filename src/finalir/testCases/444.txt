@@ -1,9 +1,11 @@
+.I 444
+.T
 an approach to the flutter problem in real fluids .
-
+.A
 rott,n. and george,m.b.t.
-
+.B
 inst. aero. scs. perp.509, 1955.
-
+.W
 an approach to the flutter problem in real fluids .
   an approximate theory of airfoils in unsteady motion in a viscous
 fluid is proposed, in which viscous effects are accounted for by

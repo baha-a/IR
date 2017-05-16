@@ -1,9 +1,11 @@
+.I 337
+.T
 boundary layer transition with gas injection .
-
+.A
 scott,c.j. and anderson,g.e.
-
+.B
 j. ae. scs. 25, 1958.
-
+.W
 boundary layer transition with gas injection .
 the mass-injection process has been proposed as a method
 of cooling aerodynamic surfaces, and, since the amount of

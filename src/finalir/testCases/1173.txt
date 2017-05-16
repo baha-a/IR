@@ -1,9 +1,12 @@
+.I 1173
+.T
 the buckling of cylindrical shells under longitudinally varying loads .
-
+.A
 v. i. weingarten
-
-space technology laboratories, inc., los angeles, calif.now with aerospace corp., los angeles, calif.
-
+.B
+space technology laboratories, inc., los angeles, calif.
+now with aerospace corp., los angeles, calif.
+.W
 the buckling of cylindrical shells under longitudinally varying loads .
 two problems illustrating the effect of nonuniformity of loading
 on the buckling characteristics of circular cylinders are

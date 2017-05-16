@@ -1,9 +1,12 @@
-interferometric studies of supersonic flows about truncatedcones .
-
+.I 657
+.T
+interferometric studies of supersonic flows about truncated
+cones .
+.A
 giese,j.h. and bergdolt,v.e.
-
+.B
 j.app.phys. 24, 1953, 1389.
-
+.W
 interferometric studies of supersonic flows about truncated
 cones .
   fringe shifts on interferograms of flows at m=2.45

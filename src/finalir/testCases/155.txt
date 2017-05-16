@@ -1,9 +1,11 @@
+.I 155
+.T
 on the solution of the laminar boundary layer equations .
-
+.A
 howarth,l.
-
+.B
 proc.roy.s.a, 164, 1938, 547.
-
+.W
 on the solution of the laminar boundary layer equations .
 the problem of the flow along a flat plate
 placed edgewise to a steady stream,

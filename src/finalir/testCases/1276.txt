@@ -1,9 +1,12 @@
-a three-dimensional linearized analysis of the forcesexerted on a rigid wing by a shock wave .
-
+.I 1276
+.T
+a three-dimensional linearized analysis of the forces
+exerted on a rigid wing by a shock wave .
+.A
 ehlers,f.e. and shoemaker,e.m.
-
+.B
 j. ae. scs. 1960, 257.
-
+.W
 a three-dimensional linearized analysis of the forces
 exerted on a rigid wing by a shock wave .
   the pressure distribution on a moving flat plate induced by an

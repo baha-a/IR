@@ -1,9 +1,13 @@
-effects of boundary layer displacement and leading edge bluntness onpressure distribution, skin friction, and heat transfer of bodies athypersonic speeds .
-
+.I 655
+.T
+effects of boundary layer displacement and leading edge bluntness on
+pressure distribution, skin friction, and heat transfer of bodies at
+hypersonic speeds .
+.A
 bertram, m.h. and henderson, a.
-
+.B
 naca tn 4301, july 1958 .
-
+.W
 effects of boundary layer displacement and leading edge bluntness on
 pressure distribution, skin friction, and heat transfer of bodies at
 hypersonic speeds .

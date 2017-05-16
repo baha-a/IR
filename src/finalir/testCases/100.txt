@@ -1,9 +1,11 @@
+.I 100
+.T
 vibration isolation of aircraft power plants .
-
+.A
 taylor,e.s. and browne,k.a.
-
+.B
 j. ae. scs. 6, 1938, 43.
-
+.W
 vibration isolation of aircraft power plants .
 vibration in aircraft structure can almost
 always be traced to vibratory forces originating

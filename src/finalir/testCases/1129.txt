@@ -1,9 +1,12 @@
-general instability of a ring stiffened circular cylindricalshell under hydrostatic pressure .
-
+.I 1129
+.T
+general instability of a ring stiffened circular cylindrical
+shell under hydrostatic pressure .
+.A
 bodner,s.r.
-
+.B
 j. app. mech. 24, 1957, 269.
-
+.W
 general instability of a ring stiffened circular cylindrical
 shell under hydrostatic pressure .
   the general instability load of a ring-stiffened, circular

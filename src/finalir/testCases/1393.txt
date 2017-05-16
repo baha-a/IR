@@ -1,9 +1,12 @@
-heat transfer near the forward stagnation point ofa body of revolution .
-
+.I 1393
+.T
+heat transfer near the forward stagnation point of
+a body of revolution .
+.A
 sibulkin,m.j.
-
+.B
 j. ae. scs. 19, 1952, 570.
-
+.W
 heat transfer near the forward stagnation point of
 a body of revolution .
 in order to determine the temperature distribution over a

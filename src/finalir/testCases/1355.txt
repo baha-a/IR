@@ -1,9 +1,12 @@
-boundary layer displacement effects in air at machnumbers of 6. 8 and 9. 6.
-
+.I 1355
+.T
+boundary layer displacement effects in air at mach
+numbers of 6. 8 and 9. 6.
+.A
 bertram,m.h.
-
+.B
 nasa tr.r22, 1959.
-
+.W
 boundary layer displacement effects in air at mach
 numbers of 6. 8 and 9. 6.
   measurements are presented for pressure

@@ -1,9 +1,13 @@
-some notes for the small disturbance linear theoryof the method of local linearisation of the flow overan airfoil at mach number of unity .
-
+.I 470
+.T
+some notes for the small disturbance linear theory
+of the method of local linearisation of the flow over
+an airfoil at mach number of unity .
+.A
 miyai,y.
-
+.B
 proc. 10th japan nat. cong. app. mech. iii-4, 1960, 207.
-
+.W
 some notes for the small disturbance linear theory
 of the method of local linearisation of the flow over
 an airfoil at mach number of unity .

@@ -1,9 +1,11 @@
+.I 608
+.T
 aerodynamic noise in supersonic wind tunnels .
-
+.A
 laufer, j.
-
+.B
 j. aero. sc. v. 28, sept. 1961 .
-
+.W
 aerodynamic noise in supersonic wind tunnels .
 hot-wire measurements in the free stream of a supersonic wind tunnel
 were made in the mach number range of 1.6 to 5.0 . it is shown that the

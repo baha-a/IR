@@ -1,9 +1,12 @@
-a quantitative comparison of flow and deformation theoriesof plasticity .
-
+.I 818
+.T
+a quantitative comparison of flow and deformation theories
+of plasticity .
+.A
 hodge,p.g. and white,g.n.
-
+.B
 j. app. mech. 17, 1950.
-
+.W
 a quantitative comparison of flow and deformation theories
 of plasticity .
   the stresses and displacements in a partly plastic,

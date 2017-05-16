@@ -1,9 +1,11 @@
+.I 91
+.T
 periodic temperature distribution in a two-layer composite slab .
-
+.A
 w. f. campbell
-
+.B
 national aeronautical establishment, ottawa, ont., canada
-
+.W
 periodic temperature distribution in a two-layer composite slab .
 in a recent contribution to the reader's forum, under the above title,
 stonecypher outlined a method for finding the periodic temperature

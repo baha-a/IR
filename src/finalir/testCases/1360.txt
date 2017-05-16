@@ -1,9 +1,12 @@
-simplified analysis of general instability of stiffenedshells in pure bending .
-
+.I 1360
+.T
+simplified analysis of general instability of stiffened
+shells in pure bending .
+.A
 shanley,f.r.
-
+.B
 j. ae. scs.16, 1949, 590.
-
+.W
 simplified analysis of general instability of stiffened
 shells in pure bending .
   although much work has been done to develop a theory for

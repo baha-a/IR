@@ -1,9 +1,13 @@
-longitudinal aerodynamic characteristics at low subsonicspeeds of a highly swept wing utilizing nose deflectionfor control .
-
+.I 638
+.T
+longitudinal aerodynamic characteristics at low subsonic
+speeds of a highly swept wing utilizing nose deflection
+for control .
+.A
 spencer,b.
-
+.B
 nasa tn.d1482, 1962.
-
+.W
 longitudinal aerodynamic characteristics at low subsonic
 speeds of a highly swept wing utilizing nose deflection
 for control .

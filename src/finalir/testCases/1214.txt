@@ -1,9 +1,12 @@
-the drag of elongated bodies over a wide reynolds numberrange .
-
+.I 1214
+.T
+the drag of elongated bodies over a wide reynolds number
+range .
+.A
 robertson,j.m. and clark,m.e.
-
+.B
 j. ae. scs. 1962, 842.
-
+.W
 the drag of elongated bodies over a wide reynolds number
 range .
   the resistance of bodies in motion through an incompressible

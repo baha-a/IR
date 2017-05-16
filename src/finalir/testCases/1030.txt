@@ -1,9 +1,9 @@
+.I 1030
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   some general topics in elastic stability are discussed .  in
 particular, attention is given to the relationship between

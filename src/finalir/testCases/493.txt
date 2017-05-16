@@ -1,9 +1,12 @@
-real-gas laminar boundary layer skin friction and heattransfer .
-
+.I 493
+.T
+real-gas laminar boundary layer skin friction and heat
+transfer .
+.A
 wilson,r.e.
-
+.B
 j. ae. scs. 29, 1962, 640.
-
+.W
 real-gas laminar boundary layer skin friction and heat
 transfer .
   the laminar-boundary-layer equations have been integrated

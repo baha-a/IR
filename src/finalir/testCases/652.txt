@@ -1,9 +1,12 @@
-pressure distribution on two dimensional wings nearthe ground .
-
+.I 652
+.T
+pressure distribution on two dimensional wings near
+the ground .
+.A
 bagley,j.a.
-
+.B
 rae r. aero.2625, 1960.
-
+.W
 pressure distribution on two dimensional wings near
 the ground .
   a simple method of calculating

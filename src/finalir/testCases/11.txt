@@ -1,9 +1,12 @@
-similar solutions in compressible laminar free mixingproblems .
-
+.I 11
+.T
+similar solutions in compressible laminar free mixing
+problems .
+.A
 napolitano,l.
-
+.B
 j. ae. scs. 23, 1956, 389.
-
+.W
 similar solutions in compressible laminar free mixing
 problems .
 there are in supersonic aerodynamics many situations of

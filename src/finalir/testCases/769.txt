@@ -1,9 +1,12 @@
-local circumferential buckling of thin circular cylindricalshells .
-
+.I 769
+.T
+local circumferential buckling of thin circular cylindrical
+shells .
+.A
 johns,d.j.
-
+.B
 nasa tn.d1510, 1962, 267.
-
+.W
 local circumferential buckling of thin circular cylindrical
 shells .
   the problem of circumferential

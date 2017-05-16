@@ -1,9 +1,11 @@
+.I 959
+.T
 heat transfer in separated flows .
-
+.A
 larson,h.k.
-
+.B
 j. ae. scs. 1959, 731.
-
+.W
 heat transfer in separated flows .
   results of an experimental heat-transfer investigation in
 regions of separated flow are presented and compared with the

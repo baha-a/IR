@@ -1,9 +1,11 @@
+.I 1083
+.T
 an investigation of fluid flow in two dimensions .
-
+.A
 thom, a.
-
+.B
 a.r.c., r + m, 1194. 1928 .
-
+.W
 an investigation of fluid flow in two dimensions .
 flow of an inviscid fluid . -dash there are in existence several methods
  of obtaining numerical solutions to the two-dimensional flow of a

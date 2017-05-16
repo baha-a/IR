@@ -1,9 +1,12 @@
-the elliptic cylinder in a shear flow with hyperbolicvelocity profile .
-
+.I 116
+.T
+the elliptic cylinder in a shear flow with hyperbolic
+velocity profile .
+.A
 jones,e.e.
-
+.B
 q.j.mech.app.math. 12, 1959, 191.
-
+.W
 the elliptic cylinder in a shear flow with hyperbolic
 velocity profile .
   the stream function for the shear flow with hyperbolic

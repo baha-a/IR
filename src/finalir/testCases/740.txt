@@ -1,9 +1,12 @@
-the behaviour of a cylindrical shell under axial compressionwhen the buckling load has been exceeded .
-
+.I 740
+.T
+the behaviour of a cylindrical shell under axial compression
+when the buckling load has been exceeded .
+.A
 leggett,d.m.a. and jones,r.p.n.
-
+.B
 arc r + m.2190, 1942.
-
+.W
 the behaviour of a cylindrical shell under axial compression
 when the buckling load has been exceeded .
   the value of the compressive stress at which

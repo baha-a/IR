@@ -1,9 +1,12 @@
-theory for supersonic two-dimensional, laminar, base-typeflows using the crocco-lees mixing concepts .
-
+.I 487
+.T
+theory for supersonic two-dimensional, laminar, base-type
+flows using the crocco-lees mixing concepts .
+.A
 rom,j.
-
+.B
 j.ae.scs. 29, 1962, 963.
-
+.W
 theory for supersonic two-dimensional, laminar, base-type
 flows using the crocco-lees mixing concepts .
   a separated flow field, in which the incoming boundary layer

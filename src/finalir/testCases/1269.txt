@@ -1,9 +1,11 @@
+.I 1269
+.T
 a study of supersonic combustion .
-
+.A
 gross,r.a. and chinitz,w.
-
+.B
 j. ae. scs. 1960, 517.
-
+.W
 a study of supersonic combustion .
   steady, stable, plain, and oblique detonation waves were
 created in a high-temperature, steady flow supersonic tunnel .

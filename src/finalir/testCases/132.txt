@@ -1,9 +1,12 @@
-viscosity effects in sound waves of finite amplitude:in survey in mechanics .
-
+.I 132
+.T
+viscosity effects in sound waves of finite amplitude:
+in survey in mechanics .
+.A
 lighthill,m.j.
-
+.B
 ed. by g.k.batchelor and r.m.davies.  c.u.p. 1956.
-
+.W
 viscosity effects in sound waves of finite amplitude:
 in survey in mechanics .
   this article has as its subject /the conflicting influence on

@@ -1,9 +1,12 @@
-compressibility effects in magneto-aerodynamic flowspast thin bodies .
-
+.I 297
+.T
+compressibility effects in magneto-aerodynamic flows
+past thin bodies .
+.A
 mccune,j.e. and resler,e.l.
-
+.B
 j. ae. scs. 27, 1960.
-
+.W
 compressibility effects in magneto-aerodynamic flows
 past thin bodies .
   the effects of compressibility on the steady motion of a highly

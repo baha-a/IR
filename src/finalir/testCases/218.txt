@@ -1,9 +1,12 @@
-intensity, scale and spectra of turbulence in mixingregion of free subsonic jet .
-
+.I 218
+.T
+intensity, scale and spectra of turbulence in mixing
+region of free subsonic jet .
+.A
 laurence,j.
-
+.B
 naca r1292, 1956.
-
+.W
 intensity, scale and spectra of turbulence in mixing
 region of free subsonic jet .
   the intensity of turbulence, the longitudinal and lateral

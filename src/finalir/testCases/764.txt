@@ -1,9 +1,12 @@
-breathing vibrations of a circular shell with an internalliquid .
-
+.I 764
+.T
+breathing vibrations of a circular shell with an internal
+liquid .
+.A
 lindholm,u.s., kana,d.d. and abramson,h.n.
-
+.B
 j. ae. scs. 29, 1962, 1052.
-
+.W
 breathing vibrations of a circular shell with an internal
 liquid .
   resonant breathing frequencies and mode shapes are

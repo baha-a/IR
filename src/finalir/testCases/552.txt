@@ -1,9 +1,11 @@
+.I 552
+.T
 chemical kinetics of high temperature air .
-
+.A
 wray,k.l.
-
+.B
 hypersonic flow research, p 181, academic press, new york, 1962.
-
+.W
 chemical kinetics of high temperature air .
   when a hypersonic object enters earth's atmosphere, a shock
 wave is formed in front of it, and the air passing through this

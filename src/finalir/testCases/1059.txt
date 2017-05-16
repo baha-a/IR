@@ -1,9 +1,11 @@
+.I 1059
+.T
 the nonlinear conical spring .
-
+.A
 schmidt,r. and wempner,g.a.
-
+.B
 asme trans. 81e, 1959, 681.
-
+.W
 the nonlinear conical spring .
   the large symmetric deformations of shallow conical shells are
 of interest in the design of nonlinear conical disk springs .  in most

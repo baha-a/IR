@@ -1,9 +1,11 @@
+.I 159
+.T
 numerical methods for transient heat flow .
-
+.A
 dusinberre,g.m.
-
+.B
 a.s.m.e.trans. 12, 1945, 703.
-
+.W
 numerical methods for transient heat flow .
   this paper deals with the application of numerical
 methods for the solution of heat-conduction problems,

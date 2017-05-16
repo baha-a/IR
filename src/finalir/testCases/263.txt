@@ -1,9 +1,12 @@
-cylindrical shock waves produced by instantaneous energyrelease .
-
+.I 263
+.T
+cylindrical shock waves produced by instantaneous energy
+release .
+.A
 lin,s.c.
-
+.B
 j.app.phys. 25, 1954, 54.
-
+.W
 cylindrical shock waves produced by instantaneous energy
 release .
   taylor's analysis of the intense spherical explosion

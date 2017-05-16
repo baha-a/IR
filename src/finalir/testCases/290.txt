@@ -1,9 +1,11 @@
+.I 290
+.T
 dynamic stability of a missile in rolling flight .
-
+.A
 bolz,r.e.
-
+.B
 j. ae. scs. 19, 1952.
-
+.W
 dynamic stability of a missile in rolling flight .
   the paper sets down the equations of motion for a symmetric
 rolling missile with respect to axes attached to the missile .  the

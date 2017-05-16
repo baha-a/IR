@@ -1,9 +1,12 @@
-an approximate solution of the supersonic blunt bodyproblem for prescribed arbitrary axisymmetric shapes .
-
+.I 369
+.T
+an approximate solution of the supersonic blunt body
+problem for prescribed arbitrary axisymmetric shapes .
+.A
 traugott,s.
-
+.B
 j. ae. scs. 27, 1960, 361.
-
+.W
 an approximate solution of the supersonic blunt body
 problem for prescribed arbitrary axisymmetric shapes .
   the integral method of belotserkovskii has been carried out to

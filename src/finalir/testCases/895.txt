@@ -1,9 +1,12 @@
-the airforces on the low aspect ratio rectangular wingoscillating in sonic flow .
-
+.I 895
+.T
+the airforces on the low aspect ratio rectangular wing
+oscillating in sonic flow .
+.A
 davies,d.e.
-
+.B
 rae tn. struct.311, 1962.
-
+.W
 the airforces on the low aspect ratio rectangular wing
 oscillating in sonic flow .
   approximate expressions for the

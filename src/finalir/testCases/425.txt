@@ -1,9 +1,11 @@
+.I 425
+.T
 the solution of elastic plate problems by electrical analogies .
-
+.A
 r. h. macneal,
-
+.B
 pasadena, calif.
-
+.W
 the solution of elastic plate problems by electrical analogies .
 a dynamic-analogy method for the solution of elastic plate problems is
 described in this paper .  the electrical circuits developed here can be

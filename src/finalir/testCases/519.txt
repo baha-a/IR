@@ -1,9 +1,12 @@
-base pressure at supersonic speeds in the presenceof a supersonic jet .
-
+.I 519
+.T
+base pressure at supersonic speeds in the presence
+of a supersonic jet .
+.A
 craven,a.h.
-
+.B
 coa r.144, 1960.
-
+.W
 base pressure at supersonic speeds in the presence
 of a supersonic jet .
   the effects on base pressure of jet mach number, free stream

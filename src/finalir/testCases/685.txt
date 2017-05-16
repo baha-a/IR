@@ -1,9 +1,13 @@
-aerodynamic effects of some configuration variableson the aeroelastic characteristics of lifting surfacesat mach numbers from 0. 7 to 6. 86 .
-
+.I 685
+.T
+aerodynamic effects of some configuration variables
+on the aeroelastic characteristics of lifting surfaces
+at mach numbers from 0. 7 to 6. 86 .
+.A
 hanson,p.w.
-
+.B
 nasa tn.d984, 1961.
-
+.W
 aerodynamic effects of some configuration variables
 on the aeroelastic characteristics of lifting surfaces
 at mach numbers from 0. 7 to 6. 86 .

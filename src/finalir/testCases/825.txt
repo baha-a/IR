@@ -1,9 +1,11 @@
+.I 825
+.T
 inelastic instability and incremental theories of plasticity .
-
+.A
 onat,e.t. and drucker,d.c.
-
+.B
 j. ae. scs. 20, 1953, 181.
-
+.W
 inelastic instability and incremental theories of plasticity .
   a most troublesome paradox has existed for a number of years
 with respect to buckling in the plastic range .  theoretical

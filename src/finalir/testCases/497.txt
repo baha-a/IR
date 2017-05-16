@@ -1,9 +1,12 @@
-theoretical and experimental investigation of thermalstresses in hypersonic aircraft wing structures .
-
+.I 497
+.T
+theoretical and experimental investigation of thermal
+stresses in hypersonic aircraft wing structures .
+.A
 tramposch,h.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 theoretical and experimental investigation of thermal
 stresses in hypersonic aircraft wing structures .
   a simple and relatively accurate analytic approximation is

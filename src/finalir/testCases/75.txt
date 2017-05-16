@@ -1,9 +1,11 @@
+.I 75
+.T
 studies of structural failure due to acoustic loading .
-
+.A
 hess,n.w.
-
+.B
 naca tn.4050, 1957.
-
+.W
 studies of structural failure due to acoustic loading .
   some discussion of the acoustic fatigue problem of aircraft
 structures is given along with data pertaining to the acoustic inputs from

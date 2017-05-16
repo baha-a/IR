@@ -1,9 +1,12 @@
-a rapid approximate method for determining velocity distribution onimpeller blades of centrifugal compressors .
-
+.I 990
+.T
+a rapid approximate method for determining velocity distribution on
+impeller blades of centrifugal compressors .
+.A
 stanitz, j.d. and prian, v.d.
-
+.B
 naca tn 2421, 1951 .
-
+.W
 a rapid approximate method for determining velocity distribution on
 impeller blades of centrifugal compressors .
 a rapid approximate method of analysis was developed for both

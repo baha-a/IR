@@ -1,9 +1,12 @@
-compilation of information on the transonic attachmentof flows at the leading edge of airfoils .
-
+.I 440
+.T
+compilation of information on the transonic attachment
+of flows at the leading edge of airfoils .
+.A
 lindsey,w.f. and landrum,e.
-
+.B
 naca tn.4204, 1958.
-
+.W
 compilation of information on the transonic attachment
 of flows at the leading edge of airfoils .
   schlieren photographs have been compiled of the two-dimensional flow

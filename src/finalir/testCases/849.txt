@@ -1,9 +1,11 @@
-a theory of imperfection for the vibrations of elastic bodies ofrevolution .
-
+.I 849
+.T
+a theory of imperfection for the vibrations of elastic bodies of
+revolution .
+.A
 s. a. tobias, ph.d.
-
-
-
+.B
+.W
 a theory of imperfection for the vibrations of elastic bodies of
 revolution .
 various observations and preliminary experiments

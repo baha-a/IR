@@ -1,9 +1,11 @@
+.I 1250
+.T
 high-speed viscous corner flow .
-
+.A
 bloom,m.h. and rubin,s.
-
+.B
 j. ae. scs. 1961, 145.
-
+.W
 high-speed viscous corner flow .
   a boundary-layer integral method analysis is set up for
 compressible laminar flow in a symmetric corner with varying angle

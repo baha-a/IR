@@ -1,9 +1,12 @@
-the propagation of a nonuniform magnetohydrodynamicshock wave into a moving monatomic fluid .
-
+.I 1203
+.T
+the propagation of a nonuniform magnetohydrodynamic
+shock wave into a moving monatomic fluid .
+.A
 gundersen,r.m.
-
+.B
 j. ae. scs. 1962, 1421.
-
+.W
 the propagation of a nonuniform magnetohydrodynamic
 shock wave into a moving monatomic fluid .
   an initially uniform magnetohydrodynamic shock wave of

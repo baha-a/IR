@@ -1,9 +1,12 @@
-supersonic shear flow past an airfoil between two parallelwalls .
-
+.I 1233
+.T
+supersonic shear flow past an airfoil between two parallel
+walls .
+.A
 rhyming,i.l.
-
+.B
 j. ae. scs. 1961, 861.
-
+.W
 supersonic shear flow past an airfoil between two parallel
 walls .
   the supersonic flow with assigned mach number gradient in

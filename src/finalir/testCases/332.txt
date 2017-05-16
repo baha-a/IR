@@ -1,9 +1,12 @@
-similitude of hypersonic real-gas flows over slenderbodies with blunted noses .
-
+.I 332
+.T
+similitude of hypersonic real-gas flows over slender
+bodies with blunted noses .
+.A
 cheng,h.k.
-
+.B
 j. ae. scs. 26, 1959, 575.
-
+.W
 similitude of hypersonic real-gas flows over slender
 bodies with blunted noses .
   on the basis of the hypersonic small-perturbation theory, the

@@ -1,9 +1,11 @@
+.I 931
+.T
 stability equations for conical shells .
-
+.A
 kempner,j.
-
+.B
 j. ae. scs. 25, 1958, 137.
-
+.W
 stability equations for conical shells .
   the author rewrites v. s. vlasov's equations for (linear)
 stability theory of shells (prikl. mat. meh. 8(1944),

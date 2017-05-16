@@ -1,9 +1,12 @@
-investigation with an interferometer of the turbulentmixing of a free supersonic jet .
-
+.I 243
+.T
+investigation with an interferometer of the turbulent
+mixing of a free supersonic jet .
+.A
 gooderum,p.b., wood,g.p. and brevoort,m.
-
+.B
 naca r963, 1950.
-
+.W
 investigation with an interferometer of the turbulent
 mixing of a free supersonic jet .
   the free turbulent mixing of a supersonic jet of mach number

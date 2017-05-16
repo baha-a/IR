@@ -1,9 +1,13 @@
-an investigation at subsonic speeds of aerodynamic characteristics atangles of attack from -dash 4degrees to 100degrees of a delta-wingreentry configuration having folding wingtip panels .
-
+.I 711
+.T
+an investigation at subsonic speeds of aerodynamic characteristics at
+angles of attack from -dash 4degrees to 100degrees of a delta-wing
+reentry configuration having folding wingtip panels .
+.A
 spencer, b.
-
+.B
 nasa tm x-288, 1960 .
-
+.W
 an investigation at subsonic speeds of aerodynamic characteristics at
 angles of attack from -dash 4degrees to 100degrees of a delta-wing
 reentry configuration having folding wingtip panels .

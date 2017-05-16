@@ -1,9 +1,12 @@
-method for design of pump impellers using a high speeddigital computer .
-
+.I 945
+.T
+method for design of pump impellers using a high speed
+digital computer .
+.A
 stockman,n.o. and kramer,j.l.
-
+.B
 nasa tn.d1562, 1963.
-
+.W
 method for design of pump impellers using a high speed
 digital computer .
   a method of designing pump impellers

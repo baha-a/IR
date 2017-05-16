@@ -1,9 +1,12 @@
-investigation of a systematic group of naca 1 - seriescowlings with and without spinners .
-
+.I 198
+.T
+investigation of a systematic group of naca 1 - series
+cowlings with and without spinners .
+.A
 nichols,m.r. and keith,a.l.
-
+.B
 naca r950, 1949.
-
+.W
 investigation of a systematic group of naca 1 - series
 cowlings with and without spinners .
   an investigation has been conducted in the langley

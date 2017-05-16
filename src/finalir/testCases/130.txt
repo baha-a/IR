@@ -1,9 +1,11 @@
+.I 130
+.T
 the behaviour of non-linear systems .
-
+.A
 clauser,f.h.
-
+.B
 j.aero. scs. 23, 1958, 411.
-
+.W
 the behaviour of non-linear systems .
   many of the phenomena that occur in the world around us are
 governed by nonlinear relationships .  in the development of the

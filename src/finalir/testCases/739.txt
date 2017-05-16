@@ -1,9 +1,12 @@
-the buckling of thin cylindrical shells under axialcompression .
-
+.I 739
+.T
+the buckling of thin cylindrical shells under axial
+compression .
+.A
 von karman,t. and tsien,h.s.
-
+.B
 j. ae. scs. 8, 1941, 303.
-
+.W
 the buckling of thin cylindrical shells under axial
 compression .
 in two previous papers the authors have discussed

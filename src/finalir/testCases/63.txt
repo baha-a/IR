@@ -1,9 +1,11 @@
+.I 63
+.T
 hypersonic viscous flow over slender cones .
-
+.A
 talbot,l.
-
+.B
 naca tn.4327, 1958.
-
+.W
 hypersonic viscous flow over slender cones .
   viscous self-induced pressures on 3 -semivertex-angle cones were
 measured over the range 3.7 free-stream mach number 5.8 and 0.5

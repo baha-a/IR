@@ -1,9 +1,12 @@
-tables of exact laminar-boundary layer solutions whenthe wall is porous and fluid properties are variable .
-
+.I 59
+.T
+tables of exact laminar-boundary layer solutions when
+the wall is porous and fluid properties are variable .
+.A
 brown,w.d. and donoughe,p.l.
-
+.B
 naca tn.2479, 1951.
-
+.W
 tables of exact laminar-boundary layer solutions when
 the wall is porous and fluid properties are variable .
   the three partial differential equations of the laminar boundary

@@ -1,9 +1,12 @@
-jet effects on base pressure of conical afterbodiesat mach 1. 91 and 3. 12 .
-
+.I 282
+.T
+jet effects on base pressure of conical afterbodies
+at mach 1. 91 and 3. 12 .
+.A
 baughman,l.e. and kochendorfer,f.d.
-
+.B
 naca rm e57e06.
-
+.W
 jet effects on base pressure of conical afterbodies
 at mach 1. 91 and 3. 12 .
   data are presented which show the effect of a jet on base pressure

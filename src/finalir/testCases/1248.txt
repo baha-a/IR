@@ -1,9 +1,11 @@
+.I 1248
+.T
 an analytic extension of the shock-expansion method .
-
+.A
 waldman,g.d. and probstein,r.f.
-
+.B
 j. ae. scs. 1961, 119.
-
+.W
 an analytic extension of the shock-expansion method .
   the problem is considered of calculating approximately the
 inviscid rotational flow field and pressure distribution about a

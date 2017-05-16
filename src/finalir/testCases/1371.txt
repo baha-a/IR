@@ -1,9 +1,11 @@
+.I 1371
+.T
 axisymmetric free mixing with swirl .
-
+.A
 steiger,m.h. and bloom,m.h.
-
+.B
 pibal r.628.
-
+.W
 axisymmetric free mixing with swirl .
   viscous laminar axially-symmetric
 free-mixing with small, moderate,

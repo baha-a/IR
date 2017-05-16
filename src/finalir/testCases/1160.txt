@@ -1,9 +1,11 @@
+.I 1160
+.T
 recent advances in gaseous detonation .
-
+.A
 gross,r.a. and oppenheim,a.k.
-
+.B
 ars j. 29, 1959, 173
-
+.W
 recent advances in gaseous detonation .
   a review of recent work in gaseous detonation
 is presented .  early work is briefly mentioned and

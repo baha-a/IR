@@ -1,9 +1,13 @@
-the effect of helium injection at an axially symmetric stagnationpoint .
-
+.I 353
+.T
+the effect of helium injection at an axially symmetric stagnation
+point .
+.A
 h. hoshizaki and h. j. smith
-
-missile and space division, lockheed aircraft corporation,sunnyvale, calif.
-
+.B
+missile and space division, lockheed aircraft corporation,
+sunnyvale, calif.
+.W
 the effect of helium injection at an axially symmetric stagnation
 point .
 an effective means of protecting the surface of a hypersonic re-entry

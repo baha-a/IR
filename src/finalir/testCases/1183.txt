@@ -1,9 +1,12 @@
-laminar hypersonic trail in the expansion-conductionregion .
-
+.I 1183
+.T
+laminar hypersonic trail in the expansion-conduction
+region .
+.A
 lykoudis,p.s.
-
+.B
 aiaa jnl. 1963, 772.
-
+.W
 laminar hypersonic trail in the expansion-conduction
 region .
   the usual procedure in calculating the cooling

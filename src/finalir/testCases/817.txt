@@ -1,9 +1,11 @@
+.I 817
+.T
 loading paths and the incremental stress law .
-
+.A
 hankelman,g.h. and warner,w.h.
-
+.B
 j. math. and phys. 33, 1954, 157.
-
+.W
 loading paths and the incremental stress law .
   this paper will be concerned with some properties of the
 stress-strain law for work hardening materials introduced by w. prager

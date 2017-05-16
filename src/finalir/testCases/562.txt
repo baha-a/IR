@@ -1,9 +1,12 @@
-concerning the effect of compressibility on laminarboundary layers and their separation .
-
+.I 562
+.T
+concerning the effect of compressibility on laminar
+boundary layers and their separation .
+.A
 howarth,l.
-
+.B
 proc. roy. soc. a, 194, 1948.
-
+.W
 concerning the effect of compressibility on laminar
 boundary layers and their separation .
   the theory of compressible flow in a laminar

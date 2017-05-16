@@ -1,9 +1,11 @@
+.I 1297
+.T
 ionization nonequilibrium in expanding flows .
-
+.A
 eschenroeder,a.q.
-
+.B
 ars jnl. 1962, 32.
-
+.W
 ionization nonequilibrium in expanding flows .
   approximate methods are developed for solving
 the electron-ion kinetic equations in expanding

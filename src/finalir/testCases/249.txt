@@ -1,9 +1,13 @@
-formulae for the computation of the functions employedfor calculating the velocity distribution about a givenaerofoil .
-
+.I 249
+.T
+formulae for the computation of the functions employed
+for calculating the velocity distribution about a given
+aerofoil .
+.A
 watson,e.j.
-
+.B
 arc r + m 2176.
-
+.W
 formulae for the computation of the functions employed
 for calculating the velocity distribution about a given
 aerofoil .

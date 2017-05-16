@@ -1,9 +1,13 @@
-the applications of the polygon method to the calculationof the compressible subsonic flow round two-dimensionalprofiles .
-
+.I 206
+.T
+the applications of the polygon method to the calculation
+of the compressible subsonic flow round two-dimensional
+profiles .
+.A
 woods,l.c.
-
+.B
 arc cp115, 1953.
-
+.W
 the applications of the polygon method to the calculation
 of the compressible subsonic flow round two-dimensional
 profiles .

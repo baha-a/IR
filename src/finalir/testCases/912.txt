@@ -1,9 +1,12 @@
-the axisymmetric free-convection temperature fieldalong a vertical thin cylinder .
-
+.I 912
+.T
+the axisymmetric free-convection temperature field
+along a vertical thin cylinder .
+.A
 hama,p.r., recesso,j.v. and christiaens,j.
-
+.B
 j. ae. scs. 1959, 335.
-
+.W
 the axisymmetric free-convection temperature field
 along a vertical thin cylinder .
   with a view to studying the effect of strong transverse

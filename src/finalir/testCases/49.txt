@@ -1,9 +1,13 @@
-temperature and velocity profiles in the compressiblelaminar boundary layer with arbitrary distributionof surface temperature .
-
+.I 49
+.T
+temperature and velocity profiles in the compressible
+laminar boundary layer with arbitrary distribution
+of surface temperature .
+.A
 chapman,d. and rubesin,m.
-
+.B
 j. ae. scs. 16, 1949, 547.
-
+.W
 temperature and velocity profiles in the compressible
 laminar boundary layer with arbitrary distribution
 of surface temperature .

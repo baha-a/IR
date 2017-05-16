@@ -1,9 +1,13 @@
-the effect of an internal compressible fluid columnon the breathing vibrations of a thin pressurised cylindricalshell .
-
+.I 848
+.T
+the effect of an internal compressible fluid column
+on the breathing vibrations of a thin pressurised cylindrical
+shell .
+.A
 berry,j.g. and reissner,e.
-
+.B
 j. ae. scs. 25, 1958,288.
-
+.W
 the effect of an internal compressible fluid column
 on the breathing vibrations of a thin pressurised cylindrical
 shell .

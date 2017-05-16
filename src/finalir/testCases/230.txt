@@ -1,9 +1,12 @@
-interference between the wings and tail plane of aslender wing-body tailplane combination .
-
+.I 230
+.T
+interference between the wings and tail plane of a
+slender wing-body tailplane combination .
+.A
 owen,p.r. and maskell,e.c.
-
+.B
 rae r.aero.2441, 1951.
-
+.W
 interference between the wings and tail plane of a
 slender wing-body tailplane combination .
   an approximate method of predicting the interference between

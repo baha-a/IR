@@ -1,9 +1,12 @@
-the transverse curvature effect in compressible axiallysymmetric laminar boundary layer flow .
-
+.I 94
+.T
+the transverse curvature effect in compressible axially
+symmetric laminar boundary layer flow .
+.A
 probstein,r.f. and elliott,d.
-
+.B
 j. ae.scs. 28, 1956, 206.
-
+.W
 the transverse curvature effect in compressible axially
 symmetric laminar boundary layer flow .
   the viscous transverse curvature effect in compressible axially

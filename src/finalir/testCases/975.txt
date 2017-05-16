@@ -1,9 +1,11 @@
+.I 975
+.T
 one dimensional flows of an imperfect diatomic gas .
-
+.A
 eggers,a.j.
-
+.B
 naca r.959, 1950.
-
+.W
 one dimensional flows of an imperfect diatomic gas .
   with the assumptions that berthelot's equation of state
 accounts for molecular size and intermolecular force effects, and

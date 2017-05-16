@@ -1,9 +1,9 @@
+.I 1039
+.T
 on transverse vibrations of thin, shallow elastic shells .
-
-
-
-
-
+.A
+.B
+.W
 on transverse vibrations of thin, shallow elastic shells .
   an experimental investigation was
 made (1) to evaluate previously

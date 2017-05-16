@@ -1,9 +1,11 @@
+.I 960
+.T
 investigation of free turbulent mixing .
-
+.A
 liepman,h.w. and laufer,j.
-
+.B
 naca tn.1257, 1947.
-
+.W
 investigation of free turbulent mixing .
   a discussion of the integral
 relations for flow of the

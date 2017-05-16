@@ -1,9 +1,11 @@
+.I 1239
+.T
 body under lifting wing .
-
+.A
 chen,c.f. and clarke,j.h.
-
+.B
 j. ae. scs. 1961, 547.
-
+.W
 body under lifting wing .
   an investigation is made of supersonic-aircraft configurations
 composed of a cambered body positioned a certain distance

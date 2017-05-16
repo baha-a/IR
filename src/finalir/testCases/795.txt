@@ -1,9 +1,12 @@
-the operation of the npl 18in x 14in. wind tunnel in the transonic speed range .
-
+.I 795
+.T
+the operation of the npl 18in x 14in. wind tunnel in the transonic speed
+ range .
+.A
 hall, i.m.
-
+.B
 a.r.c. c.p. 338, january 1957 .
-
+.W
 the operation of the npl 18in x 14in. wind tunnel in the transonic speed
  range .
 a brief description of the slotted liners used is given together with

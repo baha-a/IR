@@ -1,9 +1,11 @@
+.I 906
+.T
 review of the pitot tube .
-
+.A
 folson,r.g.
-
+.B
 asme trans. 70, 1956.
-
+.W
 review of the pitot tube .
   this paper is an attempt to bring together the
 important information regarding pitot tubes and their use,.

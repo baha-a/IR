@@ -1,9 +1,12 @@
-unsteady laminar compressible boundary layers on aninfinite plate with suction or injection .
-
+.I 1109
+.T
+unsteady laminar compressible boundary layers on an
+infinite plate with suction or injection .
+.A
 yang,k-t.
-
+.B
 j. ae. scs. 1959, 653.
-
+.W
 unsteady laminar compressible boundary layers on an
 infinite plate with suction or injection .
   this study deals with unsteady compressible laminar

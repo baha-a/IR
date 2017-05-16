@@ -1,9 +1,11 @@
+.I 721
+.T
 near noise field of a jet engine exhaust .
-
+.A
 callaghan,e.e., howes,w.l. coles,w.d. and mull,r.h.
-
+.B
 naca r.1338.
-
+.W
 near noise field of a jet engine exhaust .
   aircraft structures located in the near noise field of a jet
 engine are subjected to extremely high fluctuating pressures that

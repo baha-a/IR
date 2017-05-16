@@ -1,9 +1,11 @@
+.I 1380
+.T
 the problem of obtaining high lift-drag ratios at supersonic speeds .
-
+.A
 clinton e. brown and francis e. mclean
-
+.B
 langley research center, nasa
-
+.W
 the problem of obtaining high lift-drag ratios at supersonic speeds .
 the importance of the lift to drag ratio is well
 known to all aircraft designers since it gives, to a

@@ -1,9 +1,13 @@
-boundary-layer interaction on a yawed infinite wing in hypersonicflow .
-
+.I 333
+.T
+boundary-layer interaction on a yawed infinite wing in hypersonic
+flow .
+.A
 robert j. whalen
-
-principal scientist, flight sciences laboratory, inc.,buffalo, n.y.
-
+.B
+principal scientist, flight sciences laboratory, inc.,
+buffalo, n.y.
+.W
 boundary-layer interaction on a yawed infinite wing in hypersonic
 flow .
 the equations are given for the laminar boundary-layer

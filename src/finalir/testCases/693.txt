@@ -1,9 +1,11 @@
-investigation of jet effects on a flat surface downstream of the exit of a simulated turbojet nacelle at a free-stream mach number of 1.39 .
-
+.I 693
+.T
+investigation of jet effects on a flat surface downstream of the exit of
+ a simulated turbojet nacelle at a free-stream mach number of 1.39 .
+.A
 bressette, w.e. and leiss, a.
-
-
-
+.B
+.W
 investigation of jet effects on a flat surface downstream of the exit of
  a simulated turbojet nacelle at a free-stream mach number of 1.39 .
 an investigation at a free-stream mach number of 1.39 utilizing a

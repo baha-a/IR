@@ -1,9 +1,14 @@
-experimental studies of flutter of buckled rectangularpanels at mach numbers from 1. 2 to 3. 0 includingeffects of pressure differential and of panelwidth-length ratio .
-
+.I 857
+.T
+experimental studies of flutter of buckled rectangular
+panels at mach numbers from 1. 2 to 3. 0 including
+effects of pressure differential and of panel
+width-length ratio .
+.A
 sylvester,m.a.
-
+.B
 nasa tn.d833, 1961.
-
+.W
 experimental studies of flutter of buckled rectangular
 panels at mach numbers from 1. 2 to 3. 0 including
 effects of pressure differential and of panel

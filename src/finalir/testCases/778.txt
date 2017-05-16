@@ -1,9 +1,11 @@
+.I 778
+.T
 an integral related to the radiation integrals .
-
+.A
 powell,e.o.
-
+.B
 phil. mag. 34, 1943, 600.
-
+.W
 an integral related to the radiation integrals .
   the author points out the relation of the integral
 to problems in astrophysics and quantum mechanics, and

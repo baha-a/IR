@@ -1,9 +1,12 @@
-transformation of the compressible turbulent boundarylayer .
-
+.I 16
+.T
+transformation of the compressible turbulent boundary
+layer .
+.A
 mager,a.
-
+.B
 j. ae. scs. 25, 1958, 305.
-
+.W
 transformation of the compressible turbulent boundary
 layer .
   the transformation of the compressible turbulent boundary-

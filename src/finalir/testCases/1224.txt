@@ -1,9 +1,11 @@
+.I 1224
+.T
 on the plk method and the supersonic blunt-body problem .
-
+.A
 vaglio-laurin,r.
-
+.B
 j. ae. scs. 1962, 185.
-
+.W
 on the plk method and the supersonic blunt-body problem .
   detailed analysis of the subsonic and transonic portious of the
 flow field about either very blunt or asymmetric configurations

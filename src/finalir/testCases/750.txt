@@ -1,9 +1,12 @@
-transonic flow in two dimensional and axially symmetricalnozzles .
-
+.I 750
+.T
+transonic flow in two dimensional and axially symmetrical
+nozzles .
+.A
 hall,i.m.
-
+.B
 arc 23,347, 1961.
-
+.W
 transonic flow in two dimensional and axially symmetrical
 nozzles .
   by means of suitable expansions

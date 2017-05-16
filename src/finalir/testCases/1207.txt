@@ -1,9 +1,11 @@
+.I 1207
+.T
 supersonic airfoil performance with small heat addition .
-
+.A
 mager,a.
-
+.B
 j.ae.scs. 1959, 99.
-
+.W
 supersonic airfoil performance with small heat addition .
   an analytical method is presented which permits a very rapid
 evaluation of the acrodynamic effects arising from the addition

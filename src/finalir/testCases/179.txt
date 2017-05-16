@@ -1,9 +1,12 @@
-an analysis of base pressure at supersonic speeds andcomparison with experiment .
-
+.I 179
+.T
+an analysis of base pressure at supersonic speeds and
+comparison with experiment .
+.A
 chapman,d.
-
+.B
 naca tn.2137, 1950.
-
+.W
 an analysis of base pressure at supersonic speeds and
 comparison with experiment .
   in the first part of the

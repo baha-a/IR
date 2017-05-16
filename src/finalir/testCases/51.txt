@@ -1,9 +1,12 @@
-theory of aircraft structural models subjected to aerodynamicheating and external loads .
-
+.I 51
+.T
+theory of aircraft structural models subjected to aerodynamic
+heating and external loads .
+.A
 o'sullivan,w.j.
-
+.B
 naca tn.4115, 1957.
-
+.W
 theory of aircraft structural models subjected to aerodynamic
 heating and external loads .
   the problem of investigating the simultaneous effects of transient

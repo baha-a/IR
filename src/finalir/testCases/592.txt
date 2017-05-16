@@ -1,9 +1,11 @@
+.I 592
+.T
 design of axial compressors .
-
+.A
 howell, a.r.
-
+.B
 proc. i mech. e. v. 153, 1945 .
-
+.W
 design of axial compressors .
 the main types of axial compressors are described, and the use of
 generalized design curves to make performance estimates is advocated . the

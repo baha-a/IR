@@ -1,9 +1,12 @@
-the response of a typical aircraft structure to jetnoise .
-
+.I 725
+.T
+the response of a typical aircraft structure to jet
+noise .
+.A
 clarkson,b.l. and ford,r.d.
-
+.B
 j. roy. aero. soc. 1962.
-
+.W
 the response of a typical aircraft structure to jet
 noise .
   an analysis is made of experimentally determined mode shapes

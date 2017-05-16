@@ -1,9 +1,11 @@
+.I 880
+.T
 the design and testing of supersonic flutter models .
-
+.A
 mccarthy, j.f. and halfman, r.l.
-
+.B
 j. aero. sc. june, 1956 .
-
+.W
 the design and testing of supersonic flutter models .
 the basic problems of flutter testing in the low supersonic speed range
 simulate full-scale airplanes when mach number is included as a

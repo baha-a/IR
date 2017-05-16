@@ -1,9 +1,12 @@
-a study of the effect of leading-edge modifications on the flow overa 50degree sweptback wing at transonic speeds .
-
+.I 797
+.T
+a study of the effect of leading-edge modifications on the flow over
+a 50degree sweptback wing at transonic speeds .
+.A
 rogers, e.w e., townsend, j.e.g. and berry, c.j.
-
+.B
 a.r.c., r + m 3270, may 1960 .
-
+.W
 a study of the effect of leading-edge modifications on the flow over
 a 50degree sweptback wing at transonic speeds .
 summary . an investigation has been made in the n.p.l. 18 in. x 14 in .

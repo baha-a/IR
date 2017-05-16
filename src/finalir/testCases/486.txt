@@ -1,9 +1,11 @@
+.I 486
+.T
 similarity laws for aerothermoelastic testing .
-
+.A
 dugundji,j.
-
+.B
 j.ae.scs. 29, 1962, 935.
-
+.W
 similarity laws for aerothermoelastic testing .
   the similarity laws for aerothermoelastic testing are presented
 in the range .  these are obtained by

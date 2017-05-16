@@ -1,9 +1,12 @@
-effect of uniformly distributed roughness on turbulentskin-friction drag at supersonic speeds .
-
+.I 1212
+.T
+effect of uniformly distributed roughness on turbulent
+skin-friction drag at supersonic speeds .
+.A
 goddard,f.e.
-
+.B
 j. ae. scs. 1959, 1.
-
+.W
 effect of uniformly distributed roughness on turbulent
 skin-friction drag at supersonic speeds .
   an experimental program was carried out in the 18-in. by

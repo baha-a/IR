@@ -1,9 +1,12 @@
-non-linear shallow shell analysis by the matrix forcemethod .
-
+.I 1294
+.T
+non-linear shallow shell analysis by the matrix force
+method .
+.A
 lansing,w., jones,i.w. and ratner,p.
-
+.B
 nasa tn.d1510, 1962, 753.
-
+.W
 non-linear shallow shell analysis by the matrix force
 method .
   the matrix force method of redundant

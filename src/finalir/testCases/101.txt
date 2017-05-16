@@ -1,9 +1,13 @@
-laminar heat transfer over blunt-nosed bodies at hypersonic flightspeeds .
-
+.I 101
+.T
+laminar heat transfer over blunt-nosed bodies at hypersonic flight
+speeds .
+.A
 lester lees
-
-the ramo-wooldridge corporation, los angles, and california instituteof technology, pasadena, california
-
+.B
+the ramo-wooldridge corporation, los angles, and california institute
+of technology, pasadena, california
+.W
 laminar heat transfer over blunt-nosed bodies at hypersonic flight
 speeds .
 this paper deals with two limiting cases of laminar heat transfer over

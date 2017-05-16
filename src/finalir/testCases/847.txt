@@ -1,9 +1,12 @@
-experimental study of the vibrations of a circularcylindrical shell .
-
+.I 847
+.T
+experimental study of the vibrations of a circular
+cylindrical shell .
+.A
 gottenberg,w.g.
-
+.B
 j. acoust. soc. america, 32, 1960, 1002.
-
+.W
 experimental study of the vibrations of a circular
 cylindrical shell .
   an apparatus is described which permits the mode

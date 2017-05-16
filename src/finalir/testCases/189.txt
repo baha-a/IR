@@ -1,9 +1,12 @@
-experimental investigation of base pressure on blunt-trailing-edgewings of supersonic velocities .
-
+.I 189
+.T
+experimental investigation of base pressure on blunt-trailing-edge
+wings of supersonic velocities .
+.A
 chapman,d.r., wimbrow,w.r. and kester,r.h.
-
+.B
 naca r1109.
-
+.W
 experimental investigation of base pressure on blunt-trailing-edge
 wings of supersonic velocities .
   measurements of base pressure are presented for 29

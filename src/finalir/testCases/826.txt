@@ -1,9 +1,11 @@
+.I 826
+.T
 small bending and stretching of sandwich type shells .
-
+.A
 reissner,e.
-
+.B
 naca tn.1832, 1949.
-
+.W
 small bending and stretching of sandwich type shells .
   a theory has been developed for small bending and stretching of
 sandwich-type shells .  this theory is an extension of the known theory

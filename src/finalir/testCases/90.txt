@@ -1,9 +1,12 @@
-periodic temperature distributions in a two-layer compositeslab .
-
+.I 90
+.T
+periodic temperature distributions in a two-layer composite
+slab .
+.A
 stonecypher,t.e.
-
+.B
 j. ae. scs. 27, 1960, 152.
-
+.W
 periodic temperature distributions in a two-layer composite
 slab .
 an investigation to determine the feasibility of using an

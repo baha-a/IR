@@ -1,9 +1,11 @@
+.I 583
+.T
 influence coefficients for real gases .
-
+.A
 mario william cardullo
-
+.B
 u.s. naval air rocket test station, lake denmark, dover, n.j.
-
+.W
 influence coefficients for real gases .
 in the analysis of one-dimensional fluid-flow problems, it is often
 assumed that the behavior of the medium is that of a perfect gas .

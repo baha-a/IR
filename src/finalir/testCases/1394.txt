@@ -1,9 +1,12 @@
-stagnation point heat transfer measurements in hypersoniclow density flow .
-
+.I 1394
+.T
+stagnation point heat transfer measurements in hypersonic
+low density flow .
+.A
 neice,s.e., rutkowski,r.w. and chann,k.k.
-
+.B
 j. ae. scs.27, 1960, 387.
-
+.W
 stagnation point heat transfer measurements in hypersonic
 low density flow .
 in hypersonic, low reynolds number flow around a blunt body,

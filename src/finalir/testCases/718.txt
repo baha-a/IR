@@ -1,9 +1,12 @@
+.I 718
+.T
 means and examples of aeronautical research in france at onera .
-
+.A
 maurice roy
-
-the twenty-second wright brothers lectureoffice national d'etudes et de recherches aeronautiques
-
+.B
+the twenty-second wright brothers lecture
+office national d'etudes et de recherches aeronautiques
+.W
 means and examples of aeronautical research in france at onera .
 cosmonautics is currently very much to the forefront in the news .
 it embraces and extends aeronautics, and i would like to propose

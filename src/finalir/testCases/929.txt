@@ -1,9 +1,11 @@
+.I 929
+.T
 stability of the cylindrical shell of variable curvature .
-
+.A
 marguerre,k.
-
+.B
 naca tm.1302,1951.
-
+.W
 stability of the cylindrical shell of variable curvature .
 the report is a first attempt to devise a calculation method
 for representing the buckling behavior of cylindrical shells

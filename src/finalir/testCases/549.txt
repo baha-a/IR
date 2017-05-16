@@ -1,9 +1,12 @@
-experimental study of the velocity and temperaturedistribution in a high-velocity vortex-type flow .
-
+.I 549
+.T
+experimental study of the velocity and temperature
+distribution in a high-velocity vortex-type flow .
+.A
 hartnett,j.p. and eckert,e.r.g.
-
+.B
 asme trans. 70, 1957.
-
+.W
 experimental study of the velocity and temperature
 distribution in a high-velocity vortex-type flow .
   the vortex tube represents a simple device in which a

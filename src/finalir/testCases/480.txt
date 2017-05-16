@@ -1,9 +1,12 @@
-adiabatic wall temperature due to mass transfer cooling with acombustible gas .
-
+.I 480
+.T
+adiabatic wall temperature due to mass transfer cooling with a
+combustible gas .
+.A
 d. b. spalding
-
+.B
 imperial college, london, england
-
+.W
 adiabatic wall temperature due to mass transfer cooling with a
 combustible gas .
 a recent technical note by sutton (1), with the above title, discusses

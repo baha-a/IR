@@ -7,7 +7,6 @@ import java.io.File;
 import java.util.List;
 import javax.swing.DefaultListModel;
 import javax.swing.JFileChooser;
-import javax.swing.ListModel;
 import javax.swing.UIManager;
 import javax.swing.event.HyperlinkEvent;
 import javax.swing.event.HyperlinkListener;
@@ -15,7 +14,7 @@ import javax.swing.event.HyperlinkListener;
 public class EngineClient extends javax.swing.JFrame {
 
     // thia static so, any EngineClient can connect to same Engine like server client
-    static Engine g = new Engine(); 
+    static Engine g = new Engine(true); 
 
     
     public EngineClient() {
@@ -24,19 +23,6 @@ public class EngineClient extends javax.swing.JFrame {
         jLabel1.setText( g.getDocumentsCount() + " docs");
         jLabel2.setText("");
         jLabel3.setText("");
-        
-        jEditorPane1.setContentType("text/html");
-        jEditorPane1.setEditable(false);
-        jEditorPane1.setOpaque(false);
-        jEditorPane1.addHyperlinkListener(new HyperlinkListener() {
-            public void hyperlinkUpdate(HyperlinkEvent hle) {
-                if (HyperlinkEvent.EventType.ACTIVATED.equals(hle.getEventType())) {
-                    if (hle.getDescription().equalsIgnoreCase("didyoumean")) 
-                    {
-                    }
-                }
-            }
-        });
     }
 
     @SuppressWarnings("unchecked")
@@ -49,18 +35,24 @@ public class EngineClient extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         jComboBox1 = new javax.swing.JComboBox();
         jCheckBox1 = new javax.swing.JCheckBox();
-        jScrollPane1 = new javax.swing.JScrollPane();
-        jEditorPane1 = new javax.swing.JEditorPane();
         jButton3 = new javax.swing.JButton();
         jLabel3 = new javax.swing.JLabel();
         jScrollPane3 = new javax.swing.JScrollPane();
         jList1 = new javax.swing.JList();
         jLabel1 = new javax.swing.JLabel();
+        jProgressBar1 = new javax.swing.JProgressBar();
+        jScrollPane2 = new javax.swing.JScrollPane();
+        jList2 = new javax.swing.JList();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
 
         jTextField1.setName("tbxSearch"); // NOI18N
+        jTextField1.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField1ActionPerformed(evt);
+            }
+        });
         jTextField1.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 jTextField1KeyTyped(evt);
@@ -93,8 +85,6 @@ public class EngineClient extends javax.swing.JFrame {
 
         jCheckBox1.setText("advance");
 
-        jScrollPane1.setViewportView(jEditorPane1);
-
         jButton3.setText("spawn");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -116,33 +106,36 @@ public class EngineClient extends javax.swing.JFrame {
 
         jLabel1.setText("jLabel1");
 
+        jScrollPane2.setViewportView(jList2);
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(layout.createSequentialGroup()
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addGap(14, 14, 14)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jTextField1)
                             .addGroup(layout.createSequentialGroup()
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, 250, Short.MAX_VALUE)
+                                    .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, 249, Short.MAX_VALUE)
                                     .addComponent(jLabel3))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 292, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                                .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 292, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addComponent(jScrollPane2))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jButton1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jButton2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 77, Short.MAX_VALUE)
+                            .addComponent(jCheckBox1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jButton3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(jLabel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
                     .addGroup(layout.createSequentialGroup()
                         .addContainerGap()
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 550, Short.MAX_VALUE)))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jButton1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jButton2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 76, Short.MAX_VALUE)
-                    .addComponent(jCheckBox1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jComboBox1, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jButton3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(jLabel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addComponent(jProgressBar1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
@@ -170,10 +163,12 @@ public class EngineClient extends javax.swing.JFrame {
                         .addComponent(jButton3)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jButton2)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jLabel1))
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 378, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                        .addGap(32, 32, 32)
+                        .addComponent(jLabel1)
+                        .addGap(0, 0, Short.MAX_VALUE))
+                    .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 378, Short.MAX_VALUE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jProgressBar1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
         pack();
@@ -181,15 +176,28 @@ public class EngineClient extends javax.swing.JFrame {
 
     
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        try 
-        {
-            g.IndexFiles(getFiles()).ComputeTF_IDF();
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try 
+                { 
+                    g.IndexFiles(getFiles(), t -> {
+                        jProgressBar1.setValue((int)(t * 0.95)); 
+                        jLabel1.setText((int)(t * 0.95) + " %");
+                    }).ComputeTF_IDF();
+                }
+                catch(Exception ex) { jLabel1.setText( "Error: " + ex.getMessage() ); }
+                finally 
+                {
+                    jLabel1.setText(g.getDocumentsCount() + " docs");
+                    jProgressBar1.setValue(100);
+                }
         }
-        catch(Exception e){ }
-        
-        jLabel1.setText(g.getDocumentsCount() + " docs");
+        }).start();
     }//GEN-LAST:event_jButton2ActionPerformed
 
+    
     JazzySpellChecker speller = new JazzySpellChecker();
     String lastCorrectLine;
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
@@ -202,15 +210,17 @@ public class EngineClient extends javax.swing.JFrame {
         int t = Integer.parseInt(jComboBox1.getSelectedItem().toString());
         int pages = total / t;
         
-        for (DocumentResult d : res) {
-            str.append("<br>" + d.getDocument().getName() + " --> " + d.getRank());
-            if(t-- == 0)
+        DefaultListModel<String> d =  new DefaultListModel<>();
+        for (DocumentResult r : res) {
+            d.addElement(r.getDocument().getName() + " --> " + r.getRank());
+            if(t-- <= 0)
                 break;
         }
+        jList2.setModel(d);
         
-        jEditorPane1.setText("<html>" + str.toString() + "</html>");
         
         jLabel3.setText(total + " results in  " + time + " msec");
+        
         
         if(speller.HasError(jTextField1.getText())){
             lastCorrectLine = speller.getCorrectedLine(jTextField1.getText());
@@ -243,26 +253,21 @@ public class EngineClient extends javax.swing.JFrame {
         jTextField1.setText(jList1.getSelectedValue().toString());
     }//GEN-LAST:event_jList1MouseClicked
 
+    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
+        jButton1ActionPerformed(evt);
+    }//GEN-LAST:event_jTextField1ActionPerformed
+
     
-    public static File[] getFiles() {    
+    public static File[] getFiles() {
         final JFileChooser chooser = new JFileChooser(new File("src\\finalir\\testCases"));
         chooser.setMultiSelectionEnabled(true);
         chooser.setAcceptAllFileFilterUsed(false);
 
         File[] files = null;
-        if (chooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION) {
+        if (chooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION)
             files = chooser.getSelectedFiles();
-        }
-        return files;
-    }
-    
-    public static void main(String args[]) {
         
-        try  { UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName()); } catch (Exception ex) { }
-
-        java.awt.EventQueue.invokeLater(
-                new Runnable() { public void run() { new EngineClient().setVisible(true); } }
-        );
+        return files;
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
@@ -271,12 +276,13 @@ public class EngineClient extends javax.swing.JFrame {
     private javax.swing.JButton jButton3;
     private javax.swing.JCheckBox jCheckBox1;
     private javax.swing.JComboBox jComboBox1;
-    private javax.swing.JEditorPane jEditorPane1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JList jList1;
-    private javax.swing.JScrollPane jScrollPane1;
+    private javax.swing.JList jList2;
+    private javax.swing.JProgressBar jProgressBar1;
+    private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTextField jTextField1;
     // End of variables declaration//GEN-END:variables

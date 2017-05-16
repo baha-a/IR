@@ -1,9 +1,12 @@
-flutter tests of some simple models at a mach numberof 7. 2 in helium flow .
-
+.I 686
+.T
+flutter tests of some simple models at a mach number
+of 7. 2 in helium flow .
+.A
 morgan,h.g. and miller,r.w.
-
+.B
 nasa memo 4-8-59l, 1959.
-
+.W
 flutter tests of some simple models at a mach number
 of 7. 2 in helium flow .
   results of hypersonic flutter

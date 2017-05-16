@@ -1,9 +1,12 @@
-slipstream flow around several tilt-wing vtol aircraft modelsoperating near the ground .
-
+.I 1144
+.T
+slipstream flow around several tilt-wing vtol aircraft models
+operating near the ground .
+.A
 william a. newsom, jr., and louis p. tosti
-
+.B
 technical note d-1382
-
+.W
 slipstream flow around several tilt-wing vtol aircraft models
 operating near the ground .
 a collection of data from a number of brief investigations made with

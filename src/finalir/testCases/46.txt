@@ -1,9 +1,11 @@
+.I 46
+.T
 some comments on the inversion of certain large matrices .
-
+.A
 bertram klein
-
+.B
 convair, a division of general dynamics corp., san diego, calif.
-
+.W
 some comments on the inversion of certain large matrices .
 the subject of matric structural analysis has been treated in two
 recently published papers in the journal .  the authors of these papers

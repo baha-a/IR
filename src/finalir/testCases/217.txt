@@ -1,9 +1,11 @@
+.I 217
+.T
 flow pattern in a converging-diverging nozzle .
-
+.A
 oswatitsch,k. and rothstein,w.
-
+.B
 naca tm.1215.
-
+.W
 flow pattern in a converging-diverging nozzle .
   the present report describes a new method for the prediction
 of the flow pattern of a gas in the two-dimensional and axially

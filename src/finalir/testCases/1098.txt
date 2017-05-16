@@ -1,9 +1,12 @@
-an experimental investigation of ablating materialat low and high enthalpy potentials .
-
+.I 1098
+.T
+an experimental investigation of ablating material
+at low and high enthalpy potentials .
+.A
 rashis,b. and walton,t.e.
-
+.B
 nasa tm.x-263, 1960.
-
+.W
 an experimental investigation of ablating material
 at low and high enthalpy potentials .
   the ablation performance characteristics

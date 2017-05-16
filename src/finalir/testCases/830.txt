@@ -1,9 +1,11 @@
+.I 830
+.T
 nonlinear deflections of shallow spherical shells .
-
+.A
 reiss,e.l., greenberg,h.j. and keller,h.b.
-
+.B
 j. ae. scs. 24, 1957, 533.
-
+.W
 nonlinear deflections of shallow spherical shells .
   the equations obtained by chien for the nonlinear deflection
 of shallow spherical shells under uniform external pressure are

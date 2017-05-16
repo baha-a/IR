@@ -1,9 +1,11 @@
+.I 1335
+.T
 use of freon-12 as a fluid for aerodynamic testing .
-
+.A
 huber,p.w.
-
+.B
 naca tn.1024, 1946.
-
+.W
 use of freon-12 as a fluid for aerodynamic testing .
   the thermodynamic properties
 of freon-12 have been

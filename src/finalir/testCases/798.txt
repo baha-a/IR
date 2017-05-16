@@ -1,9 +1,12 @@
-interaction between shock waves and boundary layers, with a note on theeffects of the interaction of the performance of supersonic intakes .
-
+.I 798
+.T
+interaction between shock waves and boundary layers, with a note on the
+effects of the interaction of the performance of supersonic intakes .
+.A
 holder, d.w., pearcey, h.h. and gadd, g.e.
-
+.B
 a.r.c., c.p. 180, february 1954 .
-
+.W
 interaction between shock waves and boundary layers, with a note on the
 effects of the interaction of the performance of supersonic intakes .
 the interaction between shock waves and boundary layers has important

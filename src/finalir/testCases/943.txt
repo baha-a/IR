@@ -1,9 +1,11 @@
+.I 943
+.T
 compressible free shear layer with finite initial thickness .
-
+.A
 denison,m.r. and baum,e.
-
+.B
 aiaa jnl. 1, 1963, 342.
-
+.W
 compressible free shear layer with finite initial thickness .
   the momentum equation was uncoupled from
 the other conservation equations for the case

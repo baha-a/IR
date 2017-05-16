@@ -1,9 +1,13 @@
-the solution of small displacement, stability or vibrationproblems concerning a flat rectangular panel when theedges are either clamped or simply supported .
-
+.I 1392
+.T
+the solution of small displacement, stability or vibration
+problems concerning a flat rectangular panel when the
+edges are either clamped or simply supported .
+.A
 hopkins,h.g.
-
+.B
 arc r + m.2234, 1945.
-
+.W
 the solution of small displacement, stability or vibration
 problems concerning a flat rectangular panel when the
 edges are either clamped or simply supported .

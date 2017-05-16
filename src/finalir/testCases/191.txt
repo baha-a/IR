@@ -1,9 +1,11 @@
+.I 191
+.T
 a theory for the core of a leading edge vortex .
-
+.A
 hall,m.g.
-
+.B
 rae r.aero.2644, 1960.
-
+.W
 a theory for the core of a leading edge vortex .
   in the flow past a slender delta wing
 at incidence can be observed a

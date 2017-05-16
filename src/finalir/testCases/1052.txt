@@ -1,9 +1,11 @@
+.I 1052
+.T
 recent advances in the buckling of thin shells .
-
+.A
 william a. nash
-
+.B
 professor of engineering mechanics, university of florida
-
+.W
 recent advances in the buckling of thin shells .
 the importance of the field of shell analysis is evidenced by the
 fact that in august, 1959, the international union of theoretical

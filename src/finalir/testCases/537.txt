@@ -1,9 +1,11 @@
+.I 537
+.T
 stagnation point viscous hypersonic flow .
-
+.A
 stoddard,f.j.
-
+.B
 j. ae. scs. 29, 1962, 1138.
-
+.W
 stagnation point viscous hypersonic flow .
 several methods have been developed for computing the
 hypersonic, low reynolds number flow in the stagnation

@@ -1,9 +1,12 @@
-flexural vibrations of the walls of thin cylindricalshells having freely supported ends .
-
+.I 844
+.T
+flexural vibrations of the walls of thin cylindrical
+shells having freely supported ends .
+.A
 arnold,r.n. and warburton,g.b.
-
+.B
 proc. roy. soc. a, 197, 1949, 238.
-
+.W
 flexural vibrations of the walls of thin cylindrical
 shells having freely supported ends .
 the paper deals with the general equations for the vibration of thin

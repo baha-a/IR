@@ -1,9 +1,12 @@
-the calculation of transient temperature in turbineblades and tapered discs using biot's variational method .
-
+.I 869
+.T
+the calculation of transient temperature in turbine
+blades and tapered discs using biot's variational method .
+.A
 howe,p.w.h.
-
+.B
 arc cp.617, 1961.
-
+.W
 the calculation of transient temperature in turbine
 blades and tapered discs using biot's variational method .
   transient temperatures in aerofoil

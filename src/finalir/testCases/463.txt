@@ -1,9 +1,12 @@
-physical properties of plastics for photo-thermoelasticinvestigation .
-
+.I 463
+.T
+physical properties of plastics for photo-thermoelastic
+investigation .
+.A
 tramposch,h. and gerard,g.
-
+.B
 j.app. mech. 25, 1958.
-
+.W
 physical properties of plastics for photo-thermoelastic
 investigation .
   the optical and physical properties of

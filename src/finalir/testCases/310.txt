@@ -1,9 +1,12 @@
+.I 310
+.T
 hypersonic viscous flow over a flat plate .
-
+.A
 lees, l. and probstein, r. f.
-
-princeton univ. aero eng. r195, 1952(abstract by e.m.keen)
-
+.B
+princeton univ. aero eng. r195, 1952
+(abstract by e.m.keen)
+.W
 hypersonic viscous flow over a flat plate .
      in dealing with the steady laminar viscous flow over a
 semi-infinite flat plate some of the following topics are discussed .

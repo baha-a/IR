@@ -1,9 +1,10 @@
-mathematical techniques applying to the thermal fatigue behaviourof high temperature alloys .
-
-
-
-
-
+.I 767
+.T
+mathematical techniques applying to the thermal fatigue behaviour
+of high temperature alloys .
+.A
+.B
+.W
 mathematical techniques applying to the thermal fatigue behaviour
 of high temperature alloys .
 during thermal fatigue testing

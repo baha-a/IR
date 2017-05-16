@@ -1,9 +1,13 @@
-a proposed programme of wind tunnel tests at hypersonicspeeds to investigate the lifting properties of geometricallyslender shapes .
-
+.I 1305
+.T
+a proposed programme of wind tunnel tests at hypersonic
+speeds to investigate the lifting properties of geometrically
+slender shapes .
+.A
 peckham,d.h.
-
+.B
 rae tn.aero.2730.
-
+.W
 a proposed programme of wind tunnel tests at hypersonic
 speeds to investigate the lifting properties of geometrically
 slender shapes .

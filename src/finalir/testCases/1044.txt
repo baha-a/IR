@@ -1,9 +1,11 @@
+.I 1044
+.T
 on the theory of thin elastic shells .
-
+.A
 reissner,e.
-
+.B
 reissner anniv. 1949, 231.
-
+.W
 on the theory of thin elastic shells .
   general equations for the symmetrical finite deflection of
 a rotationally symmetric thin shell are first obtained .  for

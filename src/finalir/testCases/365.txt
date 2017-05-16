@@ -1,9 +1,12 @@
-the homogeneous boundary layer at an axisymmetric stagnationpoint with large rates of injection .
-
+.I 365
+.T
+the homogeneous boundary layer at an axisymmetric stagnation
+point with large rates of injection .
+.A
 libby,p.a.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 the homogeneous boundary layer at an axisymmetric stagnation
 point with large rates of injection .
   this report presents a theoretical analysis of the boundary

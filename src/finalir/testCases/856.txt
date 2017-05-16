@@ -1,9 +1,12 @@
-some experimental studies of panel flutter at mach1 .3.
-
+.I 856
+.T
+some experimental studies of panel flutter at mach
+1 .3.
+.A
 sylvester,m.a. and baker,j.e.
-
+.B
 naca tn.3914, 1957.
-
+.W
 some experimental studies of panel flutter at mach
 1 .3.
   experimental studies of panel flutter were conducted at a mach

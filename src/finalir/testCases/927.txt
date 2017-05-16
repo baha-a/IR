@@ -1,9 +1,13 @@
-investigation of normal force distributions and wakevortex characteristics of bodies of revolution at supersonicspeeds .
-
+.I 927
+.T
+investigation of normal force distributions and wake
+vortex characteristics of bodies of revolution at supersonic
+speeds .
+.A
 mello,j.f.
-
+.B
 j. ae. scs. 1959, 155.
-
+.W
 investigation of normal force distributions and wake
 vortex characteristics of bodies of revolution at supersonic
 speeds .

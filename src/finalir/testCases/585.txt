@@ -1,9 +1,11 @@
+.I 585
+.T
 nonlinear heat transfer problem .
-
+.A
 chambre,p.l.
-
+.B
 j. app. phys. 30, 1959, 1683.
-
+.W
 nonlinear heat transfer problem .
   a study has been made of the time-dependent heat
 conduction in a semi-infinite medium subject to a

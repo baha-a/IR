@@ -1,9 +1,12 @@
-pressure distribution induced on a flat plate by a supersonic and sonicjet exhaust at a free-stream mach number of 1.80 .
-
+.I 694
+.T
+pressure distribution induced on a flat plate by a supersonic and sonic
+jet exhaust at a free-stream mach number of 1.80 .
+.A
 leiss, a. and bressette, w.e.
-
+.B
 naca rm l56106, 1957 .
-
+.W
 pressure distribution induced on a flat plate by a supersonic and sonic
 jet exhaust at a free-stream mach number of 1.80 .
 as a continuation of previous research at mach numbers of 2.02 and 1.39,

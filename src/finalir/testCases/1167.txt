@@ -1,9 +1,13 @@
-an experimental study of the effect of downwash froma twin-propeller vtol aircraft on several types ofground surfaces .
-
+.I 1167
+.T
+an experimental study of the effect of downwash from
+a twin-propeller vtol aircraft on several types of
+ground surfaces .
+.A
 o'bryan,t.c.
-
+.B
 nasa tn.d1239, 1962.
-
+.W
 an experimental study of the effect of downwash from
 a twin-propeller vtol aircraft on several types of
 ground surfaces .

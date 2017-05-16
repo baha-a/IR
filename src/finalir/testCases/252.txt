@@ -1,9 +1,12 @@
-an investigation of interference effects on similar models ofdifferent size in various transonic tunnels in the u.k. .
-
+.I 252
+.T
+an investigation of interference effects on similar models of
+different size in various transonic tunnels in the u.k. .
+.A
 f. o/hara and l. c. squire, r.a.e.
-
+.B
 and a. b. haines, a.r.a.
-
+.W
 an investigation of interference effects on similar models of
 different size in various transonic tunnels in the u.k. .
 details are given of a programme of tests being made on similar

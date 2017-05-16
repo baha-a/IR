@@ -1,9 +1,12 @@
-on the theory of hypersonic gas flow with a power lawshock wave .
-
+.I 665
+.T
+on the theory of hypersonic gas flow with a power law
+shock wave .
+.A
 sychev,v.v.
-
+.B
 j. app. math. mech. 24, 1960, 756.
-
+.W
 on the theory of hypersonic gas flow with a power law
 shock wave .
 plane and axisymmetric hypersonic gas flows are considered with shock

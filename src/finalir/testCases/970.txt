@@ -1,9 +1,13 @@
-loads induced on a flat plate wing by an air jet exhaustingperpendicularly through the wing and normal to a free-stream flow of machnumber 2.0 .
-
+.I 970
+.T
+loads induced on a flat plate wing by an air jet exhausting
+perpendicularly through the wing and normal to a free-stream flow of mach
+number 2.0 .
+.A
 janos, j.j.
-
+.B
 nasa tn d-649, march 1961 .
-
+.W
 loads induced on a flat plate wing by an air jet exhausting
 perpendicularly through the wing and normal to a free-stream flow of mach
 number 2.0 .

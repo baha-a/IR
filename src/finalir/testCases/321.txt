@@ -1,9 +1,12 @@
-improved numerical solution of the blasius problem with three-pointboundary conditions .
-
+.I 321
+.T
+improved numerical solution of the blasius problem with three-point
+boundary conditions .
+.A
 christian, w. j.
-
+.B
 j. aero. sc. v. 28, november, 1961 .
-
+.W
 improved numerical solution of the blasius problem with three-point
 boundary conditions .
 the blasius equation describes the velocity distribution resulting from

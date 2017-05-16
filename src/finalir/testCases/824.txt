@@ -1,9 +1,11 @@
+.I 824
+.T
 on the concept of stability of inelastic systems .
-
+.A
 drucker,d.c. and onat,e.t.
-
+.B
 j.ae.scs., 21, 1954, 543.
-
+.W
 on the concept of stability of inelastic systems .
   simple models are employed to bring out the large and
 important differences between buckling in the plastic range and

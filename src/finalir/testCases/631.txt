@@ -1,9 +1,12 @@
-low speed wind tunnel tests on a two dimensional aerofoilwith split flap near the ground .
-
+.I 631
+.T
+low speed wind tunnel tests on a two dimensional aerofoil
+with split flap near the ground .
+.A
 bagley,j.a.
-
+.B
 arc cp.568, 1961.
-
+.W
 low speed wind tunnel tests on a two dimensional aerofoil
 with split flap near the ground .
   pressure distributions have been

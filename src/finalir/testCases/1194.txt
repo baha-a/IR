@@ -1,9 +1,11 @@
+.I 1194
+.T
 magnetohydrodynamic flow past a thin airfoil .
-
+.A
 cumberbatch,e., sarason,l. and weitzner,h.
-
+.B
 aiaa jnl. 1, 1963, 679.
-
+.W
 magnetohydrodynamic flow past a thin airfoil .
   the steady flow of a perfectly conducting
 magnetohydrodynamic fluid past a thin

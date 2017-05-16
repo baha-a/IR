@@ -1,9 +1,11 @@
+.I 678
+.T
 the effect of end plates on swept wings .
-
+.A
 kuchemann,d. and kettle,d.j.
-
+.B
 rae r.aero.2429, 1952.
-
+.W
 the effect of end plates on swept wings .
   existing methods of calculating
 the effect of endplates on straight

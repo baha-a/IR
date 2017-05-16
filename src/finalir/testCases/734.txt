@@ -1,9 +1,12 @@
-the bending of uniformly loaded clamped plate in theform of a circular sector .
-
+.I 734
+.T
+the bending of uniformly loaded clamped plate in the
+form of a circular sector .
+.A
 hasse,h.r.
-
+.B
 q. j. mech. app. math. 3, 1950, 271.
-
+.W
 the bending of uniformly loaded clamped plate in the
 form of a circular sector .
   the deflexion of a uniformly loaded

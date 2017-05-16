@@ -1,9 +1,12 @@
-the generalized expansion method and its applicationto bodies travelling at high supersonic airspeeds .
-
+.I 373
+.T
+the generalized expansion method and its application
+to bodies travelling at high supersonic airspeeds .
+.A
 eggers,a.j., savin,r.c. and syvertson,c.a.
-
+.B
 j.ae.scs. 22, 1955, 231.
-
+.W
 the generalized expansion method and its application
 to bodies travelling at high supersonic airspeeds .
   it is demonstrated that the shock-expansion method can be

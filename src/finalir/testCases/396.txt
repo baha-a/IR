@@ -1,9 +1,13 @@
-variational and lagrangian thermodynamics of thermalconvection-fundamental shortcomings of the heat transfercoefficient .
-
+.I 396
+.T
+variational and lagrangian thermodynamics of thermal
+convection-fundamental shortcomings of the heat transfer
+coefficient .
+.A
 biot,m.a.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 variational and lagrangian thermodynamics of thermal
 convection-fundamental shortcomings of the heat transfer
 coefficient .

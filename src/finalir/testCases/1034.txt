@@ -1,9 +1,9 @@
+.I 1034
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   a long, thin-walled cylindrical shell is loaded by a uniform
 external pressure .  equations are developed for the time behavior

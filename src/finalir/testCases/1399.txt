@@ -1,9 +1,11 @@
+.I 1399
+.T
 buckling of transverse stiffened plates under shear .
-
+.A
 wang,t.k.
-
+.B
 j.app.mech. 3,1947, a269.
-
+.W
 buckling of transverse stiffened plates under shear .
   this paper presents an analysis of buckling of simply
 supported rectangular plates reinforced by any number of

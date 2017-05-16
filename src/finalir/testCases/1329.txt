@@ -1,9 +1,12 @@
-some aspects of non-stationary airfoil theory and itspractical application .
-
+.I 1329
+.T
+some aspects of non-stationary airfoil theory and its
+practical application .
+.A
 sears,w.r.
-
+.B
 j. ae. scs. 8, 1951, 104.
-
+.W
 some aspects of non-stationary airfoil theory and its
 practical application .
   this paper consists of three notes on the theory of two-

@@ -1,9 +1,11 @@
+.I 216
+.T
 the supersonic axial flow compressor .
-
+.A
 kantrowitz,a.
-
+.B
 naca r974, 1950.
-
+.W
 the supersonic axial flow compressor .
   an investigation has been made to explore the possibilities of
 axial-flow compressors operating with supersonic velocities into

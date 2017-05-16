@@ -1,9 +1,12 @@
-shear buckling of clamped and simply-supported infinitelylong plates reinforced by transverse stiffeners .
-
+.I 1396
+.T
+shear buckling of clamped and simply-supported infinitely
+long plates reinforced by transverse stiffeners .
+.A
 cook,i.t. and rockey,k.c.
-
+.B
 aero. quart. 13, 1962, 41.
-
+.W
 shear buckling of clamped and simply-supported infinitely
 long plates reinforced by transverse stiffeners .
   the paper presents a solution to the buckling of infinitely long

@@ -1,9 +1,11 @@
+.I 733
+.T
 the bending of a sectorial plate .
-
+.A
 carrier,g.f.
-
+.B
 j. app. mech. 11, 1944, 134.
-
+.W
 the bending of a sectorial plate .
   the problem of evaluating the bending moments,
 existing in a uniformly loaded clamped plate having the form

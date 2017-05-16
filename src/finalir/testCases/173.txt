@@ -1,9 +1,12 @@
-the effect of a central jet on the base pressure ofa cylindrical afterbody in a supersonic stream .
-
+.I 173
+.T
+the effect of a central jet on the base pressure of
+a cylindrical afterbody in a supersonic stream .
+.A
 reid,j. and hastings,r.c.
-
+.B
 arc r + m.3224, 1962.
-
+.W
 the effect of a central jet on the base pressure of
 a cylindrical afterbody in a supersonic stream .
   this report describes an experimental investigation

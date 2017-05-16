@@ -1,9 +1,11 @@
+.I 630
+.T
 stagnation region in rarefied high mach number flow .
-
+.A
 cheng,h.k. and chang,a.l.
-
+.B
 a.i.a.a. j. 1963, 231.
-
+.W
 stagnation region in rarefied high mach number flow .
   paper describes results of numerical solution of the viscous
 shock-layer equations for axisymmetric stagnation region, using

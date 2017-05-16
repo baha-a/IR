@@ -1,9 +1,12 @@
-the effect of lift on entry corridor depth and guidancerequirements for the return lunar flight .
-
+.I 275
+.T
+the effect of lift on entry corridor depth and guidance
+requirements for the return lunar flight .
+.A
 wong,t. and slye,r.
-
+.B
 nasa r-80, 1960.
-
+.W
 the effect of lift on entry corridor depth and guidance
 requirements for the return lunar flight .
   corridors for manned vehicles are

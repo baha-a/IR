@@ -1,9 +1,12 @@
-some effects of injection of foreign gases in a deceleratinglaminar boundary layer in supersonic flow .
-
+.I 529
+.T
+some effects of injection of foreign gases in a decelerating
+laminar boundary layer in supersonic flow .
+.A
 gouse,s.w., brown,g.a. and kaye,j.
-
+.B
 j. ae. scs. 29, 1962, 1250.
-
+.W
 some effects of injection of foreign gases in a decelerating
 laminar boundary layer in supersonic flow .
   the purpose of this research program was to investigate the

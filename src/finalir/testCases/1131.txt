@@ -1,9 +1,12 @@
-the effect of axial constraint on the instability ofthin conical shells under external pressure .
-
+.I 1131
+.T
+the effect of axial constraint on the instability of
+thin conical shells under external pressure .
+.A
 singer,j.
-
+.B
 j. app. mech. 29, 1962, 212.
-
+.W
 the effect of axial constraint on the instability of
 thin conical shells under external pressure .
   author considers elastic axial restraint which may be (1)

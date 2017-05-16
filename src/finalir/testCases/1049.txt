@@ -1,9 +1,11 @@
+.I 1049
+.T
 elastic constants for corrugated core sandwich plates .
-
+.A
 libove,c. and hubka,r.e.
-
+.B
 naca tn.2289, 1951.
-
+.W
 elastic constants for corrugated core sandwich plates .
   the sandwich plate consisting of
 corrugated sheet fastened between

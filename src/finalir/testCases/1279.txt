@@ -1,9 +1,11 @@
+.I 1279
+.T
 sublimation in a hypersonic environment .
-
+.A
 scala,s.m.
-
+.B
 j. ae. scs. 1960, 1.
-
+.W
 sublimation in a hypersonic environment .
   a priori knowledge of the response of materials subjected to a
 severe aerothermal environment is essential in the space age .

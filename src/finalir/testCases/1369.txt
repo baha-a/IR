@@ -1,9 +1,9 @@
+.I 1369
+.T
 steady motion of a sphere., oseen's criticism and solution .
-
-
-
-
-
+.A
+.B
+.W
 steady motion of a sphere., oseens's criticism and solution .
 the formula of stokes for the resistance experienced slowly
 moving sphere has been employed in physical researches of fundamental

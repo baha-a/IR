@@ -1,9 +1,12 @@
-use of subsonic kernel function in an influence-coefficient method ofaeroelastic analysis and some comparisons with experiment .
-
+.I 781
+.T
+use of subsonic kernel function in an influence-coefficient method of
+aeroelastic analysis and some comparisons with experiment .
+.A
 john l. sewall, robert w. herr, and charles e. watkins
-
+.B
 technical note d-515
-
+.W
 use of subsonic kernel function in an influence-coefficient method of
 aeroelastic analysis and some comparisons with experiment .
 this paper illustrates the development and application of an

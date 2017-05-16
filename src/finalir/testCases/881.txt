@@ -1,9 +1,11 @@
+.I 881
+.T
 cumulative damage in fatigue .
-
+.A
 miner,m.a.
-
+.B
 j. app. mech. 12, 1945, a159.
-
+.W
 cumulative damage in fatigue .
   the phenomenon of cumulative damage under repeated
 loads was assumed to be related to the net work absorbed

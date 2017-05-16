@@ -1,9 +1,12 @@
-scale effects at high subsonic and transonic speedsand methods for fixing transition in model experiments .
-
+.I 315
+.T
+scale effects at high subsonic and transonic speeds
+and methods for fixing transition in model experiments .
+.A
 haines,a.b., holder,d.w. and pearcey,h.h.
-
+.B
 arc r + m3012, 1954.
-
+.W
 scale effects at high subsonic and transonic speeds
 and methods for fixing transition in model experiments .
   the major scale effects at high subsonic and transonic

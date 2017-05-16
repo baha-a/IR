@@ -1,9 +1,11 @@
+.I 414
+.T
 the problem of resistance in compressible fluids .
-
+.A
 von karman,t.
-
+.B
 5th volta cong. 1955,226.
-
+.W
 the problem of resistance in compressible fluids .
   this report is restricted to the
 resistance of bodies of revolution and

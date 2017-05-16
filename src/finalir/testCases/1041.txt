@@ -1,9 +1,13 @@
+.I 1041
+.T
 analysis of stresses in the elements of shell structure .
-
-c. e. taylor ande. wenk, jr.
-
-structural research engineer, david taylor model basin head,structures division, david taylor model basin
-
+.A
+c. e. taylor and
+e. wenk, jr.
+.B
+structural research engineer, david taylor model basin head,
+structures division, david taylor model basin
+.W
 analysis of stresses in the elements of shell structure .
 the love-meissner analysis for thin shells has previously been applied
 to cones of uniform wall thickness, and solutions for the stress

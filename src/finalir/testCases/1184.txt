@@ -1,9 +1,11 @@
+.I 1184
+.T
 three dimensional effects in viscous wakes .
-
+.A
 steiger,m.h. and bloom,m.h.
-
+.B
 aiaa jnl. 1963,776
-
+.W
 three dimensional effects in viscous wakes .
   three-dimensionality in wakelike or jetlike
 free mixing may stem from initial geometric

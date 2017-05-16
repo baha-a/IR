@@ -1,9 +1,9 @@
+.I 1018
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   the results of short-time elevated-temperature creep tests of
 objective of obtaining procedures for predicting column lifetime .

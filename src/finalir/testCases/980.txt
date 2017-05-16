@@ -1,9 +1,13 @@
-a method of computing the transient temperature of thick walls fromarbitrary variation of adiabatic-wall temperature and heat-transfercoefficient .
-
+.I 980
+.T
+a method of computing the transient temperature of thick walls from
+arbitrary variation of adiabatic-wall temperature and heat-transfer
+coefficient .
+.A
 hills, p.r.
-
+.B
 naca report 1372, 1958 .
-
+.W
 a method of computing the transient temperature of thick walls from
 arbitrary variation of adiabatic-wall temperature and heat-transfer
 coefficient .

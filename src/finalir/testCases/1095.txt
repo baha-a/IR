@@ -1,9 +1,13 @@
-investigation of effectiveness of large-chord slottedflaps in deflecting propeller slipstreams downwardfor vertical take-off and low-speed flight .
-
+.I 1095
+.T
+investigation of effectiveness of large-chord slotted
+flaps in deflecting propeller slipstreams downward
+for vertical take-off and low-speed flight .
+.A
 kuhn,r.e. and draper,j.w.
-
+.B
 naca tn.3364, 1955.
-
+.W
 investigation of effectiveness of large-chord slotted
 flaps in deflecting propeller slipstreams downward
 for vertical take-off and low-speed flight .

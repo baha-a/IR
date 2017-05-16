@@ -1,9 +1,11 @@
+.I 697
+.T
 effects on adjacent surfaces from the firing of rocket jets .
-
+.A
 bressette, w.e. and leiss, a.
-
+.B
 naca rm l 57d19a, 1957 .
-
+.W
 effects on adjacent surfaces from the firing of rocket jets .
 this paper is a preliminary and brief account of some research currently
  being conducted to determine the jet effects on adjacent surfaces from

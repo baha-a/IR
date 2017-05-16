@@ -1,9 +1,12 @@
-buckling of ring-stiffened cylinders under a pure bendingmoment and a nonuniform temperature distribution .
-
+.I 1178
+.T
+buckling of ring-stiffened cylinders under a pure bending
+moment and a nonuniform temperature distribution .
+.A
 anderson,m.s. and card,m.f.
-
+.B
 nasa tn.d1513, 1962.
-
+.W
 buckling of ring-stiffened cylinders under a pure bending
 moment and a nonuniform temperature distribution .
   thirteen stainless-steel ring-stiffened

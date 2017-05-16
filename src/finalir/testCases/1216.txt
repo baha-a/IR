@@ -1,9 +1,12 @@
-pressure distribution in regions of step-induced turbulentseparation .
-
+.I 1216
+.T
+pressure distribution in regions of step-induced turbulent
+separation .
+.A
 vasilu,j.
-
+.B
 j. ae. scs. 1962, 596.
-
+.W
 pressure distribution in regions of step-induced turbulent
 separation .
   an analysis is made of the pressure distribution in the

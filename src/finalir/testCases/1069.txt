@@ -1,9 +1,12 @@
-design and testing of honeycomb sandwich cylindersunder axial compression .
-
+.I 1069
+.T
+design and testing of honeycomb sandwich cylinders
+under axial compression .
+.A
 cunningham,j.h. and jacobson,m.j.
-
+.B
 nasa tn.d1510, 1962.
-
+.W
 design and testing of honeycomb sandwich cylinders
 under axial compression .
   experimental results for 36 diameter honeycomb cylinders

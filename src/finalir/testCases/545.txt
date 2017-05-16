@@ -1,9 +1,13 @@
-calculation of sideslip derivatives and pressure distributionin asymmetric flight conditions on a slender wing-finconfiguration .
-
+.I 545
+.T
+calculation of sideslip derivatives and pressure distribution
+in asymmetric flight conditions on a slender wing-fin
+configuration .
+.A
 sells,c.c.l.
-
+.B
 rae tn.aero.2805, 1962.
-
+.W
 calculation of sideslip derivatives and pressure distribution
 in asymmetric flight conditions on a slender wing-fin
 configuration .

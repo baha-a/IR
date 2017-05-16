@@ -1,9 +1,12 @@
-the influence of two-dimensional stream shear for airfoilmaximum lift .
-
+.I 484
+.T
+the influence of two-dimensional stream shear for airfoil
+maximum lift .
+.A
 vidal,r.j.
-
+.B
 j. ae. scs. 29, 1962, 889.
-
+.W
 the influence of two-dimensional stream shear for airfoil
 maximum lift .
   the effects of stream velocity gradients on airfoil maximum

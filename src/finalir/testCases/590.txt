@@ -1,9 +1,12 @@
-effects of stage characteristics and matching on axial flow compressorperformance .
-
+.I 590
+.T
+effects of stage characteristics and matching on axial flow compressor
+performance .
+.A
 stone, a.
-
+.B
 trans. asme, v. 80, p. 1273, 1958 .
-
+.W
 effects of stage characteristics and matching on axial flow compressor
 performance .
 the use of stage characteristics obtained from test data in the

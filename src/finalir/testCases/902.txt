@@ -1,9 +1,12 @@
-some current and proposed investigations into the flowfor slender delta and other wings in unsteady motion .
-
+.I 902
+.T
+some current and proposed investigations into the flow
+for slender delta and other wings in unsteady motion .
+.A
 lambourne,n.c.
-
+.B
 arc 21,844, 1960.
-
+.W
 some current and proposed investigations into the flow
 for slender delta and other wings in unsteady motion .
   the practical need for research

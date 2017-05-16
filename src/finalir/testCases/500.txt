@@ -1,9 +1,12 @@
-joule heating in magnetohydrodynamic free-convectionflows .
-
+.I 500
+.T
+joule heating in magnetohydrodynamic free-convection
+flows .
+.A
 cramer,k.r.
-
+.B
 j.ae.scs., 29, 1962, 746.
-
+.W
 joule heating in magnetohydrodynamic free-convection
 flows .
   the steady, fully developed, laminar, free-convection flow of an

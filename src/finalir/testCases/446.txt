@@ -1,9 +1,11 @@
+.I 446
+.T
 wake of a satellite traversing the ionosphere .
-
+.A
 rand,s.
-
+.B
 phys. fluids, 3, 1960.
-
+.W
 wake of a satellite traversing the ionosphere .
   the particle treatment is applied to a study of the
 structure of the wake behind a charged body

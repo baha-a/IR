@@ -1,9 +1,12 @@
-post buckling behaviour of circular cylinderical shellsunder hydrostatic pressure .
-
+.I 926
+.T
+post buckling behaviour of circular cylinderical shells
+under hydrostatic pressure .
+.A
 kempner,j.
-
+.B
 j. ae. scs. 24, 1957, 253.
-
+.W
 post buckling behaviour of circular cylinderical shells
 under hydrostatic pressure .
   the postbuckling behavior of initially perfect, thin-walled,

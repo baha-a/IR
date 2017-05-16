@@ -1,9 +1,13 @@
-the contraction of satellite orbits under the influenceof air drag . pt .iv with scale height dependent onaltitude .
-
+.I 548
+.T
+the contraction of satellite orbits under the influence
+of air drag . pt .iv with scale height dependent on
+altitude .
+.A
 king-hele,d.g., and cook,g.e.
-
+.B
 rae tn.space 18, 1962.
-
+.W
 the contraction of satellite orbits under the influence
 of air drag . pt .iv with scale height dependent on
 altitude .

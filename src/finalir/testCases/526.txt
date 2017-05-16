@@ -1,9 +1,12 @@
-leading edge attachment in transonic flow with laminaror turbulent boundary layers .
-
+.I 526
+.T
+leading edge attachment in transonic flow with laminar
+or turbulent boundary layers .
+.A
 mabey,d.g.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 leading edge attachment in transonic flow with laminar
 or turbulent boundary layers .
   the transonic flow round a two-dimensional airfoil at

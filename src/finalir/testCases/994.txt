@@ -1,9 +1,12 @@
-investigation of a retrocket exhausting from the nose of a blunt bodyinto a supersonic free stream .
-
+.I 994
+.T
+investigation of a retrocket exhausting from the nose of a blunt body
+into a supersonic free stream .
+.A
 charczenko, n. and hennessy, k.w.
-
+.B
 nasa tn d-1016, 1962 .
-
+.W
 investigation of a retrocket exhausting from the nose of a blunt body
 into a supersonic free stream .
 the pressure distribution and pressure drag of a blunt body with a

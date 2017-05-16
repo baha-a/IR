@@ -1,9 +1,11 @@
+.I 44
+.T
 tip-bluntness effects on cone pressures at m=6.85 .
-
+.A
 bertram,m.h.
-
+.B
 j.ae.scs. 23, 1956,898.
-
+.W
 tip-bluntness effects on cone pressures at m=6.85 .
 there is, at present, considerable interest in the
 characteristies of blunted bodies from both an aerodynamic and a

@@ -1,9 +1,11 @@
+.I 625
+.T
 viscous and inviscid nonequilibrium gas flows .
-
+.A
 whalen,r.j.
-
+.B
 j. ae. scs. 29, 1962, 1222.
-
+.W
 viscous and inviscid nonequilibrium gas flows .
   the condition of immediate freezing of the mass fraction of
 dissociated species of air at the equilibrium value behind the

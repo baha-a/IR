@@ -1,9 +1,12 @@
+.I 237
+.T
 a compressor routine test code .
-
+.A
 n. a. dimmock
-
-communicated by the deputy controller aircraft (research anddevelopment), ministry of aviation
-
+.B
+communicated by the deputy controller aircraft (research and
+development), ministry of aviation
+.W
 a compressor routine test code .
 the routine testing of aircraft-type compressors.dash in the main,
 axial-flow, multi-stage compressors.dash requires a compromise between

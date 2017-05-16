@@ -1,9 +1,13 @@
-general instability of ring stiffened cylindrical shellssubject to external hydrostatic pressure - a comparisonof theory and experiment .
-
+.I 1132
+.T
+general instability of ring stiffened cylindrical shells
+subject to external hydrostatic pressure - a comparison
+of theory and experiment .
+.A
 galletly,d.d.
-
+.B
 j. app. mech. 25, 1958, 259.
-
+.W
 general instability of ring stiffened cylindrical shells
 subject to external hydrostatic pressure - a comparison
 of theory and experiment .

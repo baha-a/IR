@@ -1,9 +1,11 @@
+.I 210
+.T
 propeller in yaw .
-
+.A
 ribner,h.s.
-
+.B
 naca r820, 1945.
-
+.W
 propeller in yaw .
   it was realized as early as 1909 that a propeller in yaw
 develops a side force like that of a fin .  in 1917, r. g. harris

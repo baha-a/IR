@@ -1,9 +1,11 @@
+.I 908
+.T
 random vibration .
-
+.A
 crandal,s.
-
+.B
 app. mech. rev. 12, 1959, 739.
-
+.W
 random vibration .
   random vibration is vibration which results
 from an excitation which is not well represented by any simple

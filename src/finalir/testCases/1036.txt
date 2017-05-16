@@ -1,9 +1,11 @@
+.I 1036
+.T
 on transverse vibrations of thin, shallow elastic shells .
-
+.A
 reissner,e.
-
+.B
 q. app. math., 13, 1955, 169.
-
+.W
 on transverse vibrations of thin, shallow elastic shells .
   according to marguerre (proc. 5th internat. congress
 appl. mech., cambridge, mass., 1938, wiley, new york,

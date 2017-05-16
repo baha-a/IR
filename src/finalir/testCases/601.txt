@@ -1,9 +1,12 @@
-calculation of the flow past slender delta wings withleading edge separation .
-
+.I 601
+.T
+calculation of the flow past slender delta wings with
+leading edge separation .
+.A
 mangler,k.w. and smith,j.
-
+.B
 rae r. aero.2593, 1957.
-
+.W
 calculation of the flow past slender delta wings with
 leading edge separation .
   the flow past a slender delta

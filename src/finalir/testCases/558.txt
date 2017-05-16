@@ -1,9 +1,11 @@
-experimental measurements of turbulent transition motion,statistics and gross radial growth behind hypervelocity object.
-
+.I 558
+.T
+experimental measurements of turbulent transition motion,
+statistics and gross radial growth behind hypervelocity object.
+.A
 slattery,r.e. and clay,w.g.
-
-
-
+.B
+.W
 experimental measurements of turbulent transition motion,
 statistics and gross radial growth behind hypervelocity object.
   the laminar-turbulent transition behind 0.500-in.-diameter

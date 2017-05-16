@@ -1,9 +1,11 @@
+.I 736
+.T
 the bending of a wedge shaped plate .
-
+.A
 woinowsky-krieger,s.
-
+.B
 j. app. mech. 20, 1953, 77.
-
+.W
 the bending of a wedge shaped plate .
   a general method of solution is given in this paper for
 the problem of bending of a wedge-shaped thin elastic

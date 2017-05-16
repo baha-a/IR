@@ -1,9 +1,12 @@
-reduction of the clamped plate to two membrane problemswith an application to uniformly loaded sectors .
-
+.I 641
+.T
+reduction of the clamped plate to two membrane problems
+with an application to uniformly loaded sectors .
+.A
 morley,l.s.d.
-
+.B
 rae r.struct.277, 1962.
-
+.W
 reduction of the clamped plate to two membrane problems
 with an application to uniformly loaded sectors .
   the clamped plate problem in

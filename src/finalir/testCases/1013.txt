@@ -1,9 +1,9 @@
+.I 1013
+.T
 principles of creep buckling weight-strength analysis .
-
-
-
-
-
+.A
+.B
+.W
 principles of creep buckling weight-strength analysis .
   published work on creep buckling has implied that failure
 of columns after a critical time is caused by initial imperfections .

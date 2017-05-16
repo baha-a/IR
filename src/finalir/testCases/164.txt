@@ -1,9 +1,12 @@
-an approximate analytical method for studying entryinto planetary atmospheres .
-
+.I 164
+.T
+an approximate analytical method for studying entry
+into planetary atmospheres .
+.A
 chapman,d.r.
-
+.B
 nasa r-11, 1959.
-
+.W
 an approximate analytical method for studying entry
 into planetary atmospheres .
   the pair of motion equations for entry into a

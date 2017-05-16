@@ -1,9 +1,12 @@
-an investigation of the use of an auxiliary slot tore-establish laminar flow on low drag aerofoils .
-
+.I 1323
+.T
+an investigation of the use of an auxiliary slot to
+re-establish laminar flow on low drag aerofoils .
+.A
 cumming,r.w., gregory,b. and walker,w.s.
-
+.B
 arc r + m.2742, 1950.
-
+.W
 an investigation of the use of an auxiliary slot to
 re-establish laminar flow on low drag aerofoils .
   the use of an auxiliary slot on a laminar-flow

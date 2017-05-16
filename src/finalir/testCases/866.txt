@@ -1,9 +1,11 @@
+.I 866
+.T
 regularities in creep and hot fatigue data .
-
+.A
 graham,a. and walles,k.f.a.
-
+.B
 arc cp.379, 1958.
-
+.W
 regularities in creep and hot fatigue data .
   published experimental results are assembled to support a
 previously-given theory of uniaxial deformation, and the theory is then used to

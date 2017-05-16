@@ -1,9 +1,12 @@
-qualitiative solutions of the stability equation for a boundary layer in contact with various forms of flexible surface .
-
+.I 1322
+.T
+qualitiative solutions of the stability equation for a boundary layer in
+ contact with various forms of flexible surface .
+.A
 nonweiler, t.r.f.
-
+.B
 arc, 22670, march 1961 .
-
+.W
 qualitiative solutions of the stability equation for a boundary layer in
  contact with various forms of flexible surface .
 an appropriate form of the boundary layer stability equation is

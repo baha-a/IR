@@ -1,9 +1,12 @@
-manoeuvring technique for changing the plane of circularorbits with minimum fuel expenditure .
-
+.I 510
+.T
+manoeuvring technique for changing the plane of circular
+orbits with minimum fuel expenditure .
+.A
 weiss,d.c.
-
+.B
 j. ae. scs. 29, 1962, 368.
-
+.W
 manoeuvring technique for changing the plane of circular
 orbits with minimum fuel expenditure .
   usaf-supported discussion of the use of an intermediate

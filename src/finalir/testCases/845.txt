@@ -1,9 +1,11 @@
+.I 845
+.T
 the flexural vibrations of thin cylinders .
-
+.A
 arnold,r.n. and warburton,g.b.
-
+.B
 j. proc. i. mech. e. 167, 1953, 62.
-
+.W
 the flexural vibrations of thin cylinders .
 the flexural vibrations of the walls of thin cylinders are considered .
 in this type of vibration many forms of nodal pattern may exist owing to

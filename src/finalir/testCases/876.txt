@@ -1,9 +1,11 @@
+.I 876
+.T
 on flutter testing in high speed wind tunnels .
-
+.A
 lambourne,n.c. and scruton,c.
-
+.B
 arc r + m.3054, 1956.
-
+.W
 on flutter testing in high speed wind tunnels .
   the requirements for simulating in a wind tunnel flutter conditions
 appropriate to high-speed flight are discussed, and an assessment is

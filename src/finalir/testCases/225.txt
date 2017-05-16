@@ -1,9 +1,11 @@
+.I 225
+.T
 elliptic cones alone and with wings at supersonic speeds .
-
+.A
 jorgensen,l.h.
-
+.B
 naca tn4045,1957
-
+.W
 elliptic cones alone and with wings at supersonic speeds .
   to help fill the gap in the knowledge
 of aerodynamics of shapes

@@ -1,9 +1,12 @@
-steady and fluctuating pressures at transonic speedson two space-vehicle payload shapes .
-
+.I 1114
+.T
+steady and fluctuating pressures at transonic speeds
+on two space-vehicle payload shapes .
+.A
 coe,c.f.
-
+.B
 nasa tm.x503, 1961.
-
+.W
 steady and fluctuating pressures at transonic speeds
 on two space-vehicle payload shapes .
   steady and fluctuating pressures

@@ -1,9 +1,11 @@
+.I 344
+.T
 some experimental techniques in mass transfer cooling .
-
+.A
 leadon,b.m.
-
+.B
 aero/space eng. 18, 1959.
-
+.W
 some experimental techniques in mass transfer cooling .
   author introduces his survey by a brief review of the history of
 investigations dealing with boundary layers on impermeable solid

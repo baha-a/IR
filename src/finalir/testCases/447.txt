@@ -1,9 +1,11 @@
+.I 447
+.T
 motion of thin bodies in a highly rarefied plasma .
-
+.A
 yoshira,h.
-
+.B
 phys.fluids,4, 1961.
-
+.W
 motion of thin bodies in a highly rarefied plasma .
   magnetic effects are considered negligible,
 and the velocity of the body is in a range between the

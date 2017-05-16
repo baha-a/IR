@@ -1,9 +1,12 @@
-transition in the viscous wakes of blunt bodies athypersonic speeds .
-
+.I 536
+.T
+transition in the viscous wakes of blunt bodies at
+hypersonic speeds .
+.A
 hidalgo,h., taylor,r.l. and keck,j.c.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 transition in the viscous wakes of blunt bodies at
 hypersonic speeds .
   transition from laminar to turbulent flow in the hypersonic

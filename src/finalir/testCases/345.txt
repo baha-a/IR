@@ -1,9 +1,12 @@
-the interaction of shock waves with boundary layeron a flat surface .
-
+.I 345
+.T
+the interaction of shock waves with boundary layer
+on a flat surface .
+.A
 barry,f.w., shapiro,a.h. and neumann,e.p.
-
+.B
 j. ae. scs. 18, 1951, 229.
-
+.W
 the interaction of shock waves with boundary layer
 on a flat surface .
   the development of supersonic compressors, supersonic

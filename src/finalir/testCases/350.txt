@@ -1,9 +1,11 @@
+.I 350
+.T
 laminar jet mixing of two compressible fluids with heat release .
-
+.A
 s. i. pai
-
+.B
 university of maryland
-
+.W
 laminar jet mixing of two compressible fluids with heat release .
 the laminar jet mixing problems with heat release have been formulated .
 a general discussion of the solution of these problems is also given .

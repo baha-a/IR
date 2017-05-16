@@ -1,9 +1,11 @@
+.I 182
+.T
 effect of roughness on transition in supersonic flow .
-
+.A
 van driest,e.r. and blumer,c.b.
-
+.B
 agard r255, 1960.
-
+.W
 effect of roughness on transition in supersonic flow .
   further experiments carried out in the 12-inch supersonic wind tunnel
 of the jet propulsion laboratory of

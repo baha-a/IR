@@ -1,9 +1,12 @@
-approximate determination of position of the sonicline for a blunt body in hypersonic flow .
-
+.I 523
+.T
+approximate determination of position of the sonic
+line for a blunt body in hypersonic flow .
+.A
 rahman,m.a.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 approximate determination of position of the sonic
 line for a blunt body in hypersonic flow .
 the detached shock in front of a blunt body in hypersonic

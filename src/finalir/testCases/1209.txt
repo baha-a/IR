@@ -1,9 +1,11 @@
+.I 1209
+.T
 aerodynamic processes in the downwash-impingement problem .
-
+.A
 vidal,r.j.
-
+.B
 j. ae. scs. 1962.
-
+.W
 aerodynamic processes in the downwash-impingement problem .
   theoretical and experimental data relating to the downwash
 impingement problem are examined in order to arrive at a

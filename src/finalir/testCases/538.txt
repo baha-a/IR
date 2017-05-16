@@ -1,9 +1,12 @@
-the conpressibility transformation and the turbulentboundary layer equations .
-
+.I 538
+.T
+the conpressibility transformation and the turbulent
+boundary layer equations .
+.A
 burgraf,o.r.
-
+.B
 j. ae. scs. 19, 1962.
-
+.W
 the conpressibility transformation and the turbulent
 boundary layer equations .
   the compressibility transformation first introduced by

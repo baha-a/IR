@@ -1,9 +1,13 @@
-pressure distribution induced on a flat plate at a free-streammach number of 1.39 by rockets exhausting upstream and downstream .
-
+.I 636
+.T
+pressure distribution induced on a flat plate at a free-stream
+mach number of 1.39 by rockets exhausting upstream and downstream .
+.A
 abraham leiss
-
-national aeronautics and space administrationtechnical note d-1507
-
+.B
+national aeronautics and space administration
+technical note d-1507
+.W
 pressure distribution induced on a flat plate at a free-stream
 mach number of 1.39 by rockets exhausting upstream and downstream .
 an experimental investigation was made of the pressures induced on

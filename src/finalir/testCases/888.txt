@@ -1,9 +1,12 @@
-combinations of temperature and axial compression requiredfor buckling of a ring-stiffened cylinder .
-
+.I 888
+.T
+combinations of temperature and axial compression required
+for buckling of a ring-stiffened cylinder .
+.A
 anderson,m.s.
-
+.B
 nasa tn.d1224, 1962.
-
+.W
 combinations of temperature and axial compression required
 for buckling of a ring-stiffened cylinder .
   a theory is presented to predict the buckling temperature of an

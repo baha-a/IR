@@ -1,9 +1,12 @@
-experimental investigation of the downstream influenceof stagnation point mass transfer .
-
+.I 84
+.T
+experimental investigation of the downstream influence
+of stagnation point mass transfer .
+.A
 libby,pa. and cresci,r.j.
-
+.B
 j. ae. scs. 28, 1961, 51.
-
+.W
 experimental investigation of the downstream influence
 of stagnation point mass transfer .
   this report presents the results of an experimental

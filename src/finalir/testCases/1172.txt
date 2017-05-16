@@ -1,9 +1,12 @@
-elastic stability of circular cylindrical shells stabilizedby a soft elastic core .
-
+.I 1172
+.T
+elastic stability of circular cylindrical shells stabilized
+by a soft elastic core .
+.A
 goree,w.s. and nash,w.a.
-
+.B
 exp. mech. 2, 1962.
-
+.W
 elastic stability of circular cylindrical shells stabilized
 by a soft elastic core .
   the effect of a soft elastic core upon the

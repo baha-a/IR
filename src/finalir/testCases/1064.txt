@@ -1,9 +1,13 @@
-propeller slipstream effects as determined from wingpressure distribution on a large-scale six-propellervtol model at static thrust .
-
+.I 1064
+.T
+propeller slipstream effects as determined from wing
+pressure distribution on a large-scale six-propeller
+vtol model at static thrust .
+.A
 winston,m.m.
-
+.B
 nasa tn.d1509, 1962.
-
+.W
 propeller slipstream effects as determined from wing
 pressure distribution on a large-scale six-propeller
 vtol model at static thrust .

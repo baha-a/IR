@@ -1,9 +1,11 @@
+.I 1116
+.T
 general instability of stiffened cylinders .
-
+.A
 becker,h.
-
+.B
 naca tn.4237, 1958.
-
+.W
 general instability of stiffened cylinders .
   theoretical buckling stresses
 are determined in explicit form for

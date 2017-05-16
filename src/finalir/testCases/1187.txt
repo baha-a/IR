@@ -1,9 +1,12 @@
-shock-induced boundary layer separation in overexpanded conical exhaustnozzles .
-
+.I 1187
+.T
+shock-induced boundary layer separation in overexpanded conical exhaust
+nozzles .
+.A
 arens, m. and spiegler, e
-
+.B
 aiaa journal, march 1963. p.578 .
-
+.W
 shock-induced boundary layer separation in overexpanded conical exhaust
 nozzles .
 the flow in overexpanded supersonic nozzles is reviewed . although five

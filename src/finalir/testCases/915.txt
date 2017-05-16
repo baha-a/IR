@@ -1,9 +1,12 @@
+.I 915
+.T
 a buckled plate in a supersonic stream .
-
+.A
 hayes, w.
-
-naaa inc. r al1029(abstract by e.m.keen)
-
+.B
+naaa inc. r al1029
+(abstract by e.m.keen)
+.W
 a buckled plate in a supersonic stream .
 the forcible buckling of an
 external skin plate from a guided missile, with a pinned end,

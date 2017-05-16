@@ -1,9 +1,9 @@
+.I 1004
+.T
 free-flight measurements of the static and dynamic .
-
-
-
-
-
+.A
+.B
+.W
 free-flight measurements of the static and dynamic .
   the effects of contamination of helium by air upon static-pressure,
 total-pressure, heat-transfer, and temperature measurements have been

@@ -1,9 +1,13 @@
-pressure distributions and flow patterns on some conicalshapes with sharp edges and symmetrical cross-sectionsat m=4 .0.
-
+.I 514
+.T
+pressure distributions and flow patterns on some conical
+shapes with sharp edges and symmetrical cross-sections
+at m=4 .0.
+.A
 squire,l.c.
-
+.B
 rae tn.aero.2823, 1962.
-
+.W
 pressure distributions and flow patterns on some conical
 shapes with sharp edges and symmetrical cross-sections
 at m=4 .0.

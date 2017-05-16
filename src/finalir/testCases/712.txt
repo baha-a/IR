@@ -1,9 +1,13 @@
-low-speed longitudinal aerodynamic characteristics associated with aseries of low-aspect ratio wings having variations in leading-edgecontour .
-
+.I 712
+.T
+low-speed longitudinal aerodynamic characteristics associated with a
+series of low-aspect ratio wings having variations in leading-edge
+contour .
+.A
 spencer, b. and hammond, a.d.
-
+.B
 nasa tn d-1374, 1962 .
-
+.W
 low-speed longitudinal aerodynamic characteristics associated with a
 series of low-aspect ratio wings having variations in leading-edge
 contour .

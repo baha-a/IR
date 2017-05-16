@@ -1,9 +1,12 @@
-approximate analytical solutions for hypersonic flowpast slender power-law bodies .
-
+.I 160
+.T
+approximate analytical solutions for hypersonic flow
+past slender power-law bodies .
+.A
 mirels,h.
-
+.B
 nasa r-15, 1959.
-
+.W
 approximate analytical solutions for hypersonic flow
 past slender power-law bodies .
 approximate analytical solutions are presented

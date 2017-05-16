@@ -1,9 +1,12 @@
-fundamentals of boundary layer heat transfer with streamwisetemperature variations .
-
+.I 872
+.T
+fundamentals of boundary layer heat transfer with streamwise
+temperature variations .
+.A
 biot,m.a.
-
+.B
 j. ae. scs. 1962, 558.
-
+.W
 fundamentals of boundary layer heat transfer with streamwise
 temperature variations .
   boundary-layer heat transfer is analyzed for the case of a

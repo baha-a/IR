@@ -1,9 +1,12 @@
-a wind-tunnel test technique for measuring the dynamic rotarystability derivatives at subsonic and supersonic speeds .
-
+.I 790
+.T
+a wind-tunnel test technique for measuring the dynamic rotary
+stability derivatives at subsonic and supersonic speeds .
+.A
 report 1258
-
+.B
 benjamin h. beam
-
+.W
 a wind-tunnel test technique for measuring the dynamic rotary
 stability derivatives at subsonic and supersonic speeds .
 a method is described for measuring the dynamic stability derivatives

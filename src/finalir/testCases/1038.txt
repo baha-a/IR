@@ -1,9 +1,9 @@
+.I 1038
+.T
 on transverse vibrations of thin, shallow elastic shells .
-
-
-
-
-
+.A
+.B
+.W
 on transverse vibrations of thin, shallow elastic shells .
   the deformation and complete stress
 distribution are determined for

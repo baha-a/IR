@@ -1,9 +1,13 @@
-first-order slip effects on the laminar boundary layer over a slenderbody of revolution with zero pressure gradient .
-
+.I 528
+.T
+first-order slip effects on the laminar boundary layer over a slender
+body of revolution with zero pressure gradient .
+.A
 jay m. solomon
-
-research aerospace engineer, u. s. naval ordnance laboratory,white oak, silver spring, md.
-
+.B
+research aerospace engineer, u. s. naval ordnance laboratory,
+white oak, silver spring, md.
+.W
 first-order slip effects on the laminar boundary layer over a slender
 body of revolution with zero pressure gradient .
 in reference 1, the analysis given by probstein and elliott for the

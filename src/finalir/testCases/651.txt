@@ -1,9 +1,12 @@
-heat transfer to separated and reattached subsonicturbulen flows obtained downstream of a surface step .
-
+.I 651
+.T
+heat transfer to separated and reattached subsonic
+turbulen flows obtained downstream of a surface step .
+.A
 seban,r.a., emery,a. and levy,a.
-
+.B
 j. ae. scs. 1959, 809.
-
+.W
 heat transfer to separated and reattached subsonic
 turbulen flows obtained downstream of a surface step .
   local heat-transfer coefficients and recovery factors are

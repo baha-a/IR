@@ -1,9 +1,12 @@
-use of local similarity concepts in hypersonic viscousinteraction problems .
-
+.I 540
+.T
+use of local similarity concepts in hypersonic viscous
+interaction problems .
+.A
 forbes dewey,c.
-
+.B
 a.i.a.a. j. 1963, 20.
-
+.W
 use of local similarity concepts in hypersonic viscous
 interaction problems .
   the problem of predicting the characteristics

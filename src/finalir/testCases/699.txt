@@ -1,9 +1,12 @@
-approximate indical lift functions for several wings of finite span inincompressible flow as obtained from oscillatory lift coefficients .
-
+.I 699
+.T
+approximate indical lift functions for several wings of finite span in
+incompressible flow as obtained from oscillatory lift coefficients .
+.A
 drischler j.a.
-
+.B
 naca tn 3639, 1956 .
-
+.W
 approximate indical lift functions for several wings of finite span in
 incompressible flow as obtained from oscillatory lift coefficients .
 the unsteady-lift functions for a wing undergoing a sudden change in

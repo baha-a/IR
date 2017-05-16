@@ -1,9 +1,11 @@
+.I 1278
+.T
 transition in a separated laminar boundary layer .
-
+.A
 lochtenberg,b.h.
-
+.B
 j.ae.scs.1960, 92.
-
+.W
 transition in a separated laminar boundary layer .
   transition to turbulence was studied in a separated laminar
 boundary layer on a flat plate 24 in. long and thick .  steps

@@ -1,9 +1,11 @@
+.I 1118
+.T
 elastic stability of orthotropic shells .
-
+.A
 becker,h. and gerard,g.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 elastic stability of orthotropic shells .
   a small-deflection theory for general instability of orthotropic
 circular cylindrical shells has been derived for external pressure,

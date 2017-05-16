@@ -1,9 +1,12 @@
-the stagnation point boundary layer in the presenceof an applied magnetic field .
-
+.I 1236
+.T
+the stagnation point boundary layer in the presence
+of an applied magnetic field .
+.A
 bush,w.b.
-
+.B
 j. ae. scs. 1961, 610.
-
+.W
 the stagnation point boundary layer in the presence
 of an applied magnetic field .
   similarity equations for axisymmetric compressible flow are

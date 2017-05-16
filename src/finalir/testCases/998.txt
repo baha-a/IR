@@ -1,9 +1,11 @@
+.I 998
+.T
 equations, tables and charts for compressible flow .
-
+.A
 ames research staff.
-
+.B
 naca r.1135, 1953.
-
+.W
 equations, tables and charts for compressible flow .
   this report, which is a revision and extension of naca tn
 useful in the analysis of high-speed flow of a compressible fluid .

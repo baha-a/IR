@@ -1,9 +1,11 @@
+.I 1365
+.T
 approximate calculation of the laminar boundary layer .
-
+.A
 thwaites,b.
-
+.B
 aero. quart. 1, 1949-1950.
-
+.W
 approximate calculation of the laminar boundary layer .
   after analyzing a large class of boundary-layer
 velocity-profiles, the author discovered that the functions l(m) and

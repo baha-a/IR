@@ -1,9 +1,12 @@
-the compressible laminar boundary layer with heat transferand arbitrary pressure gradient .
-
+.I 1366
+.T
+the compressible laminar boundary layer with heat transfer
+and arbitrary pressure gradient .
+.A
 cohen,c.b. and reshotko,e.
-
+.B
 naca r.1294, 1956.
-
+.W
 the compressible laminar boundary layer with heat transfer
 and arbitrary pressure gradient .
   an approximate method for the calculation of the

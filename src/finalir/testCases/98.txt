@@ -1,9 +1,11 @@
+.I 98
+.T
 heat transfer by laminar flow to a rotating plate .
-
+.A
 millsaps,k. and pohlhausen,k.
-
+.B
 j. ae. scs. 19, 1952, 120.
-
+.W
 heat transfer by laminar flow to a rotating plate .
   an exact solution of the heat-transfer problem for the von
 karman example of the laminar flow of a viscous fluid over a

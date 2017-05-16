@@ -1,9 +1,12 @@
-plastic torsional buckling strength of cylinders includingthe effects of imperfections .
-
+.I 823
+.T
+plastic torsional buckling strength of cylinders including
+the effects of imperfections .
+.A
 lee,l.h.n. and ades,c.s.
-
+.B
 j. ae. scs. 24, 1957, 241.
-
+.W
 plastic torsional buckling strength of cylinders including
 the effects of imperfections .
   the torsional buckling strength of a cylinder in the plastic

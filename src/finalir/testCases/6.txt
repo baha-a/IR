@@ -1,9 +1,12 @@
-one-dimensional transient heat flow in a multilayerslab .
-
+.I 6
+.T
+one-dimensional transient heat flow in a multilayer
+slab .
+.A
 campbell,w.f.
-
+.B
 j. ae. scs. 25, 1958, 340.
-
+.W
 one-dimensional transient heat flow in a multilayer
 slab .
   in a recent contribution to the readers'

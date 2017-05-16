@@ -1,9 +1,13 @@
-one dimensional heat conduction through the skin ofa vehicle upon entering a planetary atmosphere at constantvelocity and entry angle .
-
+.I 944
+.T
+one dimensional heat conduction through the skin of
+a vehicle upon entering a planetary atmosphere at constant
+velocity and entry angle .
+.A
 wells,w.r. and mclellan,c.h.
-
+.B
 nasa tn.d1476, 1962.
-
+.W
 one dimensional heat conduction through the skin of
 a vehicle upon entering a planetary atmosphere at constant
 velocity and entry angle .

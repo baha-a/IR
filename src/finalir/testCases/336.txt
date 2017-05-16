@@ -1,9 +1,12 @@
-simplified laminar boundary layer calculations forbodies of revolution and for yawed wings .
-
+.I 336
+.T
+simplified laminar boundary layer calculations for
+bodies of revolution and for yawed wings .
+.A
 rott,n. and crabtree,l.f.
-
+.B
 j. ae. scs. 19, 1962.
-
+.W
 simplified laminar boundary layer calculations for
 bodies of revolution and for yawed wings .
   since the introduction of momentum methods in

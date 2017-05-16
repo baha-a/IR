@@ -1,9 +1,12 @@
-on the response of the laminar boundary layer to smallfluctuations of the free-stream velocity .
-
+.I 1260
+.T
+on the response of the laminar boundary layer to small
+fluctuations of the free-stream velocity .
+.A
 rott,n. and rosenzweig,m.l.
-
+.B
 j. ae. scs. 1960, 741.
-
+.W
 on the response of the laminar boundary layer to small
 fluctuations of the free-stream velocity .
   the linearized treatment of small time-dependent disturbances

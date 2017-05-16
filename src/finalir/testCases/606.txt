@@ -1,9 +1,12 @@
-formulae and approximations for aerodynamic heating rates in high speedflight .
-
+.I 606
+.T
+formulae and approximations for aerodynamic heating rates in high speed
+flight .
+.A
 monaghan, r.j.
-
+.B
 rae. tn. aero. 2407 .
-
+.W
 formulae and approximations for aerodynamic heating rates in high speed
 flight .
 this note gives formulae and approximations suitable for making

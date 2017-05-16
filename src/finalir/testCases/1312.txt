@@ -1,9 +1,13 @@
-tabulated solutions of the equilibrium gas propertiesbehind the incidents and reflected normal shock-wavein a shock-tube .
-
+.I 1312
+.T
+tabulated solutions of the equilibrium gas properties
+behind the incidents and reflected normal shock-wave
+in a shock-tube .
+.A
 bernstein,l.
-
+.B
 i. nitrogen, ii. oxygen. arc cp.626, 1961.
-
+.W
 tabulated solutions of the equilibrium gas properties
 behind the incidents and reflected normal shock-wave
 in a shock-tube .

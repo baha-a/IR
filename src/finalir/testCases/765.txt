@@ -1,9 +1,12 @@
-clamped short oval cylindrical shells under hydrostaticpressure .
-
+.I 765
+.T
+clamped short oval cylindrical shells under hydrostatic
+pressure .
+.A
 vafakos,w.p.
-
+.B
 j. ae.scs. 29, 1962, 1347.
-
+.W
 clamped short oval cylindrical shells under hydrostatic
 pressure .
   the principle of the minimum of the total potential is

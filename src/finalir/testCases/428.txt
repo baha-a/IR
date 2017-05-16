@@ -1,9 +1,12 @@
-the quasi-cylinder of specified thickness and shellloading in supersonic flow .
-
+.I 428
+.T
+the quasi-cylinder of specified thickness and shell
+loading in supersonic flow .
+.A
 portnoy,j.
-
+.B
 aero. quart. 11, 1960, 387.
-
+.W
 the quasi-cylinder of specified thickness and shell
 loading in supersonic flow .
   the methods of the operational

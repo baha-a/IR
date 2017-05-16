@@ -1,9 +1,12 @@
-thin airfoil theory based on approximate solution of the transonic flowequation .
-
+.I 467
+.T
+thin airfoil theory based on approximate solution of the transonic flow
+equation .
+.A
 spreiter, j. r. and alksne, a. y.
-
+.B
 naca tn 3970, may, 1957 .
-
+.W
 thin airfoil theory based on approximate solution of the transonic flow
 equation .
 the present paper describes a method for the approximate solution of the

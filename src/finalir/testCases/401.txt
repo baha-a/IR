@@ -1,9 +1,12 @@
-inviscid hypersonic airflows with coupled non-equilibriumprocesses .
-
+.I 401
+.T
+inviscid hypersonic airflows with coupled non-equilibrium
+processes .
+.A
 hall,j.g., eschenroeder,a.w. and marrone,p.v.
-
+.B
 ias paper 62-67, 1962.
-
+.W
 inviscid hypersonic airflows with coupled non-equilibrium
 processes .
   analyses have been made of the effects of coupled chemical rate

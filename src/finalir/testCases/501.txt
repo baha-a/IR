@@ -1,9 +1,12 @@
-stagnation-point shock detachment of blunt bodies insupersonic flow .
-
+.I 501
+.T
+stagnation-point shock detachment of blunt bodies in
+supersonic flow .
+.A
 ridyard,h.w.
-
+.B
 j. ae. scs. 29, 1962, 751.
-
+.W
 stagnation-point shock detachment of blunt bodies in
 supersonic flow .
   presentation of stagnation-point shock-detachment distances

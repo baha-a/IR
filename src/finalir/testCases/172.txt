@@ -1,9 +1,12 @@
-some aerodynamic considerations of nozzle afterbodycombination .
-
+.I 172
+.T
+some aerodynamic considerations of nozzle afterbody
+combination .
+.A
 cortright,e.m.
-
+.B
 aero. eng. rev. 15, 1956, 59.
-
+.W
 some aerodynamic considerations of nozzle afterbody
 combination .
   the aerodynamic problems associated with

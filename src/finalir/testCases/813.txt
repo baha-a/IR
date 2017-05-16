@@ -1,9 +1,12 @@
-the motion of rolling symmetrical missiles referredto a body-axis system .
-
+.I 813
+.T
+the motion of rolling symmetrical missiles referred
+to a body-axis system .
+.A
 nelson,r.l.
-
+.B
 naca tn.3737, 1956.
-
+.W
 the motion of rolling symmetrical missiles referred
 to a body-axis system .
   the linearized equations of motion have been derived for a rolling

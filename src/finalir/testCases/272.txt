@@ -1,9 +1,12 @@
-oscillatory aerodynamic coefficients for a unified supersonichypersonic strip theory .
-
+.I 272
+.T
+oscillatory aerodynamic coefficients for a unified supersonic
+hypersonic strip theory .
+.A
 rodden, w. +. and revell, j.d.
-
+.B
 j. ae. scs. 1960, 451.
-
+.W
 oscillatory aerodynamic coefficients for a unified supersonic
 hypersonic strip theory .
   the shock tube is shown to be a feasible research tool for

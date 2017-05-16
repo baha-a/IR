@@ -1,9 +1,12 @@
-measurement of convective heat transfer by means ofthe reynolds analogy .
-
+.I 120
+.T
+measurement of convective heat transfer by means of
+the reynolds analogy .
+.A
 granville,r.a. and boxall,g.
-
+.B
 brit.j.app.phys. 11, 1960, 471.
-
+.W
 measurement of convective heat transfer by means of
 the reynolds analogy .
 preston's method for measuring skin friction in pipes has

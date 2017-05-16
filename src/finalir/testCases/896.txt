@@ -1,9 +1,12 @@
-the calculation of loads on a supersonic weapon inthe steady circling case .
-
+.I 896
+.T
+the calculation of loads on a supersonic weapon in
+the steady circling case .
+.A
 seal,d.m.
-
+.B
 rae tn.struct.275, 1960.
-
+.W
 the calculation of loads on a supersonic weapon in
 the steady circling case .
   the economy of a design depends

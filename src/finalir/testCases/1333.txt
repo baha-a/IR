@@ -1,9 +1,11 @@
+.I 1333
+.T
 aerodynamic forces on wings in non-uniform motion .
-
+.A
 jones,w.p.
-
+.B
 arc r + m.2117, 1945.
-
+.W
 aerodynamic forces on wings in non-uniform motion .
   the problem of determining the aerodynamic forces
 acting on wings of finite span in non-uniform motion

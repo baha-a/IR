@@ -1,9 +1,11 @@
+.I 15
+.T
 on two-dimensional panel flutter .
-
+.A
 fung,y.c.
-
+.B
 j. ae. scs. 25, 1958, 145.
-
+.W
 on two-dimensional panel flutter .
   theory and experiments of the flutter of a buckled plate are
 discussed .  it is shown that an increase in the initial deviation

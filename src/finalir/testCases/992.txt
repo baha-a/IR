@@ -1,9 +1,12 @@
-the effects of a small jet of air exhausting from the nose of a bodyof revolution in supersonic flow .
-
+.I 992
+.T
+the effects of a small jet of air exhausting from the nose of a body
+of revolution in supersonic flow .
+.A
 love, e.s.
-
+.B
 naca rm l52119a, 1952 .
-
+.W
 the effects of a small jet of air exhausting from the nose of a body
 of revolution in supersonic flow .
 an investigation has been made at a mach number of 1.62 to determine

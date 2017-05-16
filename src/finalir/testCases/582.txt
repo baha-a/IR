@@ -1,9 +1,11 @@
+.I 582
+.T
 the melting of finite slabs .
-
+.A
 goodman,t.r. and shea,j.j.
-
+.B
 j. app. mech. 27, 1960, 16.
-
+.W
 the melting of finite slabs .
 an approximate method, known as the
 heat-balance integral, is used to determine the

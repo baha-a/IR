@@ -1,9 +1,12 @@
-preliminary analysis of axial flow compressors havingsupersonic velocity at the entrance of the stator .
-
+.I 426
+.T
+preliminary analysis of axial flow compressors having
+supersonic velocity at the entrance of the stator .
+.A
 ferri,a.
-
+.B
 naca rm l9g06, 1949.
-
+.W
 preliminary analysis of axial flow compressors having
 supersonic velocity at the entrance of the stator .
   a supersonic compressor design having supersonic velocity at the

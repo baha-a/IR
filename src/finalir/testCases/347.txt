@@ -1,9 +1,11 @@
+.I 347
+.T
 boundary layer measurements in hypersonic flow .
-
+.A
 hill,f.k.
-
+.B
 j. ae. scs. 21, 1954, 433.
-
+.W
 boundary layer measurements in hypersonic flow .
   experimental data are presented on boundary-layer formation,
 heat transfer, and skin-friction coefficient at mach numbers of

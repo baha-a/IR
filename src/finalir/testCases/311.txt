@@ -1,9 +1,12 @@
-a method for predicting the onset of buffeting and other separationeffects from wind tunnel tests on rigid models .
-
+.I 311
+.T
+a method for predicting the onset of buffeting and other separation
+effects from wind tunnel tests on rigid models .
+.A
 pearcey, h. h.
-
+.B
 n.p.l. aero. 358, fm 2763. dec. 1958 .
-
+.W
 a method for predicting the onset of buffeting and other separation
 effects from wind tunnel tests on rigid models .
 the method is based on the observation of the divergence that occurs in

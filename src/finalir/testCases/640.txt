@@ -1,9 +1,11 @@
+.I 640
+.T
 the design of structures to resist jet noise fatigue .
-
+.A
 b. l. clarkson
-
+.B
 j. royal aero. soc. 66, oct. 1962
-
+.W
 the design of structures to resist jet noise fatigue .
 the design of structures to resist jet noise fatigue demands a
 knowledge of a wide range of subjects from pure acoustics at one

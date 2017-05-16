@@ -1,9 +1,11 @@
+.I 581
+.T
 approximate formulas for thermal-stress analysis .
-
+.A
 d. j. johns
-
+.B
 lecturer, the college of aeronautics, cranfield, england
-
+.W
 approximate formulas for thermal-stress analysis .
 the basis of any thermal-stress analysis is the determination of the
 temperature distributions in the structure .  for arbitrary flight

@@ -1,9 +1,12 @@
-review of panel flutter and effects of aerodynamic noisepart i..  panel flutter .
-
+.I 658
+.T
+review of panel flutter and effects of aerodynamic noise
+part i..  panel flutter .
+.A
 l. e. goodman and j. v. rattayya
-
+.B
 university of minnesota, minneapolis, minnesota
-
+.W
 review of panel flutter and effects of aerodynamic noise
 part i..  panel flutter .
 with the development of high-speed aircraft and missiles, vibration

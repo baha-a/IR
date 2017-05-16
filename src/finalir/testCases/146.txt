@@ -1,9 +1,12 @@
-supersonic flow past slender bodies with discontinuousprofile slope .
-
+.I 146
+.T
+supersonic flow past slender bodies with discontinuous
+profile slope .
+.A
 fraenkel and portnoy.
-
+.B
 aero.quart. 6, 1955, 114.
-
+.W
 supersonic flow past slender bodies with discontinuous
 profile slope .
   ward's slender-body theory is extended to derive first

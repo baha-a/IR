@@ -1,9 +1,11 @@
+.I 13
+.T
 similarity laws for stressing heated wings .
-
+.A
 tsien,h.s.
-
+.B
 j. ae. scs. 20, 1953, 1.
-
+.W
 similarity laws for stressing heated wings .
   it will be shown that the differential equations for a heated
 plate with large temperature gradient and for a similar plate at

@@ -1,9 +1,11 @@
+.I 136
+.T
 recent developments in rocket nozzle configurations .
-
+.A
 roa,g.v.r.
-
+.B
 a.r.s.jnl. 31, 1961,1488.
-
+.W
 recent developments in rocket nozzle configurations .
   existing configurations of supersonic portion of rocket nozzles
 are described and compared .  survey covers bell-type conical and

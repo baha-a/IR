@@ -1,9 +1,12 @@
-the temperature history in a thick skin subjected to laminar heatingduring entry into the atmosphere .
-
+.I 982
+.T
+the temperature history in a thick skin subjected to laminar heating
+during entry into the atmosphere .
+.A
 sutton, g.w.
-
+.B
 jet propulsion, vol. 28, january 1959, p 40-5
-
+.W
 the temperature history in a thick skin subjected to laminar heating
 during entry into the atmosphere .
 during high speed entry into the earth's atmosphere, a vehicle can be

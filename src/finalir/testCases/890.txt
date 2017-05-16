@@ -1,9 +1,11 @@
+.I 890
+.T
 comments on 'thermal buckling of clamped cylindrical shells' .
-
+.A
 david j. johns
-
+.B
 lecturer, college of aeronautics, cranfield, england
-
+.W
 comments on 'thermal buckling of clamped cylindrical shells' .
 in the recent paper by zuk, an expression was presented for
 the critical buckling temperature of a clamped cylindrical shell

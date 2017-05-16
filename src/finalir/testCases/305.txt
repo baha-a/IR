@@ -1,9 +1,12 @@
-hypersonic strong viscous interaction on a flat platewith surface mass transfer .
-
+.I 305
+.T
+hypersonic strong viscous interaction on a flat plate
+with surface mass transfer .
+.A
 li,t.y. and gross,j.f.
-
+.B
 heat transfer and fluid mech. inst. 1961, 146.
-
+.W
 hypersonic strong viscous interaction on a flat plate
 with surface mass transfer .
 the present report gives an account of

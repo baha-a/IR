@@ -1,9 +1,11 @@
+.I 1271
+.T
 theory of supersonic propeller aerodynamics .
-
+.A
 ordway,d.e. and hale,r.w.
-
+.B
 j. ae. scs. 1960, 437.
-
+.W
 theory of supersonic propeller aerodynamics .
   a supersonic propeller with blades attached to an infinite
 cylinder as a hub is studied .  the forward speed may be subsonic, but

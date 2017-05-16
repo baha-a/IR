@@ -1,9 +1,11 @@
+.I 1231
+.T
 hypersonic flow over an elliptic cone: theory and experiment .
-
+.A
 chapkis,r.l.
-
+.B
 j. ae. scs. 1961, 844.
-
+.W
 hypersonic flow over an elliptic cone: theory and experiment .
   by applying hypersonic approximations to ferri's linearized
 characteristics method, simple results were obtained for the

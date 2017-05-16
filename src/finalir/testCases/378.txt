@@ -1,9 +1,12 @@
-engineering relations for friction and heat transfer to surfaces in high velocity flow .
-
+.I 378
+.T
+engineering relations for friction and heat transfer to surfaces in high
+ velocity flow .
+.A
 eckert, e.
-
+.B
 j. aero. sc. v.22, august 1955, pp 585-587
-
+.W
 engineering relations for friction and heat transfer to surfaces in high
  velocity flow .
 in calculations of thermodynamic heating for high speed missiles

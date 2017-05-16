@@ -1,9 +1,11 @@
+.I 129
+.T
 an investigation of the noise produced by a subsonic air jet .
-
+.A
 j. h. gerrard
-
+.B
 university of manchester
-
+.W
 an investigation of the noise produced by a subsonic air jet .
 to investigate the theoretical predictions of lighthill on aerodynamic
 sound, measurements have been made of the sound field of a 1 in. air jet

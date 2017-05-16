@@ -1,9 +1,11 @@
+.I 35
+.T
 stagnation point of a blunt body in hypersonic flow .
-
+.A
 li,t.y. and geiger,r.e.
-
+.B
 j. ae. scs. 24, 1957, 25.
-
+.W
 stagnation point of a blunt body in hypersonic flow .
   the purpose of this paper is to present a method of calculation
 devised to yield all the important information on the symmetric

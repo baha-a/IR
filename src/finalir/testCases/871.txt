@@ -1,9 +1,11 @@
+.I 871
+.T
 steady-state creep through dislocation climb .
-
+.A
 weertman,j.
-
+.B
 j.app. phys. 28, 1957, 362.
-
+.W
 steady-state creep through dislocation climb .
   a dislocation climb creep model is considered which does not require
 the production of immobile dislocations .  the creep equation that

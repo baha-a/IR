@@ -1,9 +1,11 @@
+.I 190
+.T
 on magnetohydrodynamic shock waves .
-
+.A
 kanwal,r.
-
+.B
 j.math.mech. 9, 1960, 681.
-
+.W
 on magnetohydrodynamic shock waves .
   in the earlier attempts at finding the jump conditions
 across a hydromagnetic shock wave (1, 2, 3)

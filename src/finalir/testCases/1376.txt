@@ -1,9 +1,11 @@
+.I 1376
+.T
 some applications in physics of the p-function .
-
+.A
 masters,j.i.
-
+.B
 j.chem.phys. 23, 1955, 1865.
-
+.W
 some applications in physics of the p-function .
   the mathematical background and typical applications
 in physics are presented for a recently tabulated

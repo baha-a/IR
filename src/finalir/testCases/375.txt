@@ -1,9 +1,11 @@
+.I 375
+.T
 steady flow in the laminar boundary layer of a gas .
-
+.A
 illingworth,c.r.
-
+.B
 proc. roy. soc. a, 199, 1949.
-
+.W
 steady flow in the laminar boundary layer of a gas .
 if the boundary-layer equations for a gas are
 transformed by mises's transformation, as

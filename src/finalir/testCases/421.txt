@@ -1,9 +1,13 @@
-analytic study of induced pressure on long bodies ofrevolution with varying nose bluntness at hypersonicspeeds .
-
+.I 421
+.T
+analytic study of induced pressure on long bodies of
+revolution with varying nose bluntness at hypersonic
+speeds .
+.A
 van hise,v.
-
+.B
 nasa r78, 1960.
-
+.W
 analytic study of induced pressure on long bodies of
 revolution with varying nose bluntness at hypersonic
 speeds .

@@ -1,9 +1,12 @@
-some effects of surface curvature on laminar boundarylayer flow .
-
+.I 133
+.T
+some effects of surface curvature on laminar boundary
+layer flow .
+.A
 murphy,j.s.
-
+.B
 j.aero.scs. 20, 1953, 338.
-
+.W
 some effects of surface curvature on laminar boundary
 layer flow .
   the laminar flow of a viscous incompressible fluid over a

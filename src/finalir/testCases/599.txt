@@ -1,9 +1,12 @@
-aerodynamic forces, moments and stability derivativesfor slender bodies of general cross section .
-
+.I 599
+.T
+aerodynamic forces, moments and stability derivatives
+for slender bodies of general cross section .
+.A
 sacks,a.h.
-
+.B
 naca tn.3283, 1954.
-
+.W
 aerodynamic forces, moments and stability derivatives
 for slender bodies of general cross section .
   the problem of determining the total

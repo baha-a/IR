@@ -1,9 +1,12 @@
-an extension of the method of generalised conical flowsfor lifting wings in supersonic flow .
-
+.I 633
+.T
+an extension of the method of generalised conical flows
+for lifting wings in supersonic flow .
+.A
 portnoy,h.
-
+.B
 rae tn. aero.2849, 1962.
-
+.W
 an extension of the method of generalised conical flows
 for lifting wings in supersonic flow .
   the method of generalised conical

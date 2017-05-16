@@ -1,9 +1,12 @@
-an aerodynamic analysis for flutter in oseen-type viscousflow .
-
+.I 530
+.T
+an aerodynamic analysis for flutter in oseen-type viscous
+flow .
+.A
 chu,wen-hwa.
-
+.B
 j. ae. scs. 29, 1962, 781.
-
+.W
 an aerodynamic analysis for flutter in oseen-type viscous
 flow .
   oseen's equations for unsteady flow are employed to obtain

@@ -1,9 +1,12 @@
-low frequency fatigue of nimonic 90 . low frequencyfatigue - a rheological approach .
-
+.I 867
+.T
+low frequency fatigue of nimonic 90 . low frequency
+fatigue - a rheological approach .
+.A
 landau,c.s.
-
+.B
 engineer, 213, 1962, 911.
-
+.W
 low frequency fatigue of nimonic 90 . low frequency
 fatigue - a rheological approach .
 an alloy of nimonic 90 type has been tested under cyclic loads at

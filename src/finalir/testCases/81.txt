@@ -1,9 +1,12 @@
-compressible laminar flow and heat transfer about arotating isothermal disk .
-
+.I 81
+.T
+compressible laminar flow and heat transfer about a
+rotating isothermal disk .
+.A
 ostrach,s. and thornton,p.
-
+.B
 naca tn.4320, 1958.
-
+.W
 compressible laminar flow and heat transfer about a
 rotating isothermal disk .
   the flow and heat transfer about a rotating isothermal disk are

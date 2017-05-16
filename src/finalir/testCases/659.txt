@@ -1,9 +1,11 @@
+.I 659
+.T
 nonuniform shear flow past cylinders .
-
+.A
 murray,j.d.
-
+.B
 q. j. mech. app. math. 10, 1957, 406.
-
+.W
 nonuniform shear flow past cylinders .
   a general method is described whereby
 an approximation of any desired degree

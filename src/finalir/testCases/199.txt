@@ -1,9 +1,12 @@
-measurement of two dimensional derivatives on a wing-aileron-tabsystem .
-
+.I 199
+.T
+measurement of two dimensional derivatives on a wing-aileron-tab
+system .
+.A
 wight,k.c.
-
+.B
 part i, arc r + m 2934, 1955.  part ii arc r + m 3029, 1958.
-
+.W
 measurement of two dimensional derivatives on a wing-aileron-tab
 system .
   measurements have been made of the direct

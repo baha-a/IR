@@ -1,9 +1,13 @@
-pressure measurements on sharp and blunt 5 and 15 half-anglecones at mach number 3.86 and angles of attack to100 .
-
+.I 58
+.T
+pressure measurements on sharp and blunt 5 and 15 half-angle
+cones at mach number 3.86 and angles of attack to
+100 .
+.A
 amick,j.l.
-
+.B
 nasa tn.d753, 1961.
-
+.W
 pressure measurements on sharp and blunt 5 and 15 half-angle
 cones at mach number 3.86 and angles of attack to
 100 .

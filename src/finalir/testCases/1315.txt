@@ -1,9 +1,12 @@
-performance estimates for the rae 6in . high-pressureshock tube .
-
+.I 1315
+.T
+performance estimates for the rae 6in . high-pressure
+shock tube .
+.A
 woods,n.a.
-
+.B
 arc 20,440, 1958.
-
+.W
 performance estimates for the rae 6in . high-pressure
 shock tube .
   estimates are made of the performance

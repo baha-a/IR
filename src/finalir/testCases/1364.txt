@@ -1,9 +1,12 @@
-an experimental investigation of the interaction between shock waves and boundary layers .
-
+.I 1364
+.T
+an experimental investigation of the interaction between shock waves and
+ boundary layers .
+.A
 gadd, g.e., holder, d.w. and regan, j.d.
-
+.B
 proc. of the roy. soc. of london, ser. a., vol. 226, 1954, pp. 227-253
-
+.W
 an experimental investigation of the interaction between shock waves and
  boundary layers .
 an account is given of an investigation into the interaction between the

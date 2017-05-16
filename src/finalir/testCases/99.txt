@@ -1,9 +1,11 @@
+.I 99
+.T
 the fundamentals of the statistical theory of turbulence .
-
+.A
 th. von karman
-
+.B
 california institute of technology
-
+.W
 the fundamentals of the statistical theory of turbulence .
 statistical theory in general considers mean values of certain
 quantities .  in the case of the turbulent motion one is interested in mean

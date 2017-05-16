@@ -1,9 +1,11 @@
+.I 330
+.T
 taylor instability of finite surface waves .
-
+.A
 emmons,h.w., chang,c.r. and watson,b.c.
-
+.B
 j. fluid mech. 7, 1960.
-
+.W
 taylor instability of finite surface waves .
 the instability of the accelerated interface
 between a liquid (methanol or carbon

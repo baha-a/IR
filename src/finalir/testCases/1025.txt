@@ -1,9 +1,9 @@
+.I 1025
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   the creep of a slightly crooked section column carrying a
 constant load is studied theoretically .  the material of the

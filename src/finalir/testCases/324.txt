@@ -1,9 +1,12 @@
-vorticity effect on the stagnation point flow of a viscousincompressible fluid .
-
+.I 324
+.T
+vorticity effect on the stagnation point flow of a viscous
+incompressible fluid .
+.A
 rott, n. and lenard, m.
-
+.B
 j. aero. sc. v. 26, august, 1959 .
-
+.W
 vorticity effect on the stagnation point flow of a viscous
 incompressible fluid .
 the effect of vorticity on axisymmetric stagnation point boundary layer

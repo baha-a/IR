@@ -1,9 +1,13 @@
-an analysis of the applicability of the hypersonicsimilarity law to the study of the flow about bodiesof revolution at zero angle of attack .
-
+.I 56
+.T
+an analysis of the applicability of the hypersonic
+similarity law to the study of the flow about bodies
+of revolution at zero angle of attack .
+.A
 ehret,d.m.
-
+.B
 naca tn.2250, 1950.
-
+.W
 an analysis of the applicability of the hypersonic
 similarity law to the study of the flow about bodies
 of revolution at zero angle of attack .

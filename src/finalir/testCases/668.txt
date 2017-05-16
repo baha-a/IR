@@ -1,9 +1,12 @@
-measurements of stagnation point heat transfer at lowreynolds number .
-
+.I 668
+.T
+measurements of stagnation point heat transfer at low
+reynolds number .
+.A
 ferri,a. and zakkay,v.
-
+.B
 j. ae. scs. 28, 1962, 847.
-
+.W
 measurements of stagnation point heat transfer at low
 reynolds number .
   measurements of stagnation point heat transfer are presented

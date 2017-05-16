@@ -1,9 +1,12 @@
-transpiration cooling experiments in a turbulent boundarylayer at m=3 .
-
+.I 343
+.T
+transpiration cooling experiments in a turbulent boundary
+layer at m=3 .
+.A
 leadon,b.m. and scott,c.j.
-
+.B
 j. ae. scs. 23, 1956.
-
+.W
 transpiration cooling experiments in a turbulent boundary
 layer at m=3 .
   turbulent recovery factor and heat-transfer measurements have been

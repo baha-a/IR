@@ -1,9 +1,12 @@
-several approximate analyses of the bending of a rectangularcantilever plate by uniform normal pressure .
-
+.I 454
+.T
+several approximate analyses of the bending of a rectangular
+cantilever plate by uniform normal pressure .
+.A
 nash,w.a.
-
+.B
 j.app.mech. 1952, 33.
-
+.W
 several approximate analyses of the bending of a rectangular
 cantilever plate by uniform normal pressure .
   three methods of approximating the deflections and

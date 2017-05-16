@@ -1,9 +1,12 @@
-stagnation point heat transfer in partially ionizedair .
-
+.I 524
+.T
+stagnation point heat transfer in partially ionized
+air .
+.A
 rozycki,r.c. and fenster,s.j.
-
+.B
 j. ae. scs. 29, 1962.
-
+.W
 stagnation point heat transfer in partially ionized
 air .
   comparison of heat-transfer rates, obtained by using transport

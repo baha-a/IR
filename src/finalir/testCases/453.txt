@@ -1,9 +1,9 @@
+.I 453
+.T
 the influence of two-dimensional stream shear on airfoil maximum lift .
-
-
-
-
-
+.A
+.B
+.W
 the influence of two-dimensional stream shear on airfoil maximum lift .
 the cornell aeronautical laboratory is conducting a program of
 theoretical and experimental research on low-speed aerodynamics as

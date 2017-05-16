@@ -1,9 +1,11 @@
+.I 165
+.T
 skin-friction measurements in incompressible flow .
-
+.A
 smith, d.w. and  walker, j. h.
-
+.B
 naca report r-26
-
+.W
 skin-friction measurements in incompressible flow .
 experiments have been conducted to measure in
 incompressible flow the local surface-shear stress

@@ -1,9 +1,11 @@
+.I 800
+.T
 wall interference at transonic speeds on a hemisphere cylinder model .
-
+.A
 rogers, e.w.e. and hall, i.m.
-
+.B
 a.r.c., c.p. 510, september 1959 .
-
+.W
 wall interference at transonic speeds on a hemisphere cylinder model .
 tests have been made in three n.p.l. wind tunnels on a pressure-plotting
  model consisting of a long cylinder with a hemispherical nose . the

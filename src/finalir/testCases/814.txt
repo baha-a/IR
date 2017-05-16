@@ -1,9 +1,11 @@
+.I 814
+.T
 stability derivatives of cones at supersonic speeds .
-
+.A
 tobak,m. and wehrend,w.r.
-
+.B
 naca tn.3788, 1956.
-
+.W
 stability derivatives of cones at supersonic speeds .
   the aerodynamic stability derivatives due to pitching velocity and
 vertical acceleration are calculated by use of potential theory for

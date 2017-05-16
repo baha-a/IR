@@ -1,9 +1,13 @@
-one-dimensional transient heat conduction into a double-layerslab subjected to a linear heat input for a small timeinternal .
-
+.I 5
+.T
+one-dimensional transient heat conduction into a double-layer
+slab subjected to a linear heat input for a small time
+internal .
+.A
 wasserman,b.
-
+.B
 j. ae. scs. 24, 1957, 924.
-
+.W
 one-dimensional transient heat conduction into a double-layer
 slab subjected to a linear heat input for a small time
 internal .

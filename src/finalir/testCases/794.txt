@@ -1,9 +1,12 @@
-experiments with a tapered swept-back wing of warren 12 planform at mach numbers between 0.6 and 1.6 .
-
+.I 794
+.T
+experiments with a tapered swept-back wing of warren 12 planform at mach
+ numbers between 0.6 and 1.6 .
+.A
 hall, i.m. and rogers, e.w.e.
-
+.B
 a.r.c. r + m 3271, part ii, july 1960 .
-
+.W
 experiments with a tapered swept-back wing of warren 12 planform at mach
  numbers between 0.6 and 1.6 .
 the development of the flow pattern on a wing of aspect ratio 2 828,

@@ -1,9 +1,12 @@
-axisymmetric viscous flow plast very slender bodiesof revolution .
-
+.I 494
+.T
+axisymmetric viscous flow plast very slender bodies
+of revolution .
+.A
 yashura,m.
-
+.B
 j. ae. scs. 29, 1962, 667.
-
+.W
 axisymmetric viscous flow plast very slender bodies
 of revolution .
   axisymmetric viscous flow past unyawed very slender bodies

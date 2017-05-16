@@ -1,9 +1,11 @@
+.I 722
+.T
 random excitation of a tailplane section by jet noise .
-
+.A
 clarkson,b.l. and ford,r.d.
-
+.B
 univ. southampton r. a.a.s.u.171.
-
+.W
 random excitation of a tailplane section by jet noise .
   the response of a section of tailplane structure to both discrete
 and random noise pressures has been studied in detail .  initially the

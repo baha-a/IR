@@ -1,9 +1,12 @@
-on the kernel function of the integral equation relating the lift anddownwash distributions of oscillating finite wings in subsonic flow .
-
+.I 705
+.T
+on the kernel function of the integral equation relating the lift and
+downwash distributions of oscillating finite wings in subsonic flow .
+.A
 watkins, c.e. and runyal, h.l. and woolston, d.s.
-
+.B
 naca rep. 1234, 1955 .
-
+.W
 on the kernel function of the integral equation relating the lift and
 downwash distributions of oscillating finite wings in subsonic flow .
 this report treats the kernel function of an integral equation that

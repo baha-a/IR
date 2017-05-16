@@ -1,9 +1,11 @@
+.I 257
+.T
 on turbulen flow between parallel plates .
-
+.A
 pai,s.i.
-
+.B
 j.app.mech. 20, 1953, 109.
-
+.W
 on turbulen flow between parallel plates .
   the reynolds equations of motion of turbulent flow of
 incompressible fluid have been studied for turbulent

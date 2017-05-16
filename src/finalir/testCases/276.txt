@@ -1,9 +1,11 @@
+.I 276
+.T
 reaction tests of turbine nozzles for supersonic velocities .
-
+.A
 keenan,j.h.
-
+.B
 asme trans. 1949, 773.
-
+.W
 reaction tests of turbine nozzles for supersonic velocities .
   a machine for testing turbine nozzles by the reaction
 method, which was described in a previous paper, was

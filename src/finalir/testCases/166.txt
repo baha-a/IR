@@ -1,9 +1,11 @@
+.I 166
+.T
 flow of chemically reacting gas mixtures .
-
+.A
 clarke,j.f.
-
+.B
 coa r117, 1961.
-
+.W
 flow of chemically reacting gas mixtures .
   suitable forms of the equations
 for the flow of an inviscid,

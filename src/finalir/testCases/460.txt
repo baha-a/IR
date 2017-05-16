@@ -1,9 +1,12 @@
-correlated incompressible and compressible boundarylayers .
-
+.I 460
+.T
+correlated incompressible and compressible boundary
+layers .
+.A
 stewartson,k.
-
+.B
 proc. roy. soc. a, 200, 1949, 84.
-
+.W
 correlated incompressible and compressible boundary
 layers .
   the boundary-layer equations for a compressible

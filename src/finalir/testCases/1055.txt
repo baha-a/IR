@@ -1,9 +1,11 @@
+.I 1055
+.T
 non-linear bending and buckling of circular plates .
-
+.A
 keller,h.b. and reiss,e.l.
-
+.B
 proc. 3rd u.s. nat. cong. app. mech. 1958, 375.
-
+.W
 non-linear bending and buckling of circular plates .
   iterative solutions of finite difference
 approximations of the non-linear von karman

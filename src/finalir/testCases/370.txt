@@ -1,9 +1,13 @@
-theoretical pressure distribution on a hemisphere-cylindercombination .
-
+.I 370
+.T
+theoretical pressure distribution on a hemisphere-cylinder
+combination .
+.A
 anthony casaccio
-
-research assistant, aerodynamics laboratory, polytechnic instituteof brooklyn, freeport, n.y.
-
+.B
+research assistant, aerodynamics laboratory, polytechnic institute
+of brooklyn, freeport, n.y.
+.W
 theoretical pressure distribution on a hemisphere-cylinder
 combination .
 in recent years great use has been made of approximate methods for

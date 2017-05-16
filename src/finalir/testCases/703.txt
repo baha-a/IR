@@ -1,9 +1,11 @@
+.I 703
+.T
 general airfoil theory .
-
+.A
 kussner, h.g.
-
+.B
 naca tm 979, 1941 .
-
+.W
 general airfoil theory .
 on the assumption of infinitely small disturbances the author develops
 a generalized integral equation of airfoil theory which is applicable

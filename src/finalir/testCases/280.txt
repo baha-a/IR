@@ -1,9 +1,12 @@
-the surface oil flow technique as used in high speedwind tunnels in the united kingdom .
-
+.I 280
+.T
+the surface oil flow technique as used in high speed
+wind tunnels in the united kingdom .
+.A
 stanbrook,a.
-
+.B
 rae tn.aero.2712, 1960.
-
+.W
 the surface oil flow technique as used in high speed
 wind tunnels in the united kingdom .
   an examination has been made of the

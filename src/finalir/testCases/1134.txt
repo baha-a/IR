@@ -1,9 +1,11 @@
+.I 1134
+.T
 torispherical shells - a caution to designers .
-
+.A
 galletly,g.d.
-
+.B
 j. eng. for industry, 1959, 51.
-
+.W
 torispherical shells - a caution to designers .
   it has recently become apparent, through
 a rigorous stress analysis of a specific case

@@ -1,9 +1,11 @@
+.I 221
+.T
 a theoretical study of annular supersonic nozzles .
-
+.A
 lord,w.t.
-
+.B
 arc r + m 3227, 1961.
-
+.W
 a theoretical study of annular supersonic nozzles .
   this paper is concerned with the design
 of annular supersonic nozzles to produce uniform

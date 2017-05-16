@@ -1,9 +1,12 @@
-the steady flow of a viscous fluid past a circular cylinder at reynoldsnumbers 40 and 44 .
-
+.I 1078
+.T
+the steady flow of a viscous fluid past a circular cylinder at reynolds
+numbers 40 and 44 .
+.A
 apelt, c.j
-
+.B
 a.r.c. r + m 3175 .
-
+.W
 the steady flow of a viscous fluid past a circular cylinder at reynolds
 numbers 40 and 44 .
 this paper describes the numerical solution of the complete

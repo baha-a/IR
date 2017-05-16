@@ -1,9 +1,13 @@
-study of flow conditions and deflection angle at exitof two-dimensional cascade of turbine rotor bladesat critical and supercritical pressure ratios .
-
+.I 277
+.T
+study of flow conditions and deflection angle at exit
+of two-dimensional cascade of turbine rotor blades
+at critical and supercritical pressure ratios .
+.A
 hauser,c.h., plohr,h.w. and sonder,g.
-
+.B
 naca rm e9k25, 1950.
-
+.W
 study of flow conditions and deflection angle at exit
 of two-dimensional cascade of turbine rotor blades
 at critical and supercritical pressure ratios .

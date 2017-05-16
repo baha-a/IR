@@ -1,9 +1,11 @@
+.I 175
+.T
 experiments with static tubes in a supersonic airstream .
-
+.A
 holder,d.w., north,r.j. and chinneck,a.
-
+.B
 arc r + m 2782, 1953.
-
+.W
 experiments with static tubes in a supersonic airstream .
   systematic tests have been made at a mach
 number of 1.6 on a family of static tubes .  the variables

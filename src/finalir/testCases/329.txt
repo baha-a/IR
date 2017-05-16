@@ -1,9 +1,12 @@
-various aerodynamic characteristics in hypersonic rarefiedgas flow .
-
+.I 329
+.T
+various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+.A
 probstein,r.f. and kemp,n.h.
-
+.B
 j. ae. scs. 27, 1960.
-
+.W
 various aerodynamic characteristics in hypersonic rarefied
 gas flow .
   this paper considers the problem of calculating viscous

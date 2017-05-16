@@ -1,9 +1,12 @@
-some explicit solutions for constant-temp . magnetogasdynamic channel flow .
-
+.I 939
+.T
+some explicit solutions for constant-temp . magnetogas
+dynamic channel flow .
+.A
 berlot,r.r.
-
+.B
 j. ae. scs. 29, 1962, 748.
-
+.W
 some explicit solutions for constant-temp . magnetogas
 dynamic channel flow .
 in order to simplify the process of estimating the aerodynamic

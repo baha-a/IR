@@ -1,9 +1,12 @@
-a new theory for the buckling of thin cylinders underaxial compression and bending .
-
+.I 928
+.T
+a new theory for the buckling of thin cylinders under
+axial compression and bending .
+.A
 donnell,l.h.
-
+.B
 asme trans. 56, 1934, 795.
-
+.W
 a new theory for the buckling of thin cylinders under
 axial compression and bending .
   the results of experiments on axial loading of cylindrical

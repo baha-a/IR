@@ -1,9 +1,11 @@
+.I 457
+.T
 on laminar boundary-layer flow near a position of separation .
-
+.A
 goldstein,s.
-
+.B
 q. j. mech.app. mech. 1, 1948, 43.
-
+.W
 on laminar boundary-layer flow near a position of separation .
   singularities are considered in the solution of
 the laminar boundary-layer

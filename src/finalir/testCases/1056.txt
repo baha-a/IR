@@ -1,9 +1,12 @@
-axisymmetric large deflections of circular plates subjectedto thermal and mechanical load .
-
+.I 1056
+.T
+axisymmetric large deflections of circular plates subjected
+to thermal and mechanical load .
+.A
 newman,m. and forray,m.
-
+.B
 proc. aerospace forum i session, s.m.f. paper ff-30, 1962, 56.
-
+.W
 axisymmetric large deflections of circular plates subjected
 to thermal and mechanical load .
   this paper is concerned with the nonlinear

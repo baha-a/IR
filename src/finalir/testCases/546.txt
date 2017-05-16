@@ -1,9 +1,12 @@
-measurements of aerodynamic heating on a 15 cone ofgraded wall thickness at a mach number of 6. 8.
-
+.I 546
+.T
+measurements of aerodynamic heating on a 15 cone of
+graded wall thickness at a mach number of 6. 8.
+.A
 woodley,j.g.
-
+.B
 rae tn.aero.2847, 1962.
-
+.W
 measurements of aerodynamic heating on a 15 cone of
 graded wall thickness at a mach number of 6. 8.
   this note describes transient wall

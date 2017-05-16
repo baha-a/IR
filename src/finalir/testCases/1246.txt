@@ -1,9 +1,12 @@
-solution of subsonic nonplanar lifting surface problemsby means of high-speed digital computers .
-
+.I 1246
+.T
+solution of subsonic nonplanar lifting surface problems
+by means of high-speed digital computers .
+.A
 kilakowski,l.j. and haskell,r.n.
-
+.B
 j. ae. scs. 1961.
-
+.W
 solution of subsonic nonplanar lifting surface problems
 by means of high-speed digital computers .
   the method proposed in this paper is based on an approximate

@@ -1,9 +1,12 @@
-a theory of transonic aileron buzz, neglecting viscouseffects .
-
+.I 496
+.T
+a theory of transonic aileron buzz, neglecting viscous
+effects .
+.A
 eckhaus,w.
-
+.B
 j. ae. scs. 29, 1962, 712.
-
+.W
 a theory of transonic aileron buzz, neglecting viscous
 effects .
   usaf-sponsored analysis of the unsteady perturbations of

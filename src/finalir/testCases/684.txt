@@ -1,9 +1,11 @@
+.I 684
+.T
 tables of complete elliptic integrals .
-
+.A
 heuman,c.
-
+.B
 j. maths. and phys. v. 20, 1941, pp 127-206 .
-
+.W
 tables of complete elliptic integrals .
 the present paper contains a set of tables of complete elliptic
 integrals computed and collected especially for applications to certain

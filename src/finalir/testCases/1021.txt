@@ -1,9 +1,9 @@
+.I 1021
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   this paper describes theory and tests of the creep collapse
 of long thin aluminum-alloy cylinders under external radial

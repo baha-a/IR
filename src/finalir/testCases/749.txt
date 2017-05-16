@@ -1,9 +1,12 @@
-the aerodynamic effects of aspect ratio and sweepbackon wing flutter .
-
+.I 749
+.T
+the aerodynamic effects of aspect ratio and sweepback
+on wing flutter .
+.A
 molyneux,w.g. and hall,h.
-
+.B
 arc r + m.3011.
-
+.W
 the aerodynamic effects of aspect ratio and sweepback
 on wing flutter .
   the report describes tests to obtain direct

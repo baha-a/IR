@@ -1,9 +1,12 @@
-an engineer's conceptual approach to the buckling ofcylindrical shell (axial loading) .
-
+.I 1126
+.T
+an engineer's conceptual approach to the buckling of
+cylindrical shell (axial loading) .
+.A
 cunningham,j.h.
-
+.B
 ias paper 62-106, 1962.
-
+.W
 an engineer's conceptual approach to the buckling of
 cylindrical shell (axial loading) .
 by using the well known analogy between

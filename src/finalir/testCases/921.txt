@@ -1,9 +1,11 @@
+.I 921
+.T
 slender-body theory-review and extension .
-
+.A
 adams, m.c. and sears, w.r.
-
+.B
 j. aero. sc. v. 20, february 1953 .
-
+.W
 slender-body theory-review and extension .
 the approximate theory of flow about slender bodies and wings originated
  by munk and jones is reviewed . it is presented here in a form that

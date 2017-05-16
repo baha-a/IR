@@ -1,9 +1,11 @@
+.I 374
+.T
 an investigation of optimum zoom climb techniques .
-
+.A
 kelly,h.j.
-
+.B
 j. ae.scs. 26, 1959, 794.
-
+.W
 an investigation of optimum zoom climb techniques .
   the problem of optimal zoom climb maneuvering of a turbojet
 aircraft has been investigated using the mayer formulation of the

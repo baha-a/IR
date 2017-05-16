@@ -1,9 +1,12 @@
-the use of aerodynamic lift during entry into the earth'satmosphere .
-
+.I 1345
+.T
+the use of aerodynamic lift during entry into the earth's
+atmosphere .
+.A
 lees,l.
-
+.B
 space tech. lab. r. gm-tr-0165-00519, 1958.
-
+.W
 the use of aerodynamic lift during entry into the earth's
 atmosphere .
   by employing aerodynamic lift during entry into the earth's

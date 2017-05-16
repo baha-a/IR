@@ -1,9 +1,11 @@
+.I 1017
+.T
 note on creep buckling of columns .
-
+.A
 gerard,g.
-
+.B
 j. ae. scs. 19, 1962, 714.
-
+.W
 note on creep buckling of columns .
 it appears from librove's interesting analysis that, for
 the case of creep buckling of columns, the initial

@@ -1,9 +1,11 @@
+.I 680
+.T
 generalized conical flow fields in supersonic wing theory .
-
+.A
 lomax, h. and heaslett, m.a.
-
+.B
 naca tn 2497, september 1951 .
-
+.W
 generalized conical flow fields in supersonic wing theory .
 linearized, compressible-flow analysis is applied to the study of
 quasi-conical supersonic wing theory . single-integral equations are

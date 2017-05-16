@@ -1,9 +1,12 @@
-note on tip-bluntness effects in the supersonic andhypersonic regimes .
-
+.I 371
+.T
+note on tip-bluntness effects in the supersonic and
+hypersonic regimes .
+.A
 bennett,f.d.
-
+.B
 j. ae. scs. 24, 1957, 314.
-
+.W
 note on tip-bluntness effects in the supersonic and
 hypersonic regimes .
 in a recent letter, m. h. bertram presents some data on

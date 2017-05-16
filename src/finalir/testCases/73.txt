@@ -1,9 +1,12 @@
-investigation of the stability of the laminar boundarylayer in a compressible fluid .
-
+.I 73
+.T
+investigation of the stability of the laminar boundary
+layer in a compressible fluid .
+.A
 lees,l. and lin,c.c.
-
+.B
 naca tn.1115, 1946.
-
+.W
 investigation of the stability of the laminar boundary
 layer in a compressible fluid .
   in the present report the stability of two-dimensional laminar

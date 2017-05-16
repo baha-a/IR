@@ -1,9 +1,11 @@
+.I 1149
+.T
 similar temperature boundary layers .
-
+.A
 dragutin stojanovic
-
+.B
 university of beograd, jugoslavia
-
+.W
 similar temperature boundary layers .
 conditions for the existence of similar solutions are known for (a)
 two-dimensional, incompressible, steady and nonsteady laminar boundary

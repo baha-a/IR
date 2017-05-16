@@ -1,9 +1,11 @@
+.I 348
+.T
 turbulent boundary layer in compressible fluids .
-
+.A
 van driest,e.r.
-
+.B
 j.ae.scs. 18, 1951, 145.
-
+.W
 turbulent boundary layer in compressible fluids .
   the continuity, momentum, and energy differential equations
 for turbulent flow of a compressible fluid are derived, and the

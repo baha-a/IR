@@ -1,9 +1,11 @@
+.I 669
+.T
 subsonic potential flow past a sphere inside a cylindrical duct .
-
+.A
 william l. haberman
-
+.B
 david taylor model basin, carderock, md.
-
+.W
 subsonic potential flow past a sphere inside a cylindrical duct .
 the subsonic potential flow of a compressible fluid past a sphere
 in an infinite medium was first determined by rayleigh .  subsequently,

@@ -1,9 +1,11 @@
+.I 417
+.T
 on the stability of two dimensional parallel flows .
-
+.A
 lin,c.c.
-
+.B
 pt.iii - stability in a viscous fluid. q. app. math. 3, 1945, 273.
-
+.W
 on the stability of two dimensional parallel flows .
   this is the last part of the author's theory of the stability
 of plane laminar motion .  (for parts 1 and 2, cf. the same

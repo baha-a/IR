@@ -1,9 +1,13 @@
-calculation of derivatives for a cropped delta wingwith subsonic leading edges oscillating in a supersonicairstream .
-
+.I 200
+.T
+calculation of derivatives for a cropped delta wing
+with subsonic leading edges oscillating in a supersonic
+airstream .
+.A
 watson,j.
-
+.B
 arc r + m 3060, 1958.
-
+.W
 calculation of derivatives for a cropped delta wing
 with subsonic leading edges oscillating in a supersonic
 airstream .

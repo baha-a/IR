@@ -1,9 +1,12 @@
-turbulent heat transfer on blunt-nosed bodies in two-dimensionaland general three-dimensional hypersonic flow .
-
+.I 1281
+.T
+turbulent heat transfer on blunt-nosed bodies in two-dimensional
+and general three-dimensional hypersonic flow .
+.A
 vaglio-laurin,r.
-
+.B
 j. ae. scs. 1960, 27.
-
+.W
 turbulent heat transfer on blunt-nosed bodies in two-dimensional
 and general three-dimensional hypersonic flow .
   recent results obtained for three-dimensional laminar

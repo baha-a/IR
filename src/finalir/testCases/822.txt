@@ -1,9 +1,12 @@
-effects of imperfections on buckling of thin cylindersand columns under axial compression .
-
+.I 822
+.T
+effects of imperfections on buckling of thin cylinders
+and columns under axial compression .
+.A
 donnell,l.h. and wan,c.c.
-
+.B
 j. app. mech. 1950.
-
+.W
 effects of imperfections on buckling of thin cylinders
 and columns under axial compression .
   von karman and tsien have shown that under elastic

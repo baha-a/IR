@@ -1,9 +1,11 @@
+.I 1119
+.T
 plastic stability theory of thin shells .
-
+.A
 gerard,g.
-
+.B
 j. ae. scs. 24, 1957.
-
+.W
 plastic stability theory of thin shells .
   considerable interest is currently centered on the
 role of deformation and flow types of plasticity

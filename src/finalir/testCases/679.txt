@@ -1,9 +1,11 @@
+.I 679
+.T
 low speed tests on 45 sweptback wings .
-
+.A
 weber,j., brebner,g.g. and kuchemann,d.
-
+.B
 rae r. aero.2374, 1958.
-
+.W
 low speed tests on 45 sweptback wings .
   this report contains the results
 of pressure measurements on three

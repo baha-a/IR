@@ -1,9 +1,13 @@
-the application of lighthill formula for numericalcalculation of pressure distributions on bodies ofrevolution at supersonic speed and zero angle of attack .
-
+.I 248
+.T
+the application of lighthill formula for numerical
+calculation of pressure distributions on bodies of
+revolution at supersonic speed and zero angle of attack .
+.A
 ohman,l.
-
+.B
 saab tn.45, 1960.
-
+.W
 the application of lighthill formula for numerical
 calculation of pressure distributions on bodies of
 revolution at supersonic speed and zero angle of attack .

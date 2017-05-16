@@ -1,9 +1,11 @@
+.I 620
+.T
 earth satellite observations and the upper atmosphere .
-
+.A
 priester, w., martin, h.a. and kramp, k.
-
+.B
 nature, 188, pp 200-204. 1960 .
-
+.W
 earth satellite observations and the upper atmosphere .
 atmospheric densities have been derived from artificial satellites in
 altitudes 200-700 km. and from rockets up to about 200 km. to

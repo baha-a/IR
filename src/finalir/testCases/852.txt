@@ -1,9 +1,12 @@
-stress and displacement analysis of simply supportednon- circular cylindrical shell under lateral pressure .
-
+.I 852
+.T
+stress and displacement analysis of simply supported
+non- circular cylindrical shell under lateral pressure .
+.A
 romano,f. and kempner,j.
-
+.B
 pibal r.415, 1958.
-
+.W
 stress and displacement analysis of simply supported
 non- circular cylindrical shell under lateral pressure .
 this paper presents an analysis of the deflections of and stresses in a

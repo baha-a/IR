@@ -1,9 +1,12 @@
+.I 614
+.T
 the contraction of satellite orbits under the influence of air drag .
-
+.A
 part ii . with oblate atmosphere .
-
-king-hele, d.g., cook, g.e. and walker, d.m.c.r.a.e. tn. gw. 565. 1960 .
-
+.B
+king-hele, d.g., cook, g.e. and walker, d.m.c.
+r.a.e. tn. gw. 565. 1960 .
+.W
 the contraction of satellite orbits under the influence of air drag .
 part ii . with oblate atmosphere .
 the effect of air drag on satellite orbits of small eccentricity e/0.2/

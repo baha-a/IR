@@ -1,9 +1,11 @@
+.I 285
+.T
 on the flutter of panels at high mach numbers .
-
+.A
 hedgepeth,j.m.
-
+.B
 j.ae.scs. 23, 1956.
-
+.W
 on the flutter of panels at high mach numbers .
 there have recently arisen some questions as to the
 possibility of panel flutter at high dynamic pressures and

@@ -1,9 +1,12 @@
-study of creep collapse of a long circular cylindricalshell under various distributed force systems .
-
+.I 952
+.T
+study of creep collapse of a long circular cylindrical
+shell under various distributed force systems .
+.A
 serpico,j.c.
-
+.B
 j. ae. scs. 29, 1962, 1316.
-
+.W
 study of creep collapse of a long circular cylindrical
 shell under various distributed force systems .
   an analysis is presented for determining the collapse of circular

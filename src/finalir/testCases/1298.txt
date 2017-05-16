@@ -1,9 +1,11 @@
+.I 1298
+.T
 theory of radiation from luminous shock waves in nitrogen .
-
+.A
 hammerling,p., teare,j.d. and kivel,b.
-
+.B
 phys. fluids, 1959, 2, 422.
-
+.W
 theory of radiation from luminous shock waves in nitrogen .
   the physical properties behind a normal shock in
 nitrogen are calculated as a function of time .

@@ -1,9 +1,13 @@
-the solution of the equations of the laminar boundarylayer for schubauer's observed pressure distributionfor an elliptic cylinder .
-
+.I 1382
+.T
+the solution of the equations of the laminar boundary
+layer for schubauer's observed pressure distribution
+for an elliptic cylinder .
+.A
 hartree,d.r.
-
+.B
 arc r + m.2427, 1949.
-
+.W
 the solution of the equations of the laminar boundary
 layer for schubauer's observed pressure distribution
 for an elliptic cylinder .

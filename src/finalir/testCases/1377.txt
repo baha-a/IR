@@ -1,9 +1,12 @@
-theoretical investigation of the flow field about bluntnosed bodies in supersonic flight .
-
+.I 1377
+.T
+theoretical investigation of the flow field about blunt
+nosed bodies in supersonic flight .
+.A
 vaglio-laurin,r. and ferri,a.
-
+.B
 j. ae. scs. 25, 1958, 761.
-
+.W
 theoretical investigation of the flow field about blunt
 nosed bodies in supersonic flight .
   a numerical method ofr obtaining the solution to the inverse

@@ -1,9 +1,11 @@
+.I 874
+.T
 the use of models for the determination of critical flutter speeds .
-
+.A
 duncan, w.j.
-
+.B
 r + m 1425, july 1931 .
-
+.W
 the use of models for the determination of critical flutter speeds .
 the use of model tests in the prediction of full-scale critical flutter
 speeds is now well established, and the technique of such tests is

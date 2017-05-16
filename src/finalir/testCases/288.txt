@@ -1,9 +1,12 @@
-the rolling up of the trailing vortex sheet and itseffect on the downwash behind wings .
-
+.I 288
+.T
+the rolling up of the trailing vortex sheet and its
+effect on the downwash behind wings .
+.A
 spreiter,j.r. and sacks,a.h.
-
+.B
 j. ae. scs. 18, 1951.
-
+.W
 the rolling up of the trailing vortex sheet and its
 effect on the downwash behind wings .
   the motion of the trailing vortices associated with a lifting wing

@@ -1,9 +1,11 @@
+.I 451
+.T
 liapunov's methods in automatic control theory .
-
+.A
 parks, p. c.
-
+.B
 control, november and december 1962 .
-
+.W
 liapunov's methods in automatic control theory .
 the work of a. m. liapunov and his theory of stability is discussed .
 the second method of liapunov is shown to have applications for linear

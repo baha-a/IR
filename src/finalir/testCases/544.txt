@@ -1,9 +1,11 @@
-a theoretical and experimental study of oscillating wedge shapedaerofoils in hypersonic flow .
-
+.I 544
+.T
+a theoretical and experimental study of oscillating wedge shaped
+aerofoils in hypersonic flow .
+.A
 r. a. east
-
-
-
+.B
+.W
 a theoretical and experimental study of oscillating wedge shaped
 aerofoils in hypersonic flow .
 aerodynamic stiffness and damping derivatives have been measured

@@ -1,9 +1,11 @@
+.I 770
+.T
 the flow of a compressible fluid past a sphere .
-
+.A
 caplan,c.
-
+.B
 naca tn.762, 1940.
-
+.W
 the flow of a compressible fluid past a sphere .
   the flow of a compressible fluid past a sphere fixed
 in a uniform stream is calculated to the third order of

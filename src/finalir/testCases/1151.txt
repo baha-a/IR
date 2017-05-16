@@ -1,9 +1,11 @@
+.I 1151
+.T
 experiments on supersonic blunt-body flows .
-
+.A
 kendall,j.m.
-
+.B
 j.p.l.prog. r.20-372, 1959.
-
+.W
 experiments on supersonic blunt-body flows .
   recently, progress has been made in the theoretical calculation of
 the inviscid flow between the detached shock wave and the surface of

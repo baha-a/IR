@@ -1,9 +1,12 @@
-a characteristic type of instability in the large deflectionsof elastic plates .
-
+.I 1363
+.T
+a characteristic type of instability in the large deflections
+of elastic plates .
+.A
 ashwell,d.g.
-
+.B
 proc. roy. soc. a, 214, 1952, 98.
-
+.W
 a characteristic type of instability in the large deflections
 of elastic plates .
   part 1. from a general equation governing

@@ -1,9 +1,11 @@
+.I 381
+.T
 the axisymmetric boundary layer on a long thin cylinder .
-
+.A
 glauert,m.b. and lighthill,m.j.
-
+.B
 proc. roy. soc. a, 230, 1955, 188.
-
+.W
 the axisymmetric boundary layer on a long thin cylinder .
 the laminar boundary layer in axial flow about
 a long thin cylinder is investigated by two

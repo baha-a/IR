@@ -1,9 +1,12 @@
-the interaction between boundary layer and shock waves in transonicflow .
-
+.I 335
+.T
+the interaction between boundary layer and shock waves in transonic
+flow .
+.A
 liepmann, h. w.
-
+.B
 j. aero. sc. v. 13, december, 1946 .
-
+.W
 the interaction between boundary layer and shock waves in transonic
 flow .
 experiments of transonic flow past a circular arc profile show that the

@@ -1,9 +1,13 @@
-a theoretical calculation of the laminar boundary layeraround an elliptic cylinder and its comparison withexperiment .
-
+.I 1384
+.T
+a theoretical calculation of the laminar boundary layer
+around an elliptic cylinder and its comparison with
+experiment .
+.A
 millikan,c.b.
-
+.B
 j. ae. scs. 3, 1936, 91.
-
+.W
 a theoretical calculation of the laminar boundary layer
 around an elliptic cylinder and its comparison with
 experiment .

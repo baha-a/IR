@@ -1,9 +1,12 @@
-properties of impact pressure probes in free moleculeflow .
-
+.I 183
+.T
+properties of impact pressure probes in free molecule
+flow .
+.A
 harris,e.l. and patterson,g.n.
-
+.B
 utia r52, 1958.
-
+.W
 properties of impact pressure probes in free molecule
 flow .
   an expression has been derived for the mass flow through

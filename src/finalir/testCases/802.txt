@@ -1,9 +1,12 @@
-the behaviour of supersonic flow past a body of revolutionfar from the axis .
-
+.I 802
+.T
+the behaviour of supersonic flow past a body of revolution
+far from the axis .
+.A
 whitham,g.b.
-
+.B
 proc. roy. soc. a, 201, 1950, 89.
-
+.W
 the behaviour of supersonic flow past a body of revolution
 far from the axis .
 a theory is developed of the supersonic flow past a body of revolution

@@ -1,9 +1,12 @@
-a method of calculating velocity distribution for turbulentboundary layers in adverse pressure distributions .
-
+.I 1261
+.T
+a method of calculating velocity distribution for turbulent
+boundary layers in adverse pressure distributions .
+.A
 uram,e.m.
-
+.B
 j. ae. scs. 1960, 659.
-
+.W
 a method of calculating velocity distribution for turbulent
 boundary layers in adverse pressure distributions .
   a new method of calculating the behavior of turbulent

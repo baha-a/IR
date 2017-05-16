@@ -1,9 +1,12 @@
-calculation of flutter characteristics for finite-span swept or unsweptwings at subsonic and supersonic speeds by a modified strip analysis .
-
+.I 1339
+.T
+calculation of flutter characteristics for finite-span swept or unswept
+wings at subsonic and supersonic speeds by a modified strip analysis .
+.A
 yates, e.c.
-
+.B
 naca rm l57l10, 1958 .
-
+.W
 calculation of flutter characteristics for finite-span swept or unswept
 wings at subsonic and supersonic speeds by a modified strip analysis .
 a method has been developed for calculating flutter characteristics of

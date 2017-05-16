@@ -1,9 +1,12 @@
-magnetohydrodynamic effects on the formation of couette,flow .
-
+.I 1273
+.T
+magnetohydrodynamic effects on the formation of couette,
+flow .
+.A
 tao,l.n.
-
+.B
 j. ae. scs. 1960, 334.
-
+.W
 magnetohydrodynamic effects on the formation of couette,
 flow .
   this paper is concerned with the problem of the formation of

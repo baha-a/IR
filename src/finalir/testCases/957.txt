@@ -1,9 +1,11 @@
+.I 957
+.T
 axisymmetric snap buckling of conical shells .
-
+.A
 newman,m. and reiss,e.l.
-
+.B
 nasa tn.d1510, 1962, 451.
-
+.W
 axisymmetric snap buckling of conical shells .
   the authors give a brief account
 of some of their recent analytical and

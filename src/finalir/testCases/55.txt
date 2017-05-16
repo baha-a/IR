@@ -1,9 +1,13 @@
-separation, stability and other properties of compressiblelaminar boundary layer with pressure gradient and heattransfer .
-
+.I 55
+.T
+separation, stability and other properties of compressible
+laminar boundary layer with pressure gradient and heat
+transfer .
+.A
 morduchow,m. and grape,r.g.
-
+.B
 naca tn.3296, 1955.
-
+.W
 separation, stability and other properties of compressible
 laminar boundary layer with pressure gradient and heat
 transfer .

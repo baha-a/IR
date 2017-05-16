@@ -1,9 +1,11 @@
+.I 106
+.T
 the transverse potential flow past a body of revolution .
-
+.A
 campbell,i.j.
-
+.B
 q.j.mech.app.math. 9, 1956, 140.
-
+.W
 the transverse potential flow past a body of revolution .
   it is shown that in the potential flow of
 an incompressible inviscid fluid past a

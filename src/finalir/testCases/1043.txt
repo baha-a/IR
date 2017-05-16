@@ -1,9 +1,9 @@
+.I 1043
+.T
 on transverse vibrations of thin, shallow elastic shells .
-
-
-
-
-
+.A
+.B
+.W
 on transverse vibrations of thin, shallow elastic shells .
   a numerical analysis is given for the solution of the
 general equations of thin shells of revolution subjected to

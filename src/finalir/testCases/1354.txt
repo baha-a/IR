@@ -1,9 +1,13 @@
-investigation of the flow through a single stage twodimensional nozzle in the langley 11in . hypersonictunnel .
-
+.I 1354
+.T
+investigation of the flow through a single stage two
+dimensional nozzle in the langley 11in . hypersonic
+tunnel .
+.A
 mclellan,c.h.
-
+.B
 naca tn.2223, 1950.
-
+.W
 investigation of the flow through a single stage two
 dimensional nozzle in the langley 11in . hypersonic
 tunnel .

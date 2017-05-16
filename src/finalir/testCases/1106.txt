@@ -1,9 +1,12 @@
-free-flight observation of a separated turbulent flowincluding heat transfer up to mach 8. 5.
-
+.I 1106
+.T
+free-flight observation of a separated turbulent flow
+including heat transfer up to mach 8. 5.
+.A
 mcconnell,d.g.
-
+.B
 nasa tn.d278, 1961.
-
+.W
 free-flight observation of a separated turbulent flow
 including heat transfer up to mach 8. 5.
   a turbulent boundary layer separated

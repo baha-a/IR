@@ -1,9 +1,12 @@
-an approximate solution for the axisymmetric jet of a laminarcompressible fluid .
-
+.I 1375
+.T
+an approximate solution for the axisymmetric jet of a laminar
+compressible fluid .
+.A
 gdalia kleinstein
-
+.B
 polytechnic institute of brooklyn
-
+.W
 an approximate solution for the axisymmetric jet of a laminar
 compressible fluid .
 an extension of the modified-oseen method of carrier, based on the

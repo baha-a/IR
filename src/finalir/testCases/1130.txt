@@ -1,9 +1,12 @@
-handbook of structural stability . pt .vi . strengthof stiffened curved plates and shells .
-
+.I 1130
+.T
+handbook of structural stability . pt .vi . strength
+of stiffened curved plates and shells .
+.A
 becker,h.
-
+.B
 naca tn.3786, 1958.
-
+.W
 handbook of structural stability . pt .vi . strength
 of stiffened curved plates and shells .
   a comprehensive review of failure

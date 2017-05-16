@@ -1,9 +1,12 @@
-an analysis of the corridor and guidance requirementsfor supercircular entry planetary atmospheres .
-
+.I 163
+.T
+an analysis of the corridor and guidance requirements
+for supercircular entry planetary atmospheres .
+.A
 chapman,d.r.
-
+.B
 nasa r-55, 1959.
-
+.W
 an analysis of the corridor and guidance requirements
 for supercircular entry planetary atmospheres .
   an analysis is presented of supercircular entry

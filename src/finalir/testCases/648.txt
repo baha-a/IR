@@ -1,9 +1,12 @@
-the approximate analysis of certain boundary valueproblems .
-
+.I 648
+.T
+the approximate analysis of certain boundary value
+problems .
+.A
 conway,h.d.
-
+.B
 j. app. mech. 1960, 275.
-
+.W
 the approximate analysis of certain boundary value
 problems .
 a simple method is given which is suitable

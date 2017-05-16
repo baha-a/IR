@@ -1,9 +1,12 @@
-a technique for improving the predictions of linearisedtheory on the drag of straight edge wings .
-
+.I 227
+.T
+a technique for improving the predictions of linearised
+theory on the drag of straight edge wings .
+.A
 randall,d.g.
-
+.B
 arc cp394, 1957.
-
+.W
 a technique for improving the predictions of linearised
 theory on the drag of straight edge wings .
   the curve of drag against mach number for straight-edged wings,

@@ -1,9 +1,12 @@
-study of effects of sweep on the flutter of cantileverwings .
-
+.I 1337
+.T
+study of effects of sweep on the flutter of cantilever
+wings .
+.A
 barmby,j.g.
-
+.B
 naca r.1014, 1951.
-
+.W
 study of effects of sweep on the flutter of cantilever
 wings .
   an experimental and analytical investigation of the flutter

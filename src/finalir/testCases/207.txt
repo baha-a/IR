@@ -1,9 +1,12 @@
-laminar boundary layer oscillations and transitionon a flat plate .
-
+.I 207
+.T
+laminar boundary layer oscillations and transition
+on a flat plate .
+.A
 schubauer,g.b. and skramstad,h.k.
-
+.B
 naca r909, 1948.
-
+.W
 laminar boundary layer oscillations and transition
 on a flat plate .
   this is an account of an investigation in which oscillations

@@ -1,9 +1,12 @@
-on the hypersonic viscous flow past a flat plate withsuction or injection .
-
+.I 308
+.T
+on the hypersonic viscous flow past a flat plate with
+suction or injection .
+.A
 yasuhara,m.
-
+.B
 j. phys. soc. japan, 12, 1957, 177.
-
+.W
 on the hypersonic viscous flow past a flat plate with
 suction or injection .
   the hypersonic viscous flow past a flat

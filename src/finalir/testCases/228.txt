@@ -1,9 +1,10 @@
+.I 228
+.T
 navier-stokes solutions at large distances from a finite body .
-
+.A
 i-dee chang
-
-
-
+.B
+.W
 navier-stokes solutions at large distances from a finite body .
 this paper is concerned with a theoretical investigation of the flow
 field at large distances from an object moving through a viscous fluid .

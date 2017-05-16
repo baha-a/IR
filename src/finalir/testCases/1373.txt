@@ -1,9 +1,11 @@
+.I 1373
+.T
 nose drag in free-molecule flow and its minimization .
-
+.A
 tan,h.s.
-
+.B
 j.ae.scs. 1959, 360.
-
+.W
 nose drag in free-molecule flow and its minimization .
   the superaerodynamic nose drag of a body in a free-molecule
 flow involves two parameters ..  the speed ratio s between

@@ -1,9 +1,12 @@
-a new technique for investigating heat transfer andsurface phenomena under hypersonic flow conditions .
-
+.I 37
+.T
+a new technique for investigating heat transfer and
+surface phenomena under hypersonic flow conditions .
+.A
 ferri,a. and libby,p.a.
-
+.B
 j. ae. scs. 24, 1957, 464.
-
+.W
 a new technique for investigating heat transfer and
 surface phenomena under hypersonic flow conditions .
 on the forebody of many practically interesting hypersonic

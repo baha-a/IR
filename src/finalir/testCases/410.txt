@@ -1,9 +1,12 @@
-the supersonic flow about a blunt body of revolutionfor gases at chemical equilibrium .
-
+.I 410
+.T
+the supersonic flow about a blunt body of revolution
+for gases at chemical equilibrium .
+.A
 gravalos,f.g., edelflet,i.h. and emmons,h.
-
+.B
 9th int. astro. fed. 1958.
-
+.W
 the supersonic flow about a blunt body of revolution
 for gases at chemical equilibrium .
   the supersonic flow about a blunt body of

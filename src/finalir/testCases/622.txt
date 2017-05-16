@@ -1,9 +1,12 @@
-scale height in the upper atmosphere, derived from changes in satelliteorbits .
-
+.I 622
+.T
+scale height in the upper atmosphere, derived from changes in satellite
+orbits .
+.A
 king-hele, d.g. and hughes, k.m.
-
+.B
 r.a.e. tn space 4, 1962 .
-
+.W
 scale height in the upper atmosphere, derived from changes in satellite
 orbits .
 the'density scale height'h in the upper atmosphere is a measure of the

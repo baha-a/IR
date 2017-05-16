@@ -1,9 +1,9 @@
+.I 1046
+.T
 the bending strength of pressurized cylinders .
-
-
-
-
-
+.A
+.B
+.W
 the bending strength of pressurized cylinders .
   a theoretical solution is given
 for the critical stress of

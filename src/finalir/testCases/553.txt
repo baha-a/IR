@@ -1,9 +1,12 @@
-ablation of glassy materials around blunt bodies ofrevolution .
-
+.I 553
+.T
+ablation of glassy materials around blunt bodies of
+revolution .
+.A
 hidalgo,h.
-
+.B
 ars j. 30, 1960.
-
+.W
 ablation of glassy materials around blunt bodies of
 revolution .
   the steady-state equations of motion for a

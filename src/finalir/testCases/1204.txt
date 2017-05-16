@@ -1,9 +1,13 @@
-experimental effect of bluntness and gas rarefactionon drag coefficients and stagnation heat transfer onaxisymmetric shapes in hypersonic flow .
-
+.I 1204
+.T
+experimental effect of bluntness and gas rarefaction
+on drag coefficients and stagnation heat transfer on
+axisymmetric shapes in hypersonic flow .
+.A
 bloxson,d.e. and rhodes,b.v.
-
+.B
 j. ae. scs.1962.
-
+.W
 experimental effect of bluntness and gas rarefaction
 on drag coefficients and stagnation heat transfer on
 axisymmetric shapes in hypersonic flow .

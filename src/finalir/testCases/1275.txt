@@ -1,9 +1,11 @@
+.I 1275
+.T
 flow about an unsteadily rotating disc .
-
+.A
 sparrow,e.m. and gregg,j.l.
-
+.B
 j. ae. scs.1960,252.
-
+.W
 flow about an unsteadily rotating disc .
   an analysis is made of the unsteady laminar flow about a
 rotating disc whose angular velocity may vary with time .

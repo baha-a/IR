@@ -1,9 +1,12 @@
-supersonic flow past oscillating airfoils includingnonlinear thickness effects .
-
+.I 201
+.T
+supersonic flow past oscillating airfoils including
+nonlinear thickness effects .
+.A
 van dyke,m.d.
-
+.B
 naca r1183, 1954.
-
+.W
 supersonic flow past oscillating airfoils including
 nonlinear thickness effects .
   a solution to second order in thickness is derived for

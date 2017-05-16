@@ -1,9 +1,11 @@
+.I 20
+.T
 generalised-newtonian theory .
-
+.A
 love,e.s.
-
+.B
 j. ae. scs. 26, 1959, 314.
-
+.W
 generalised-newtonian theory .
   author generalizes lees's (amr 10(1957), rev. 2601)
 modification of newtonian theory for blunt-nose bodies to apply to pointed-

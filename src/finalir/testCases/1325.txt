@@ -1,9 +1,13 @@
-experiments on the use of suction through perforatedstrips for maintaining laminar flow . transition anddrag measurements .
-
+.I 1325
+.T
+experiments on the use of suction through perforated
+strips for maintaining laminar flow . transition and
+drag measurements .
+.A
 gregory,n. and walker,w.s.
-
+.B
 arc r + m 3083, 1955.
-
+.W
 experiments on the use of suction through perforated
 strips for maintaining laminar flow . transition and
 drag measurements .

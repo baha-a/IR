@@ -1,9 +1,14 @@
-investigation of several blunt bodies to determinetrans- onic aerodynamic characteristics including effectsof spinning and of extendible afterbody flaps and somemeasurements of unsteady base pressures .
-
+.I 815
+.T
+investigation of several blunt bodies to determine
+trans- onic aerodynamic characteristics including effects
+of spinning and of extendible afterbody flaps and some
+measurements of unsteady base pressures .
+.A
 fisher,l.r. and dicamillo,j.r.
-
+.B
 nasa memo 1-21-59l, 1959.
-
+.W
 investigation of several blunt bodies to determine
 trans- onic aerodynamic characteristics including effects
 of spinning and of extendible afterbody flaps and some

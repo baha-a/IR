@@ -1,9 +1,12 @@
-hypersonic viscous flow near the stagnation point inthe presence of magnetic field .
-
+.I 1253
+.T
+hypersonic viscous flow near the stagnation point in
+the presence of magnetic field .
+.A
 wu,ching-sheng.
-
+.B
 j. ae. scs. 1960, 882.
-
+.W
 hypersonic viscous flow near the stagnation point in
 the presence of magnetic field .
   the present study investigates the hypersonic viscous flow

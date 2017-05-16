@@ -1,9 +1,12 @@
-the interaction of a reflected shock wave with theboundary layer in a shock tube .
-
+.I 170
+.T
+the interaction of a reflected shock wave with the
+boundary layer in a shock tube .
+.A
 mark,h.
-
+.B
 naca tm.1418.
-
+.W
 the interaction of a reflected shock wave with the
 boundary layer in a shock tube .
   ideally, the reflection of a shock

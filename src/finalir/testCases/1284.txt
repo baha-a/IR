@@ -1,9 +1,12 @@
-the transition to tubulence in a boundary layer ona blunt cone in supersonic flow .
-
+.I 1284
+.T
+the transition to tubulence in a boundary layer on
+a blunt cone in supersonic flow .
+.A
 rogers,r.h.
-
+.B
 j. ae. scs. 29, 1962, 501.
-
+.W
 the transition to tubulence in a boundary layer on
 a blunt cone in supersonic flow .
   experiments were made with a series of cones, each having an

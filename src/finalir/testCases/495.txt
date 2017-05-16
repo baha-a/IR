@@ -1,9 +1,12 @@
-on similar solutions for strong blast waves and theirapplication to steady hypersonic flow .
-
+.I 495
+.T
+on similar solutions for strong blast waves and their
+application to steady hypersonic flow .
+.A
 borcher,e.f.
-
+.B
 j. ae. scs. 29, 1962, 694.
-
+.W
 on similar solutions for strong blast waves and their
 application to steady hypersonic flow .
   the general solution of the strong blast wave is found in the

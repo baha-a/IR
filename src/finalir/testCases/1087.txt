@@ -1,9 +1,12 @@
-convergence rates of iterative treatments of partial differentialequations .
-
+.I 1087
+.T
+convergence rates of iterative treatments of partial differential
+equations .
+.A
 frankel, s.p.
-
+.B
 math. tables aids comp. v. 4. p. 65, 1950 .
-
+.W
 convergence rates of iterative treatments of partial differential
 equations .
 the development of high-speed digital computers has made feasible the

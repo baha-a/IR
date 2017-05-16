@@ -1,9 +1,12 @@
-wing-nacelle-propeller interference for wings of variousspans . force and pressure distribution tests .
-
+.I 1092
+.T
+wing-nacelle-propeller interference for wings of various
+spans . force and pressure distribution tests .
+.A
 robinson,r.g. and herrnstein,w.h.
-
+.B
 naca r.569, 1936.
-
+.W
 wing-nacelle-propeller interference for wings of various
 spans . force and pressure distribution tests .
   an experimental investigation was made in the

@@ -1,9 +1,11 @@
+.I 1190
+.T
 flow of a gas near a solid surface .
-
+.A
 ziering,s.
-
+.B
 aiaa jnl. 1, 1963, 661.
-
+.W
 flow of a gas near a solid surface .
   the state of a gas near a solid surface is investigated .
 it is assumed that at a sufficiently

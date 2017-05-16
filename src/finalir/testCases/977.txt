@@ -1,9 +1,12 @@
-concerning some solutions of the boundary layer equationsin hydrodynamics .
-
+.I 977
+.T
+concerning some solutions of the boundary layer equations
+in hydrodynamics .
+.A
 goldstein,s.
-
+.B
 proc. cam. phil. soc. 26, 1930, 18.
-
+.W
 concerning some solutions of the boundary layer equations
 in hydrodynamics .
   the boundary-layer equations for

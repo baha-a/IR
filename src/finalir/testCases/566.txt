@@ -1,9 +1,13 @@
-investigation of local heat transfer and pressure dragcharacteristics of a yawed circular cylinder at supersonicspeeds .
-
+.I 566
+.T
+investigation of local heat transfer and pressure drag
+characteristics of a yawed circular cylinder at supersonic
+speeds .
+.A
 goodwin,g., creager,m.o. and winkler,e.l.
-
+.B
 naca rm.a55h31, 1956.
-
+.W
 investigation of local heat transfer and pressure drag
 characteristics of a yawed circular cylinder at supersonic
 speeds .

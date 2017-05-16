@@ -1,9 +1,12 @@
-an approximate solution of the turbulent boundary layerequations in incompressible and compressible .
-
+.I 255
+.T
+an approximate solution of the turbulent boundary layer
+equations in incompressible and compressible .
+.A
 lilley,g.m.
-
+.B
 coa r134, 1960.
-
+.W
 an approximate solution of the turbulent boundary layer
 equations in incompressible and compressible .
   if over the 'outer region' of the boundary layer, where the mean

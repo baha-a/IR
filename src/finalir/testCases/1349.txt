@@ -1,9 +1,13 @@
-effects of simulated rocket jet exhaust on stabilityand control of a research type airplane configurationat a mach number of 6. 86 .
-
+.I 1349
+.T
+effects of simulated rocket jet exhaust on stability
+and control of a research type airplane configuration
+at a mach number of 6. 86 .
+.A
 fetterman,d.e.
-
+.B
 nasa tm.x127, 1959.
-
+.W
 effects of simulated rocket jet exhaust on stability
 and control of a research type airplane configuration
 at a mach number of 6. 86 .

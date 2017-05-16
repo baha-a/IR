@@ -1,9 +1,11 @@
+.I 404
+.T
 two dimensional transonic flow past airfoils .
-
+.A
 kuo,y.a.
-
+.B
 naca tn.2356.
-
+.W
 two dimensional transonic flow past airfoils .
   this report concerns the problem of constructing solutions for
 transonic flows over symmetric airfoils .  the aspect of the problem

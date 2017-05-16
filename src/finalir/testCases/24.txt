@@ -1,9 +1,12 @@
-theory of stagnation point heat transfer in dissociatedair .
-
+.I 24
+.T
+theory of stagnation point heat transfer in dissociated
+air .
+.A
 fay,j.a. and riddell,f.r.
-
+.B
 j. ae. scs. 25, 1958, 73.
-
+.W
 theory of stagnation point heat transfer in dissociated
 air .
   the boundary-layer equations are developed in general for the

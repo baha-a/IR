@@ -1,9 +1,11 @@
+.I 161
+.T
 supersonic flow past a family of blunt symmetric bodies .
-
+.A
 van dyke,m.d. and gordon,h.d.
-
+.B
 nasa r-1, 1959.
-
+.W
 supersonic flow past a family of blunt symmetric bodies .
   some 100 numerical computations have been
 carried out for unyawed bodies of revolution with

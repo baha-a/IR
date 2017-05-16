@@ -1,9 +1,11 @@
+.I 1157
+.T
 hypersonic shock tunnel .
-
+.A
 nagamatsu, h.t. et al.
-
+.B
 ars j.v. 29, may 1959, pp 332-340 .
-
+.W
 hypersonic shock tunnel .
 a hypersonic shock tunnel has been developed for obtaining fluid
 mechanic information at the high mach numbers and corresponding stagnation

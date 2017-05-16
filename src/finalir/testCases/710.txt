@@ -1,9 +1,12 @@
-the smallest height of roughness capable of affecting boundary-layertransition .
-
+.I 710
+.T
+the smallest height of roughness capable of affecting boundary-layer
+transition .
+.A
 smith, a.m.o. and clutter, d.w.
-
+.B
 j. aero. sc. april, 1959. p.229-245, 256 .
-
+.W
 the smallest height of roughness capable of affecting boundary-layer
 transition .
 an investigation was made to determine the smallest size of isolated

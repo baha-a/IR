@@ -1,9 +1,13 @@
-theoretical investigation of the ablation of a glass-typeheat protection shield of varied material propertiesat the stagnation point of a re-entering irbm .
-
+.I 82
+.T
+theoretical investigation of the ablation of a glass-type
+heat protection shield of varied material properties
+at the stagnation point of a re-entering irbm .
+.A
 adams,e.w.
-
+.B
 nasa tn.d564, 1961.
-
+.W
 theoretical investigation of the ablation of a glass-type
 heat protection shield of varied material properties
 at the stagnation point of a re-entering irbm .

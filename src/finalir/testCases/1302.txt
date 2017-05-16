@@ -1,9 +1,12 @@
-the development of the boundary layer in supersonicshear flow .
-
+.I 1302
+.T
+the development of the boundary layer in supersonic
+shear flow .
+.A
 rogers,r.h.
-
+.B
 rae tn.aero.2738, 1961.
-
+.W
 the development of the boundary layer in supersonic
 shear flow .
   the development of the boundary

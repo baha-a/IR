@@ -1,9 +1,11 @@
+.I 1206
+.T
 magnetohydrodynamic mach cones .
-
+.A
 cumberbatch,e.
-
+.B
 j. ae. scs. 1962, 1476.
-
+.W
 magnetohydrodynamic mach cones .
   features of the surfaces of main disturbance created by a small
 object in steady motion through a conducting fluid are examined .

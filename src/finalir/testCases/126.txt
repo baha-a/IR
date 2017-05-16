@@ -1,9 +1,12 @@
-an investigation of two-dimensional supersonic basepressures .
-
+.I 126
+.T
+an investigation of two-dimensional supersonic base
+pressures .
+.A
 charwat,a.f. and yakura,j.k.
-
+.B
 j.aero.scs. 25, 1958, 122.
-
+.W
 an investigation of two-dimensional supersonic base
 pressures .
   an investigation of the base pressure behind wedges at mach

@@ -1,9 +1,11 @@
+.I 820
+.T
 theories of plastic buckling .
-
+.A
 batdorf,s.b.
-
+.B
 j. ae. scs. 16, 1949, 405.
-
+.W
 theories of plastic buckling .
   the theory for the plastic buckling of columns which appears
 finally to have achieved a satisfactory form, rests upon the

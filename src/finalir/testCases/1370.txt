@@ -1,9 +1,11 @@
+.I 1370
+.T
 some remarks on the flat plate boundary layer .
-
+.A
 lewis,j.a. and carrier,g.f.
-
+.B
 q. app. math. 7, 1949, 228.
-
+.W
 some remarks on the flat plate boundary layer .
   the authors discuss the solutions for the flow of a viscous
 incompressible fluid near the leading edge of a semi-infinite

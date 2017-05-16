@@ -1,9 +1,12 @@
-experiments on axi-symmetric boundary layers alonga long cylinder in incompressible flow .
-
+.I 261
+.T
+experiments on axi-symmetric boundary layers along
+a long cylinder in incompressible flow .
+.A
 yashura,m.
-
+.B
 trans. japan soc.ae.sc. 2, 1959.
-
+.W
 experiments on axi-symmetric boundary layers along
 a long cylinder in incompressible flow .
   experiments on axi-symmetric boundary

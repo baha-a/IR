@@ -1,9 +1,13 @@
-experimental investigation at mach number of 3. 0 ofeffects of thermal stress and buckling on flutter characteristicsof flat single-bay panels of length-width ratio 0. 96 .
-
+.I 766
+.T
+experimental investigation at mach number of 3. 0 of
+effects of thermal stress and buckling on flutter characteristics
+of flat single-bay panels of length-width ratio 0. 96 .
+.A
 dixon,s.c.
-
+.B
 nasa tn.d1485, 1962.
-
+.W
 experimental investigation at mach number of 3. 0 of
 effects of thermal stress and buckling on flutter characteristics
 of flat single-bay panels of length-width ratio 0. 96 .

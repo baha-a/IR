@@ -1,9 +1,11 @@
+.I 573
+.T
 viscous hypersonic similitude .
-
+.A
 hayer,w.d. and probstein,r.f.
-
+.B
 j. ae. scs. 26, 1959, 815.
-
+.W
 viscous hypersonic similitude .
   an extension of classical hypersonic similitude is developed
 which takes into account the interaction effect of the

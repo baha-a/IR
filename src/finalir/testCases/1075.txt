@@ -1,9 +1,12 @@
-an experimental and theoretical investigation of second-order supersonic wing-body interference, for a non-lifting body with wings at incidence .
-
+.I 1075
+.T
+an experimental and theoretical investigation of second-order supersonic
+ wing-body interference, for a non-lifting body with wings at incidence .
+.A
 wilby, p.g.
-
+.B
 aero. res. inst. of sweden, ffa report 87, 1960 .
-
+.W
 an experimental and theoretical investigation of second-order supersonic
  wing-body interference, for a non-lifting body with wings at incidence .
 pressure distributions on the wing of two wing-body combinations are

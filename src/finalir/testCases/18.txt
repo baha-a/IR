@@ -1,9 +1,11 @@
+.I 18
+.T
 the flow field in the diffuser of a radial compressor .
-
+.A
 rhyming,i.l.
-
+.B
 j. ae. scs. 27, 1960, 798.
-
+.W
 the flow field in the diffuser of a radial compressor .
 this note discusses the two-dimensional diffuser flow field
 in a radial compressor outside the impeller wheel .  it is

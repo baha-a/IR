@@ -1,9 +1,12 @@
-on the fatigue failure of structures due to vibrations excitedby random pressure fields .
-
+.I 723
+.T
+on the fatigue failure of structures due to vibrations excited
+by random pressure fields .
+.A
 alan powell
-
+.B
 the university, southampton
-
+.W
 on the fatigue failure of structures due to vibrations excited
 by random pressure fields .
 on the assumption that the forced modes of vibration of a structure,

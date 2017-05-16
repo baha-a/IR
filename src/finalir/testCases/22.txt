@@ -1,9 +1,11 @@
+.I 22
+.T
 on slip-flow heat transfer to a flat plate .
-
+.A
 oman,r.a. and scheuing,r.a.
-
+.B
 j. ae. scs. 26, 1959, 126.
-
+.W
 on slip-flow heat transfer to a flat plate .
   assuming that continuum flow energy equation in a boundary
 layer remains valid well into slip region and taking account of the

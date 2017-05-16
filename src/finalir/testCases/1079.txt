@@ -1,9 +1,11 @@
+.I 1079
+.T
 finite difference formulae for the square lattices .
-
+.A
 nicley,w.g.
-
+.B
 q.j.mech. app. math, 1, p35.
-
+.W
 finite difference formulae for the square lattices .
   the paper gives approximate formulae
 for derivatives (including combinations

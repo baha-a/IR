@@ -1,9 +1,13 @@
-the calculation of lateral stability derivatives ofslender wings at incidence including fin effectiveness,and correlation with experiment .
-
+.I 600
+.T
+the calculation of lateral stability derivatives of
+slender wings at incidence including fin effectiveness,
+and correlation with experiment .
+.A
 ross,a.j.
-
+.B
 rae r.aero.2647, 1961.
-
+.W
 the calculation of lateral stability derivatives of
 slender wings at incidence including fin effectiveness,
 and correlation with experiment .

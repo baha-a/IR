@@ -1,9 +1,13 @@
-experimental investigation of the effect of yaw onrates of heat transfer to transverse circularcylinders in a 6500-foot-per-secondhypersonic air stream .
-
+.I 1159
+.T
+experimental investigation of the effect of yaw on
+rates of heat transfer to transverse circular
+cylinders in a 6500-foot-per-second
+hypersonic air stream .
+.A
 bernard e. cunningham and samuel kraus
-
-
-
+.B
+.W
 experimental investigation of the effect of yaw on
 rates of heat transfer to transverse circular
 cylinders in a 6500-foot-per-second

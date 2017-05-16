@@ -1,9 +1,11 @@
+.I 338
+.T
 mass transfer cooling at mach number 4. 8.
-
+.A
 leadon,b.m., scott,c.j. and anderson,g.e.
-
+.B
 j. ae. scs. 25, 1958.
-
+.W
 mass transfer cooling at mach number 4. 8.
 mass-transfer experiments on a 5 mil wire porous cone
 of 20 total angle have been conducted at using

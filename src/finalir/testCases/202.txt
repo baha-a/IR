@@ -1,9 +1,11 @@
+.I 202
+.T
 aircraft flutter .
-
+.A
 williams,j.
-
+.B
 arc r + m 2492, 1951.
-
+.W
 aircraft flutter .
   the term flutter is used here to denote maintained or
 violent oscillations of a structure due to aerodynamic forces

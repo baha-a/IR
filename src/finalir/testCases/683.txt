@@ -1,9 +1,13 @@
-the use of conical camber to produce flow attachment at the leadingedge of a delta wing and to minimize the lift-dependent drag at sonicand supersonic speeds .
-
+.I 683
+.T
+the use of conical camber to produce flow attachment at the leading
+edge of a delta wing and to minimize the lift-dependent drag at sonic
+and supersonic speeds .
+.A
 smith,j.h.b. and mangler, k.w.
-
+.B
 r.a.e. rep. aero. 2584. arc 19,961, september 1957 .
-
+.W
 the use of conical camber to produce flow attachment at the leading
 edge of a delta wing and to minimize the lift-dependent drag at sonic
 and supersonic speeds .

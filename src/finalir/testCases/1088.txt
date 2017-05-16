@@ -1,9 +1,12 @@
-iterative methods for solving partial difference equations of elliptictype .
-
+.I 1088
+.T
+iterative methods for solving partial difference equations of elliptic
+type .
+.A
 young, d.
-
+.B
 trans. amer. math. soc. vol. 76, p. 92, 1954 .
-
+.W
 iterative methods for solving partial difference equations of elliptic
 type .
 this paper considers linear systems /1/ where a includes matrices of a

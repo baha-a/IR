@@ -1,9 +1,12 @@
-buckling of thin cylindrical shells under hoop stressesvarying in axial direction .
-
+.I 885
+.T
+buckling of thin cylindrical shells under hoop stresses
+varying in axial direction .
+.A
 hoff,n.j.
-
+.B
 j. app. mech. 24, 1957, 405.
-
+.W
 buckling of thin cylindrical shells under hoop stresses
 varying in axial direction .
   the buckling of a thin cylindrical shell simply supported

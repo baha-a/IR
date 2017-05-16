@@ -1,9 +1,12 @@
-rapid laminar boundary layer calculations by piece-wiseapplication of similar solutions .
-
+.I 292
+.T
+rapid laminar boundary layer calculations by piece-wise
+application of similar solutions .
+.A
 smith,a.m.o.
-
+.B
 j. ae. scs. 23, 1956.
-
+.W
 rapid laminar boundary layer calculations by piece-wise
 application of similar solutions .
   a method is presented for the rapid calculation of the

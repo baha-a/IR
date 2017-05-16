@@ -1,9 +1,11 @@
-effects of internal pressure on the buckling of circular-cylindricalshells under bending.
-
+.I 763
+.T
+effects of internal pressure on the buckling of circular-cylindrical
+shells under bending.
+.A
 weingarten,v.i.
-
-
-
+.B
+.W
 effects of internal pressure on the buckling of circular-cylindrical
 shells under bending.
   the effect of internal pressure on the small-deflection buckling

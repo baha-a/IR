@@ -1,9 +1,11 @@
+.I 317
+.T
 non-equilibrium flow of an ideal dissociating gas .
-
+.A
 freeman, n. c.
-
+.B
 j. fluid mech. v. 4, 1958 .
-
+.W
 non-equilibrium flow of an ideal dissociating gas .
 the theory of an'ideal dissociating'gas developed by lighthill/1957/for
 conditions of thermodynamic equilibrium is extended to non-equilibrium

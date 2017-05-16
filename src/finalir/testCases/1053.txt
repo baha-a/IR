@@ -1,9 +1,11 @@
+.I 1053
+.T
 spherical cap snapping .
-
+.A
 keller,h.b. and reiss,e.l.
-
+.B
 j. ae. scs. 26, 1959, 643.
-
+.W
 spherical cap snapping .
   a nonlinear boundary value problem for the determination of
 the rotationally symmetric deformations of a clamped spherical

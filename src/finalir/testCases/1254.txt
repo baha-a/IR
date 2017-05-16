@@ -1,9 +1,11 @@
+.I 1254
+.T
 combustion in the boundary layer on a porous surface .
-
+.A
 eschenroeder,a.q.
-
+.B
 j. ae. scs. 1960, 901.
-
+.W
 combustion in the boundary layer on a porous surface .
   the position of the diffusion flame in a boundary layer with
 uniform mixture injection from a porous wall parallel to a uniform

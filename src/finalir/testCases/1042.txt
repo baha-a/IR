@@ -1,9 +1,9 @@
+.I 1042
+.T
 on transverse vibrations of thin, shallow elastic shells .
-
-
-
-
-
+.A
+.B
+.W
 on transverse vibrations of thin, shallow elastic shells .
   the report presents information
 on the stress problems in the

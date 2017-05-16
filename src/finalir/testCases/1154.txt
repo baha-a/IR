@@ -1,9 +1,12 @@
-on the influence of wall boundary layers in closed transonic testsections .
-
+.I 1154
+.T
+on the influence of wall boundary layers in closed transonic test
+sections .
+.A
 berndt s.b.
-
+.B
 ffa rep. 71, stockholm, 1957 .
-
+.W
 on the influence of wall boundary layers in closed transonic test
 sections .
 the boundary layers at the test section walls of a transonic wind tunnel

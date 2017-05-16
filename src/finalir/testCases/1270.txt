@@ -1,9 +1,11 @@
+.I 1270
+.T
 supersonic inlet dynamics .
-
+.A
 fraiser,h.r.
-
+.B
 j. ae. scs. 1960, 429.
-
+.W
 supersonic inlet dynamics .
   an approximation of the differential equation for compressible
 duct flow is presented .  the equation is linear and of the second

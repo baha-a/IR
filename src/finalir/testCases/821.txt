@@ -1,9 +1,11 @@
+.I 821
+.T
 inelastic column theory .
-
+.A
 shanley,f.r.
-
+.B
 j. ae. scs. 14, 1949, 261.
-
+.W
 inelastic column theory .
   the action of a column in the plastic range is analyzed on the
 basis that bending may proceed simultaneously with increasing

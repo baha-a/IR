@@ -1,9 +1,12 @@
+.I 756
+.T
 further comments on the inversion of large structural matrices .
-
+.A
 charles h. samson, jr.
-
-professor, departments of aeronautical and civil engineering,a. and m. college of texas
-
+.B
+professor, departments of aeronautical and civil engineering,
+a. and m. college of texas
+.W
 further comments on the inversion of large structural matrices .
 in a recent note, klein referred to a paper co-authored by the writer,
 and to ref. 3 .  regarding the subject of inversion of large-order

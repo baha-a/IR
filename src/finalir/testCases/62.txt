@@ -1,9 +1,12 @@
-similar solutions for the compressible laminar boundarylayer with heat transfer and pressure gradient .
-
+.I 62
+.T
+similar solutions for the compressible laminar boundary
+layer with heat transfer and pressure gradient .
+.A
 cohen,c.b. and reshotko,e.
-
+.B
 naca tn.3325, 1955.
-
+.W
 similar solutions for the compressible laminar boundary
 layer with heat transfer and pressure gradient .
   stewartson's transformation is applied to the laminar compressible

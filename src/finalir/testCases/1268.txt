@@ -1,9 +1,12 @@
-stable combustion of a high-velocity gas in a heatedboundary layer .
-
+.I 1268
+.T
+stable combustion of a high-velocity gas in a heated
+boundary layer .
+.A
 turcotte,d.l.
-
+.B
 j. ae. scs.1960.
-
+.W
 stable combustion of a high-velocity gas in a heated
 boundary layer .
   it is generally recognized that stable combustion processes in

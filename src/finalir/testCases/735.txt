@@ -1,9 +1,12 @@
-the bending of uniformly loaded sectorial plates withclamped edges .
-
+.I 735
+.T
+the bending of uniformly loaded sectorial plates with
+clamped edges .
+.A
 conway,h.d. and huang,m.k.
-
+.B
 j. app. mech. 19, 1962, 5.
-
+.W
 the bending of uniformly loaded sectorial plates with
 clamped edges .
   this paper analyzes the bending of a sectorial plate,

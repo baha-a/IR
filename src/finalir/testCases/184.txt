@@ -1,9 +1,11 @@
+.I 184
+.T
 scale models for thermo-aeroelastic research .
-
+.A
 molyneux,w.g.
-
+.B
 rae tn.struct.294, 1961.
-
+.W
 scale models for thermo-aeroelastic research .
   an investigation is made of the
 parameters to be satisfied for

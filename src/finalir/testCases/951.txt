@@ -1,9 +1,11 @@
+.I 951
+.T
 a unified theory of creep buckling under normal loads .
-
+.A
 stowell,e.z. and thein wah.
-
+.B
 j. ae. scs. 29, 1962, 658.
-
+.W
 a unified theory of creep buckling under normal loads .
   a general theory of creep buckling, with the initial
 imperfection as a parameter, is developed for the case of normal loading .

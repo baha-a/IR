@@ -1,9 +1,12 @@
-the boundary layer on a flat plate in a stream withuniform shear .
-
+.I 664
+.T
+the boundary layer on a flat plate in a stream with
+uniform shear .
+.A
 murray,j.d.
-
+.B
 j. fluid mech. 11, 1961, 309.
-
+.W
 the boundary layer on a flat plate in a stream with
 uniform shear .
 the incompressible laminar boundary layer

@@ -1,9 +1,11 @@
+.I 698
+.T
 the unsteady lift of a wing of finite aspect ratio .
-
+.A
 jones, r.t.
-
+.B
 1940, naca rep. 681 .
-
+.W
 the unsteady lift of a wing of finite aspect ratio .
 unsteady-lift functions for wings of finite aspect ratio have been
 calculated by correcting the aerodynamic inertia and the angle of attack of

@@ -1,9 +1,11 @@
+.I 761
+.T
 buckling of sandwich under normal pressure .
-
+.A
 yao,j.c.
-
+.B
 j. ae. scs. 29, 1962, 264.
-
+.W
 buckling of sandwich under normal pressure .
   a theoretical study is made of the buckling of a sandwich sphere
 comprised of a core layer of low-modulus material and two thin

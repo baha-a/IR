@@ -1,9 +1,12 @@
-experiments on boundary layer transition atsupersonic speeds .
-
+.I 40
+.T
+experiments on boundary layer transition at
+supersonic speeds .
+.A
 van driest,e.r. and boison,j.c.
-
+.B
 j. ae. scs. 24, 1957, 885.
-
+.W
 experiments on boundary layer transition at
 supersonic speeds .
   tests were conducted in the 12-in. continuous supersonic wind

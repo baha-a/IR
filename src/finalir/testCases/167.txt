@@ -1,9 +1,11 @@
+.I 167
+.T
 linearized flow of a dissociating gas .
-
+.A
 clarke,j.f.
-
+.B
 j.fluid mech. 7, 1960, 577.
-
+.W
 linearized flow of a dissociating gas .
 the equations for planar two-dimensional
 steady flow of an ideal dissociating gas

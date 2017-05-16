@@ -1,9 +1,12 @@
+.I 1123
+.T
 an extension of donnell's equation for a circular cylindrical shell .
-
+.A
 tsu-tao loo
-
-associate professor of mechanics, rensselaer polytechnic institute,troy, n.y.
-
+.B
+associate professor of mechanics, rensselaer polytechnic institute,
+troy, n.y.
+.W
 an extension of donnell's equation for a circular cylindrical shell .
 in 1933, donnell succeeded in simplifying the equations of equilibrium
 for a circular cylindrical shell

@@ -1,9 +1,12 @@
-turbulent mixing of a rocket exhaust jet with a supersonic streamincluding chemical reactions .
-
+.I 1061
+.T
+turbulent mixing of a rocket exhaust jet with a supersonic stream
+including chemical reactions .
+.A
 vasilu, j.
-
+.B
 j. aero. sc. v. 29, january 1962, pp 19-28 .
-
+.W
 turbulent mixing of a rocket exhaust jet with a supersonic stream
 including chemical reactions .
 the equations for the turbulent mixing of a two-dimensional supersonic

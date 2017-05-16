@@ -1,9 +1,12 @@
-an experimental study of the glancing interaction betweena shock wave and a turbulent boundary layer .
-
+.I 256
+.T
+an experimental study of the glancing interaction between
+a shock wave and a turbulent boundary layer .
+.A
 stanbrook,a.
-
+.B
 arc cp.555, 1960.
-
+.W
 an experimental study of the glancing interaction between
 a shock wave and a turbulent boundary layer .
   an experimental study has been made at mach numbers from 1.6 to 2.0 of

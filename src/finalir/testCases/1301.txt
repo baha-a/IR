@@ -1,9 +1,11 @@
+.I 1301
+.T
 compressible boundary layers on bodies of revolution .
-
+.A
 mangler,k.w.
-
+.B
 arc r.9740, 1946.
-
+.W
 compressible boundary layers on bodies of revolution .
   in a former paper (1) it has been shown that the
 behaviour of the laminar boundary layer on a body of revolution can

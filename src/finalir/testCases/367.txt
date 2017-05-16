@@ -1,9 +1,12 @@
-control system and analysis and design via the second method oflyapunov .
-
+.I 367
+.T
+control system and analysis and design via the second method of
+lyapunov .
+.A
 kalman, r. e. and bertram, j. e.
-
+.B
 trans. asme. series d, v. 82, june 1960 .
-
+.W
 control system and analysis and design via the second method of
 lyapunov .
 the/second method/of lyapunov is the most general approach currently in

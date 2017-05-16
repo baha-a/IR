@@ -1,9 +1,11 @@
+.I 214
+.T
 on the testing of supersonic compressor cascades .
-
+.A
 staniforth,r.
-
+.B
 ngte r212, 1957.
-
+.W
 on the testing of supersonic compressor cascades .
   to facilitate the development of high speed axial-flow compressors,
 an investigation was made into the possibility of measuring blade

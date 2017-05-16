@@ -1,9 +1,13 @@
-extension of boundary layer separation criteria toa m=6 .5 utilizing flat plates with forward-facingsteps .
-
+.I 996
+.T
+extension of boundary layer separation criteria to
+a m=6 .5 utilizing flat plates with forward-facing
+steps .
+.A
 sterrett,j.r. and emery,j.c.
-
+.B
 nasa tn.d618, 1960.
-
+.W
 extension of boundary layer separation criteria to
 a m=6 .5 utilizing flat plates with forward-facing
 steps .

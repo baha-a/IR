@@ -1,9 +1,9 @@
+.I 472
+.T
 waves in supersonic flow .
-
-
-
-
-
+.A
+.B
+.W
 waves in supersonic flow .
 in this chapter we shall mainly consider problems of steady, two-
 dimensional (plane) supersonic flow .  using the fact that in this case

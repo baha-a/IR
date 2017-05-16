@@ -1,9 +1,11 @@
+.I 653
+.T
 transient magnetohydrodynamic duct flow .
-
+.A
 lundgen,t.s., atabeck,b.h. and chang,c.c.
-
+.B
 phys. fluids 4, 1961, 1006.
-
+.W
 transient magnetohydrodynamic duct flow .
   parallel flow of an electrically conducting viscous
 incompressible fluid in a rectangular duct with

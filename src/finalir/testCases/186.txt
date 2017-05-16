@@ -1,9 +1,11 @@
+.I 186
+.T
 base pressure in supersonic flow .
-
+.A
 gadd,g.e., holder,d.w. and regan,j.d.
-
+.B
 arc cp271, 1956.
-
+.W
 base pressure in supersonic flow .
   the problem of accurately predicting the pressure and wake
 configuration at the base of bodies in supersonic flow is an

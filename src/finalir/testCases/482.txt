@@ -1,9 +1,13 @@
-a re-examination of the use of the simple conceptsfor prediction the shape and location of detached shockwaves .
-
+.I 482
+.T
+a re-examination of the use of the simple concepts
+for prediction the shape and location of detached shock
+waves .
+.A
 love,e.s.
-
+.B
 naca tn.4170, 1957.
-
+.W
 a re-examination of the use of the simple concepts
 for prediction the shape and location of detached shock
 waves .

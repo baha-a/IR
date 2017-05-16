@@ -1,9 +1,12 @@
-induction drag on a large negatively charged satellitemoving in a magnetic-field-free ionosphere .
-
+.I 448
+.T
+induction drag on a large negatively charged satellite
+moving in a magnetic-field-free ionosphere .
+.A
 wyatt,p.j.
-
+.B
 j. geophys. rev. 65, 1960.
-
+.W
 induction drag on a large negatively charged satellite
 moving in a magnetic-field-free ionosphere .
   an induction drag, experienced by a

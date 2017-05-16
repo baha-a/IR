@@ -1,9 +1,11 @@
+.I 1097
+.T
 experimental ablation cooling .
-
+.A
 bond,a.c., rashis,b. and levin,l.
-
+.B
 naca rm.l58e15a, 1958.
-
+.W
 experimental ablation cooling .
   this paper presents the results
 of an experimental investigation on

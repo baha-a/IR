@@ -1,9 +1,11 @@
+.I 1138
+.T
 asymptotic solutions of toroidal shell problems .
-
+.A
 clark,r.a.
-
+.B
 quart. app. math. 16, 1958, 47.
-
+.W
 asymptotic solutions of toroidal shell problems .
   method of asymptotic integration developed by e. reissner and
 author is refined, and solutions previously obtained for problems

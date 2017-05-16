@@ -1,9 +1,11 @@
+.I 901
+.T
 long slender delta wings with leading edge separation .
-
+.A
 brown,c.e. and michael,w.h.
-
+.B
 naca tn.3430.
-
+.W
 long slender delta wings with leading edge separation .
   the slender-body approximation of linearized compressible flow is
 applied to the problem of a delta wing in which flow separation occurs

@@ -1,9 +1,11 @@
+.I 1283
+.T
 on shearing flow between porous coaxial cylinders .
-
+.A
 dunwoody,n.t.
-
+.B
 j. ae. scs. 29, 1962, 494.
-
+.W
 on shearing flow between porous coaxial cylinders .
   the flow between concentric porous cylinders in relative axial
 motion with a pressure gradient is considered .  the analysis is

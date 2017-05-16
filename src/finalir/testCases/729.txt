@@ -1,9 +1,11 @@
+.I 729
+.T
 stresses in continuous skin stiffener panels under random loading .
-
+.A
 lin, y.k.
-
+.B
 j. aero. sc. january 1962 .
-
+.W
 stresses in continuous skin stiffener panels under random loading .
 theoretical aspects involved in the prediction of stress levels for
 continuous skin-stiffener panels subjected to a random pressure field

@@ -1,9 +1,9 @@
+.I 1029
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   a variational theorem is presented for a body undergoing
 creep .  solutions to problems of the creep behavior of plates,

@@ -1,9 +1,12 @@
-a theory of the two dimensional laminar bounary layerover a curved surface .
-
+.I 1235
+.T
+a theory of the two dimensional laminar bounary layer
+over a curved surface .
+.A
 yen,k.t. and toba,k.
-
+.B
 j. ae. scs. 1961, 877.
-
+.W
 a theory of the two dimensional laminar bounary layer
 over a curved surface .
   the purpose of this paper is to present a theory to account for

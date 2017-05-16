@@ -1,9 +1,9 @@
+.I 775
+.T
 studies on two dimensional flows of compressible fluid.
-
-
-
-
-
+.A
+.B
+.W
 studies on two dimensional flows of compressible fluid.
   it is well-known that when the flow is everywhere subsonic in a field
 of flow, the nature of the two-dimensional isentropic flow of a

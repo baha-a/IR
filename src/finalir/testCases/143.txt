@@ -1,9 +1,11 @@
+.I 143
+.T
 interplanetary orbits .
-
+.A
 vertregt,m.
-
+.B
 j.brit.inter.s. 16, 1958, 326.
-
+.W
 interplanetary orbits .
   the basic equations under simplified
 conditions for interplanetary flight are derived .

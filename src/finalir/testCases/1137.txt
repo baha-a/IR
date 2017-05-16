@@ -1,9 +1,11 @@
+.I 1137
+.T
 on the theory of thin elastic toroidal shells .
-
+.A
 clark,r.a.
-
+.B
 j. math. phys. 29, 1950, 146.
-
+.W
 on the theory of thin elastic toroidal shells .
   the author obtains asymptotic solutions to the problem
 of rotationally symmetric small deflection of thin toroidal

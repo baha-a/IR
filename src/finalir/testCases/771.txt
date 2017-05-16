@@ -1,9 +1,11 @@
+.I 771
+.T
 on the flow of a compressible fluid past a sphere .
-
+.A
 tamada,k.
-
+.B
 proc. physico-math. soc japan, 21, 1939, 743.
-
+.W
 on the flow of a compressible fluid past a sphere .
   it was shown by raleigh (philos. mag. 32, 1 (1916))
 that the velocity potential for the subsonic flow of a

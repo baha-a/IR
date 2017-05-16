@@ -1,9 +1,13 @@
-the bending stability of thin-- walled unstiffenedcircular cylinders including the effects of internalpressure .
-
+.I 839
+.T
+the bending stability of thin-- walled unstiffened
+circular cylinders including the effects of internal
+pressure .
+.A
 suer,h.s., harris,l.a., skene,w.t. and benjamin,r.j.
-
+.B
 j. ae. scs. 25, 1958.
-
+.W
 the bending stability of thin-- walled unstiffened
 circular cylinders including the effects of internal
 pressure .

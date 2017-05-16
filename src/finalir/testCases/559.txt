@@ -1,9 +1,12 @@
-heat transfer at the forward stagnation point of bluntbodies .
-
+.I 559
+.T
+heat transfer at the forward stagnation point of blunt
+bodies .
+.A
 reshotko,e. and cohen,c.b.
-
+.B
 naca tn.3513, 1955.
-
+.W
 heat transfer at the forward stagnation point of blunt
 bodies .
   relations are presented for the calculation of heat transfer at

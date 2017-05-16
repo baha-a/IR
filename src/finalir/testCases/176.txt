@@ -1,9 +1,12 @@
-base pressure at subsonic speeds in the presence ofa supersonic jet .
-
+.I 176
+.T
+base pressure at subsonic speeds in the presence of
+a supersonic jet .
+.A
 craven,a.h.
-
+.B
 coa r129, 1960.
-
+.W
 base pressure at subsonic speeds in the presence of
 a supersonic jet .
   this paper presents the results of an experimental investigation

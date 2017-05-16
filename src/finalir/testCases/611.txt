@@ -1,9 +1,12 @@
-an approximate solution of the compressible laminarboundary layer on a flat plate .
-
+.I 611
+.T
+an approximate solution of the compressible laminar
+boundary layer on a flat plate .
+.A
 monaghan,r.j.
-
+.B
 rae tn. aero.2025.
-
+.W
 an approximate solution of the compressible laminar
 boundary layer on a flat plate .
   following a major assumption that enthalpy and velocity are dependent

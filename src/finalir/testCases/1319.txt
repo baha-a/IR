@@ -1,9 +1,11 @@
+.I 1319
+.T
 real gas effects in flow over blunt bodies at hypersonic speeds .
-
+.A
 nagamatsu, h.t., geiger r.e. and sheet, r.e.
-
+.B
 arc 21, 083, june 1959 .
-
+.W
 real gas effects in flow over blunt bodies at hypersonic speeds .
 a hypersonic shock tunnel has been developed to investigate the
 aerodynamic characteristics of flow over bodies at conditions comparable to

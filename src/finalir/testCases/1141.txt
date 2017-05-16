@@ -1,9 +1,11 @@
+.I 1141
+.T
 the wake behind an oscillating vehicle .
-
+.A
 zeisberg,s.l.
-
+.B
 j. ae. scs. 29, 1962, 1344.
-
+.W
 the wake behind an oscillating vehicle .
   the incompressible laminar far wake behind an oscillating
 vehicle is analyzed with the use of the oseen linearization, and

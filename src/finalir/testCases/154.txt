@@ -1,9 +1,12 @@
-velocity and temperature distributions in the turbulentwake behind a heated body of revolution .
-
+.I 154
+.T
+velocity and temperature distributions in the turbulent
+wake behind a heated body of revolution .
+.A
 hall,a.a. and hislop,g.s.
-
+.B
 proc.cam.phil.s. 34, 1938, 345.
-
+.W
 velocity and temperature distributions in the turbulent
 wake behind a heated body of revolution .
 recently (see abstract 954 (1938)) goldstein made calculations based

@@ -1,9 +1,13 @@
-aerodynamic investigation of a parabolic body of revolutionat mach number of 1. 92 and some effects of an annularsupersonic jet exhausting from the base .
-
+.I 1352
+.T
+aerodynamic investigation of a parabolic body of revolution
+at mach number of 1. 92 and some effects of an annular
+supersonic jet exhausting from the base .
+.A
 love,e.s.
-
+.B
 naca tn.3709, 1956.
-
+.W
 aerodynamic investigation of a parabolic body of revolution
 at mach number of 1. 92 and some effects of an annular
 supersonic jet exhausting from the base .

@@ -1,9 +1,12 @@
-leading-edge separation of laminar boundary layersin supersonic flow .
-
+.I 1228
+.T
+leading-edge separation of laminar boundary layers
+in supersonic flow .
+.A
 brower,w.b.
-
+.B
 j. ae. scs. 1961, 957.
-
+.W
 leading-edge separation of laminar boundary layers
 in supersonic flow .
   a brief description of the flow field is given for the interaction

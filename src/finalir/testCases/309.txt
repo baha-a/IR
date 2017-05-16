@@ -1,9 +1,12 @@
-on the motion of a flat plate at high speed in a viscouscompressible fluid, ii, steady motion .
-
+.I 309
+.T
+on the motion of a flat plate at high speed in a viscous
+compressible fluid, ii, steady motion .
+.A
 stewartson,k.
-
+.B
 j. ae. scs. 22, 1955, 303.
-
+.W
 on the motion of a flat plate at high speed in a viscous
 compressible fluid, ii, steady motion .
   the theory of the steady flow of a viscous compressible fluid

@@ -1,9 +1,12 @@
-on hypersonic viscous flow over an insulated flat platewith surface mass transfer .
-
+.I 525
+.T
+on hypersonic viscous flow over an insulated flat plate
+with surface mass transfer .
+.A
 tien,c.l.
-
+.B
 j. ae. scs. 29, 1962, 1024.
-
+.W
 on hypersonic viscous flow over an insulated flat plate
 with surface mass transfer .
   hypersonic viscous flow over an insulated flat plate with

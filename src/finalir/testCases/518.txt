@@ -1,9 +1,11 @@
+.I 518
+.T
 heat conduction through a polyatomic gas .
-
+.A
 clarke,j.f.
-
+.B
 coa r.149, 1961.
-
+.W
 heat conduction through a polyatomic gas .
   a heat conduction problem is set up
 which, in essence, simulates the conditions

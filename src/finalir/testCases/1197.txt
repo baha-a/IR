@@ -1,9 +1,12 @@
-unsteady aerodynamic forces on slender supersonic aircraftwith flexible wings and bodies .
-
+.I 1197
+.T
+unsteady aerodynamic forces on slender supersonic aircraft
+with flexible wings and bodies .
+.A
 yates,j.e. and zeydel,e.f.e.
-
+.B
 aiaa jnl. 1, 1963, 350.
-
+.W
 unsteady aerodynamic forces on slender supersonic aircraft
 with flexible wings and bodies .
   the present paper derives generalized aerodynamic

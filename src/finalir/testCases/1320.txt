@@ -1,9 +1,12 @@
-divergence of plate airfoils of low aspect ratio atsupersonic speeds .
-
+.I 1320
+.T
+divergence of plate airfoils of low aspect ratio at
+supersonic speeds .
+.A
 hancock,g.
-
+.B
 j. ae. scs. 1959, 495.
-
+.W
 divergence of plate airfoils of low aspect ratio at
 supersonic speeds .
   in part (1), as a first approach to a theoretical investigation

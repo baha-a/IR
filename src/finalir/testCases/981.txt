@@ -1,9 +1,12 @@
-solutions to the heat-conduction equation with time dependent boundaryconditions .
-
+.I 981
+.T
+solutions to the heat-conduction equation with time dependent boundary
+conditions .
+.A
 bergles, a.e. and kaye, j.
-
+.B
 j. aero. sc. v. 28, march 1961. pp 251-252 .
-
+.W
 solutions to the heat-conduction equation with time dependent boundary
 conditions .
 design charts based on the analytical solution to the problem of

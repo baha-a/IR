@@ -1,9 +1,12 @@
-methods of boundary-layer control for postponing and alleviatingbuffeting and other effects of shock-induced separation .
-
+.I 416
+.T
+methods of boundary-layer control for postponing and alleviating
+buffeting and other effects of shock-induced separation .
+.A
 pearcey, h.h. and stuart, c.m.
-
+.B
 smf fund paper, no. f.f. -dash 22, 1959 .
-
+.W
 methods of boundary-layer control for postponing and alleviating
 buffeting and other effects of shock-induced separation .
 the use of boundary-layer control to increase the separation-free

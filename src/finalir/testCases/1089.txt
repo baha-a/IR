@@ -1,9 +1,12 @@
-aerodynamic characteristics of propeller-driven vtolaircraft .
-
+.I 1089
+.T
+aerodynamic characteristics of propeller-driven vtol
+aircraft .
+.A
 kirby,r.h.
-
+.B
 nasa tn.d730, 1961.
-
+.W
 aerodynamic characteristics of propeller-driven vtol
 aircraft .
   this paper discusses the two major configurations that are usually

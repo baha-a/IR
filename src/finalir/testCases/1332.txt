@@ -1,9 +1,13 @@
-calculated spanwise lift distributions, influence functionsand influence coefficients for unswept wings in subsonicflow .
-
+.I 1332
+.T
+calculated spanwise lift distributions, influence functions
+and influence coefficients for unswept wings in subsonic
+flow .
+.A
 diederich,f.w. and zlotnick,m.
-
+.B
 naca r.1228, 1955.
-
+.W
 calculated spanwise lift distributions, influence functions
 and influence coefficients for unswept wings in subsonic
 flow .

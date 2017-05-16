@@ -1,9 +1,11 @@
+.I 1127
+.T
 the buckling of sandwich type panels .
-
+.A
 hoff,n.h. and mautner,s.f.
-
+.B
 j. ae. scs. 1945, 285.
-
+.W
 the buckling of sandwich type panels .
   fifty-one flat rectangular sandwich-type panels were tested
 in edgewise compression with the unloaded edges of the panels

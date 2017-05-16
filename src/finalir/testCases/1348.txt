@@ -1,9 +1,12 @@
-radiative heat transfer during atmosphere entry atparabolic velocity .
-
+.I 1348
+.T
+radiative heat transfer during atmosphere entry at
+parabolic velocity .
+.A
 yoshikawa,k.k. and wick,b.h.
-
+.B
 nasa tn.d1074, 1961.
-
+.W
 radiative heat transfer during atmosphere entry at
 parabolic velocity .
   stagnation point radiative heating

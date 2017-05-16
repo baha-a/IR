@@ -1,9 +1,12 @@
-principles of creep buckling weight-strength analysisof aircraft structures .
-
+.I 1012
+.T
+principles of creep buckling weight-strength analysis
+of aircraft structures .
+.A
 shanley,f.r.
-
+.B
 part iii. p 343, mcgraw-hill, new york, 1952.
-
+.W
 principles of creep buckling weight-strength analysis
 of aircraft structures .
   the possibility of a gradual instability

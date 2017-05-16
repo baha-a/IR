@@ -1,9 +1,13 @@
-calculated spanwise lift distributions and aerodynamicinfluence coefficients for swept wings in subsonicflow .
-
+.I 1334
+.T
+calculated spanwise lift distributions and aerodynamic
+influence coefficients for swept wings in subsonic
+flow .
+.A
 diederich,f.w. and zlotnick,m.
-
+.B
 naca tn.3476, 1955.
-
+.W
 calculated spanwise lift distributions and aerodynamic
 influence coefficients for swept wings in subsonic
 flow .

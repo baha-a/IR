@@ -1,9 +1,11 @@
+.I 850
+.T
 remarks on donnell's equations .
-
+.A
 kempner,j.
-
+.B
 j. app. mech. 22, 1955.
-
+.W
 remarks on donnell's equations .
   flugge's set of differential equations of equilibrium for
 circular cylindrical shells is expressed in a form analogous

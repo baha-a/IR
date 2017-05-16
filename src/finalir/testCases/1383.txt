@@ -1,9 +1,11 @@
+.I 1383
+.T
 on the theory of laminar boundary layer involving separation .
-
+.A
 vonkarman,t. and millikan,c.b.
-
+.B
 naca r.504, 1934.
-
+.W
 on the theory of laminar boundary layer involving separation .
   the paper presents a mathematical discussion of the
 laminar boundary layer, which was developed with a view

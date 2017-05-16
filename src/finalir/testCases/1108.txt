@@ -1,9 +1,11 @@
+.I 1108
+.T
 a study of second-order supersonic flow theory .
-
+.A
 vandyke,m.d.
-
+.B
 naca r.1071, 1952.
-
+.W
 a study of second-order supersonic flow theory .
   an attempt is made to develop a second approximation to the
 solution of problems of supersonic flow which can be solved by

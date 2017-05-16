@@ -1,9 +1,9 @@
+.I 1020
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   the results of short-time
 creep-buckling and creep-bending tests of

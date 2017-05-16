@@ -1,9 +1,11 @@
+.I 262
+.T
 the formation of a blast wave by a very intense explosion .
-
+.A
 taylor,g.i.
-
+.B
 proc. roy. soc. a, 201, 1950, 159.
-
+.W
 the formation of a blast wave by a very intense explosion .
 this paper was written early in 1941
 and circulated to the civil defence research

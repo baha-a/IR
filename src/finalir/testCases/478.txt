@@ -1,9 +1,12 @@
-tabulation of the blasius function with blowing andsuction .
-
+.I 478
+.T
+tabulation of the blasius function with blowing and
+suction .
+.A
 emmons,h.w. and leigh,d.c.
-
+.B
 arc cp.1913, 1953.
-
+.W
 tabulation of the blasius function with blowing and
 suction .
   authors tabulate solutions of f''' + ff'' = 0 for the velocity

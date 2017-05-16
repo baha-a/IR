@@ -1,9 +1,13 @@
-some effects of joint conductivity on the temperatureand thermal stresses in aerodynamically heated skin-stiffenercombinations .
-
+.I 66
+.T
+some effects of joint conductivity on the temperature
+and thermal stresses in aerodynamically heated skin-stiffener
+combinations .
+.A
 griffith,g.e. and miltonberger,g.h.
-
+.B
 naca tn.3609, 1956.
-
+.W
 some effects of joint conductivity on the temperature
 and thermal stresses in aerodynamically heated skin-stiffener
 combinations .

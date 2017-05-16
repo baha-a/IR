@@ -1,9 +1,11 @@
+.I 656
+.T
 departure from dissociation equilibrium in a hypersonic nozzle .
-
+.A
 bray, k.n.c.
-
+.B
 a.r.c. 19, 983, march 1958 .
-
+.W
 departure from dissociation equilibrium in a hypersonic nozzle .
 the equations of motion for the flow of an ideal dissociating gas
 through a nearly conical nozzle have been solved numerically, assuming

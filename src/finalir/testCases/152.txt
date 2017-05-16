@@ -1,9 +1,10 @@
+.I 152
+.T
 on the flow of compressible fluid past an obstacle .
-
+.A
 lord rayleigh, o.m., f.r.s.
-
-
-
+.B
+.W
 on the flow of compressible fluid past an obstacle .
 it is well known that according to classical hydrodynamics a steady
 stream of frictionless incompressible fluid exercises no resultant

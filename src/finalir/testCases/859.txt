@@ -1,9 +1,13 @@
-flutter of aerodynamically heated aluminium-alloy andstainless steel panels with length-width ratio of 10at mach 3. 0.
-
+.I 859
+.T
+flutter of aerodynamically heated aluminium-alloy and
+stainless steel panels with length-width ratio of 10
+at mach 3. 0.
+.A
 guy,l.d. and bohon,h.l.
-
+.B
 nasa tn.d1353, 1962.
-
+.W
 flutter of aerodynamically heated aluminium-alloy and
 stainless steel panels with length-width ratio of 10
 at mach 3. 0.

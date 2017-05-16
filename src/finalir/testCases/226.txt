@@ -1,9 +1,12 @@
-aerofoil theory of a flat delta wing at supersonicspeeds .
-
+.I 226
+.T
+aerofoil theory of a flat delta wing at supersonic
+speeds .
+.A
 robinson,a.
-
+.B
 rae r.aero.2151, 1946.
-
+.W
 aerofoil theory of a flat delta wing at supersonic
 speeds .
   lift, drag, and pressure distribution of a triangular

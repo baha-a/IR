@@ -1,9 +1,11 @@
+.I 870
+.T
 effect of rheological behaviour on thermal stresses .
-
+.A
 freudenthal,a.m.
-
+.B
 j.app.phys. 25, 1954.
-
+.W
 effect of rheological behaviour on thermal stresses .
   since the conventional elastic analysis of thermal stress problems
 coupled with limiting creep rates and time-dependent fracture stresses

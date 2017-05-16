@@ -1,9 +1,11 @@
+.I 623
+.T
 on the coupling between heat and mass transfer .
-
+.A
 tewfik,o.e.
-
+.B
 j. ae. scs. 28, 1962, 1009.
-
+.W
 on the coupling between heat and mass transfer .
 in mixtures of two different gases or liquids, one constituent
 will migrate spontaneously toward the warmer parts, and

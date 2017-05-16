@@ -1,9 +1,12 @@
-similar solutions of a free convection boundary layerequation for an electrically conducting fluid .
-
+.I 104
+.T
+similar solutions of a free convection boundary layer
+equation for an electrically conducting fluid .
+.A
 reeves,b.l.
-
+.B
 a.r.s. jnl. 31, 1961, 517.
-
+.W
 similar solutions of a free convection boundary layer
 equation for an electrically conducting fluid .
   author investigates the existence of a class of similar solutions

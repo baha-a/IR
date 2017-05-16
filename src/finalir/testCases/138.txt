@@ -1,9 +1,11 @@
+.I 138
+.T
 wakes in axial compressors .
-
+.A
 pearson,h. and mckenzie,a.b.
-
+.B
 j.roy.ae.s.63, 1959, 415.
-
+.W
 wakes in axial compressors .
 the tendency in the past has been to assume that
 when wakes or non-uniform total head profiles are

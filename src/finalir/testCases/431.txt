@@ -1,9 +1,13 @@
-free-flight measurements of the zero-lift drag andbase pressure on a wind tunnel interference model (m=0 .8 - 1. 5) .
-
+.I 431
+.T
+free-flight measurements of the zero-lift drag and
+base pressure on a wind tunnel interference model (m=0 .
+8 - 1. 5) .
+.A
 greenwood,g.h.
-
+.B
 rae tn.aero.2725, 1960.
-
+.W
 free-flight measurements of the zero-lift drag and
 base pressure on a wind tunnel interference model (m=0 .
 8 - 1. 5) .

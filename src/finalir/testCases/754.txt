@@ -1,9 +1,12 @@
-heat transfer through laminar boundary layers onsemi-infinite cylinders of arbitrary cross section .
-
+.I 754
+.T
+heat transfer through laminar boundary layers on
+semi-infinite cylinders of arbitrary cross section .
+.A
 bourne,d.e. and wardle,s.
-
+.B
 j. ae. scs. 29, 1962, 460.
-
+.W
 heat transfer through laminar boundary layers on
 semi-infinite cylinders of arbitrary cross section .
   this paper shows how to calculate the rate of heat transfer

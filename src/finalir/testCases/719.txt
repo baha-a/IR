@@ -1,9 +1,11 @@
+.I 719
+.T
 tumbling bodies entering the atmosphere .
-
+.A
 remmler, k.l.
-
+.B
 ars jnl. v. 32, january 1962. pp 92-95 .
-
+.W
 tumbling bodies entering the atmosphere .
 the equations of motion of a tumbling flat plate entering an exponential
  atmosphere were linearized and solved analytically to obtain a simple

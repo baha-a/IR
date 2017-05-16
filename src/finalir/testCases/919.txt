@@ -1,9 +1,12 @@
-theoretical studies of unsteady transonic flow . part iii . theoscillating low aspect ratio rectangular wing .
-
+.I 919
+.T
+theoretical studies of unsteady transonic flow . part iii . the
+oscillating low aspect ratio rectangular wing .
+.A
 landahl, m.t.
-
+.B
 aero. res. inst. of sweden /f.f.a./ rep. 79, 1958 .
-
+.W
 theoretical studies of unsteady transonic flow . part iii . the
 oscillating low aspect ratio rectangular wing .
 by expanding the velocity potential in an asymptotic series, the

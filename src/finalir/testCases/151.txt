@@ -1,9 +1,11 @@
+.I 151
+.T
 the generation of noise by isotropic turbulence .
-
+.A
 proudman,j.
-
+.B
 proc.roy.s.a 214,1952,119.
-
+.W
 the generation of noise by isotropic turbulence .
 a finite region, with fixed boundaries, of an
 infinite expanse of compressible fluid is in

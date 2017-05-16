@@ -1,9 +1,12 @@
-motions of a short 10degree blunted cone entering a martian atmosphereat arbitrary angles of attack and arbitrary pitching rates .
-
+.I 717
+.T
+motions of a short 10degree blunted cone entering a martian atmosphere
+at arbitrary angles of attack and arbitrary pitching rates .
+.A
 peterson, v.l.
-
+.B
 nasa tn-d 1326 .
-
+.W
 motions of a short 10degree blunted cone entering a martian atmosphere
 at arbitrary angles of attack and arbitrary pitching rates .
 the dynamic behavior of two probe vehicles entering a martian atmosphere

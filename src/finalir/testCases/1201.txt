@@ -1,9 +1,12 @@
-a study of slender shapes of minimum drag using thenewton-busemann pressure coefficient law .
-
+.I 1201
+.T
+a study of slender shapes of minimum drag using the
+newton-busemann pressure coefficient law .
+.A
 miele,a.a.
-
+.B
 aiaa jnl. 1, 1963, 168.
-
+.W
 a study of slender shapes of minimum drag using the
 newton-busemann pressure coefficient law .
   the problem of minimizing the drag of a slender, two-

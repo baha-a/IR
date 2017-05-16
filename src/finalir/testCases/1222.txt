@@ -1,9 +1,11 @@
+.I 1222
+.T
 axisymmetric magnetohydrodynamic channel flow .
-
+.A
 hains,f.d. and holer,y.a.
-
+.B
 j. ae. scs. 1962, 143.
-
+.W
 axisymmetric magnetohydrodynamic channel flow .
   the axisymmetric subsonic and supersonic flow fields, and the
 skin friction and heat transfer of an electrically conducting

@@ -1,9 +1,11 @@
+.I 1368
+.T
 three dimensional viscous wakes .
-
+.A
 steiger,m.h. and bloom,m.h.
-
+.B
 j.fluid mech. 14, 1962,233.
-
+.W
 three dimensional viscous wakes .
 the velocity fields of three-dimensional
 viscous wakes are examined with the

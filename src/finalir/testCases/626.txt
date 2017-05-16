@@ -1,9 +1,12 @@
-some features of supersonic and hypersonic flow aboutblunted cones .
-
+.I 626
+.T
+some features of supersonic and hypersonic flow about
+blunted cones .
+.A
 traugott,s.c.
-
+.B
 j. ae. scs. 29, 1962, 389.
-
+.W
 some features of supersonic and hypersonic flow about
 blunted cones .
   for a family of cones of various semiapex angles blunted by

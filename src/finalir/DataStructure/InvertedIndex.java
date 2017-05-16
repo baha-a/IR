@@ -1,6 +1,5 @@
 package finalir.DataStructure;
 
-import static finalir.IR.PrintErr;
 import java.util.*;
 
 public class InvertedIndex {

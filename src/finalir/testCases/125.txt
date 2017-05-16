@@ -1,9 +1,12 @@
-measurements of skin friction of the compressible turbulentboundary layer on a cone with foreign gas injection .
-
+.I 125
+.T
+measurements of skin friction of the compressible turbulent
+boundary layer on a cone with foreign gas injection .
+.A
 pappas,c.c. and okuno,a.f.
-
+.B
 j.aero.scs. 27, 1960, 321.
-
+.W
 measurements of skin friction of the compressible turbulent
 boundary layer on a cone with foreign gas injection .
   measurements of average skin friction of the turbulent

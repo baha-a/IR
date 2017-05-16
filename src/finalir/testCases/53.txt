@@ -1,9 +1,12 @@
-transition reynolds numbers of separated flows atsupersonic speeds .
-
+.I 53
+.T
+transition reynolds numbers of separated flows at
+supersonic speeds .
+.A
 larson,h.k. and keating,s.j.
-
+.B
 nasa tn.d349, 1960.
-
+.W
 transition reynolds numbers of separated flows at
 supersonic speeds .
   experimental research has been conducted on the effects of wall

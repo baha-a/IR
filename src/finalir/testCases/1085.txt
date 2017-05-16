@@ -1,9 +1,12 @@
-note on the convergence of numerical solutions of the navier-stokesequations .
-
+.I 1085
+.T
+note on the convergence of numerical solutions of the navier-stokes
+equations .
+.A
 thom, a. and apelt, c.j.
-
+.B
 a.r.c. r + m 3061. 1956 .
-
+.W
 note on the convergence of numerical solutions of the navier-stokes
 equations .
 a criterion is given for the convergence of numerical solutions of the

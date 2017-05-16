@@ -1,9 +1,11 @@
+.I 1266
+.T
 minimum wing wave drag with volume constraint .
-
+.A
 strand,t.
-
+.B
 j. ae. scs. 1960, 615.
-
+.W
 minimum wing wave drag with volume constraint .
   a numerical method is developed for calculating the minimum
 thickness drag for a given wing planform and volume using

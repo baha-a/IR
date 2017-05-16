@@ -1,9 +1,12 @@
-a mixing theory for the interaction between dissipativeflows and nearly isentropic streams .
-
+.I 97
+.T
+a mixing theory for the interaction between dissipative
+flows and nearly isentropic streams .
+.A
 crocco,l. and lees,l.
-
+.B
 j. ae. scs. 19, 1952, 649.
-
+.W
 a mixing theory for the interaction between dissipative
 flows and nearly isentropic streams .
   by means of a simplified theoretical /model,/ the present paper

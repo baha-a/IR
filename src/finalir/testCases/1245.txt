@@ -1,9 +1,11 @@
+.I 1245
+.T
 some aspects of nonequilibrium flows .
-
+.A
 sedney,r.
-
+.B
 j. ae. scs. 1961, 189.
-
+.W
 some aspects of nonequilibrium flows .
   in this paper are discussed some of the general features of
 nonequilibrium flow .  in particular, vibrational relaxation is

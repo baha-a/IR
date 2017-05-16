@@ -1,9 +1,9 @@
+.I 1026
+.T
 note on creep buckling of columns .
-
-
-
-
-
+.A
+.B
+.W
 note on creep buckling of columns .
   this paper is concerned with the solution of the creep buckling of
 columns .  instantaneous elastic and plastic deformations, as well as

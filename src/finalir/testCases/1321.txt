@@ -1,9 +1,11 @@
+.I 1321
+.T
 effects of a flexible boundary on hydrodynamic stability .
-
+.A
 benjamin, t.b.
-
+.B
 j. fluid mech. vol. 9, 4, 1960. p513 .
-
+.W
 effects of a flexible boundary on hydrodynamic stability .
 purpose of paper is to examine theoretically the use of coatings of
 elastic materials to prevent transition from laminar to turbulent flow .

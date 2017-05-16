@@ -1,9 +1,12 @@
-pressure distribution and surface flow on 5( and 9( thick wings withcurved tip and 60degree sweepback .
-
+.I 675
+.T
+pressure distribution and surface flow on 5( and 9( thick wings with
+curved tip and 60degree sweepback .
+.A
 garner, h.c. and walshe, d.e.
-
+.B
 a.r.c. 20,982, r + m 3244. may 1959 .
-
+.W
 pressure distribution and surface flow on 5( and 9( thick wings with
 curved tip and 60degree sweepback .
 extensive tables are given of pressure coefficients measured at reynolds

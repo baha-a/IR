@@ -1,9 +1,12 @@
-numerical solution of the boundary layer equationswithout similarity assumptions .
-
+.I 349
+.T
+numerical solution of the boundary layer equations
+without similarity assumptions .
+.A
 kramer,r.f. and lieberstein,h.
-
+.B
 j. ae. scs. 26, 1959, 508.
-
+.W
 numerical solution of the boundary layer equations
 without similarity assumptions .
   the crocco transformation combined with a mangler

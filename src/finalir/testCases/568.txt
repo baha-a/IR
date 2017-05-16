@@ -1,9 +1,12 @@
-shock wave effects on the laminar skin friction ofan insulated flat plate at hypersonic speeds .
-
+.I 568
+.T
+shock wave effects on the laminar skin friction of
+an insulated flat plate at hypersonic speeds .
+.A
 li,t.y. and nagamatsu,h.t.
-
+.B
 j. ae. scs. 20, 1953, 345.
-
+.W
 shock wave effects on the laminar skin friction of
 an insulated flat plate at hypersonic speeds .
   an approximate theory on the phenomena of interaction

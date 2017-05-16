@@ -1,9 +1,11 @@
+.I 627
+.T
 flutter analysis of circular panels .
-
+.A
 rattayya,j.v.
-
+.B
 j. ae. scs. 20, 1962, 534.
-
+.W
 flutter analysis of circular panels .
   the flutter problem of flat circular panels with edges elastically
 restrained against rotation has been formulated in terms of

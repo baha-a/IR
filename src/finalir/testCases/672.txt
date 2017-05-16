@@ -1,9 +1,11 @@
+.I 672
+.T
 tunnel interference effects .
-
+.A
 pankhurst, r.c. and holder, d. w.
-
+.B
 wind tunnel techniques, chapter 8 pitman. 1952 .
-
+.W
 tunnel interference effects .
 the problems of solid blockage, wake blockage, lift effect, and the
 influence of boundary constraint at high mach number are considered in

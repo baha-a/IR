@@ -1,9 +1,12 @@
-laminar heat transfer around blunt bodies in dissociatedair .
-
+.I 283
+.T
+laminar heat transfer around blunt bodies in dissociated
+air .
+.A
 kemp,n.h., rose,p.h. and detra,r.w.
-
+.B
 j.ae.sc. 26, 1959.
-
+.W
 laminar heat transfer around blunt bodies in dissociated
 air .
   a method of predicting laminar heat-transfer rates to blunt,

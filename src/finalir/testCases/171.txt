@@ -1,9 +1,12 @@
-a low density wind tunnel study of shock wave structureand relaxation phenomena in gases .
-
+.I 171
+.T
+a low density wind tunnel study of shock wave structure
+and relaxation phenomena in gases .
+.A
 sherman,f.s.
-
+.B
 naca tn.3298.
-
+.W
 a low density wind tunnel study of shock wave structure
 and relaxation phenomena in gases .
   the profiles and thicknesses

@@ -1,9 +1,12 @@
-interaction of secondary injectants and rocket exhaustfor thrust vector control .
-
+.I 1326
+.T
+interaction of secondary injectants and rocket exhaust
+for thrust vector control .
+.A
 newton,j.f. and spaid,f.w.
-
+.B
 ars jnl. 32, 1962, 1203.
-
+.W
 interaction of secondary injectants and rocket exhaust
 for thrust vector control .
   tests were conducted with 1300- to 1500-lb thrust

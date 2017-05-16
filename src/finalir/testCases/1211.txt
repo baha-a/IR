@@ -1,9 +1,11 @@
-boundary layer transition at supersonicspeeds-three-dimensional roughness effects (spheres).
-
+.I 1211
+.T
+boundary layer transition at supersonic
+speeds-three-dimensional roughness effects (spheres).
+.A
 van driest,e.r. and blumer,c.b.
-
-
-
+.B
+.W
 boundary layer transition at supersonic
 speeds-three-dimensional roughness effects (spheres).
   further experiments carried out in the 12-in. supersonic wind

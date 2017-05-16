@@ -1,9 +1,9 @@
+.I 1047
+.T
 the bending strength of pressurized cylinders .
-
-
-
-
-
+.A
+.B
+.W
 the bending strength of pressurized cylinders .
 be described here is attributed to the russian
 investigator v. g. galerkin, whose original papers are

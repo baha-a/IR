@@ -1,9 +1,12 @@
-stability of compressible boundary layers induced bya moving wave .
-
+.I 504
+.T
+stability of compressible boundary layers induced by
+a moving wave .
+.A
 ostrach,s.
-
+.B
 j. ae. scs. 29, 1962, 289.
-
+.W
 stability of compressible boundary layers induced by
 a moving wave .
   the problem of determining the stability of compressible

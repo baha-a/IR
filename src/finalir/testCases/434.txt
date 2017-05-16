@@ -1,9 +1,13 @@
-contributions of the wing panels to the forces andmoments of supersonic wing-body combinations at combinedangles .
-
+.I 434
+.T
+contributions of the wing panels to the forces and
+moments of supersonic wing-body combinations at combined
+angles .
+.A
 spahr,j.r.
-
+.B
 naca tn.4146, 1958.
-
+.W
 contributions of the wing panels to the forces and
 moments of supersonic wing-body combinations at combined
 angles .

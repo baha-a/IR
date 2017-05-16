@@ -1,9 +1,13 @@
-a correlation of nose-bluntness induced pressures oncylindrical and conical after-bodies at hypersonicspeeds .
-
+.I 508
+.T
+a correlation of nose-bluntness induced pressures on
+cylindrical and conical after-bodies at hypersonic
+speeds .
+.A
 greenberg,r.a.
-
+.B
 j. ae. scs. 29, 1962, 359.
-
+.W
 a correlation of nose-bluntness induced pressures on
 cylindrical and conical after-bodies at hypersonic
 speeds .

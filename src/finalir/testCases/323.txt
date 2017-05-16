@@ -1,9 +1,12 @@
-vorticity interaction at an axisymmetric stagnationpoint in a viscous incompressible fluid .
-
+.I 323
+.T
+vorticity interaction at an axisymmetric stagnation
+point in a viscous incompressible fluid .
+.A
 kemp,n.h.
-
+.B
 j. ae. scs. 26, 1959.
-
+.W
 vorticity interaction at an axisymmetric stagnation
 point in a viscous incompressible fluid .
   the purpose of the present note is to give an exact solution of

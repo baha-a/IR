@@ -1,9 +1,12 @@
+.I 1353
+.T
 investigation of a two-step nozzle in the langley 11in .
-
+.A
  hypersonic tunnel .
-
-mclellan,c.h.naca tn.2171, 1950.
-
+.B
+mclellan,c.h.
+naca tn.2171, 1950.
+.W
 investigation of a two-step nozzle in the langley 11in .
  hypersonic tunnel .
   flow surveys have been made in

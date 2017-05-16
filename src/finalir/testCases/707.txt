@@ -1,9 +1,12 @@
-thermal analysis of stagnation regions with emphasis on heat-sustainingnose shapes at hypersonic speeds .
-
+.I 707
+.T
+thermal analysis of stagnation regions with emphasis on heat-sustaining
+nose shapes at hypersonic speeds .
+.A
 hanawalt, a.j., blessing, a.h. and schmidt, c.m.
-
+.B
 j.aero. sc. may 1959. p. 257-263 .
-
+.W
 thermal analysis of stagnation regions with emphasis on heat-sustaining
 nose shapes at hypersonic speeds .
 the leading edges and noses of hypersonic vehicles are subjected to

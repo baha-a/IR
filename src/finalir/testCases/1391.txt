@@ -1,9 +1,11 @@
+.I 1391
+.T
 shock wave and flow field development in hypersonic re-entry .
-
+.A
 probstein, r.f.
-
+.B
 ars. j. 31, 185-194, 1961 .
-
+.W
 shock wave and flow field development in hypersonic re-entry .
 a study is made of when and how a shock wave and continuum-type flow
 field develop in the nose region of a highly cooled blunt body re-

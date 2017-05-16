@@ -1,9 +1,9 @@
+.I 1010
+.T
 free-flight measurements of the static and dynamic .
-
-
-
-
-
+.A
+.B
+.W
 free-flight measurements of the static and dynamic .
   air-flow properties in nozzles were calculated and charted for
 equilibrium flow and two types of frozen flows .  in one type of frozen

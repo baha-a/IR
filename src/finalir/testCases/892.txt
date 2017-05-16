@@ -1,9 +1,11 @@
+.I 892
+.T
 research on unsteady flow .
-
+.A
 jones,w.p.
-
+.B
 j. ae. scs. 29, 1962, 249.
-
+.W
 research on unsteady flow .
   this is a survey of certain recent advances made in the study
 of aerodynamic unsteady flow and of some of the new problems

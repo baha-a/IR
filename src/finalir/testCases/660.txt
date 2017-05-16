@@ -1,9 +1,12 @@
-the fundamental solution for small steady three dimensionaldisturbances to a two dimensional parallel shear flow .
-
+.I 660
+.T
+the fundamental solution for small steady three dimensional
+disturbances to a two dimensional parallel shear flow .
+.A
 lighthill,m.j.
-
+.B
 j. fluid mech. 3, 1957, 113.
-
+.W
 the fundamental solution for small steady three dimensional
 disturbances to a two dimensional parallel shear flow .
   after a brief review of methods of calculating the flow
