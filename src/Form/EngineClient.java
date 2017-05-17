@@ -235,7 +235,6 @@ public class EngineClient extends javax.swing.JFrame {
         
         jLabel3.setText(total + " results in  " + time + " msec");
         
-        
         if(speller.HasError(jTextField1.getText())){
             lastCorrectLine = speller.getCorrectedLine(jTextField1.getText());
             jLabel2.setText("<html>Did you mean: <i style='color:blue;'>" + lastCorrectLine + "</i></html>");

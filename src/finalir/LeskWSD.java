@@ -2,7 +2,10 @@ package finalir;
 
 import java.util.ArrayList;
 import java.util.List;
+import net.sf.extjwnl.JWNLException;
 import net.sf.extjwnl.data.*;
+import net.sf.extjwnl.data.list.PointerTargetNode;
+import net.sf.extjwnl.data.list.PointerTargetNodeList;
 import net.sf.extjwnl.dictionary.Dictionary;
 
 public class LeskWSD{
@@ -30,13 +33,28 @@ public class LeskWSD{
         return new ArrayList<>();
     }
     
-    private List<String> disambiguate(String sentense, IndexWord word) {
+    private List<String> disambiguate(String sentense, IndexWord word) throws JWNLException {
         int index = getMaxIdx(lesk(word, sentense));
         
+        // get correct synonyms
         List<String> sysns = new ArrayList<>();
         for (Word w : word.getSenses().get(index).getWords())
             if(word.getLemma().equals(w.getLemma()) == false)
                 sysns.add(w.getLemma());
+    
+        // get all hypernyms
+        for (PointerTargetNode p : PointerUtils.getDirectHypernyms(word.getSenses().get(index)))
+            for (Word w : p.getSynset().getWords())
+                sysns.add(w.getLemma());
+
+        // get some hyponyms
+        int some = 3;
+        for (PointerTargetNode p : PointerUtils.getDirectHyponyms(word.getSenses().get(index))) {
+            for (Word w : p.getSynset().getWords())
+                sysns.add(w.getLemma());
+            if(--some == 0)
+                break;
+        }
         
         return sysns;
     }

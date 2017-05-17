@@ -287,8 +287,14 @@ public class Engine{
         for (DocumentTermEntry d : d4)
             Print(d.getDocument().getName());   
         
-        Print("Enter query:");
-        for(int i = 0; i < 10; i++)
+        
+        Print(" ---- 6 ---- ");
+        for (String w : indx.lesker.getSynonyms("the dog is black", "dog"))
+            PrintR(w +", ");
+        Print("");
+        
+        Print("Enter your querys (or x to exit):");
+        for(;;)
             for (DocumentResult d : indx.SearchQuery(new Scanner(System.in,"UTF-8").nextLine(),true))
                 Print(d.getDocument().getName() + " --> " + d.getRank());
     }
