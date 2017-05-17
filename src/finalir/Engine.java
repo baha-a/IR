@@ -15,11 +15,13 @@ import org.apache.tika.exception.TikaException;
 
 public class Engine{
 
-    Tokenizer toky;
     InvertedIndex index;
+    Tokenizer toky;
     Searcher searcher;
     Cache<DocumentResult> cache;
-    Autocomplete completer;
+    Autocomplete completer;    
+    LeskWSD lesker;
+    
     
     public Engine(boolean stemmingOnly){
         toky = new Tokenizer();
@@ -27,6 +29,7 @@ public class Engine{
         searcher = new Searcher(index);
         cache = new Cache<>();
         completer = new Autocomplete();
+        lesker = new LeskWSD();
     }
     
     private void indexing(String name,List<CoreLabel> words){
@@ -87,28 +90,31 @@ public class Engine{
     private long lastTime;
     public long getLastTime(){ return lastTime;}
     
+    public boolean useWordNet = true;
+    
     private List<DocumentResult> searchQuery2(String q,boolean advanceSearch) {
         
         String query = q = q.toLowerCase();
         
-        System.out.println(q);
-        if(cache.check(q + advanceSearch))
-            return cache.get(q + advanceSearch);
-        
-        
-        for (CoreLabel w : toky.getTokens(query))
-            for(String s : WordNet.getSynonyms(w.lemma()))
-                query += " or " + s;
-        
-        
+        if(cache.check(q + advanceSearch + useWordNet))
+            return cache.get(q + advanceSearch + useWordNet);
+                
         List<DocumentTermEntry> r = new ArrayList<>();
 
+        List<CoreLabel> queryTokens = toky.getTokens(query);
+        
         if(advanceSearch)
-            r = ParseQuery(q);
+            r = ParseQuery(query);
         else
-            for (CoreLabel w : toky.getTokens(query))
+            for (CoreLabel w : queryTokens)
                 r = searcher.SearchOr(w.lemma(), r);
         
+        if(useWordNet)//&& r.size() < 10)
+            for (CoreLabel w : queryTokens)
+                for(String s : lesker.getSynonyms(query,w.word())){
+                    r = searcher.SearchOr(s, r);
+                    query += " or " + s;
+                }
         
         List<DocumentResult> res = searcher.ranking(Document.convert(r), convertQueryToVector(toky.getTokens(query)));
         res.sort((DocumentResult d1, DocumentResult d2) -> 
@@ -118,8 +124,18 @@ public class Engine{
             return 0;
         });
         
-        cache.save(q + advanceSearch, res);
+        cache.save(q + advanceSearch + useWordNet, res);
         completer.save(q);
+        
+        System.out.println("your query:");
+        for (CoreLabel c: queryTokens)
+            System.out.print(c.lemma() + ", ");
+        System.out.println();
+        System.out.println("used query:");
+        for (CoreLabel c: toky.getTokens(query))
+            System.out.print(c.lemma() + ", ");
+        System.out.println();
+        
         return res;
     }
     
