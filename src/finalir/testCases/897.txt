@@ -1,30 +1,11 @@
-.I 897
-.T
-some results on buckling and postbuckling of cylindrical
-shells .
-.A
-kempner,j.
-.B
-nasa tn.d1510, 1962, 173.
-.W
-some results on buckling and postbuckling of cylindrical
-shells .
-  in this summary paper, the
-effects of initial deformations on the
-buckling and postbuckling characteristics
-of circular cylindrical
-shells under hydrostatic pressure
-is determined in an approximate
-manner .  the influence of initial
-axisymmetric deformations is stressed .
-also, the classical buckling of
-an axially compressed, noncircular
-the results show that the
-major-minor axis ratio of the cross section
-has a marked effect on the
-critical load, and that use of the
-maximum radius of curvature in the
-formula for the classical buckling
-stress of a circular cylindrical
-shell leads to good results for moderate
-eccentricities .
+Shawnee Mission's On-Line Cataloging System
+
+Miller, Ellen W.Hodges, B. J.
+
+   An on_line cataloging pilot project for two elementary school is discussed..
+The system components are 2740 terminals, upper-lower-case input, IBM's FASTER
+generalized software package, and usual cards/labels output.. Reasons for 
+choosing FASTER, software and hardware features, operating procedures, system
+performance and costs are detailed. Future expansion to cataloging 100,000 
+annual K-12 acquisitions, on-line circulation, retrospective conversion, and 
+union book catalogs is set forth..

@@ -1,17 +1,17 @@
-.I 687
-.T
-oscillating airfoils at high mach number .
-.A
-lighthill, m.j.
-.B
-j. aero. sc. v. 20. june 1953. pp 402-406 .
-.W
-oscillating airfoils at high mach number .
-a simple formula is given for the pressure distribution on an
-oscillating airfoil in two-dimensional flow at high mach number . the
-formula is expected to be reasonably accurate if the pressure on the
-surface remains within the range 0.2 to 3.5 times the mainstream
-pressure . to illustrate the application of the formula, some results
-for symmetrical airfoils performing pitching oscillations are obtained
-and compared with results obtained from existing theories in the case of
- high mach number .
+Index Chemicus Registry System:  Pragmatic Approach toSubstructure Chemical Retrieval
+
+Garfield, E.Revesz, G.S.Granito, C.E.Dorr, H.A.Calderon, M.M.Warner, A.
+
+  The Index Chemicus Registry System (ICRS), launched in 1968 with the support
+of a dozen industrial and governmental organizations, is now a current 
+operational monthly service.  Subscribers receive magnetic tapes and printouts,
+in which the weekly issues of Index Chemicus (IC) have been encoded in Wiswesser
+Line Notations (WLN).  Over 13,000 compounds per month are provided in
+machine language.  The canonical WLN is also provided in alphabetized printouts.
+Encoding of over 400,000 new chemical compounds from IC has already been 
+completed, including all those reported in 1967, 1968, and 1969.  Since the 
+tapes also include title and other bibliographic information, this paper 
+describes the use of supporting software provided for SDI search systems
+employing "word" and other searching terms, in addition to the WLN fragments.
+Use of the monthly and annual printouts are illustrated for those searches
+which do not require computer manipulation.

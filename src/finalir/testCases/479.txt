@@ -1,26 +1,18 @@
-.I 479
-.T
-on an equation occurring in falkner and skan's approximate
-treatment of the equation of the boundary layer .
-.A
-hartree,d.r.
-.B
-proc. cam. phil. s. 33, 1937, 223.
-.W
-on an equation occurring in falkner and skan's approximate
-treatment of the equation of the boundary layer .
-  the differential analyser
-has been used to evaluate solutions of the equation y''' = -yy'' +
-with boundary conditions y = y' = 0 at x = 0, as
-which occurs in falkner and skan's approximate treatment of the
-laminar boundary layer (see abstract 1081 (1932)) .  a numerical
-iterative method has been used to improve the accuracy of the solutions,
-and the results show that the accuracy of the machine solutions is about
-insufficient to specify a unique solution for negative values of,.
-a discussion of this situation is given, and it is shown that for the
-application to be made of the solution the appropriate condition is that
-from below, and as rapidly as possible, as .  the condition that
-from below can be satisfied only for values of greater than a limiting
-value whose value is approximately -0.199, and which is related to the
-point at which the laminar boundary layer breaks away from the
-boundary .
+Automatic Term Classifications and Retrieval
+
+Sparck-Jones, K.Needham, R. M.
+
+   Recent research at the Cambridge Language Research Unit has been concerned 
+with the application of the automatic classification techniques associated with 
+the "theory of clumps" to document description obtained from the Aslib-Cranfield
+project, and with the use of the resulting term classifications in retrieval..
+A substantial program engine has been developed which computes similarities 
+between pairs of terms on the basis of their occurrences and co-occurrences in 
+document descriptions, and finds classes of terms with strong similarity 
+connections by minimizing the cohesion between a potential clump and its 
+complement; and which retrieves using single terms and/or term classes 
+according to specification, and calculates recall and precision ratios for sets 
+of requests.. Serious tests with different similarity and clump definitions and 
+with different modes of using term classes are still in progress, so on 
+definite conclusions about the value of this kind of classification are 
+presented..

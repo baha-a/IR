@@ -1,22 +1,15 @@
-.I 770
-.T
-the flow of a compressible fluid past a sphere .
-.A
-caplan,c.
-.B
-naca tn.762, 1940.
-.W
-the flow of a compressible fluid past a sphere .
-  the flow of a compressible fluid past a sphere fixed
-in a uniform stream is calculated to the third order of
-approximation by means of the janzen-rayleigh method .
-the velocity and the pressure distributions over the
-surface of the sphere are computed and the terms involving
-the fourth power of the mach number, neglected in rayleigh's
-calculation, are shown to be of considerable importance as
-the local velocity of sound is approached on the sphere .
-the critical mach number, that is, the value of the mach
-number at which the maximum velocity of the fluid past the
-sphere is just equal to the local velocity of sound, is
-calculated for both the second and the third
-approximations and is found to be, respectively, and .
+Tests on Abstracts Journals
+
+Martyn, J.Slater, M.
+
+  The amount of scientific and technical information published 
+annually in the form of journal articles, conference papers, reports, theses,
+patents, and books now greatly exceeds, in every field of interest, the
+amount which may be scanned by a scientist wishing to keep himself completely
+up to date in his own subject.  For a scientist wishing to inform himself of
+new developments in neighbouring subject-fields the problem is
+even greater.  Consequently, either the scientist reconciles himself to the
+knowledge that he is not aware of all relevant information in his field or
+he places increasingly more reliance on such bibliographic tools as are
+available to guide him towards the relevant literature.
+  First among such tools is the abstracts journal.

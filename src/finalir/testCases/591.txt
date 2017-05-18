@@ -1,14 +1,13 @@
-.I 591
-.T
-an approximate equation for the /choke line/ of a compressor .
-.A
-csanady, g.t.
-.B
-j. aero. sc. p. 637, august 1960 .
-.W
-an approximate equation for the /choke line/ of a compressor .
-discussion of a similarity between the pressure-ratio versus
-inlet-mass-flow-coefficient characteristic of a stream or gas turbine and the
-analogous characteristic of an expansion /laval/ nozzle . this idea is
-extended to a compressor and a compression nozzle, and an approximate
-expression for the /choke line/ of the compressor is developed .
+The Cost-Effectiveness Analysis of Information Retrievaland Dissemination Systems
+
+Lancaster, F.W.
+
+A distinction is made between cost-effectiveness analysis and cost-benefits
+analysis as applied to information systems; and the relationship between costs,
+performance, and benefits is discussed.. Some factors influencing the
+cost-effectiveness of retrieval and dissemination systems are identified..
+Various aspects of system operation that are susceptible to cost-effectiveness
+analysis are discussed, including system coverage, indexing policies and
+procedures, system vocabulary, searching procedures, and mode of interaction
+between system and user.. Possible tradeoffs between input and output costs,
+and the effects of these tradeoffs on cost-effectiveness are presented.

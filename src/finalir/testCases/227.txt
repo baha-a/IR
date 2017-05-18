@@ -1,24 +1,16 @@
-.I 227
-.T
-a technique for improving the predictions of linearised
-theory on the drag of straight edge wings .
-.A
-randall,d.g.
-.B
-arc cp394, 1957.
-.W
-a technique for improving the predictions of linearised
-theory on the drag of straight edge wings .
-  the curve of drag against mach number for straight-edged wings,
-calculated by using the linearised theory of supersonic flow, displays
-discontinuities in slope at the various mach numbers for which the edges
-are sonic .  these features, which are not observed in practice, are due
-to the fact that linearised theory predicts an infinite pressure along
-a subsonic or sonic edge .  it is shown that if the linearised equation
-of supersonic flow is used to determine the flow over straight-edged
-wings, but the linearised boundary condition is replaced by the full
-placed by plausible values .  on this basis a simple method is derived
-for improving the linearised predictions of the drag of straight-edged
-wings which exhibits satisfactory agreement with experimental results .
-  while the technique is not directly applicable to ridge lines, an
-artifice renders them amenable to similar treatment .
+A Behavioral Theory of the Firm
+
+Cyert, R.M.
+
+  This book is about the business firm and the way it makes 
+economic decisions.  We propose to make detailed observations
+of the procedures by which firms make decisions and
+to use these observations as a basis for a theory of decision
+making within business organizations.  Our articles of faith
+are simple.  We believe that, in order to understand contemporary
+economic decision making, we need to supplement
+the study of market factors with an examination of
+the internal operation of the firm - to study the effects of
+organizational structure and conventional practice on the
+development of goals, the formation of expectations, and
+the execution of choices.

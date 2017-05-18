@@ -1,18 +1,16 @@
-.I 154
-.T
-velocity and temperature distributions in the turbulent
-wake behind a heated body of revolution .
-.A
-hall,a.a. and hislop,g.s.
-.B
-proc.cam.phil.s. 34, 1938, 345.
-.W
-velocity and temperature distributions in the turbulent
-wake behind a heated body of revolution .
-recently (see abstract 954 (1938)) goldstein made calculations based
-on theories of vorticity transfer, of the distributions of velocity and
-temperature in the turbulent wake behind a heated body of revolution,
-and the present authors now record an experimental determination of
-these distributions in a low-turbulence wind tunnel .  difficulty was
-experienced in obtaining a truly symmetrical wake and observations
-have been reduced to mean values, curves of which are given .
+The UDC in its International Aspects
+
+Lloyd, G.A.
+
+  Universal Decimal Classification - dying duck or live bird? - or some
+such title - was suggested to me, but this is highly debatable, and there will
+hardly be time for the duck-shooters to develop a concerted onslaught in the
+half-hour or so allowed us for discussion.  Besides, I hope to be able to
+convince you - if the BSI's fine efforts have not already done so - that the
+UDC is by no means the dying duck - certainly not the dead duck - that some of
+its severest critics seem to imagine.  Perhaps the bird has ceased to soar as
+it once did in the times of Otlet, La Fontaine, Bradford and Donker Duyvis, but
+that it is still viable in the turbulent air of current documentation may be
+gauged from a recent FID inquiry aimed at obtaining figures for the
+distribution of UDC editions and an approximate estimate of the number of
+users throughout the world.

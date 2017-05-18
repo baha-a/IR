@@ -1,39 +1,22 @@
-.I 381
-.T
-the axisymmetric boundary layer on a long thin cylinder .
-.A
-glauert,m.b. and lighthill,m.j.
-.B
-proc. roy. soc. a, 230, 1955, 188.
-.W
-the axisymmetric boundary layer on a long thin cylinder .
-the laminar boundary layer in axial flow about
-a long thin cylinder is investigated by two
-methods .  one (2) is a pohlhausen method,
-based on a velocity profile chosen to represent
-conditions near the surface as accurately as
-possible .  the other (3) is an asymptotic series
-solution, valid far enough downstream from
-the nose for the boundary-layer thickness to
-have become large compared with the cylinder
-radius .  another series solution (due to seban,
-bond and kelly) is known, valid near enough
-to the nose for the boundary layer to be thin
-compared with the cylinder radius .  the
-pohlhausen solution shows good agreement with
-both series, near and far from the nose, and
-enables an interpolation to be made (4) between
-them in the extensive range of distances from
-the nose for which neither is applicable .  the
-final recommended curves, for the variation
-along the cylinder of skin friction,
-boundary-layer displacement area and momentum defect
-area, are displayed in graphical and tabular
-form (figure 1 and table 1) and are expected to
-be correct to within about 2 .
-  the velocity near the wall is closely proportional
-to the logarithm of the distance from the
-axis,. this is the profile used in the pohlhausen
-method .  the analogy with the distribution
-of mean velocity in turbulent flow over a flat
-plate is discussed at the end of 2 .
+The Evaluation of Information Services and Products
+
+King, D.W.
+
+  The continuing need to put scientists in contact with the research of
+others, coupled with the rapidly expanding volume of published
+material during the past several decades, has placed new emphasis on
+the old arts of assembling, coding, and disseminating recorded
+knowledge.  In some instances, the emphasis has manifested itself in
+research on improvement of traditional library systems.  In other
+instances, it has resulted in the assembly of specialized collections and
+their intensive indexing for access in a variety of ways.  Still other
+systems have progressed from the passive role of responding to
+requests to the active role of supplying documents, or references to
+them, to researchers as the documents become available.  For lack of a
+more descriptive terminology, all of these activities are referred to in
+this book as "document transfer systems," implying that the product
+being retrieved (or disseminated) is a document rather than the
+information (if any) in it.  That is, intelligence systems or fact retrieval
+systems (if facts are indeed retrieved) are excluded from our concern.
+The document, of course, may be a book, a journal article, a drawing,
+an abstract, a piece of film, or a piece of magnetic tape.

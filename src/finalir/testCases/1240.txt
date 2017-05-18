@@ -1,32 +1,16 @@
-.I 1240
-.T
-nonsimilar solutions of the compressible laminar boundary
-layer equations with applications to the upstream-transpiration
-cooling problem .
-.A
-pallone,a.
-.B
-j. ae. scs. 1961, 449.
-.W
-nonsimilar solutions of the compressible laminar boundary
-layer equations with applications to the upstream-transpiration
-cooling problem .
-  a new method is presented for predicting the boundary-layer
-characteristics downstream of the porous region of an
-injection-cooled surface .  the method consists of a general scheme for
-obtaining nonsimilar solutions of the compressible-
-laminar-boundary-layer equations and is formulated along the following
-lines .  the viscous domain is divided into n curvilinear strips .
-the governing equations are then integrated along the
-coordinate normal to the body from the surface to the boundary of each
-strip .  as a result, one obtains a set of independent
-integro-differential relations .  the integration is carried out by
-expressing the integrands as polynomials, the coefficients of which
-are functions of the unknown values of the velocity and
-temperature on the strip boundaries as well as of the imposed
-boundary condition at the wall and at the outer edge .  after the
-integration is performed, a set of ordinary first-order differential
-equations is obtained .  the set of equations may be solved for
-given initial conditions by a numerical integration scheme such
-as the runge-kutta method .  several numerical examples of
-interest are presented .
+The Public Library in the United States
+
+Leigh, R.D.
+
+  The study as a whole is designed to stimulate public librarians
+to re-examine realistically their most useful function and greatest
+potential contribution at a time when methods of communication
+are undergoing rapid change.  As the traditional custodian of the
+printed word, the librarian has long had a distinctive and widely
+accepted role.  The Public Library Inquiry, especially in the concluding
+chapter of the present volume, brings to the center of attention problems
+and suggestions for change challenging a fresh appraisal.  It should
+arouse the interest of the public served by the libraries as well as aid
+the librarians themselves to an appreciation of an important American
+institution that must be kept ever alert to the needs of a democratic
+society.

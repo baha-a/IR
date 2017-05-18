@@ -1,22 +1,17 @@
-.I 120
-.T
-measurement of convective heat transfer by means of
-the reynolds analogy .
-.A
-granville,r.a. and boxall,g.
-.B
-brit.j.app.phys. 11, 1960, 471.
-.W
-measurement of convective heat transfer by means of
-the reynolds analogy .
-preston's method for measuring skin friction in pipes has
-been extended to include non-uniform flow, with and
-without pressure gradients, over flat surfaces .  by means of a
-modified form of the reynolds analogy, the local
-convective heat transfer coefficient can be related to the skin
-friction, and it is proposed that the method be used in
-aerodynamic models of furnaces and in heat transfer plant
-of simple geometry .  more investigations are required of
-the effects of fluid turbulence, surface roughness and
-surface curvature on convective heat transfer and skin
-friction .
+Design and Evaluation of Information Systems
+
+Katter, R.V.
+
+  In corresponding chapters of earlier volumes of this review 
+may be discerned a trend toward progressive broadening of
+content coverage.  The initial emphasis was on design and
+evaluation concepts and on techniques that were rather closely -  
+and narrowly - connected with information storage and retrieval
+systems.  It is becoming increasingly clear, however, that
+there are many activities and ideas outside of this context
+that have, or can have, a very important bearing on the work
+of systems analysts, designers, and evaluators working on
+library and documentation systems.  This chapter attempts
+to continue enlarging our perception of the range of reported
+activities that can help to improve the kinds of systems in which
+our readers are chiefly interested.

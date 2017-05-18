@@ -1,21 +1,17 @@
-.I 954
-.T
-analysis of stress at several junctions in pressurized
-shells .
-.A
-johns,r.h., morgan,w.c. and spera,d.a.
-.B
-aiaa jnl. 1, 1963, 455.
-.W
-analysis of stress at several junctions in pressurized
-shells .
-  theoretical and experimental results are
-presented for the discontinuity stresses arising at a
-change of wall thickness in a cylinder, a
-cylinder-hemisphere junction, and a cone-spherical torus
-junction in pressure vessels .  the effect of mismatch
-of nonconcurrence of the middle surfaces of two
-joined cylinders is considered .  in addition, a
-cylinder with a special closure which has considerably
-reduced stresses is described, and curves with
-theoretical and experimental stresses are presented .
+The Librarian:  From Occupation to Profession?
+
+Goode, W.J.
+
+  An industrial society has an open class stratification system; it
+offers some an opportunity to rise, but it offers no guarantee against
+downward social mobility.  Compared to other types of societies, this one
+demands a wider variety of higher level skills and thus generates much
+pressure against the forces that in all societies tend to keep the individual 
+in his original caste or class.  Much of the resulting mobility is based on a 
+radical change which has taken place in the occupational structure of modern
+industrial societies, one which neither Marx nor orthodox economists 
+anticipated, an expansion of the demand for professional and technical skills 
+of a high order.
+  Thus not only are individuals competing with one another in their efforts to
+rise in the class system, but occupations, too, are engaged in the same 
+competition and may move up or down in power, prestige, or income.

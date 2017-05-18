@@ -1,22 +1,11 @@
-.I 847
-.T
-experimental study of the vibrations of a circular
-cylindrical shell .
-.A
-gottenberg,w.g.
-.B
-j. acoust. soc. america, 32, 1960, 1002.
-.W
-experimental study of the vibrations of a circular
-cylindrical shell .
-  an apparatus is described which permits the mode
-shape of a vibrating circular cylindrical shell to be
-obtained quite easily .  these measurements are made
-without contacting the cylinder and can be converted
-to actual lineal values .  a representative number of
-results obtained with such a system are shown to
-illustrate the relationship between the nodal pattern and
-frequency in a cylinder as well as the effect of internal
-pressure on these frequencies .  finally, comparisons
-are made between these results and timoshenko theory
-and an appropriate shell theory .
+Library Instruction and the Development of the Individual
+
+Hills, P. J.
+
+   The purpose of a university education is defined here as the need to guide
+the student towards becoming a self-directing individual.. This paper examines
+this purpose in terms of student needs and the awareness of both academic and
+library staff.. Psychological principles of learning as applied to this purpose
+are considered together with the use of audio-visual methods.. The paper ends
+with a consideration of some present practical constraints and the possibilities
+for future action..

@@ -1,20 +1,13 @@
-.I 1377
-.T
-theoretical investigation of the flow field about blunt
-nosed bodies in supersonic flight .
-.A
-vaglio-laurin,r. and ferri,a.
-.B
-j. ae. scs. 25, 1958, 761.
-.W
-theoretical investigation of the flow field about blunt
-nosed bodies in supersonic flight .
-  a numerical method ofr obtaining the solution to the inverse
-problem of the flow behind a given detached shock to any desired
-accuracy is presented .  the cases of zero and small incidence
-are considered .  the combination of sets of such solutions
-satisfying prescribed boundary conditions (body shapes) is described .
-particular attention is devoted to the analysis of the sonic and
-subsonic region of the flow field .  convergence and stability of
-the stepwise integration from the shock in the elliptic region are
-discussed .  numerical examples are also included .
+On-Line Reference Retrieval in a Public Library
+
+Summit, R.K.Firschein, O.
+
+  There are many useful computer-readable data bases that are accessible
+only to major governmental units, universities, or industrial organizations.
+An experiment is described in which the public library is used as a "linking 
+agent" between the public and such data bases. Retrieval terminals have been 
+placed  in four public libraries in Northern California to provide access to 
+sixteen different data bases.  The first year of this two-year experiment is 
+described, and some of the technical, organizational, and economic aspects of 
+the study are reviewed. Rapid acceptance of the system during this initial 
+no-cost period has been achieved and  useful evaluative data have been obtained.

@@ -1,51 +1,23 @@
-.I 811
-.T
-an investigation of lifting effects on the intensity
-of sonic booms .
-.A
-morris,j.
-.B
-j. roy. aero. soc. 64, 1960, 610.
-.W
-an investigation of lifting effects on the intensity
-of sonic booms .
-  this paper is a brief summary of
-an investigation made to check the effect of lift
-on the shock noise of aircraft flying at supersonic
-speeds .  the method of hayes has been
-combined with the theory of whitham to
-predict the asymptotic shock strength of wings
-carrying lift and of combinations of bodies
-and lifting wings .  (a similar, but not quite as
-general, method was derived by walkden in
-ref. 6 .)  whitham's formula, including only the
-volume term, has been used extensively to predict
-the boom intensity of aeroplane type bodies
-and the agreement with experiment has, so far,
-been quite reasonable .  the test data obtained
-to date extends only up to about 40,000 ft.
-altitude and the calculations of this paper show
-that under those conditions the shock noise of
-the aircraft tested so far will, in most cases,
-be dominated by the volume term .  it is shown
-that at higher altitudes lifting effects will
-dominate for even the small fighter and they will
-dominate over most of the altitude range
-for large bomber and supersonic transport
-aircraft .  the boom intensity due to lift decreases
-with altitude as which compares to
-in the volume case (=pressure at
-altitude h) .  it is insensitive to mach number,
-wing loading, wing plan shape and
-lift distribution .  a simple rule for calculating
-the shock noise due to combined volume and
-lifting effects is proposed which is applicable to
-configurations with wings located towards the
-rear of the fuselage .  the rule states that the shock
-noise of an aircraft carrying lift is equal
-to the shock noise due to volume (neglecting lift)
-or the shock noise due to lift (neglecting
-volume), whichever is the greater .  a chart is
-presented from which rapid estimates can be
-made of the shock noise of lifting
-wing-body combinations .
+Measuring Readers' Failure at the Shelf
+
+Urquhart, John A.Schofield, J. L.
+
+   This paper is concerned with the availability of books known to be held by 
+the Library.. It outlines a simple survey method whereby readers record the 
+non-availability of books which they are looking for.. The survey has already
+been installed at four university libraries, but the results from only one 
+library are considered here.. These results show how a librarian can find out
+the degree of non-availability or failure in any particular area of the library,
+the causes of failure, and even the particular items which are in heavy demand
+and not available..
+   They also provide information on the degree of co-operation by the readers, 
+the number of titles failing once, twice, three times etc., the overlap of 
+demand for popular books by different groups of borrowers, the waiting time for 
+books that failed, the pattern of demand for particular books over a period of 
+time, the relationship between failure and recall, the correlation of failure 
+from one term to the next, and the relative use of books inside and outside the 
+library..
+   From the results it was possible to recommend certain changes in library 
+procedure which should have reduced failure, and to compare the titles of books
+failing in the Main Library with the holdings of a departmental library.. The 
+time spent on the survey and the total cost of the survey are also given..

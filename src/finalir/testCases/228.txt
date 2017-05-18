@@ -1,17 +1,21 @@
-.I 228
-.T
-navier-stokes solutions at large distances from a finite body .
-.A
-i-dee chang
-.B
-.W
-navier-stokes solutions at large distances from a finite body .
-this paper is concerned with a theoretical investigation of the flow
-field at large distances from an object moving through a viscous fluid .
-the discussion will be restricted to the case of two-dimensional
-stationary incompressible flow .  the object will be assumed to be of
-finite size .  the domain of the fluid is infinite and it is assumed
-that there are no other boundaries for the fluid except that of the
-given object .  the reynolds number will be assumed to have a fixed
-value., thus we shall not consider the limiting cases of the reynolds
-number tending to zero or to infinity .
+A Mathematical Theory of Communication
+
+Shannon, C.E.
+
+  The recent development of various methods of modulation such as PCM
+and PPM which exchange bandwidth for signal-to-noise ratio has
+intensified the interest in a general theory of communication.  A basis for
+such a theory is contained in the important papers of Nyquist and Hartley
+on this subject.  In the present paper we will extend the theory to include a
+number of new factors, in particular the effect of noise in the channel, and
+the savings possible due to the statistical structure of the original message
+and due to the nature of the final destination of the information.
+  The fundamental problem of communication is that of reproducing at
+one point either exactly or approximately a message selected at another
+point.  Frequently the messages have meaning; that is they refer to or are 
+correlated according to some system with certain physical or conceptual
+entities.  These semantic aspects of communication are irrelevant to the
+engineering problem.  The significant aspect is that the actual message is
+one selected from a set of possible messages.  The system must be designed
+to operate for each possible selection, not just the one which will actually
+be chosen since this is unknown at the time of design. 

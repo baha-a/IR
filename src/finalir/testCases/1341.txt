@@ -1,28 +1,17 @@
-.I 1341
-.T
-investigation of wing flutter at transonic speeds for six systematically
- varied wing plan forms .
-.A
-jones, g.w. and dubose, h.c.
-.B
-naca rml53g10a, 1953 .
-.W
-investigation of wing flutter at transonic speeds for six systematically
- varied wing plan forms .
-an investigation of the effects of systematic variations in wing plan
-form on the flutter speed at mach numbers between 0.73 and 1.43 has been
- conducted in the 26-inch langley transonic blowdown tunnel . the angle
-of sweepback was varied from 0degree to 60degree on wings of aspect
-ratio 4, and the aspect ratio was varied from 2 to 6 on wings with
-experimental flutter speed and the reference flutter speed calculated on
- the basis of incompressible two-dimensional flow . this ratio,
-designated as the flutter-speed ratio, is plotted as a function of mach
-number for the various wings . it is found that the flutter-speed ratio
-increased rapidly past sonic speed for sweep angles of 45degree and
-less, indicating a favorable effect of mach number . for sweepback of
-mach number range of the tests . reducing the aspect ratio had a
-favorable effect on the flutter-speed ratio which was of the order of 100
-percent higher for the aspect-ratio-2 wing than for the aspect-ratio-6
-wing . this percentage difference was nearly constant throughout the
-mach number range, indicating that the effect of mach number was about
-the same for all aspect ratios tested .
+Communication Nets in Science:Status and Citation Patterns in Animal Physiology
+
+Whitley, R.D.
+
+    By virtue of its peculiar links with the reward system in science,
+the communication system plays a central part in the maintenance 
+and growth of science.  It is the means by which the individual
+scientist relates to the social system:  he publishes his work to
+gain recognition, and reads the publications of others to maintain his
+knowledge.  The formal communication system also forms the basis for 
+the allocation of rewards: instrumental and consumatory.  Thus it is
+a means of exercising social control.
+    The informal communication system, although important, is the distaff
+side.  Its recognition is personal with more immediate and consumatory
+rewards.  Legitimation of objective or methods of work is rarely given by
+the social system through informal systems of communication, though it is
+growing in importance as an information dissemination system.

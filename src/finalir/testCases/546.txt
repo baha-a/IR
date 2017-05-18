@@ -1,32 +1,17 @@
-.I 546
-.T
-measurements of aerodynamic heating on a 15 cone of
-graded wall thickness at a mach number of 6. 8.
-.A
-woodley,j.g.
-.B
-rae tn.aero.2847, 1962.
-.W
-measurements of aerodynamic heating on a 15 cone of
-graded wall thickness at a mach number of 6. 8.
-  this note describes transient wall
-temperature measurements made on a
-in an airstream of mach number 6.8 .
-  the skin of the model was
-sufficiently thin to allow it to reach zero
-heat transfer conditions within a
-running time of one minute .
-  in order to reduce effects
-of longitudinal heat conduction during a
-run the electroformed-nickel skin
-of the model was made with graded
-thickness, and as a result fairly
-uniform temperature distributions along
-the surface were obtained at all
-times in both the laminar and turbulent
-regions .
-  values of heat transfer, calculated from the wall temperature-time
-histories using the thin-wall
-temperature are compared to theoretical
-estimates using the intermediate
-enthalpy method 10, 11 .
+Interactive Bibliographic Search:The User/Computer Interface
+
+Walker, D.E.
+
+    On the 14th and 15th of January, 1971, a Workshop on "The User
+Interface for Interactive Search of Bibliographic Data Bases" was held at
+Ricky's Hyatt House in Palo Alto, California.  The Workshop, sponsored by
+the Information Systems committee of the American Federation of
+Information Processing Societies, brought together a group of information
+scientists who have been directly involved with this subject area.  They were
+provided in advance with a "Challenge" paper and with a number of papers
+prepared in response to that challenge.  The Workshop sessions themselves
+were devoted exclusively to focussed discussions of the material and of the
+problems in and the prospects for more effective systems design of the user
+interface.  The content of these two days of deliberation prompted making
+the substance of the Workshop experience available to a larger audience.
+This book is intended to accomplish that goal.

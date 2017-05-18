@@ -1,24 +1,22 @@
-.I 446
-.T
-wake of a satellite traversing the ionosphere .
-.A
-rand,s.
-.B
-phys. fluids, 3, 1960.
-.W
-wake of a satellite traversing the ionosphere .
-  the particle treatment is applied to a study of the
-structure of the wake behind a charged body
-moving supersonically through a low-density plasma .
-for the case of a body whose dimensions are
-considerably smaller than a debye length, a solution is obtained
-which is very similar in structure to the
-solution obtained by using the linearized fluid dynamics equation .
-for the case of a disk whose radial
-dimensions are much larger than a debye length, two
-conical regions are found in the wake .  at the
-surface of each of these cones, over thicknesses of
-the order of a debye length, the ion and electron
-densities are increased over their ambient values .
-formulae for the electrohydrodynamic drag on a
-wire, and on a large disk are obtained .
+Computer Assisted Indexing
+
+Gray, W. A.
+
+   The paper describes a technique which enables an on line computer based
+information retrieval system to aid the indexers by selecting possible index 
+terms to be assigned to a new document entering the system..
+   The method analyses the index terms assigned to the references cited by the 
+new article.. This produces a list of index terms weighted according to their 
+expected correlation with the subject matter of the new article.. Thus, the 
+indexer is presented with the weighted list of proposed indexing terms as an 
+aid..
+   An evaluation is made of the results produced by the technique for a trial
+set of documents.. These documents have already been indexed for the MEDLARS 
+system.. The list of actual index terms for this trial set of documents is 
+compared with the set of index terms proposed by the technique for each 
+document.. The results of this comparison are encouraging, and they are 
+discussed in the paper..
+   The economic aspects of implementing the technique in a working information 
+retrieval system is considered.. This included the expected benefits, and an 
+estimate of the cost of using the technique as an aid in terms of computer 
+time and indexer time..

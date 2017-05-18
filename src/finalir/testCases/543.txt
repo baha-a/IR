@@ -1,19 +1,10 @@
-.I 543
-.T
-the stacking of compressor stage characteristics to
-give an overall compressor performance map .
-.A
-doyle,m.d.c.
-.B
-aero. aquart. 13, 1962.
-.W
-the stacking of compressor stage characteristics to
-give an overall compressor performance map .
-  a method of calculation is developed to compute the overall
-performance of a multi-stage axial compressor, from a knowledge of the
-individual stage characteristics, by a /stacking/ technique .
-compressor models are designed and their overall performance
-calculated .  these results are compared to show, qualitatively, the
-effect of alterations in design and stage performance on overall
-performance and to find how compressors should be designed
-for optimum performance .
+Impact of Scientific Serials on the Advancement of MedicalKnowledge:  An Objective Method of Analysis
+
+Sengupta, I.N.
+
+  A common tool for the selection of serial publications for a research
+library is the lists of most cited serials.  The possibilities of this method
+were first studied by Gross and Gross who in 1927 applied a method of
+sample statistical investigation to the grading of scientific serials
+according to their relative importance based on citation counting from source
+journals.

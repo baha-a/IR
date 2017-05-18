@@ -1,26 +1,24 @@
-.I 158
-.T
-temperature charts for induction and constant temperature
-heating .
-.A
-heisler,m.p.
-.B
-a.s.m.e.trans. 14, 1947, 227.
-.W
-temperature charts for induction and constant temperature
-heating .
-  charts are presented for determining complete
-temperature historics in spheres, cylinders, and plates .  it
-is shown that for values of the dimensionless time ratio
-x greater than 0.2 the heating equations reduce to such
-a simple form that for each shape two charts which give
-temperatures at any position within the heated or cooled
-bodies can be plotted .  it is also shown that the usual
-simple heating and cooling charts can also be used for the
-determination of temperatures and heating times in
-bodies heated by a constant rate of heat generation at
-the surface (induction heating) .  finally, a two
-dimensional chart is given for finding heating times in short
-cylinders, thereby eliminating the trial-and-error
-solution that is necessary when heating times are found from
-the present one-dimensional charts .
+Standard Costing for Information Systems:Background to a Current Study
+
+Robertson, S.E.Reynolds, R.Wilkin, A.P.
+
+  For some time past, interest has been developing within the Aslib Research
+Department in the problems of establishing standard costs for information
+systems.  A literature search recently conducted by the Department (R.
+Reynolds) has revealed a scarcity of usable information on this subject:
+such data as is available is difficult to evaluate comparatively because
+of the differing definitions of the operations costed and of the terms used to
+describe them.  It would seem, therefore, that a first step towards developing
+a costing method of widespread application would be the establishment of
+standard conventions for the analysis of information systems.
+  One might postulate two possible ways of arriving at comparative costs for
+these systems, namely:
+(a) General survey method:  The overall costs of a large number of information
+    systems are broken down into a small number of categories, and analysed
+    for correlation (see, for example, C.J. Wessel et al).
+(b) In-depth study:  A small number of systems are studied in detail in an
+    attempt to establish the true sources of the costs and factors affecting
+    them.
+  In a current project, we are attempting to apply method (b) to the production
+of current-awareness bulletins.  An outline of some of the preliminary work in
+this project follows.

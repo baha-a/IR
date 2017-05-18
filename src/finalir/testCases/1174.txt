@@ -1,17 +1,13 @@
-.I 1174
-.T
-general theory of buckling .
-.A
-langhaar,h.l.
-.B
-app. mech. rev. 11, 1958.
-.W
-general theory of buckling .
-various aspects of the theory of buckling are expounded
-in many treatises (1 to 15) .  the books of bleich (2)
-and salmon (3) contain large bibliographies .  goodier
-developments in buckling theory .  numerous references are
-appended to hoff's article .  nearly all publications on
-buckling of shells, available in the u.s.a. (to 1956), are listed in
-the bibliographies on shells by nash (18) .  the section
-ready guide to recent literature .
+A Standard Format of Progress Reports on Scientific Technical Information
+
+Kruglov, S. L.
+
+   A standard format of progress reports is suggested, based on the experience
+of research institutes and drawing offices.. The schedule of reports and each 
+of their sections proceed from the need for maximum "noise-resistance" of
+reports as used by various categories of users and giving an exhaustive 
+description of final and intermediate R&D results.. The author shows that the
+difference between the notion of "information value" and of "document value"
+dictates a specific approach to organization of the flows of documentary
+information, duplication of data in documents of various kind, and to 
+development of the logical format and literary style of scientific documents..

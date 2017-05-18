@@ -1,35 +1,20 @@
-.I 1212
-.T
-effect of uniformly distributed roughness on turbulent
-skin-friction drag at supersonic speeds .
-.A
-goddard,f.e.
-.B
-j. ae. scs. 1959, 1.
-.W
-effect of uniformly distributed roughness on turbulent
-skin-friction drag at supersonic speeds .
-  an experimental program was carried out in the 18-in. by
-20-in. supersonic wind tunnel of the jet propulsion laboratory to
-determine the effect of uniformly distributed sand-grain
-roughness on the skin-friction drag of a body of revolution for the case
-of a turbulent boundary layer .  the mach number range
-covered was 1.98 to 4.54, and the reynolds number varied from
-about 3 x 10 to 8 x 10 .  some data were also obtained at a
-mach number of 0.70 .
-  at speeds up to a mach number of 5 and for roughness sizes
-such that the quadratic resistance law holds, the compressibility
-effect is indirect, and the skin-friction drag is a function of only
-the roughness reynolds number, exactly as in the
-incompressible case .  it is shown that the entire compressibility effect
-is a reduction of the fluid density at the surface as the mach
-number increases .  the critical roughness, below which the
-surface is hydraulically smooth, is,. this is equal
-to the thickness of the laminar sublayer for a smooth surface for
-both compressible and incompressible flow .  over the range of
-roughness sizes considered here, there appears to be no wave drag
-associated with the drag due to roughness .  the shift in the
-turbulent veocity profile for a rough surface at supersonic
-speeds is a function of only the roughness reynolds number
-and quantitatively follows exactly the same law as that
-for the incompressible case .
+Planning the College and University Library Building:A book for campus planners and architects
+
+Ellsworth, R.E.
+
+  This book is intended to help campus planners, architects,
+and librarians in the early stages of the planning process.
+  Three aspects of the problem deserve more careful treatment
+than they have received.  These are: the effects of automation
+and electronics on planning; the overall organization of service
+patterns; and, the relevance of other audiovisual learning media.
+  This is a book about the planning process, not the details
+of all parts of a building.  It will not tell you which floor
+covering is best, which light fixtures to use or which kind of
+library shelving to buy.  These matters are treated in detail
+by Metcalf.  It will, however, try to tell you how to go
+about solving these and the many other problems planners face.
+  Wherever it seems relevant and proper, I have included 
+sketches to illustrate the point under discussion.  For the
+simplicity of these illustrations, I beg the indulgence of the
+reader.

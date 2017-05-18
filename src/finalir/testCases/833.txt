@@ -1,18 +1,10 @@
-.I 833
-.T
-a simple method of matric structural analysis, part
-iv, non-linear problems .
-.A
-klein,b.
-.B
-j. ae. scs. 26, 1959.
-.W
-a simple method of matric structural analysis, part
-iv, non-linear problems .
-  the method presented in the previous parts is employed to
-solve various kinds of nonlinear problems, such as problems
-concerning large deflections or buckling, or thermal creep, or
-inelastic stress redistribution involving thermal gradients, or
-design .  the procedure used in each case is one of direct
-iteration--i. e., after one assumes a starting point all subsequent cycles are
-self-generating .  simple numerical examples are worked out .
+A New Linear Notation System Based on Combinations of Carbon and Hydrogen
+
+Skolnic, Herman
+
+   A new linear notation system is described which was designed to have a 
+one-to-one correspondence with the chemical structures represented by the 
+notations.. Each notation is unique and unambiguous, yet simple and compatible 
+with computer input and output characters.. The symbols used in the notation 
+system denote carbon in terms of bounds and attached hydrogen(s).. The notation 
+system is illustrated with acyclic, carbocyclic, and heterocyclic examples..

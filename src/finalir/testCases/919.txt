@@ -1,24 +1,34 @@
-.I 919
-.T
-theoretical studies of unsteady transonic flow . part iii . the
-oscillating low aspect ratio rectangular wing .
-.A
-landahl, m.t.
-.B
-aero. res. inst. of sweden /f.f.a./ rep. 79, 1958 .
-.W
-theoretical studies of unsteady transonic flow . part iii . the
-oscillating low aspect ratio rectangular wing .
-by expanding the velocity potential in an asymptotic series, the
-aerodynamic forces on an oscillating low aspect ratio rectangular wing are
-calculated . the approximate theory is valid for small values of ko /o
-semi-span-to-chord ratio,. k reduced frequency/ and complements an
-earlier low-aspect-ratio-wing theory by the author valid only for
-pointed wings like delta wings . the present report gives formulas for
-the calculation of generalized forces for any smooth, flexible or rigid
-mode of oscillation with spanwise symmetry .
-comparisons with the slender-wing theory show that, except for wings of
-very low aspect ratio, unsteady-flow effects are appreciable even at
-fairly low reduced frequencies . near the upper limit in ko for the
-applicability of the present theory good agreement is obtained with a
-recent theory for high aspect ratios .
+ISBD(S) and Title Main Entry for Serials
+
+Spalding, C. S.
+
+  The International Meeting of Cataloguing Experts,
+convened in Copenhagen in 1969 under the auspices
+of the IFLA Committee on Uniform Cataloguing
+Rules (later Committee on Cataloguing), set in
+motion the first major development in continuation
+of the success achieved by the Paris International
+Conference on Cataloguing Principles (1961) in the
+matter of the principles and general rules for entry
+and heading.  Taking under consideration the study of
+"Bibliographical Data in National Bibliography Entries"
+prepared by Michael Gorman, the experts of
+the Copenhagen meeting set up a working group, with
+Jack Wells as chairman, charged with drafting an
+international standard bibliographic description for
+monographic publications.  There was common
+agreement that the objective was the development of
+specifications for the necessary data elements, their
+order of presentation, and the punctuation to delimit
+them.  These specifications should be designed to
+satisfy the needs of national bibliographies, and,
+with whatever judicious trimming might be desirable,
+the needs of the libraries of the entire world.  It was
+further agreed that these bibliographic descriptions
+were to be made quite independently of the heading
+under which they might appear in listings.  The working
+group succeeded in its task and brought forth its
+provisional ISBD(M) in 1971; the first standard
+edition was published earlier this year.  The success of
+this standard is manifested by the continuing increase
+in the number of countries that have adopted it.

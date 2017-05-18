@@ -1,26 +1,19 @@
-.I 121
-.T
-a theory for base pressures in transonic and supersonic
-flow .
-.A
-korst,h.h.
-.B
-j.app.mech. 23, 1956, 593.
-.W
-a theory for base pressures in transonic and supersonic
-flow .
-  a physical flow model is devised based on the concepts of
-interaction between the dissipative shear flow and the
-adjacent free stream and the conservation of mass in the
-wake .  four flow components are integrated in the model,.
-namely, the flow approaching the trailing edge, the
-expansion around the trailing edge, the mixing within the
-free-jet boundary, and the recompression at the end of the
-wake .  a unique and stable solution results for the base
-pressure .  theoretical results obtained for thin
-approaching boundary layer do not require empirical information
-and are, therefore, best suited to evaluate the merits of the
-theory .  here emphasized is the case of isoenergetic
-constant-pressure mixing in the turbulent free-jet boundary
-and agreement is found between theory and experimental
-data .
+Document Dissemination
+
+Landau, H.B.
+
+  This chapter is directed to those whose vocation (or avocation)
+is information.  While we may call ourselves librarians, information
+scientists or technologists, abstractors and indexers, documentalists,
+IS&R specialists, literature searchers, and so forth, we all have one
+thing in common: We are either directly or indirectly involved in the
+dissemination of information.  As disseminators, we are interested
+in far more than the techniques for transmission of information from
+one point to another.  Despite McLuhan's (93) statement that "the
+medium is the message," we must concern ourselves with not only the
+means of document dissemination, but also the content and value of
+the documents we disseminate.  This idea is prevalent throughout
+most of the papers reviewed in this chapter.  A disseminator should
+think of himself as a selective switching center, inputting data,
+evaluating them, selecting worthy items, and directing and controlling
+their transmission to a target: the reader.

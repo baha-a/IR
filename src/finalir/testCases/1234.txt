@@ -1,19 +1,15 @@
-.I 1234
-.T
-direct calculation of pressure distribution on blunt
-hypersonic nose shapes with sharp corners .
-.A
-holt,m.
-.B
-j. ae. scs. 1961, 872.
-.W
-direct calculation of pressure distribution on blunt
-hypersonic nose shapes with sharp corners .
-  the method of belotserkovskii for calculating hypersonic
-flow fields past a circular cylinder is extended to deal with
-axially-symmetric flow past sharp-cornered nose shapes, in particular,
-spherical segments and flat-headed cylinders .  results on
-spheres are also included .  in the present paper belotserkovskii's
-first approximation is considered, and comparison of calculated
-pressure distribution and shock shape with experimental results
-shows very good agreement .
+Multidimensional Scaling by Optimizing Goodness of Fit to a NonmetricHypothesis
+
+Kruskal, J. B.
+
+   Multidimensional scaling is the problem of representing n objects 
+geometrically by n points, so that the interpoint distances correspond in some
+sense to experimental dissimilarities between objects.. In just what sense 
+distances and dissimilarities should correspond has been left rather vague in
+most approaches, thus leaving these approaches logically incomplete.. Our
+fundamental hypothesis is that dissimilarities and distances are monotonically
+related.. We define a quantitative, intuitively satisfying measure of goodness
+of fit to this hypothesis.. Our technique of multidimensional scaling is to 
+compute that configuration of points which optimizes the goodness of fit..
+A practical computer program for doing the calculations is described in a
+companion paper..

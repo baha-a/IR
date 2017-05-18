@@ -1,19 +1,16 @@
-.I 224
-.T
-quasi-cylindrical surfaces with prescribed loadings
-in the linearised theory of supersonic flow .
-.A
-jones,j.g.
-.B
-rae tn.aero.2769.
-.W
-quasi-cylindrical surfaces with prescribed loadings
-in the linearised theory of supersonic flow .
-  a formula for the velocity field in terms of a given surface
-distribution of vorticity is applied to points
-lying on the surface .  an equation
-giving the shape of a quasi
-circular-cylindrical surface in terms of a
-prescribed loading is derived .  as an
-example a half ring wing with prescribed
-loading is discussed .
+The Implementation, Evaluation, and Refinement of a Manual SDI Service 
+
+Yunis, Susan S.
+
+   The Missouri Institute of Psychiatry Library has implemented an inexpensive,
+manual SDI (Selective Dissemination of Information) service based upon the 
+monthly issues of Index Medicus.. The implementation and refinement of the 
+system are documented, and the very favorable response to the system is 
+examined.. The SDI service is compared to Current Contents, with the finding
+that 60 percent of the SDI participants prefer it to Current Contents.. For
+this select portion of researchers the Index Medicus SDI is the more suitable
+mode of current awareness.. For a significant portion of the MIP staff, 
+however, the score of Index Medicus is too restricted to suitable replace 
+Current Contents.. All SDI users find it highly acceptable curent awareness 
+service for use in addition to Current Contents and have indicated the desire 
+to continue participation in the service..

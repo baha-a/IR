@@ -1,23 +1,15 @@
-.I 629
-.T
-second-order effects in laminar boundary layers .
-.A
-maslen,s.h.
-.B
-a.i.a.a. j. 1963, 33.
-.W
-second-order effects in laminar boundary layers .
-  second-order boundary layer disturbances are
-due to the displacement of the main flow by
-the boundary layer, surface curvature, freestream
-vorticity, and slip .  a procedure for finding
-these is given for compressible flow of a perfect gas
-having a classically similar boundary layer .
-solutions are given for the flat plate and circular
-cylinder and for the hypersonic axisymmetric
-stagnation point .  for the latter flow, the dominant
-effect is that of vorticity, which increases
-both shear and heat flux .  for the plate or cylinder,
-the same conclusion tends to hold for high
-speed flow .  the vorticity effect is governed by the
-entire outer flow--not just the wall vorticity .
+Promotion of Information Services: An Evaluation of Alternative Approaches
+
+Stern, Louis W.Craig, C. SamuelLa Greca, Anthony J.Lazorick, Gerald J.
+
+   This article deals with the promotion of information services, specifically
+the formation and subsequent evaluation of different promotional programs
+for selective dissemination of information (SDI) services provided by the
+Mechanized Information Center (MIC) at the Ohio State University.. Three
+programs -- opinion leadership, "blitz," and telephone solicitation -- 
+were developed.. Data were collected to show, for each of the programs:  
+(1) the level of market penetration achieved; (2) the level of user
+satisfaction generated from the service; (3) the effect in terms of
+influence, of the various media employed; and (4) cost effectiveness..
+Data analysis focused on a determination of the most effective methods
+to promote SDI services..

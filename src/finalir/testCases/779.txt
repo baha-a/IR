@@ -1,29 +1,16 @@
-.I 779
-.T
-calculation and compilation of the unsteady lift functions for a rigid
-wing subjected to sinusoidal gusts and to sinusoidal sinking
-oscillations .
-.A
-drischler, j.a.
-.B
-naca tn 3748, october 1956
-.W
-calculation and compilation of the unsteady lift functions for a rigid
-wing subjected to sinusoidal gusts and to sinusoidal sinking
-oscillations .
-the total lift responses of wings to sinusoidal gusts and to sinusoidal
-vertical oscillations are calculated from the response to gust
-penetration and to a sudden change in sinking velocity through use of the
-well-established reciprocal relations for unsteady flow . the cases
-considered are two-dimensional wings in incompressible, subsonic
-compressible, sonic, and supersonic flow,. elliptical and rectangular wings
- in incompressible flow,. wide rectangular and delta wings in supersonic
- flow,. and delta wings of vanishingly low aspect ratio in
-incompressible and compressible flow . for most of the cases considered,
-closed-form expressions are given and the final results are presented in
- the form of plots of the square of the modulus of the lift coefficient
-for wings in a sinusoidally oscillating gust and in the form of the real
- and imaginary parts of the lift component for wings undergoing
-sinusoidal sinking oscillations . a summary table is presented as a guide to
- the scope and results of this paper,. this table contains the figure
-and equation numbers for the types of flow and plan forms considered .
+Evaluating the Economic Efficiency of a Document Retrieval System
+
+Lancaster, F. W.Climenson, W. D.
+
+   A retrieval system may be evaluated strictly in terms of user satisfaction
+(operating efficiency), or it may be evaluated from the point of view of
+efficient means of satisfying user requirements (economic efficiency).. When
+we consider the relationship between operating efficiency and economic 
+efficiency, we are faced with a whole series of possible trade-offs.. There
+may be several alternative paths we can follow in order to serve user needs..
+The problem is to determine the most economical path to follow.. Pay-off
+factors, break-even points, and diminishing returns must be taken into 
+consideration.. This paper considers some of these factors in relation to various
+parts of the complete retrieval system: the acquisition subsystem, the indexing 
+subsystem, the index language, the searching subsystem, and the equipment 
+subsystem..

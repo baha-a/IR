@@ -1,21 +1,16 @@
-.I 233
-.T
-the theoretical wave drag of some bodies of revolution .
-.A
-fraenkel,l.e.
-.B
-rae r.aero.2420.
-.W
-the theoretical wave drag of some bodies of revolution .
-  this report investigates the wave drag of bodies
-of revolution with pointed or open-nose forebodies
-and pointed or truncated afterbodies .  the 'quasi-cylinder'
-and 'slender-body' theories are reviewed, a reversibility
-theorem is established, and the concept of the interference
-effect of a forebody on an afterbody is introduced .
-  the theories are applied to bodies whose profiles are either
-straight or parabolic arcs, formulae and curves being
-given for forebody and afterbody drag, and for the interference
-drag .  the results of the two theories are compared
-and are seen to agree well in the region of geometries where both
-theories are applicable .
+On a Class of Skew Distribution Functions
+
+Simon, H.A.
+
+  It is the purpose of this paper to analyse a class of distribution
+functions that appears in a wide range of empirical data - particularly
+data describing sociological, biological and economic phenomena.  Its
+appearance is so frequent, and the phenomena in which it appears so diverse,
+that one is led to the conjecture that if these phenomena have any property
+in common it can only be a similarity in the structure of the underlying 
+probability mechanisms.  The empirical distributions to which we shall refer
+specifically are: (A) distributions of words in prose samples by their
+frequency of occurrence, (B) distributions of scientists by number of papers
+published, (C) distributions of cities by population, (D) distributions of
+incomes by size, and (E) distributions of biological generally by number of
+species.

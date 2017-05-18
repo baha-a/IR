@@ -1,24 +1,15 @@
-.I 865
-.T
-a study of the thermal fatigue behaviour of metals .
- the effect of test conditions on nickel-base high
-temperature alloys .
-.A
-glenny,e. and taylor,t.a.
-.B
-j.inst.metals, 88, 1960, 449.
-.W
-a study of the thermal fatigue behaviour of metals .
- the effect of test conditions on nickel-base high
-temperature alloys .
-an attempt has been made to identify the significant factors governing
-the thermal-fatigue behaviour of nickel-base high-temperature alloys,
-mainly by using a laboratory technique with hot and cold fluidized beds
-as the heating and cooling media .  a succession of heating shocks is
-generally more damaging than a succession of cooling shocks between the
-same temperature limits .  the duration of the heating shock and the
-upper temperature of the cycle are dominant factors .  the
-thermal-fatigue cracks are initiated at the surface and are intercrystalline in
-origin and propagation .  surface oxidation, which is intergranular in
-nature for nickel-base alloys, has a significant effect on
-thermal-fatigue life .
+Scope: A Cost Analysis of an Automated Serials Record System
+
+Koenig, Michael E.Finlay, Alexander C.Cushman, Joann G.Detmer, James M.
+
+   A computerized serials record and control system developed in 1968/69 for the
+Technical Information Department of Pfizer Inc. is described and subjected to a 
+cost analysis.. This cost analysis is conducted in the context of an investment
+decision, using the concept of net present value, a method not previously used 
+in library literature.. The cost analysis reveals a positive net present value
+and a system life break-even requirement of seven years at a 10% cost of 
+capital.. This demonstrates that such an automated system can be economically
+justifiable in a library of relatively modest size (approx. 1,100 serial and
+periodical titles).. It may be that the break-even point in terms of collection
+size required for successful automation of serial records is smaller than has 
+been assumed to date..

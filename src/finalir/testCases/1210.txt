@@ -1,20 +1,13 @@
-.I 1210
-.T
-on slender airfoil theory for nonequilibrium flow .
-.A
-ryhming,i.l.
-.B
-j.ae.scs. 1962, 1076.
-.W
-on slender airfoil theory for nonequilibrium flow .
-  an exact linear theory for nonequilibrium flow past a thin
-airfoil is given .  green's function technique is used to solve the
-boundary value problem for the governing third order equation .
-upon satisfying the boundary condition on the airfoil surface an
-integral equation is obtained which has an exact solution .  the
-final expression for the velocity potential, given as an integral over
-the source strength times the green's function, shows that the
-solution is dependent not only on the slope variation of the airfoil
-but also on its curvature variation .  this turns out to be the case
-for all free-stream mach numbers .
-  as an example, the supersonic flow past a wedge is considered .
+Is There a Pecking Order in Physics Journals?Analysis of close to a million citations putsPhysical Review at the top of the list, but the orderchanges when we adjust for "impact" and "immediacy."
+
+Inhaber, H.
+
+  When physicists wish to communicate their work by means of publication,
+several considerations are weighed before choosing the appropriate journal.
+There is the matter of audience; of the probable delay between acceptance
+and publication; of article format (letter, review, standard research report).
+If the article is potentially controversial, the author may estimate its 
+chances of being accepted by different journals. Considerations of national 
+pride may sway the choice:  An author may submit a work to a journal in his 
+own country rather than to one that has a greater circulation and impact but 
+is published in a foreign country.

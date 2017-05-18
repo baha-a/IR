@@ -1,31 +1,23 @@
-.I 1252
-.T
-on the approach to chemical and vibrational equilibrium
-behind a strong normal shock wave .
-.A
-dorrance,w.h.
-.B
-j. ae. scs. 161, 43.
-.W
-on the approach to chemical and vibrational equilibrium
-behind a strong normal shock wave .
-  the concurrent approach to chemical and vibrational
-equilibrium of a pure diatomic gas passing through a strong normal
-shock wave is investigated .  it is demonstrated that the
-equilibrium degree of dissociation behind the shock front, and hence the
-density, for the case where the vibrational degrees of freedom are
-frozen out can exceed the degree of dissociation, and hence the
-density, for the case where all degrees of freedom are in
-equilibrium .  thus the necessary condition for a maximum of the
-density between the shock front and the position of full
-equilibrium flow downstream of the shock front is established .  the
-sufficient condition that such a maximum be observable is shown
-to be that the approach to equilibrium of the vibrational degrees
-of freedom (or any other internal degrees of freedom) must lag
-the approach to dissociation equilibrium by a significant amount,.
-that is, there must be at least an order of magnitude difference in
-the respective relaxation times before such a maximum might be
-observed .  an example calculation for a mach 13 strong shock
-wave in oxygen illustrates the appearance of such a maximum of
-the density and its dependency upon the relative values of the
-vibration and dissociation relaxation times .
+The Recording of Library of Congress Bibliographical Data in Machine Form
+
+Buckland, L. F.
+
+   This report describes the results of a study of a practical method of 
+preparing Library of Congress card catalog data in machine form for (1)
+the automatic typesetting of cards and book catalogs, and (2) distribution to 
+other libraries throughout the country for all foreseeable bibliographic and
+typographic applications of such data, including preparation of local 
+catalogs..
+   The first step of the method proposed is to type the card data on a
+perforated tape typewriter in a way which identifies all of the items on the
+card.. After the data is edited and corrected, it is processed by a computer
+to form (1) catalog card typesetting tapes, (2) the National Union Catalog,
+(3) Library of Congress Books, Subjects Catalog, magnetic tape catalog files,
+and a master magnetic or perforated paper tape record copy for distribution..
+The procedure also allows the recording of data which does not now appear on
+Library of Congress cards, should studies find that the value of the data
+exceeds the cost of recording it..
+   A demonstration was performed in which cards were typed to produce 
+perforated tape records.. These record tapes were automatically converted to a
+variety of output forms ranging from phototypeset catalog cards and book
+catalog entries to tape typewriter and line printer produced catalog cards..

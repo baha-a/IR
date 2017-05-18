@@ -1,25 +1,19 @@
-.I 694
-.T
-pressure distribution induced on a flat plate by a supersonic and sonic
-jet exhaust at a free-stream mach number of 1.80 .
-.A
-leiss, a. and bressette, w.e.
-.B
-naca rm l56106, 1957 .
-.W
-pressure distribution induced on a flat plate by a supersonic and sonic
-jet exhaust at a free-stream mach number of 1.80 .
-as a continuation of previous research at mach numbers of 2.02 and 1.39,
- an experimental investigation was made of the pressures induced on a
-flat plate by a propulsive jet exhausting from sonic and supersonic
-nozzles at a free-stream mach number of 1.80 . measurements of the
-pressure distribution on a flat-plate wing were made at zero angle of
-attack for four different locations of the jet exhaust nozzle beneath
-the wing . both a choked convergent nozzle and a convergent-divergent
-nozzle on the nacelle were used . the nozzles were operated at
-nacelle-exit total-pressure ratios from 2 to 16 and the reynolds number per foot
- was approximately 13 x 10 .
-two distinct shock waves impinged on the wing surface and greatly
-altered the pressure distribution at all nozzle positions . positive
-incremental normal force resulted on the wing at all positions .
-comparisons are presented for two free-stream mach numbers .
+Computer Generation of Wiswesser Line Notation
+
+Farrell, C.D.Chauvenet, A.R.Koniver, D.A.
+
+  Computer programs developed at the National Institutes of Health (NIH) produce
+uncontracted though otherwise canonical Wiswesser Line Notation (WLN) for a  
+fairly broad class of compounds.  An associated front end allows a chemist to
+communicate with the programs by drawing structures on a Rand Tablet.  The
+WLN generation programs accept connection table input, either from a previously
+existing file or generated from the Rand Tablet drawing.  The programs recognize
+situations which they cannot handle - the output is thus either correct WLN
+or a message by which the programs acknowledge their limitations.  In general,
+correct WLN will be produced for any compound containing not more than one
+nonbenzene ring.  Work is under way to extend this to polycyclic fused ring 
+systems.  The philosophy and concepts behind these programs are explained along
+with the more interesting algorithmic results.  The role of the WLN-generation
+programs in a developing NIH chemical information system is briefly discussed.
+The WLN programs are written in Fortran IV and have been developed on a 
+PDP-10 computer.

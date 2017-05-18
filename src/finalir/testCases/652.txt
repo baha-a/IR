@@ -1,24 +1,14 @@
-.I 652
-.T
-pressure distribution on two dimensional wings near
-the ground .
-.A
-bagley,j.a.
-.B
-rae r. aero.2625, 1960.
-.W
-pressure distribution on two dimensional wings near
-the ground .
-  a simple method of calculating
-the pressure distribution in
-incompressible flow on two-dimensional aerofoils
-of arbitrary section at moderate
-distances from the ground is developed .
-comparisons with an /exact/ potential
-flow solution, and with measurements
-on a 10 thick aerofoil of rae.101
-section, provide a satisfactory
-verification of the adequacy of the method ,.
-but it is shown that it is necessary
-to take account of the boundary layer
-on the aerofoil in the calculations .
+RELEVANCE: A Review of and a Framework for the Thinking on the Notion in Information Science
+
+Saracevic, Tefko
+
+   Information science emerged as the third subject, along with logic and 
+philosophy, to deal with relevance - an elusive, human notion.. The concern 
+with relevance, as a key notion in information science, is traced to the 
+problems of scientific communication.. Relevance is considered as a measure of 
+the effectiveness of a contact between a source and a destination in a 
+communication process.. The different views of relevance that emerged are
+interpreted and related within a framework of communication of knowledge..
+Different views arose because relevance was considered at a number of different 
+points in the process of knowledge communication.. It is suggested that there 
+exists an interlocking, interplaying cycle of various systems of relevances..

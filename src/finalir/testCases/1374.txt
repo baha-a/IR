@@ -1,29 +1,12 @@
-.I 1374
-.T
-theoretical analysis of turbulent mixing of reactive
-gases with application to supersonic combustion of
-hydrogen .
-.A
-libby,p.a.
-.B
-ars jnl. 32, 1962, 388.
-.W
-theoretical analysis of turbulent mixing of reactive
-gases with application to supersonic combustion of
-hydrogen .
-  the turbulent mixing of an axisymmetric jet of a
-reactive gas is considered .  by assuming a
-convenient model for the compressible eddy viscosity,
-the momentum equation is reduced to a form
-amenable to approximate solution .  the resulting
-velocity distribution in both incompressible and
-compressible flows is in reasonable agreement with
-experiment .  the usual assumptions with
-respect to chemical behavior, namely either frozen or
-equilibrium flow, and to unity lewis numbers
-and prandtl number are employed .  the theoretical
-results for chemical equilibrium are shown
-to be in reasonable agreement with experimental data
-from low speed hydrogen flames .  a
-numerical example of interest in connection with a hypersonic,
-air breathing vehicle is carried out in detail .
+Cost Comparison of Manual and On-Line ComputerizedLiterature Searching
+
+Elman, S.A.
+
+  Cost and searching time comparisons are made between manual and on-line
+literature searches.  The formula     Ctotal = (T X Csum) + P
+is presented which captures all on-line cost factors.  A minimum cost of $1.00
+per minute of on-line searching is derived.  Average searching time for
+manual searching is 22 hours at a total cost of $250; for on-line it is 45 
+minutes at total cost of $47.00.  It is pointed out that most reported low-on 
+line search costs fail to account for all cost factors.
+Figures are those prevailing at the time of writing.

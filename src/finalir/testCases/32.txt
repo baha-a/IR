@@ -1,28 +1,15 @@
-.I 32
-.T
-the dynamic motion of a missile descending through
-the atmosphere .
-.A
-friedrich,h.r. and dore,f.j.
-.B
-j. ae. scs. 22, 1955, 628.
-.W
-the dynamic motion of a missile descending through
-the atmosphere .
-  a method is presented for computing rapidly, yet accurately,
-the dynamic motion of a ballistic-type missile descending through
-the atmosphere .  the equations of motion are separated into a
-set of /static/ trajectory equations (zero angle of attack) and a
-set of /rotational/ equations describing the oscillatory motion
-of the missile about its center of gravity .  a transformation
-allows the rotational equations to be written in a manner
-analogous to the equation for an undamped oscillating spring mass
-system with the mass equal to unity and a time variable spring
-constant .  for given initial conditions this equation can be
-solved to obtain the envelope of maximum angle of attack .  an
-additional transformation allows the calculation of the complete
-oscillatory motion at any time during the trajectory as a function
-of the maximum angle of attack at that time .
-  this solution shows that the maximum angle of attack of a
-missile descending through the atmosphere at relatively constant
-speed is reduced even when the aerodynamic damping is neglected .
+Information Gathering Patterns and CreativityA study of research chemists in an industrial research laboratory
+
+Maizell, Robert E.
+
+   A comparison of creative and "noncreative" research chemists with 
+respect to the ways in which they use their professional and technical 
+literature.. The creative chemists differ from the "noncreative" in that the
+former read more technical literature on the job, are less reluctant to use 
+literature of greater reading difficulty, are less influenced in their 
+independence of thought, read more extensively and consult more frequently the
+older material, are more inquisitive and have broader cultural interests.. The
+findings of the study are believed to be helpful in planning library and 
+information services, in refining future inquiries into the ways in which
+scientists use recorded information, and in improving tests for the 
+identification of creative ability among chemists..

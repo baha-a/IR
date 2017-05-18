@@ -1,26 +1,11 @@
-.I 1135
-.T
-limit analysis of symmetrically loaded thin shells
-of revolution .
-.A
-drucker,d.c. and shield,r.t.
-.B
-j. app. mech. 26, 1959, 61.
-.W
-limit analysis of symmetrically loaded thin shells
-of revolution .
-the yield surface for a thin cylindrical shell
-is shown to be a very good approximation to
-the yield surface for any symmetrically
-loaded thin shell of revolution .  hexagonal
-prism approximations to this yield surface,
-appropriate for pressure vessel analysis, are
-described and discussed in terms of limit
-analysis .  procedures suitable for finding
-upper and lower bounds on the limit pressure
-for the complete vessel are developed and
-evaluated .  they are applied for illustration
-to a portion of a toroidal zone or knuckle held
-rigidly at the two bounding planes .  the
-combined end force and moment which can be
-carried by an unflanged cylinder also is discussed .
+An "Invisible College" for the Study of Experiment Planning
+
+Granovskij, Ju. V.Strakhov, A. V.Murashova, T. I.
+
+   The activity of an invisible college is surveyed formed around the
+Interdepartmental Laboratory for Statistical Methods of the Moscow State
+University in the area of experiment planning.. The analysis of publications
+by the members of this college was made referring to the "Science Citation Index"
+1966 - 1967.. A graphical representation of the invisible college is suggested,
+comparative data on publications are cited, and various schools in experiment 
+planning for basic and applied research are analyzed..

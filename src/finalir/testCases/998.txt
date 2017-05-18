@@ -1,22 +1,14 @@
-.I 998
-.T
-equations, tables and charts for compressible flow .
-.A
-ames research staff.
-.B
-naca r.1135, 1953.
-.W
-equations, tables and charts for compressible flow .
-  this report, which is a revision and extension of naca tn
-useful in the analysis of high-speed flow of a compressible fluid .
-the equations provide relations for continuous one-dimensional
-flow, normal and oblique shock waves, and prandtl-meyer
-expansions for both perfect and imperfect gases .  the tables
-present useful dimensionless ratios for continuous one-
-dimensional flow and for normal shock waves as functions of mach
-number for air considered as a perfect gas .  one series of charts
-presents the characteristics of the flow of air (considered a perfect
-gas) for oblique shock waves and for cones in a supersonic air
-stream .  a second series shows the effects of caloric
-imperfections on continuous one-dimensional flow and on the flow
-through normal and oblique shock waves .
+The Other Half of Cataloging
+
+Ohmes, FrancesJones, J. F.
+
+   The authors investigate the impact of a bibliographic retrieval/card
+production system, such as the Ohio College Library Center (OCLC), with special
+attention to its role in cataloging.. Activities required at the local level to
+make the LC card a functioning component of the catalog are described.. The
+characteristics of the ensuring workload are examined, along with methods of
+accomplishing it.. These activities are seen as a factor in the persistence of
+backlogs.. The design of OCLC, because of the immobility of the terminal and
+the absence of the catalog from the data base, by-passes this workload, leaving 
+the local library to accomplish it by the method of its choice, as before, or 
+to leave it undone..

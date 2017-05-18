@@ -1,22 +1,12 @@
-.I 1128
-.T
-face wrinkling and core strength in sandwich construction .
-.A
-yuseff,s.
-.B
-j. ae. scs. 1960.
-.W
-face wrinkling and core strength in sandwich construction .
-  the effect of initial waviness on the wrinkling of
-faces in sandwich construction is studied .  formulae are
-derived to determine the failing stress when the faces
-wrinkle due to failure of the core in tension, compression
-or shear .  the importance of core strength requirements
-in maintaining surface smoothness is noted .  a
-comparison of theory with experiments is made, and the
-agreement between the two is found to be reasonably good .
-the strength of the core .  williams has related the strength
-of the core in tension and shear to an arbitrarily assumed
-initial irregularity which, to ensure laminar flow in a wing
-is assumed to have a maximum admissible value (initial
-wave amplitude critical wavelength=0.0005 to 0.001) .
+Free Information of a Social System
+
+Khursin, L. A.
+
+   The structure of the information field of a social system is examined,
+analyzing the processes of formation of scientific concepts.. The functional  
+structure of the information field is shown to reflect that of human brain..
+It is established that the effect of the "wash-off" of noise out of the
+information field with the course of time leads to concentration of the real,
+socially valid free information in publications covering finite time spans..
+The interrelations within the service/user system are shown to be essentially
+different for scientific vs industrial information supplies..

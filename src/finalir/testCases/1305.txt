@@ -1,22 +1,11 @@
-.I 1305
-.T
-a proposed programme of wind tunnel tests at hypersonic
-speeds to investigate the lifting properties of geometrically
-slender shapes .
-.A
-peckham,d.h.
-.B
-rae tn.aero.2730.
-.W
-a proposed programme of wind tunnel tests at hypersonic
-speeds to investigate the lifting properties of geometrically
-slender shapes .
-  a programme of tests at hypersonic
-speeds on slender bodies is
-described, which has the aim of
-investigating how lift is generated, and
-the compromises that may be enforced
-by aerodynamic heating .  the programme
-is based on models of simple geometric
-shape, from which lifting
-configurations will later be built up .
+Copyright, Public Policy, and Information Technology
+
+Henry, N.L.
+
+  It is my purpose to single out two major information technologies that
+have already fostered considerable controversies - computer-based
+information storage and retrieval systems and photocopying technologies -
+and analyze the costs and benefits they have produced in various knowledge-
+sensitive circles of American society. I also suggest some immediate policy
+steps that might be taken concerning computers, photocopiers, and other
+information technologies.

@@ -1,20 +1,13 @@
-.I 1081
-.T
-numerical solution of the navier-stokes equations for the flow around a
-circular cylinder at reynolds number 40 .
-.A
-kawaguti, m.
-.B
-j. phys. soc. japan, v. 8, no. 6 p. 747, 1953 .
-.W
-numerical solution of the navier-stokes equations for the flow around a
-circular cylinder at reynolds number 40 .
-the steady two-dimensional flow around a circular cylinder submerged in
-a viscous fluid for the case r 40 is investigated, integrating
-numerically the exact navier-stokes equations . the main results are as
-follows . /i/ the steady flow solution exists even for the reynolds
-number as high as 40 . moreover, it seems that the solution goes over
-smoothly to the solution of the kirchhoff discontinuous flow theory
-which seems to be the limiting flow for the case r . /ii/ the flow
-pattern and the coefficients of pressure and drag are in good agreement
-with the experimental data .
+Generalization of Epidemic Theory An Application to the Transmission of Ideas
+
+Goffman, W.Newill, V.A.
+
+  One of the most fundamental problems in the field of information retrieval 
+is that of determining the circumstances under which it might be necessary to
+introduce an information retrieval system as an aid to a given population of 
+scientists.  It is proposed that this problem be examined in terms of the 
+transmission and development of ideas within a population.  Specifically, the 
+transmission of ideas within a population will be treated as if it were the
+transmission of an infectious disease, that is, in terms of an epidemic process.
+An attempt will be made to indicate the role of information retrieval in the
+development of such a process.

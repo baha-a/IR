@@ -1,29 +1,18 @@
-.I 365
-.T
-the homogeneous boundary layer at an axisymmetric stagnation
-point with large rates of injection .
-.A
-libby,p.a.
-.B
-j. ae. scs. 29, 1962.
-.W
-the homogeneous boundary layer at an axisymmetric stagnation
-point with large rates of injection .
-  this report presents a theoretical analysis of the boundary
-layer at an axisymmetric stagnation point with large rates of
-air injection .  the results of a previous investigation indicated
-that for localized mass transfer in the stagnation region, the
-rates of injection are considerably greater than those usually
-treated .  the exact stagnation-point boundary-layer equations
-are integrated numerically for an approximate representation
-of the gas properties .  the two-point boundary conditions are
-treated in a new manner which is useful for various
-boundary-layer and mixing problems .  the exact solutions indicate that
-for large rates of injection the boundary layer is closely
-represented by an inner isothermal shear flow and by and exterior,
-relatively thin region, in which the flow variables change to their
-free-stream values .  an integral method based on profiles
-suggested by the exact solutions is developed and shown to lead
-to accurate predictions of the integral thicknesses which are
-of interest for a study of the downstream influence of the
-stagnation-point mass transfer .
+Economics of the Academic Libraries
+
+Baumol, W.J.
+
+  This volume represents what we believe to be as complete
+and thorough an analysis as possible of the available economic
+data on college and university libraries.  In the course
+of our study, we have examined the data for comprehensiveness
+and consistency; we have investigated their intertemporal
+behavior, both as a basis for projection and as an
+instrument for long-range planning; and we have constructed
+a set of analytic interrelationships which permit us to derive
+statistical estimates of the interrelations of some of the most
+critical economic variables relating to library operations.  In
+particular, in the course of this last step, we have provided
+relationships explaining statistically the determination of
+such variables as the size of libraries' budgets and the
+magnitude of their professional staffs.

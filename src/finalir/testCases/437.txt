@@ -1,15 +1,16 @@
-.I 437
-.T
-hypervelocity stagnation point heat transfer .
-.A
-scala, s. m. and warren, w. r.
-.B
-arsj. jan. 1962 .
-.W
-hypervelocity stagnation point heat transfer .
-this analysis includes the specific contributions of atoms, molecules,
-tions are .. /i/ partially ionized air can be approximated as a
-four-component gas including n2, n, n and e,. /ii/ the gas is in local
-thermochemical equilibrium,. /iii/ there is no charge separation,. /iv/
-thermal diffusion is neglected,. /v/ no electrical or magnetic fields,.
- low re effects are neglected .
+Industry and Technical Progress
+
+Carter, C.F.
+
+  This book is written in the belief that the full and speedy application
+of science in industry is necessary to economic progress, and
+should indeed be one of the most important objectives of national
+policy.  This being so, it is important to identify the hindrances to
+speedy application.  Many people have already drawn attention to
+particular hindrances but the three bodies which have sponsored this report
+did not consider that there was any up-to-date assessment of the problem
+which attempted to look at it as a whole, in all its variety and complexity.
+Hence the investigation which they undertook, and largely entrusted to us;
+an investigation which, through the great goodwill of many people in British
+industry, has yielded so much material that this book can only be a first
+impression and summary.

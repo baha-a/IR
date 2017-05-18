@@ -1,31 +1,16 @@
-.I 201
-.T
-supersonic flow past oscillating airfoils including
-nonlinear thickness effects .
-.A
-van dyke,m.d.
-.B
-naca r1183, 1954.
-.W
-supersonic flow past oscillating airfoils including
-nonlinear thickness effects .
-  a solution to second order in thickness is derived for
-harmonically oscillating two-dimensional airfoils in supersonic
-flow .  for slow oscillations of an arbitrary profile, the result is
-found as a series including the third power of frequency .  for
-arbitrary frequencies, the method of solution for any specific
-profile is indicated, and the explicit solution derived for a single
-wedge .
-  nonlinear thickness effects are found generally to reduce the
-torsional damping, and so to enlarge the range of mach numbers
-within which torsional instability is possible .  this
-destabilizing effect varies only slightly with frequency in the range
-involved in dynamic stability analysis, but may reverse to a
-stabilizing effect at high flutter frequencies .  comparison with
-a previous solution exact in thickness suggests that nonlinear
-effects of higher than second order are practically negligible .
-  the analysis utilizes a smoothing technique that replaces
-the actural problem by one involving no kinked streamlines .
-this stratagem eliminates all consideration of shock waves
-from the analysis, yet yields the correct solution for problems
-that actually contain shock waves .
+Moderately and Heavily Used Biomedical Journals
+
+Fleming, Thomas P.Kilgour, Frederick G.
+
+   The purpose of this investigation was to produce a title list of current
+journals suppling upwards of 75 percent of demand at the Columbia and Yale 
+Medical Libraries.. Columbia received nearly 2,000 journals and Yale over
+1,500; findings are based upon an analysis of canceled charge slips for issues
+published from 1959 through June 1962.. This combined study of recorded usage
+for six months in the Columbia Medical Library (12.9 percent of circulation
+during January through June 1962) and for one year in the Yale Medical Library
+(12.5 percent of 1961/62 circulation) revealed that a core of 262 journals
+supplied 80 percent of use of titles published in the 1959 to mid-1962
+period.. However, it is probable that current issues of all titles received
+were used at least once within the libraries.. Titles of sixty-seven journals
+which supplied slightly more than 50 percent of use are listed..

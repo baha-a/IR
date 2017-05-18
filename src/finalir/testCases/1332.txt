@@ -1,26 +1,20 @@
-.I 1332
-.T
-calculated spanwise lift distributions, influence functions
-and influence coefficients for unswept wings in subsonic
-flow .
-.A
-diederich,f.w. and zlotnick,m.
-.B
-naca r.1228, 1955.
-.W
-calculated spanwise lift distributions, influence functions
-and influence coefficients for unswept wings in subsonic
-flow .
-  spanwise lift distributions have been calculated for nineteen
-unswept wings with various aspect ratios and taper ratios and
-with a variety of angle-of-attack or twist distributions, including
-flap and aileron deflections, by means of the weissinger method
-with eight control points on the semispan .  also calculated
-were aerodynamic influence coefficients which pertain to a
-certain definite set of stations along the span, and several
-methods are presented for calculating aerodynamic influence
-functions and coefficients for stations other than those stipulated .
-  the information presented herein can be used in the analysis
-of untwisted wings or wings with known twist distributions, as
-well as in aeroelastic calculations involving initially unknown
-twist distributions .
+Social Organization of Hamadryas Baboons
+
+Kummer, H.
+
+  Baboons have adapted to a variety of habitats ranging from West
+African rain forests to semidesert areas on the coast of the Red Sea.
+While all baboons are morphologically adapted to life on the ground,
+some species have become more independent of trees than others.
+In a rough ecological series, we find on one end the forest dwelling
+West African Species (Mandrillus leucophaneus, M. sphinx, Papio
+papio), none of which has so far been studied in the field.  The first
+step into open country is realized by the savanna baboons of South
+and East Africa, including, from south to north, the species Papio
+ursinus, cynocephalus and anubis.  Their social organization and its
+ecological context have been subject to long range field work by
+HALL (1962 a, b) in South Africa, by DEVORE (1962) in Kenya, and
+by ALTMANN and ALTMANN (in preparation) in Kenya ad Tanzania.
+In both regions, the groups can range far into the open grassland,
+but at night, they withdraw to high trees or, as in the Cape region,
+to vertical cliffs.

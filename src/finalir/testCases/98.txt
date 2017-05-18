@@ -1,15 +1,18 @@
-.I 98
-.T
-heat transfer by laminar flow to a rotating plate .
-.A
-millsaps,k. and pohlhausen,k.
-.B
-j. ae. scs. 19, 1952, 120.
-.W
-heat transfer by laminar flow to a rotating plate .
-  an exact solution of the heat-transfer problem for the von
-karman example of the laminar flow of a viscous fluid over a
-rotating plate is given in dimensionless form and physically
-discussed .  the solution is explicitly given for a constant
-temperature on the plate with viscous dissipation included .  the
-numerical results are given for prandtl numbers from 0.5 to 10 .
+Scientific Communication:Its Role in the Conduct of Research and Creation of Knowledge
+
+Garvey, W.DGriffith, B.C.
+
+  There is considerable apprehension today
+within the scientific community over the
+communication crisis in science.  The present
+article, which attempts to clarify certain aspects
+of the problem, overviews the data collected by the
+APA Project on Scientific Information Exchange in
+Psychology, together with data which we have
+more recently obtained relative to other disciplines.
+Such a reexamination of the data should help to
+clarify APA's relationship to the many information
+media involved in the communication process
+which begins with research and ends with the
+incorporation of research findings into psychological
+knowledge.

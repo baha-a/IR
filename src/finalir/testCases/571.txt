@@ -1,38 +1,24 @@
-.I 571
-.T
-heat transfer to flat plate in high temperature rarefied
-ultra-high mach number flow .
-.A
-nagamatsu,h.t., weil,h.a. and sheet,r.e.
-.B
-ars j. 32, 1962, 533.
-.W
-heat transfer to flat plate in high temperature rarefied
-ultra-high mach number flow .
-  an investigation was conducted in a hypersonic
-shock tunnel to determine the local heat transfer
-rates for a sharp leading edge flat plate .  the free
-stream mach number range was 7.95 to 25.1 with
-stagnation temperatures of approximately 2550
-and 6500 r .  for these temperature and mach
-number conditions, the strong interaction parameter,
-varied from 2.35 to 826 .  the
-corresponding knudsen numbers, based on the
-ratio of the free stream mean free path and the
-leading edge thickness, varied from 0.38 to 85.5 .
-for free stream mach numbers greater than 10,
-knudsen numbers of approximately unity, and
-perfect gas conditions, the calculated heat transfer
-coefficients were found to vary as as predicted
-by the noninsulated flat plate theory of li
-and nagamatsu .  for the case of,
-the leading edge slip phenomenon
-drastically reduced the local heat transfer coefficients
-as compared to the theoretical values predicted
-with no slip at the surface .  for the extreme case of and,
-the measured local
-heat transfer rate was an order of magnitude
-less than the analytical value .  both the knudsen
-number and the free stream mach number are
-important physical parameters that determine the
-extent of the slip-flow region .
+Automatic Abstracting and Indexing..II. Production of Indicative Abstracts by Application of Contextual Inference and Syntactic Coherence Criteria
+
+Rush, J. E.Salvador, R.Zamora, A.
+
+   Together with the increasing shortage of qualified abstracts, the factors 
+of time, cost and value have lent impetus to a trend toward the automatic 
+generation of abstracts and indexes.. This trend has caused increased emphasis
+to be placed on the abstract as the locus of data for automatic retrieval
+systems.. This necessitates the creating of high quality abstracts.. It is the
+purpose of this paper to report on the development of techniques for the 
+automatic production of high quality abstracts from the full text of the 
+original document.. It is necessary to analyze the conditions under which 
+various methods of sentence selection are successful, in order to develop 
+criteria for selecting sentences to form an abstract.. But clearly, an abstract 
+can be produced by rejecting sentences of the original which are irrelevant to 
+the abstract.. As will be seen, it is this point which is perhaps the most
+significant contribution of this paper.. Methods of sentence selection and
+rejection are discussed.. These include contextual inference, intersentence
+reference, frequency criteria, and coherency considerations.. The automatic
+abstracting system we have developed consists basically of a dictionary, called 
+the Word Control List, and of a set of rules for implementing certain functions
+specified for each WCL entry.. The abstracts we have obtained so far are of
+sufficiently good quality to indicate that large-scale testing of the methods
+of the automatic abstracting system is warranted..

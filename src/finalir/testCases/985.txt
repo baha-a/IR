@@ -1,24 +1,14 @@
-.I 985
-.T
-a rapid approximate method for the design of hub shroud profiles of
-centrifugal impellers of given blade shape .
-.A
-smith, k.j. and hamrick, j.t.
-.B
-naca tn 3399. 1955 .
-.W
-a rapid approximate method for the design of hub shroud profiles of
-centrifugal impellers of given blade shape .
-a rapid approximate method for the design of centrifugal compressors of
-given blade shape with compressible nonviscous flow characteristics has
-been developed using techniques based upon stream-filament theory .
-axial symmetry is assumed, but meridional-plane forces derived from
-tangential pressure gradients are included .
-the method was applied to the design of an impeller in order to
-determine the approximate maximum meridional streamline spacing that
-could be used . three numerical solutions for different streamline
-spacings were made using the same hub profile, blade shape, and
-prescribed velocity distribution along the hub . the shroud profiles
-obtained from the three solutions, which utilized 3, 5, and 9
-stream-tubes, were negligibly different . the approximate computing time
-required was 15 hours per streamtube .
+The Bibliographer in the Academic Library
+
+Haro, Robert P.
+
+   Academic libraries, in their quest to secure and make available library
+materials necessary to support instructional and research programs, are finding
+it necessary to rely upon librarians functioning as book selectors.. The term
+bibliographer (frequently applied to these selectors) is gradually taken on
+new meaning in library service.. The role of the bibliographer is changing to
+include (besides book selection) new duties and responsibilities such as
+advanced reference, research work, instruction, and liaison duties between 
+teaching departments and the library.. In addition, academic library 
+organization is gradually being affected by the increasing use of 
+bibliographers..

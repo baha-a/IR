@@ -1,21 +1,18 @@
-.I 981
-.T
-solutions to the heat-conduction equation with time dependent boundary
-conditions .
-.A
-bergles, a.e. and kaye, j.
-.B
-j. aero. sc. v. 28, march 1961. pp 251-252 .
-.W
-solutions to the heat-conduction equation with time dependent boundary
-conditions .
-design charts based on the analytical solution to the problem of
-one-dimensional heat flow in a solid body of constant material properties
-with time-dependent boundary conditions were presented by kaye and
-yeh . this solution dealt with aerodynamic heating at hypersonic speeds
-where the surface coefficient of heat transfer and the temperature
-potential were taken to be linear functions of time of flight . in order
- to make these charts of more general application, general solutions are
- presented which, together with the charts, enable rapid and reasonable
-estimates to be made of the transient temperature distributions in many
-practical cases .
+Statistics of Collection Overlap at the Libraries of the Six NewEngland State Universities
+
+Nugent, W.R.
+
+  As part of a design study to specify a regional processing
+center for the New England state university libraries, it was
+required to know the percentage of collection overlap with respect to
+each of the 30 ordered pairs of 6 libraries.  Participating states were
+Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and
+Connecticut.  This overlap data was needed to predict the degree of
+joint use of cataloging information and to estimate the efficiency of
+collective reclassification.
+  The results revealed a high degree of commonality in the 6 collections,
+showing, for example, that a random title from one library had 
+a 40% chance of being present in another randomly selected library.
+When current imprint samples were tested, the figure rose to 47%.
+Rhode Island's holdings were shown to be the collection of greatest
+duplication elsewhere.

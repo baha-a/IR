@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="681">
+	<title>A Chemically Oriented Information Storage and Retrieval System.II. Computer Generation of the Wiswesser Notation of Complex Polycyclic Structures	</title>
+	<author>Bowman, Carlos M.Landee, Franc A.Lee, Nancy W.Reslock, Mary H.	</author>
+	<text>
+		   A computer program has been written to generate the canonical Wiswesser
+		notation for complex polycyclic structures.. The program accepts as input the 
+		connection between all the ring atoms and then selects the path which conforms 
+		to the notation rules.. The operation of the program is described..
+	</text>
+</article>

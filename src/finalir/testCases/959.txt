@@ -1,28 +1,14 @@
-.I 959
-.T
-heat transfer in separated flows .
-.A
-larson,h.k.
-.B
-j. ae. scs. 1959, 731.
-.W
-heat transfer in separated flows .
-  results of an experimental heat-transfer investigation in
-regions of separated flow are presented and compared with the
-theoretical analysis of naca tn 3792 .  the average heat
-transfer for both laminar and turbulent separated boundary
-layers was found to be from 35 to 50 per cent less than that for
-equivalent attached boundary layers .  the overall scope of the
-measurements included mach numbers from 0.3 to 4.0 and
-reynolds numbers from 10 to 4 x 10 .  the results for laminar
-boundary layers agree well with the analysis of tn 3792 .  the
-results for turbulent boundary layers, however, disagree
-considerably .  results of velocity and temperature surveys in the
-separated turbulent boundary layer are presented and partially
-explain the discrepancy between the experiments and analysis .
-the maximum local heat-transfer rates were found to occur in
-the reattachment region of the separated boundary layers
-investigated .  the effect of transition on heat transfer in the separated
-laminar boundary layers is described and data showing effects
-of mach number and wall temperature on the transition
-reynolds number of separated laminar flows are also included .
+Measures of Library Effectiveness
+
+Morse, Philip M.
+
+   Mathematical models of library operations are presented, allowing managers to
+estimate measures of effectiveness for a library.. These models describe the
+amount of use made of resources by a user in a visit, the distribution of book
+circulation in a collection, the dependence of circulation on time, and the 
+effect of multiple copies on user satisfaction.. Predictions are made on the 
+basis of the models of the consequence of breaking of central library into 
+branch libraries.. The effect, in terms of frustrated use, of removing the 
+least-used books from a collection is discussed, as are strategies for for
+duplication.. The emphasis is on facilitating getting results from models; for
+this purpose graphic techniques supplement the mathematical formulas..

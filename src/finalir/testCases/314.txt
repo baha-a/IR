@@ -1,28 +1,20 @@
-.I 314
-.T
-simplified method for determination of the critical
-height of distributed roughness particles for boundary
-layer transition at mach numbers from 0 to 5.
-.A
-braslow,a.l. and knox,e.c.
-.B
-naca tn.4363, 1958.
-.W
-simplified method for determination of the critical
-height of distributed roughness particles for boundary
-layer transition at mach numbers from 0 to 5.
-  a simplified method has been devised for determination of the
-critical height of three-dimensional roughness particles required to
-promote premature transition of a laminar boundary layer on models of
-airplanes or airplane components in a wind tunnel with zero heat
-transfer .  a single equation is derived which relates the roughness height
-to a reynolds number based on the roughness height and on local flow
-conditions at the height of the roughness, and charts are presented
-from which the critical roughness height can be easily obtained for
-mach numbers from 0 to 5 .  a discussion of the use of these charts is
-presented with consideration of various model configurations .
-  the method has been applied to various types of configurations in
-several wind-tunnel investigations conducted by the national advisory
-committee for aeronautics at mach numbers up to 4, and in all cases
-the calculated roughness height caused premature boundary-layer
-transition for the range of test conditions .
+Citation Measures of Hard Science, Soft Science, Technology and Nonscience
+
+de Solla Price, D.
+
+  Perhaps the fundamental problem of those that work in the scientific
+information industry is that it is not just that special part of an information
+industry that happens to deal with material having a scientific content.  
+Technical librarianship involves much more than librarianship applied to 
+books with an esoteric vocabulary and much mathematics.
+  My reason for choosing this problem as a contribution for such a strategic
+conference is that I know well as an historian of science that the greatest and
+most useful advances in our technologies have not come from the applied
+research of trained people trying to make themselves useful to society, but
+rather from basic research aimed at furthering understanding and curiousity,
+and powered by the latest instrumentation that the useful people have devised.
+I suspect that all the new indexing tools and computer handlings will be more
+useful to basic research in understanding scientists than they will to
+solving practical problems for which they are designed.  It seems clear,
+however, that it is only such new understanding that can bring success,
+whatever solutions ultimately emerge.

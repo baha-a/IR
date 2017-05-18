@@ -1,15 +1,15 @@
-.I 26
-.T
-inviscid leading-edge effect in hypersonic flow .
-.A
-cheng,h.k. and pallone,a.j.
-.B
-j. ae. scs. 23, 1956, 700.
-.W
-inviscid leading-edge effect in hypersonic flow .
-current interest in the problem of inviscid-viscous
-interaction has led to the realization of the significant effect of
-the leading-edge thickness in hypersonic flow .  the purpose
-of this note is to give an account of the downstream influence
-of the blunt leading edge on the basis of the hypersonic small
-perturbation theory .
+Indexing and Abstracting by Association
+
+Doyle, L.B.
+
+This article discusses the possibility of exploiting the
+statistics of word co-occurrence in text for purposes of
+document retrieval. Co-occurrence is defined and related
+to the mental processes of authors and readers; several
+means of quantitative measurement of word co-occurrence
+are then scrutinized.  It is shown that the most
+strongly co-occurring word pairs, which are therefore
+"associated" in a statistical sense, can be represented
+in the form of an "association map."  The last half of the
+article presents two modes of use of association maps
+in literature searching.

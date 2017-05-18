@@ -1,29 +1,21 @@
-.I 1339
-.T
-calculation of flutter characteristics for finite-span swept or unswept
-wings at subsonic and supersonic speeds by a modified strip analysis .
-.A
-yates, e.c.
-.B
-naca rm l57l10, 1958 .
-.W
-calculation of flutter characteristics for finite-span swept or unswept
-wings at subsonic and supersonic speeds by a modified strip analysis .
-a method has been developed for calculating flutter characteristics of
-finite-span swept or unswept wings at subsonic and supersonic speeds .
-the method is basically a rayleigh type analysis and is illustrated with
- uncoupled vibration modes although coupled modes can be used . the
-aerodynamic loadings are based on distributions of section lift-curve
-slope and local aerodynamic center calculated from three-dimensional
-steady-flow theory . these distributions are used in conjunction with
-the /effective/ angle-of-attack distribution resulting from each of the
-assumed vibration modes in order to obtain values of section lift and
-pitching moment . circulation functions modified on the basis of
-loadings for two-dimensional airfoils oscillating in a compressible flow are
- employed to account for the effects of oscillatory motion on the
-magnitudes and phase angles of the lift and moment vectors .
-flutter characteristics have been calculated by this method for 12 wings
- of varying sweep angle, aspect ratio, taper ratio, and center-
-of-gravity position at mach numbers from 0 to as high as 1.75 . comparisons
- of the results with experimental flutter data indicate that this method
- gives generally good flutter results for a broad range of wings .
+The Social System of Science
+
+Storer, N.W.
+
+        This book, is an exercise in sociological theory-
+building.  It attempts to develop a theory of the social organization
+of science.  I have tried to indicate its possible broader relevance
+by pointing out certain basic parallels between the "social system"
+of science and other social systems within society.  I hope, further,
+that the approach used - even if not the specific conclusions I
+have drawn from it - may be useful in bridging the gap that seems
+now to exist between those sociologists who are concerned with
+society as an entity and who analyze social behavior in terms of
+its consequences for society as a whole and those sociologists who
+are concerned first of all with the motives, attitudes, and goals
+of the individual participants in these patterns of social behavior.
+My approach hopes to answer the question of why it is that most
+individuals, most of the time, come to "want" to do what it is
+that society "needs" them to do.  Only when we can answer this
+question satisfactorily, can we develop a sociology capable of 
+providing both prediction and meaning.

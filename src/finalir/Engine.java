@@ -10,6 +10,9 @@ import java.util.List;
 import java.util.Scanner;
 import javax.swing.JFileChooser;
 import javax.swing.UIManager;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathFactory;
 import org.apache.tika.Tika;
 import org.apache.tika.exception.TikaException;
 
@@ -32,7 +35,36 @@ public class Engine{
         lesker = new LeskWSD();
     }
     
-    private void indexing(String name,List<CoreLabel> words){
+    
+    private void indexingXml(String name,File f){
+        try
+        {
+            XPath xPath = XPathFactory.newInstance().newXPath();
+            org.w3c.dom.Document xml = DocumentBuilderFactory.newInstance()
+                    .newDocumentBuilder().parse(f);
+
+            //String id = xPath.compile("/article/@id").evaluate(xml).trim();
+            
+            String t = xPath.compile("/article/title").evaluate(xml).trim();
+            String a = xPath.compile("/article/author").evaluate(xml).trim();
+            String c = xPath.compile("/article/text").evaluate(xml).trim();
+
+            Document d = index.AddDoc(name, t.length() + a.length() + c.length());
+            int position = 0;
+            for (CoreLabel w : toky.getTokens(t))
+                index.AddTerm(w.lemma(), d, position++ , w.beginPosition(), TermType.Titel);
+            
+            for (CoreLabel w : toky.getTokens(a))
+                index.AddTerm(w.lemma(), d, position++ , w.beginPosition(), TermType.Author);
+            
+            for (CoreLabel w : toky.getTokens(c))
+                index.AddTerm(w.lemma(), d, position++ , w.beginPosition(), TermType.Text);
+            
+            cache.clear();
+        }catch(Exception e){System.err.println("error reading xml file:" + name);}
+    }
+    
+    private void indexingPlanText(String name,List<CoreLabel> words){
         Document d = index.AddDoc(name, words.size());
         int postion = 0;
         for (CoreLabel w : words)
@@ -43,12 +75,15 @@ public class Engine{
     
     private static int id = 0;
     public Engine IndexText(String t){
-        indexing("NotFile" + ++id, toky.getTokens(t));
+        indexingPlanText("NotFile" + ++id, toky.getTokens(t));
         return this;
     }
     
     public Engine IndexFile(File f) throws IOException, TikaException{
-        indexing(f.getName(), toky.getTokens(new Tika().parseToString(f)));
+        if(f.getName().endsWith(".xml"))
+            indexingXml(f.getName(), f);
+        else
+            indexingPlanText(f.getName(), toky.getTokens(new Tika().parseToString(f)));
         return this;
     }
     
@@ -77,10 +112,10 @@ public class Engine{
     
     
     
-    public List<DocumentResult> SearchQuery(String q,boolean advanceSearch) {
+    public List<DocumentResult> SearchQuery(String q,boolean advanceSearch,TermType searchIn) {
         Stopwatch st = new Stopwatch().Start();
         
-        List<DocumentResult> res = searchQuery2(q, advanceSearch);
+        List<DocumentResult> res = searchQuery2(q, advanceSearch,searchIn);
         
         st.Stop();
         Print(" TIME : " + st.GetMilisec() + " msec     RAM  : " + (st.GetMemoryUsage()/1024) + " Kbyte");
@@ -90,14 +125,16 @@ public class Engine{
     private long lastTime;
     public long getLastTime(){ return lastTime;}
     
-    public boolean useWordNet = true;
+    public boolean useSynonyms = true;
+    public boolean useHypernyms = true;
+    public boolean useHyponyms = true;
     
-    private List<DocumentResult> searchQuery2(String q,boolean advanceSearch) {
+    private List<DocumentResult> searchQuery2(String q,boolean advanceSearch, TermType searchIn) {
         
         String query = q = q.toLowerCase();
         
-        if(cache.check(q + advanceSearch + useWordNet))
-            return cache.get(q + advanceSearch + useWordNet);
+        if(cache.check(q + advanceSearch + useSynonyms + useHypernyms + useHyponyms + searchIn.toString()))
+            return cache.get(q + advanceSearch + useSynonyms + useHypernyms + useHyponyms + searchIn.toString());
                 
         List<DocumentTermEntry> r = new ArrayList<>();
 
@@ -109,12 +146,16 @@ public class Engine{
             for (CoreLabel w : queryTokens)
                 r = searcher.SearchOr(w.lemma(), r);
         
-        if(useWordNet)//&& r.size() < 10)
+        if(useSynonyms)//&& r.size() < 10)
             for (CoreLabel w : queryTokens)
-                for(String s : lesker.getSynonyms(query,w.word())){
+                for(String s : lesker.getSynonyms(query,w.word(),useHypernyms,useHyponyms)){
                     r = searcher.SearchOr(s, r);
                     query += " or " + s;
                 }
+        
+        if(searchIn != TermType.Any)
+            r.removeIf(x->x.checkTermType(searchIn) == false);
+        
         
         List<DocumentResult> res = searcher.ranking(Document.convert(r), convertQueryToVector(toky.getTokens(query)));
         res.sort((DocumentResult d1, DocumentResult d2) -> 
@@ -124,7 +165,7 @@ public class Engine{
             return 0;
         });
         
-        cache.save(q + advanceSearch + useWordNet, res);
+        cache.save(q + advanceSearch + useSynonyms + useHypernyms + useHyponyms + searchIn.toString(), res);
         completer.save(q);
         
         System.out.println("your query:");
@@ -295,7 +336,7 @@ public class Engine{
         
         Print("Enter your querys (or x to exit):");
         for(;;)
-            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in,"UTF-8").nextLine(),true))
+            for (DocumentResult d : indx.SearchQuery(new Scanner(System.in,"UTF-8").nextLine(),true,TermType.Any))
                 Print(d.getDocument().getName() + " --> " + d.getRank());
     }
      
@@ -374,7 +415,7 @@ public class Engine{
             top = 10;
             
             PrintR("Query: ");
-            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase(),true);
+            res = g.SearchQuery(query = new Scanner(System.in).nextLine().toLowerCase(),true,TermType.Any);
             
             if(speller.HasError(query))
                 PrintR("Did you mean: " + speller.getCorrectedLine(query));

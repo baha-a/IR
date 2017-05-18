@@ -1,22 +1,14 @@
-.I 48
-.T
-supersonic flow at the surface of a circular cone at
-angle of attack .
-.A
-willett,j.e.
-.B
-j. ae. scs. 27, 1960, 907.
-.W
-supersonic flow at the surface of a circular cone at
-angle of attack .
-  formulas for the inviscid flow properties on the surface of a
-cone at angle of attack are derived for use in conjunction with
-the m.i.t. cone tables .  these formulas are based upon an
-entropy distribution on the cone surface which is uniform and
-equal to that of the shocked fluid in the windward meridian
-plane .  they predict values for the flow variables which may
-differ significantly from the corresponding values obtained
-directly from the cone tables .  the differences in the magnitudes
-of the flow variables computed by the two methods tend to
-increase with increasing free-stream mach number, cone angle
-and angle of attack .
+The Norms of Citation Behavior: Prolegomena to the Footnote
+
+Kaplan, Norman
+
+   The publication explosion has focused renewed attention on the lowly 
+footnote.. While we are all at least partially aware of the technical functions
+of the citation for both the writer and the reader of the scientific paper, 
+little is known about the norms operating in actual practice.. Even less is 
+known about the operating norms with respect to the more sociological functions,
+including the acknowledgement of intellectual debts or the conferral of 
+recognition upon the works of others.. This paper reviews the state of our 
+knowledge, raises questions, and proposes suggestions and hypotheses for 
+studying the relationships between footnoting practices among scientists and
+the social system of science..

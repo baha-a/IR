@@ -1,28 +1,10 @@
-.I 744
-.T
-lower buckling load in the non-linear buckling theory
-of thin shells .
-.A
-tsien,h.s.
-.B
-q. app. math. 5, 1947, 236.
-.W
-lower buckling load in the non-linear buckling theory
-of thin shells .
-  for thin shells the relation between
-the load p and the deflection beyond the
-classical buckling load is very often
-non-linear .  for instance, when a uniform thin
-circular cylinder is loaded in the axial
-direction, the load p when plotted against the
-end-shortening has the characteristic
-shown in fig. 1 .  if the strain energy s and the
-total potential are calculated,
-their behavior can be represented by the
-curves shown in figs. 2 and 3 .  it can be
-demonstrated that the branches oc and ab
-corresponds to stable equilibrium configurations
-and the branch bc to unstable
-equilibrium configurations .  the point b is then
-the point of transition from stable to
-unstable equilibrium configurations .
+Semiconductor Journals
+
+Hawkins, Donald T.
+
+   Using an on-line literature searching system, the number of papers in many 
+journals dealing with semiconductors was determined.. The journals are ranked 
+by the percentage of their contents devoted to semiconductors, and by the total
+number of semiconductors papers are published.. Only four journals devote over
+half of their contents to semiconductors papers.. Approximately half of the
+19,646 papers (which were found in 91 journals) appeared in eight journals..

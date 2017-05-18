@@ -1,20 +1,13 @@
-.I 1010
-.T
-free-flight measurements of the static and dynamic .
-.A
-.B
-.W
-free-flight measurements of the static and dynamic .
-  air-flow properties in nozzles were calculated and charted for
-equilibrium flow and two types of frozen flows .  in one type of frozen
-flow, air was assumed to be in equilibrium from the nozzle reservoir to
-arbitrary points where chemical reactions and molecular vibrations
-became frozen .  in the other type, it was assumed that molecular
-vibrations were in equilibrium throughout the nozzle and that chemical
-reactions became frozen at arbitrary points .  the calculations were
-made for a range of stagnation pressures up to 10,000 poinds per square
-inch absolute and stagnation enthalpies up to 24,500 btu per pound .
-the flow properties charted were temperature, pressure, density,
-velocity, dynamic pressure, mach number, reynolds number, molecular
-weight fraction, and mass flow .  equilibrium flow properties through
-normal shock waves were also included .
+The Science Citation Index:A New Concept in Indexing
+
+Malin, M.V.
+
+  The purpose of this paper is to discuss citation indexing and its
+present application as exemplified by the Science Citation Index,
+published by the Institute for Scientific Information as a new, unique,
+and necessary tool for scientific work.  It is necessary, therefore, to
+describe briefly, and in general terms, the nature of conventional
+subject indexing systems in order that a basis for contrast between these
+and citation indexing can be obtained.  For those who wish to read
+extensively on the subject of indexing, references are provided at the
+end of the paper under the section "Additional References."

@@ -1,33 +1,28 @@
-.I 1363
-.T
-a characteristic type of instability in the large deflections
-of elastic plates .
-.A
-ashwell,d.g.
-.B
-proc. roy. soc. a, 214, 1952, 98.
-.W
-a characteristic type of instability in the large deflections
-of elastic plates .
-  part 1. from a general equation governing
-the bending of thin elastic plates into certain
-types of surfaces of revolution are derived
-expressions for the behaviour of rectangular plates
-with initial curvatures, subjected to pure
-bending about one axis .  it is found that such
-plates exhibit the type of instability characteristic
-of thin-walled structures which depend
-for their stiffness on curvature .  curves are
-drawn showing the deformation suffered by
-such plates, and an expression for the critical
-bending moment at which instability occurs is
-obtained .  experimental results show satisfactory
-agreement .
-  part 2. the analysis of part 1 is extended to deal
-with the case of flat square or rectangular
-plates loaded by distributed bending moments
-applied to all four edges .  curves are drawn
-to describe their behaviour, and they are found
-to exhibit the characteristic instability
-displayed by thin-walled curved structures .
-experimental verification is satisfactory .
+Current Awareness Publications An Evaluation
+
+Bloomfield, M.
+
+  Three types of current awareness publications
+are defined in terms of their generation
+and distribution characteristics.  These
+types are the SDI type, the intermediate type
+such as NASA's SCAN program, and the unselected
+type such as the usual library accession
+list.  A fourth type, the indexing and
+abstracting journal is defined but not related
+to the other three types.  The three current
+awareness publications are shown to have a
+relationship in terms of the number of
+requests they can produce from a given set of
+references or notices.  The SDI system will
+produce about one request from ten notices;
+the intermediate type about one request per
+hundred notices; ad the unselected type,
+one request per thousand notices.  Despite
+the differences in the number of notices to
+generate one request, the cost to produce one
+request is about the same for the three types
+of tools.  Also, the usage of these tools is
+related to the amount of user time available
+and a curve is presented based on various
+assumptions to define this relationship.

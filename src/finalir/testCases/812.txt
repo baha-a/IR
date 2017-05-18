@@ -1,25 +1,14 @@
-.I 812
-.T
-investigation of two bluff shapes in axial free flight
-over a mach number range from 0. 35 to 2. 15 .
-.A
-coltrane,l.c.
-.B
-naca rm l58a16, 1958.
-.W
-investigation of two bluff shapes in axial free flight
-over a mach number range from 0. 35 to 2. 15 .
-  a fineness-ratio-2.71 right circular cylinder and a fineness-
-ratio-been tested in free flight over a mach number range of 0.35 to 2.15 and
-a reynolds number range of 1 x 10 to 12 x 10 .  time histories, cross
-plots of force coefficients, rolling velocity, and longitudinal-force
-coefficient are presented for both cylinders .  in addition, cross plots
-of moment coefficients and plots of the normal-force curve slope and
-the aerodynamic center are presented for the fineness-ratio-2.71
-cylinder .  the average aerodynamic center of the right circular
-cylinder moved rearward with decreasing speeds until at the subsonic
-mach numbers it remained approximately constant and comparisons of the
-drag data of this test with wind tunnel and other free-flight data show
-good agreement .  an appreciable decrease in drag was observed when the
-data of the present test of the rounded nose cylinder were compared with
-data of a right circular cylinder of a similar configuration .
+A Statistical Interpretation of Term Specificity and Its Application in Retrieval
+
+Sparck-Jones, K.
+
+   The exhaustivity of document descriptions and the specificity of index terms
+are usually regarded as independent.. It is suggested that specificity should be
+interpreted statistically, as a function of term use rather than of term 
+meaning.. The effect on retrieval of variations in term specificity are 
+examined, experiments with three test collections showing in particular that
+frequently-occurring terms are required for good overall performance.. It is
+argued that terms should be weighted according to collection frequency, so that 
+matches on less frequent, more specific, terms are of greater value than matches
+on frequent terms.. Results for the test collections show that considerable 
+improvements in performance are obtained with this very simple procedure..

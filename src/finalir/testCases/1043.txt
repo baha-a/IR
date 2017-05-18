@@ -1,28 +1,23 @@
-.I 1043
-.T
-on transverse vibrations of thin, shallow elastic shells .
-.A
-.B
-.W
-on transverse vibrations of thin, shallow elastic shells .
-  a numerical analysis is given for the solution of the
-general equations of thin shells of revolution subjected to
-rotationally symmetric pressure and temperature
-distributions .
-  the basic differential equations are in a very general
-form, which permits the geometry of the shells considered,
-to be specified by discrete data points .
-  the analysis determines elastic stresses, strains and
-displacements for multi-layer and multi-sectional shells of
-revolution .  surface loads, temperatures, thicknesses and
-material properties may vary arbitrarily in the meridional
-direction .  temperatures and material properties can also
-vary through the thickness .
-  the solution is obtained by direct computation using a
-numerical method that employs two by two coefficient
-matrices,. and hence avoids the problems of slow convergence .
-the solution has been programmed in a semi-algebraic
-language which can be used on most high speed computers .
-comparisons of numerical solutions to known exact and
-approximate solutions of the thin shell equations are made to
-demonstrate the accuracy of this method .
+The MARC Pilot Project:The Final Report
+
+Avram, H.D.
+
+  The MARC project has progressed from a
+pilot to test the feasibility of a distribution
+service of centrally produced machine-readable
+cataloging data to a full-scale operational
+system in the design stages in two short years.
+The library community, both here and abroad, has
+accepted MARC and recognizes its potential
+for the future.  The single most significant
+result of MARC has been the impetus to set
+standards.  There is no doubt that eventually
+standards would have been designed for
+machine-readable bibliographic records, character
+sets, and codes for place and language.  MARC
+accelerated standardization and still more
+important, the standards are being set and agreed
+to be a large segment of the library community.
+The cooperation among the producers and users
+of bibliographic description has been a
+rewarding experience.

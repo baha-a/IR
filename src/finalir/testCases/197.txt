@@ -1,37 +1,30 @@
-.I 197
-.T
-pressure distributions on three bodies of revolution
-to determine the effect of reynolds number up to and
-including the transonic speed range .
-.A
-swihart,j.m. and whitcomb,c.f.
-.B
-naca rm l53h04, 1953.
-.W
-pressure distributions on three bodies of revolution
-to determine the effect of reynolds number up to and
-including the transonic speed range .
-  this paper presents the results of an investigation conducted in
-the langley 16-foot transonic tunnel to determine the effects of varying
-reynolds number on the pressure distribution on a transonic body of
-revolution at angles of attack through the transonic speed range .  the
-effect of a change in sting cone angle on the pressure distributions
-and a comparison of experimental incremental pressures with theory is
-also included .
-  the models were tested through a mach number range from 0.60 to 1.09 .
-the reynolds number range based on body length was from 9 x 10 to 39 x
-diameter was 1.3 x 10 to 4.53 x 10 for the model at 8 angle of attack .
-  an increase in reynolds number from 9 x 10 to 39 x 10 affected
-the longitudinal pressure distributions very slightly .  these effects
-were of such a nature as to cause an increase of 0.05 in the
-normal-force coefficient of the body when tested in the subcritical cross-flow
-reynolds number range .  this increase is in agreement with theoretical
-approximations .
-  a comparison between experimental and theoretical values of the
-incremental pressure coefficient due to angle of attack indicated good
-agreement except at angles where separated flow areas existed over the
-body .
-  the effect of a change in sting-cone angle from 5 to 9 on the
-pressure distribution of the 120-inch model was negligible up to a
-mach number of 1.05 .  at this mach number the effect was to cause a
-small increase in the velocity over the rear of the body .
+AIM-TWX service at the University of Virginia:       A Review and Evaluation
+
+Moll, Wilhelm
+
+   The paper reviews the highlights of a four-week trial period (November 19 -
+December 18, 1970) during which the Medical Library of the University of
+Virginia experimented with a new remote-access bibliographical control and
+retrieval system via its TWX machine.. The system, called AIM-TWX, was
+sponsored by the Lister Hill National Center for Biomedical Communications
+and utilized a time-shared IBM 360/67 computer in Santa Monica, California..
+Citations from 109 clinically-oriented  journals from 1966 to date, including
+those currently included in the Abridged Index Medicus, may be retrieved
+either on- or off-line..
+   Various aspects of this service are described, including problems of
+staffing, training, and record keeping, as well as the role of the MeSH
+vocabulary which is the principle "language" of the man-computer dialog..
+   The statistical results indicated that the system was used for approximately
+200 minuted on nineteen days and that an average of sixteen searches were run
+on any given day, or about 4.6 searches per hour of use.. In spite of an 
+inexperienced staff who had little knowledge of the MeSH vocabulary and whose
+training schedule was limited to one four-hour session, the experiment was
+highly successful in terms of searches and citations..
+   At the end of the period, 298 searches had been run for 114 requestors,
+and  5,343 citations had been produced.. Only fifty-five searches yielded no 
+citations.. The experiment generated a great deal of excitement and interest
+among the staff of the Library and of the Medical Center.. Moreover, a large
+number of medical practitioners in large and small communities  of Virginia
+participated in this experiment, indicating that there exists a great demand
+for this type of literature searching which AIM-TWX is able to provide with
+great rapidity..

@@ -1,16 +1,14 @@
-.I 910
-.T
-natural frequencies of continuous beams of uniform
-span length .
-.A
-ayre,r.s. and jacobson,l.s.
-.B
-j. app. mech. 17, 1950, 391.
-.W
-natural frequencies of continuous beams of uniform
-span length .
-  a simple graphical network is used to determine the
-natural frequencies of flexural vibration of continuous
-beams having any number of spans of uniform length .
-the network is based upon a relatively few calculated
-values .
+Libraries and Neighborhood Information Centers
+
+Kromes, C.L.
+
+  It has been suggested by various librarians concerned with inner-city
+service that the library serve as an informational and interpersonal link
+between community residents and social agencies.  The major question is
+whether it is necessary to add another agency to the already overburdened
+social service bureaucracy.  The rationale for envisioning the library in
+this role is twofold:  (1) the library has achieved a reputation for
+impartiality because it provides information on all sides of an issue and
+is not committed to any particular action program, community service or
+clientele; and (2) librarians are specifically trained to locate, organize,
+update and disseminate information.

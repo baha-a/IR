@@ -1,32 +1,15 @@
-.I 504
-.T
-stability of compressible boundary layers induced by
-a moving wave .
-.A
-ostrach,s.
-.B
-j. ae. scs. 29, 1962, 289.
-.W
-stability of compressible boundary layers induced by
-a moving wave .
-  the problem of determining the stability of compressible
-viscous flows with nonzero surface velocities is formulated and is
-shown to be identical to that for conventional boundary layers,
-with only a redefinition of the mach and reynolds numbers
-required .  specific consideration is given to the wall boundary
-layer behind a moving shock wave, and the minimum critical
-reynolds numbers are obtained for various shock velocities .
-the entire stability map is determined for the limiting case of a
-weak wave, which is analogous to the rayleigh problem .
-  the minimum critical reynolds number is found to increase
-monotonically with shock velocity--i.e., with increasing surface
-cooling and stream mach number combined .  for the ratio of
-wall to stream velocity of 2.92 with (shock mach number
-of 2.18) the flow is found to be infinitely stable to two-dimensional
-disturbances .
-  experimental transition data do not follow the trends predicted
-by the theory .  in fact, the transition reynolds numbers are
-orders of magnitude below the computed minimum critical
-reynolds numbers .  the lack of correlation between theory and
-experiment is attributed to disturbances which are external to
-the boundary layer .
+Columbia University School of Library Service System   for Thesaurus Development and Maintenance
+
+Hines, T. C.Harris, Jessica L.
+
+   A system for computer-based thesaurus production and maintenance has been 
+developed at Columbia University School of Library Service.. The system is
+highly flexible, providing for all the types of data elements which have been 
+used in both thesauri and subject heading lists, with additional features found
+to be useful as a result of the ongoing research program at Columbia.. Three
+thesauri in widely varying subject fields are in the final stages of production
+under the system.. As a result of the simultaneous development of the thesauri 
+(based on actual indexing universes) and of the production system, which is 
+part of a larger program of research in information handling problems, a variety
+of new techniques and procedures have been developed as their usefulness became 
+evident..

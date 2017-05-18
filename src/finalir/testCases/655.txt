@@ -1,20 +1,24 @@
-.I 655
-.T
-effects of boundary layer displacement and leading edge bluntness on
-pressure distribution, skin friction, and heat transfer of bodies at
-hypersonic speeds .
-.A
-bertram, m.h. and henderson, a.
-.B
-naca tn 4301, july 1958 .
-.W
-effects of boundary layer displacement and leading edge bluntness on
-pressure distribution, skin friction, and heat transfer of bodies at
-hypersonic speeds .
-results are presented of an investigation to determine the effect of
-boundary-layer displacement and leading-edge bluntness on surfaces in
-hypersonic flow . the presence of the boundary layer and the blunt
-leading edge induce pressure gradients which in turn affect the skin
-friction and heat transfer to the surface . methods for predicting these
- phenomena on two-dimensional surfaces are given and a brief review of
-recent three-dimensional results is presented .
+The Potential Usefulness of Catalog Access Points OtherThan Author, Title, and  Subject
+
+Cooper, William S.
+
+   Library patrons who wish to obtain a known document with which they
+have had prior personal contact often cannot remember the standard author-
+title-subject information about it with sufficient accuracy to be able
+to look it up easily in present-day card catalogs.. However, they may
+remember a surprising amount of such "nonstandard" information as the
+color of the document's cover or its approximate length.. Could this
+type of "nonstandard" information be profitably exploited in computerized
+catalogs of the future?  Such facilities, if available, would surely be
+used, for according to catalog usage surveys a majority of today's
+library patrons seek known documents, and of these, a substantial
+minority possess nonstandard information.. In this report, the results of
+a memory experiment to test the memorability of various types of
+nonstandard information are described and analyzed.. A ranking according
+to relative memorability and potential retrieval usefulness of various
+nonstandard book features is given.. It is estimated that if the average
+patron's nonstandard information were exploited by appropriate retrieval
+strategies, he would only have to search through roughly one five-hundredth
+as many documents as in a random search.. This reduction factor is great
+enough to make nonstandard information potentially useful in many
+situations..

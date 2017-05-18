@@ -1,32 +1,19 @@
-.I 261
-.T
-experiments on axi-symmetric boundary layers along
-a long cylinder in incompressible flow .
-.A
-yashura,m.
-.B
-trans. japan soc.ae.sc. 2, 1959.
-.W
-experiments on axi-symmetric boundary layers along
-a long cylinder in incompressible flow .
-  experiments on axi-symmetric boundary
-layers along a long cylinder were made
-especially to investigate the effect of transverse
-curvature on the velocity profile .  laminar
-velocity profiles were measured and compared
-with theoretical ones with good accuracy .
-a representative profile was plotted to see the
-effect of transverse curvature, which showed
-small, but obvious effect accompanied by
-increasing skin friction .
-  the transition of the flow from laminar to
-turbulent was observed, and its reynolds
-number was estimated to occur at 1.2 1.8x10
-in the present experiment .  the turbulent
-profile was also measured and plotted by using
-the coordinates to express the wall law
-deduced by richmond, from which it was
-estimated that, as the ratio of the momentum
-thickness to body radius increases, the profile
-near the outer layer tends to bend down
-relative to the line of logarithmic wall law .
+Classification Scheme for Law Books
+
+Moys, E.M.
+
+  An examination made over a period of years of the principles of
+classifying law books for use in libraries, and of their treatment in
+many general and specialized classification schemes convinced me that
+no scheme existed which was generally suitable for libraries in English-
+speaking countries outside the United States.  Law collections in
+academic libraries in the United Kingdom and the Commonwealth were
+in a particularly difficult position.  They had the choice of adopting one
+of the good American schemes, which generally make inadequate
+provision for the needs of overseas Commonwealth libraries; or of
+adopting one of the English schemes, each of which is virtually tailored
+to a particular library, and several of which are even less well suited
+to overseas libraries; or of devising new schemes for themselves.  There
+seemed to be an urgent need for a practical law classification scheme
+capable of being used in a variety of libraries, large and small, general
+and special, academic and professional, in these countries. 

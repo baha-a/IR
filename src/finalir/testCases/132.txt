@@ -1,43 +1,29 @@
-.I 132
-.T
-viscosity effects in sound waves of finite amplitude:
-in survey in mechanics .
-.A
-lighthill,m.j.
-.B
-ed. by g.k.batchelor and r.m.davies.  c.u.p. 1956.
-.W
-viscosity effects in sound waves of finite amplitude:
-in survey in mechanics .
-  this article has as its subject /the conflicting influence on
-sound propagation of convection on the one hand, and of diffusion
-and relaxation on the other/, whose importance in the
-determination of the structure of shock waves was first appreciated clearly
-by sir geoffrey taylor .  as an essential introduction to the main
-topics, author gives an exceptionally clear and valuable account
-of the physical mechanisms of viscosity, thermal conductivity, and
-other diffusion effects, including relaxation .  the classical theory
-of shock-wave formation is then discussed, and some extensions
-are made .
-  the remainder of the article is based on the demonstration that
-the nonlinear equation for plane progressive sound waves, in which
-convection and diffusion are taken into account to a first
-approximation, can be transformed into burgers's equation, the general
-solution of which was given by hopf and cole .  this approach, in
-which all flows are continuous (they become discontinuous at
-shock waves in the limit as viscosity, etc., tend to zero), allows
-the author to re-derive and extend whitham's theory of the
-formation and decay of weak plane shock waves, and to derive many
-new results, such as the velocity distributions during the union
-of two shock waves and during the formation of a shock wave .
-the application of the same idea to non-plane shock waves is
-also discussed, but more briefly,. in these cases, burgers's
-equation is not quite such a good approximation as before .
-  the article concludes with sections on sound waves whose
-reynolds numbers based on the length scale of the flow and the
-velocity amplitude are comparable with unity, and on the effects
-of relaxation on the properties of shock waves .  the whole is
-much more than a survey, and represents a very substantial
-advance in the theory of sound waves .  it is the finest possible
-tribute to sir geoffrey taylor that he should be able to inspire
-articles such as this and the others in this volume .
+Information Needs and Uses in Science and Technology
+
+Menzel, H.
+
+The way in which scientists and engineers make use of the information
+systems at their disposal, the demands that they put to them, the
+satisfaction achieved by their efforts, and the resultant impact on their
+further work are among the items of knowledge which are necessary for the wise
+planning of science information systems and policy.  Besides, these
+matters can be of great significance to the behavioral scientist interested
+in human organization and communication.  While "user studies" have
+not yet gone very far in serving either of these functions, the end of 1963
+seems to have been something of a take-off point for empirical research
+on the information needs and uses of scientists and technologists.  For
+this first volume of the Annual Review, we shall therefore cover studies that
+made their appearance as far back as the last month of 1963, to give the
+reader a rounded picture of a period during which this area of research
+has witnessed progress along the following lines:
+    Substantial advances in the more systematic and fruitful application
+  of a technique (critical incidents) that had made its appearance in
+  this field earlier in less rigorous forms;
+    The introduction of at least two very promising approaches (solution
+  development records; comparison of research teams working on identical
+  tasks) quite different from any that had been applied to this field before; 
+  and
+    An increase in the number of efforts at comprehensive study of the
+  information-flow situation in given disciplines, one of which [American
+  Psychological Association (3)] has become the model and envy of research
+  in this area.

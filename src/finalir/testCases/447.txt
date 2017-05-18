@@ -1,23 +1,16 @@
-.I 447
-.T
-motion of thin bodies in a highly rarefied plasma .
-.A
-yoshira,h.
-.B
-phys.fluids,4, 1961.
-.W
-motion of thin bodies in a highly rarefied plasma .
-  magnetic effects are considered negligible,
-and the velocity of the body is in a range between the
-electron and positive ion thermal speeds .
-the self-consistent field approach is used in which the
-electron distribution is assumed to be maxwellian,
-while the positive ion distribution function is given
-by the /collision-free/ boltzmann equation .
-it is assumed that the ion reflection at the body surface
-is specular, and the body is sufficiently thin so
-that the ion distribution function is a small perturbation
-of a maxwellian distribution .  the solution for
-the simple case of a dielectric body with a given surface
-charge, as well as some general properties to
-be expected for a conducting body are given .
+A Note on the Concept of "Relevance"
+
+Foskett, D.J.
+
+  Two recent articles in this journal (Konigova [1], Cooper [2]) have gone
+beyond the usual slapdash use of the words "relevant" and "relevance," and
+have attempted to explicate the concept further.  Both attempts only partially
+succeed.  Konigova proposes three types:  formal relevance, subject/content
+relevance and subjective relevance (or pertinency).  This classification has
+validity, but is not further elaborated, and indeed she reverts to a less
+precise language; for example, in defining "second order noise," she uses the
+ambiguous phrase "a formally relevant document which is not really relevant" -
+presumably meaning not subjectively relevant, according to the real need of
+the enquirer.  And in her mathematics, as she admits, "no account is taken of
+the subjective relevance (pertinence)."  Yet this is surely the true aim of the
+system.

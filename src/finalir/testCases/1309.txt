@@ -1,46 +1,28 @@
-.I 1309
-.T
-hypersonic flows past a yawed circular cone and other
-pointed bodies .
-.A
-cheng,h.k.
-.B
-j. fluid mech. 12, 1962, 169.
-.W
-hypersonic flows past a yawed circular cone and other
-pointed bodies .
-a detailed treatment of inviscid hypersonic
-flow past a circular cone is given, for
-small and moderate yaw angles, within
-the framework of shock-layer theory .
-the basic problem of non-uniform validity
-associated with the singularity of
-the entropy field is examined and a valid
-first-order solution is obtained which
-provides an explicit description of a thin
-vortical layer at the inner edge of the
-shock layer .  analytic formulas for pressure
-and circumferential velocity are
-given consistent to the second-order
-approximation including the non-linear
-yaw effect .
-  the study of the entropy field (which
-is not restricted to the hypersonic case)
-also provides corrections to previous
-work on the yawed cone and confirms the
-validity of the linear yaw effect on pressure
-field in the stone theory .
-  a related investigation of three-dimensional
-flow fields is presented with
-special reference to the flow structure near
-the surface of a pointed, but
-otherwise arbitrary body .  the inviscid streamline
-pattern on the surface is given by
-the geodesics originting from the pointed
-nose as a leading approximation of
-shock-layer theory .  associated with this
-streamline pattern is a vortical sublayer
-which exists generally at small as well as at
-large angle of attack .  at the base of
-the sublayer, enthalpy and flow speed remain
-essentially uniform .
+Science and Information Theory
+
+Brillouin, L.
+
+  A new scientific theory has been born during the last few years, the theory
+of information.  It immediately attracted a great deal of interest and has
+expanded very rapidly.  This new theory was initially the result of a very
+practical and utilitarian discussion of certain basic problems:  How is it
+possible to define the quantity of information contained in a message or 
+telegram to be transmitted?  How does one measure the amount of information
+communicated by a system of telegraphic signals?  How does one compare these
+two qualities and discuss the efficiency for coding devices?  All of these
+problems, and many similar ones, are of concern to the telecommunication
+engineer and can now be discussed quantitatively.
+  From these discussions there emerged a new theory of both mathematical
+and practical character.  This theory is based on probability considerations.
+Once stated in a precise way, it can be used for many fundamental scientific
+discussions.  It enables one to solve the problem of Maxwell's demon and to
+show a very direct connection between information and entropy.  The 
+thermodynamic entropy measures the lack of information about a certain
+physical system.  Whenever an experiment is performed in the laboratory,
+it is paid for by an increase of entropy, and a generalized Carnot Principle
+states that the price paid in increase of entropy must always be larger than
+the amount of information gained.  Information corresponds to negative
+entropy, a quantity for which the author coined the word negentropy.  The
+generalized Carnot Principle may also be called the negentropy principle of
+information.  This principle imposes a new limitation on physical experiments
+and is independent of the well-known uncertainty relations of quantum mechanics.

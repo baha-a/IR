@@ -1,37 +1,17 @@
-.I 115
-.T
-on turbulent lubrication .
-.A
-constantinescu,v.n.
-.B
-proc.inst.mech.e. 173, 1959, 881.
-.W
-on turbulent lubrication .
-the paper concerns the hydrodynamic turbulent
-motion in the lubricant layer .  proceeding
-from the reynolds equations and introducing
-the approximations currently used in
-lubrication problems, owing to the lubricant film
-thickness, the general motion equations for
-turbulent lubrication are written .
-  using the prandtl mixing length hypothesis,
-exact and approximate solutions are
-obtained for the velocity distribution into the
-lubricant layer .  the results are discussed by
-pointing out the pressure gradient and the
-reynolds number influence on the velocity
-distributions, as well as the differences with
-respect to the laminar flow .
-  in order to obtain simple formulae, the
-exact dependence of the rate of flow on the
-pressure gradient into a dimensionless form
-is replaced by a linear relation, the slope of
-which depends on the reynolds number .
-this approximation allows the obtainment of
-the pressure differential equation under a
-simple form .  the pressure equation is integrated
-in case of journal bearings, by assuming a
-constant or a variable viscosity of the lubricant .
-  the results are compared to the experimental
-data obtained by m. i. smith and d. d.
-fuller and the good qualitative agreement is pointed out .
+Analysis of Library User Circulation Requirements
+
+Trueswell, Richard W.
+
+   This research study is concerned with the use of the last circulation date 
+as a statistic to help describe library user circulation requirements.. Some 
+decision rules were developed to use this parameter as an aid in determining the
+number of copies of books to be held in the library and as an aid in the
+weeding of books from the library's holdings.. The effect of these decision
+rules on the circulation requirements of users as well as on library operations 
+are described.. The method of data collection is described in detail and is 
+applicable at libraries having comparable charging systems.. Cumulative 
+distribution functions of last circulation date at two large college libraries 
+and a public library were prepared and have been plotted for both circulation 
+data and stack holding data.. This same data has also been plotted by subdivided
+subject category.. Circulation operating characteristics were prepared for all
+three libraries..

@@ -1,16 +1,12 @@
-.I 394
-.T
-the viscous flow near a stagnation point when the external flow has
-uniform vorticity .
-.A
-j. t. stuart
-.B
-national physical laboratory, teddington, middlesex, england
-.W
-the viscous flow near a stagnation point when the external flow has
-uniform vorticity .
-in view of the recent controversy between li and glauert on the nature
-of the solution of the boundary-layer equations when the external
-flow is rotational, it seems worthwhile to draw attention to a certain
-exact solution of the navier-stokes equations which lends support to
-glauert's point of view .
+A Feasibility Study of Centralized and Regionalized Inter-LibraryLoan Centers
+
+Stevens, R.E.
+
+  The two major problems of the present system are (1) the unequal
+distribution of lending, with a few of the largest libraries handling
+a large proportion of the requests, and (2) the difficulty of filling
+requests which are incomplete, incorrect, or inadequately checked.
+  Solutions proposed for these two problems have been (1)
+compensation to the largest libraries for each transaction, and (2)
+better bibliographic checking of requests before they are forwarded to
+the lending library.

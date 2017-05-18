@@ -1,41 +1,17 @@
-.I 566
-.T
-investigation of local heat transfer and pressure drag
-characteristics of a yawed circular cylinder at supersonic
-speeds .
-.A
-goodwin,g., creager,m.o. and winkler,e.l.
-.B
-naca rm.a55h31, 1956.
-.W
-investigation of local heat transfer and pressure drag
-characteristics of a yawed circular cylinder at supersonic
-speeds .
-  local heat-transfer coefficients,
-temperature recovery factors, and
-pressure distributions were measured
-on a circular cylinder at a nominal
-mach number of 3.9 over a range of
-free-stream reynolds numbers from
-from 0 to 44 .
-  it was found that yawing the
-cylinder reduced the local heat-transfer
-coefficients, the average heat-transfer
-coefficients, and the pressure
-drag coefficients over the front side
-of the cylinder .  for example, at
-is reduced by 34 percent and the
-pressure drag by 60 percent .  the
-amount of reduction may be predicted by
-a theory presented herein .  local
-temperature recovery factors were also
-reduced by yaw, but the amount of
-reduction is small compared to the
-reduction in heat-transfer coefficients .
-  a comparison of these data with
-other data obtained under widely
-different conditions of body and stream
-temperature, mach number, and
-reynolds number indicates that these
-factors have little effect upon the
-dropoff of heat transfer due to yaw .
+Semantic Clustering of Index Terms
+
+Gotlieb, C. C.Kumar, S.
+
+   A computer procedure to recognize indexing vocabularies is described..Index
+terms are drawn from the vocabulary of a structured indexing system and may
+consist of single words, collection of words, or syntactic phrases.. The basic
+idea is that a measure of the semantic association between index terms can be 
+determined from the structural relationships which the terms exhibit by their
+relative positions in the system.. The association measure, which is based on a 
+priori (preassigned) semantic relationships between terms, rather than their 
+co-occurrence in a document corpus, is then for grouping index terms into 
+clusters or concepts.. Some results of an experimental investigation are 
+presented..
+   Information, retrieval, clustering, index terms, semantic, graphs, clusters,
+associations, synonyms, subgraphs, complete, maximal, connected, component,
+relevance measure, vocabulary, indexing systems, cliques..

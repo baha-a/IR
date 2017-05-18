@@ -1,19 +1,12 @@
-.I 940
-.T
-of a turbulent free shear layer .
-.A
-nash,j.f.
-.B
-npl. aero. r1019, 1962.
-.W
-of a turbulent free shear layer .
-  the problem of predicting the mean velocity on streamlines
-through the pre-asymptotic turbulent free shear layer in two-dimensional
-incompressible flow is resolved into two parts .  the linearized
-momentum equation in terms of a generalized axial co-ordinate is
-solved in the usual way .  a relation between and the distance from
-the separation point is then established analytically in contrast to the
-previous use of empirical expressions .
-  it is shown that except in the region close to separation the
-velocity on the streamlines can be predicted by the simple approximation
-proposed by kirk .
+ISBDIts Origin, Rationale, and Implications
+
+Spaulding, C.S.
+
+  A proper understanding of the International Standard Bibliographic
+Description (ISBD), a standard promulgated by the International Federation of
+Library Associations (IFLA), requires some knowledge of how it came into
+existence, what reasoning prompted its development, ad what useful results can 
+be expected from its adoption.  These matters will be dealt with below,
+hopefully in sufficient detail to provide readers with a basis for teaching a 
+sound evaluation of the effect of this standard when applied to American 
+cataloging practice and in particular to LC cataloging and MARC tapes.

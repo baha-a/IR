@@ -1,24 +1,13 @@
-.I 1190
-.T
-flow of a gas near a solid surface .
-.A
-ziering,s.
-.B
-aiaa jnl. 1, 1963, 661.
-.W
-flow of a gas near a solid surface .
-  the state of a gas near a solid surface is investigated .
-it is assumed that at a sufficiently
-large distance from the surface the particle distribution
-function is of the chapman-enskog
-form .  the half-range analysis previously employed for
-parallel plate geometrics (symmetric
-problems) can be adapted to the single-plate problem .
-although the mathematical analysis
-differs, the slip coefficients are essentially identical
-with those obtained from the parallel
-plate problem (e.g., couette flow) .  detailed calculations
-are presented for both hard sphere
-and maxwellian molecules .  the recent work of
-bakanov and deryagin for hard sphere
-molecules, which is based on incorrect approximations, is discussed .
+Basis of informatics
+
+Mikhailov, A.I.
+
+Informatics is a new scientific discipline, studying the fracture and
+characteristics of scientific information, the regularities of scientific
+information activity, its theory, history, system of methods and organization.
+The book formulates subject and method of scientific information theory;
+gives specification of different kids of documents as sources of scientific
+information; sheds light on the methods and forms of analytical-synthetic
+document processing; expounds basic principles of information retrieval and
+ways to mechanize and automatize it; describes methods and resources of
+document copying and reproduction.

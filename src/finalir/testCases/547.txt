@@ -1,29 +1,16 @@
-.I 547
-.T
-boundary layer characteristics of caret wings .
-.A
-catherall,d.
-.B
-rae tn.aero.2835, 1962.
-.W
-boundary layer characteristics of caret wings .
-  the theory of laminar boundary
-layers along flat surfaces has been
-used in conjunction with eckert's
-approximations to the displacement
-thickness, skin friction and temperature
-profiles on the undersurface of a
-caret wing configuration .  to a first
-approximation it has been assumed
-that parallel flow exits behind the shock
-outside the boundary layer, and the
-displacement of the shock by the boundary
-layer near the leading edge is neglected .
-  conduction of heat within the
-body and along the surface is neglected
-but radiation is included, so that
-are found .  examples are given for
-various altitudes and configurations and
-the effect of the skin friction on
-the lift drag ratio calculated, assuming
-the undersurfaces to be plane .
+AIM-TWX - an Experimental On-Line Bibliographic Retrieval System
+
+Katter, R.V.McCarn, D.B.
+
+    The Lister Hill National Center for Biomedical Communications of
+the National Library of Medicine, in conjunction with the NLM Library
+Operations staff, initiated in June 1970 a new experimental service called
+AIM-TWX (Abridged Index Medicus-TWX) to provide rapid, responsive
+searching of the medical literature.
+    This experiment is being conducted to identify the need for and
+usefulness of such services to help medical practitioners situated in isolated
+areas, to assist in undergraduate, graduate, and continuing medical education,
+and to provide information precisely when and where it is needed for health
+care.  A limited group of practitioners, students, and librarians is being given
+access to the system so that it will not be overloaded and rejected because of
+busy signals, and so that a variety of user groups can test it.

@@ -1,15 +1,10 @@
-.I 451
-.T
-liapunov's methods in automatic control theory .
-.A
-parks, p. c.
-.B
-control, november and december 1962 .
-.W
-liapunov's methods in automatic control theory .
-the work of a. m. liapunov and his theory of stability is discussed .
-the second method of liapunov is shown to have applications for linear
-equations with real constant coefficients, for a proof of the
-routh-hurwitz criterion, and linear equations with periodic coefficients .
-practical examples include non-linear stability problems of control, and
- the functions have uses in other areas of control systems .
+Interaction Between Requesters and a Large Mechanized retrieval System
+
+Lancaster, F.W.
+
+   In a large mechanized retrieval system, a certain proportion of the search
+failures are likely to be directly attributable to inadequate user-system 
+interaction.. Request statements may be only distant  approximations of
+actual information requirements.. This paper discusses some of the problems of
+the user-system interface and suggests methods whereby these problems may be
+alleviated..

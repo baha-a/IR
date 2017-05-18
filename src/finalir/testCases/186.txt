@@ -1,28 +1,21 @@
-.I 186
-.T
-base pressure in supersonic flow .
-.A
-gadd,g.e., holder,d.w. and regan,j.d.
-.B
-arc cp271, 1956.
-.W
-base pressure in supersonic flow .
-  the problem of accurately predicting the pressure and wake
-configuration at the base of bodies in supersonic flow is an
-extremely important one inasmuch as a sizeable portion of the total
-drag of a given body may be attributable to the low pressure in
-this region .  although a great deal of theoretical and experimental
-work has been done in this field, there does not yet exist a
-satisfactory method for accurate predictions .
-  this paper represents an excellent effort to experimentally
-confirm analytically deduced concepts .  a large amount of
-experimental data on body shapes such as wedges, cones, and
-cone-cylinders has been obtained over a range of mach numbers up to 4 .
-the data are thoroughly discussed with respect to analytical
-deductions .  on the basis of the evidence accumulated it is
-concluded that the boundary-layer thickness has only a small effect
-on the base pressure for axisymmetric bodies and for
-two-dimensional bodies when the base height-to-chord ratios are of
-the order .
-  reviewer believes this report is a significant contribution in the
-field of base pressure and wake flow phenomena .
+An Investigation of the Educational Needs of Health Science LibraryManpower:  II. Health-Related Institutions and Their Library Resources
+
+Rothenberg, LesliebethRees, Alan M.Kronick, David A.
+
+   As part of an investigation of health sciences library manpower, the
+universe of health-related institutions and programs (excluding hospitals) was
+surveyed by postcard questionnaire to produce an inventory and description of
+libraries providing services to these institutions reported access to library
+resources, indicating usage of some 2,207 non-hospital libraries.. Eighty
+percent (2,431) of the institutions reported that the library used was "within"
+their own institution; 20 percent (608) noted that the library was "outside"
+of their institution..
+   The distribution of health-related institutions and libraries is shown by
+RML districts, together with relevant census data.. A classification of
+libraries, based on the degree of involvement of the libraries' facilities,
+resources and personnel in supplying services to health-related institutions,
+was developed..
+   It is concluded that projections of manpower needs should take into account
+institutions and programs not at present possessing health sciences libraries
+as well as documented demand in existing health sciences libraries..
+

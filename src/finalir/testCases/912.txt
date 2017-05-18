@@ -1,26 +1,11 @@
-.I 912
-.T
-the axisymmetric free-convection temperature field
-along a vertical thin cylinder .
-.A
-hama,p.r., recesso,j.v. and christiaens,j.
-.B
-j. ae. scs. 1959, 335.
-.W
-the axisymmetric free-convection temperature field
-along a vertical thin cylinder .
-  with a view to studying the effect of strong transverse
-curvature on boundary-layer problems, the axisymmetric free-
-convection problem along a vertical thin cylinder is investigated
-theoretically as well as experimentally .  a theory is developed
-as an extension of the pohlhausen solution of a thick
-axisymmetric laminar boundary layer by mark and by glauert and
-lighthill .  experiments consist of a thermocouple survey of the
-temperature field over an electrically-heated brass cylinder of
-diameter and 10 ft. height and an interferometric study
-of the density field over a bare tungsten wire of 0.02-in. diameter
-and 5 ft. height .  the thermal-layer thicknesses are about five
-and fifty times the radii of the cylinders, respectively .
-experimental results of the local heat-transfer coefficient are in excellent
-agreement with the theory .  this, in turn, justifies the theories
-of laminar boundary layer along a thin cylinder, at least indirectly .
+Libraries in Political Science
+
+Dosa, M.L.
+
+  This study undertakes to document the process and the thinking
+that led Leyh to his controversial professional-political activities
+and his widely criticized writings in his later years.  Every effort
+has been made to present the documentary material and to analyze
+Leyh's reactions to political and psychological pressures without
+favoring any particular position.  Neither a justification nor a
+critique of Leyh's actions is intended.

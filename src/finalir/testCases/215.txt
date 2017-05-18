@@ -1,19 +1,10 @@
-.I 215
-.T
-the test performance of highly loaded turbine stages
-designed for high pressure ratio .
-.A
-johnston,i.h. and dransfield,d.c.
-.B
-ngte r235, 1959.
-.W
-the test performance of highly loaded turbine stages
-designed for high pressure ratio .
-  a blade design for a highly loaded two-stage
-turbine is described and the test performance of
-the turbine is presented .
-  some of the factors affecting the performance and matching
-of turbine blade rows operating at supersonic
-gas velocity are discussed and investigated by means of tests
-on a three-dimensional nozzle cascade tunnel
-and on a variety of single-stage turbine builds .
+Selected Reference Aids for Small Medical Libraries
+
+Duncan, Howertine Farrell
+
+   This annotated list of 178 items is compiled as a guide to the development
+of the reference collection in a small medical library..
+   Arrangement, following the pattern of the previous revision, is by broad 
+subject groups.. Titles are chiefly in English.. Textbooks in subject fields
+have been omitted since these are covered adequately in several comprehensive
+guides to the literature..

@@ -1,21 +1,12 @@
-.I 1254
-.T
-combustion in the boundary layer on a porous surface .
-.A
-eschenroeder,a.q.
-.B
-j. ae. scs. 1960, 901.
-.W
-combustion in the boundary layer on a porous surface .
-  the position of the diffusion flame in a boundary layer with
-uniform mixture injection from a porous wall parallel to a uniform
-air stream is determined under the conditions of laminar, steady
-flow with zero streamwise pressure gradient .  under the
-assumption of fast forward reaction rate, solutions of the boundary
-layer forms of the conservation laws of acrothermochemistry are
-obtained leading to a formula for the downstream velocity at
-the flame in terms of composition and flow variables .  the
-rates of change of conditions at the wall in the streamwise
-direction are assumed to be relatively small .  methods of
-treating complex reaction systems are described, and generalized
-form of the reynolds analogy is developed .
+Report of an Investigation on Literature Searching by Research Scientists
+
+Martin, J.
+
+   This is a factual report of the investigation.. It includes all the 
+numerical results which were judged to be worth reporting.. The whole of the 
+data collected for the investigation is available on punched cards, and
+further analyzes can be made from these, if required, by members of Aslib..
+   The broad significance of the results, and any conclusions to be drawn from
+them, are discussed in papers now being prepared for publication elsewhere.. In
+this report only such discussion is included as is necessary to clarify the
+data presented..

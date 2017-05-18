@@ -1,36 +1,22 @@
-.I 701
-.T
-numerical determination of indical lift of a two-dimensional sinking
-airfoil at subsonic mach numbers from oscillatory lift coefficients with
- calculations for mach number 0.7 .
-.A
-mazelsky, b.
-.B
-naca tn 2562, 1951 .
-.W
-numerical determination of indical lift of a two-dimensional sinking
-airfoil at subsonic mach numbers from oscillatory lift coefficients with
- calculations for mach number 0.7 .
-the reciprocal equations for relating the incompressible circulatory
-indicial lift to the lift due to harmonic oscillations have been
-modified to include the noncirculatory lift associated with
-apparent-mass effects . although the apparent-mass effects are impulsive in
-nature in incompressible flow, the lift due to apparent-mass effects in
-compressible flow is a time-dependent function . the corresponding
-reciprocal equations for the total compressible lift are given . by use
-of the reciprocal equations for compressible flow, the indicial lift and
- moment functions due to an airfoil's experiencing a sudden acquisition
-of vertical velocity are determined numerically for mach number 0.7 .
-lack of sufficient flutter coefficients prevents the calculation of
-these functions at other mach numbers .
-although the indicial lift and moment functions due to penetration of a
-sharp-edge gust may be obtained from the oscillatory tab or aileron
-coefficients by a similar analysis, sufficient coefficients are not
-available at the present . however, an approximate method is shown for
-determining a portion of this unsteady-lift function .
-when a comparison is made of the indicial lift functions at mach numbers
-appears to be less rapid for the compressible case than for the
-incompressible case . consequently, the calculation of the gust load factor
-at high subsonic mach numbers utilizing the two-dimensional
-incompressible indicial lift functions and an over-all correction for
-compressibility such as the prandtl-glauert factor might be conservative .
+Chemical Abstracts Index Names for Chemical Substances in the NinthCollective Period (1972-1976)
+
+Donaldson, N.Powell, W.H.Rowlett, R.J.White, R.W.Yorka, K.V.
+
+  Index names for chemical substances have been significantly revised by
+Chemical Abstracts Service (CAS) for Volume 76 [January-June 1972, the first
+volume of the Ninth Collective Period (1972-1976)] and subsequent volumes of
+Chemical Abstracts.  While remaining generally within the framework of IUPAC
+and other existing nomenclature rules, the most systematic recommended names
+have been chosen.  These names are more easily derived from molecular structural
+diagrams, and, therefore, are more quickly found by index users.  Machine
+editing of index names and translation of these names into structural
+representations in the CAS computer-based information system are also aided
+by the revisions.  The index name revisions include (i) conversion of almost all
+"trivial" or author terminology into more systematic names, (ii) simplification
+of general name-selection rules, and (iii) elimination of special treatment for
+certain classes of substances.  Specific identifiable alloys, elementary
+particles, enzymes, and mixtures of substances are now indexed like conventional
+chemical substances.  Difficulties encountered with generation of previous
+Chemical Abstracts index names and indexing rules are described, and comparisons
+are made of new and former index names for chemical compounds and substituent
+radicals.

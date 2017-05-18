@@ -1,18 +1,16 @@
-.I 67
-.T
-dynamic stability of vehicles traversing ascending
-or descending paths through the atmosphere .
-.A
-tobak and allen.
-.B
-naca tn.4275, 1958.
-.W
-dynamic stability of vehicles traversing ascending
-or descending paths through the atmosphere .
-  an analysis is given of the oscillatory motions of vehicles which
-traverse ascending and descending paths through the atmosphere at high
-speed .  the specific case of a skip path is examined in detail, and
-this leads to a form of solution for the oscillatory motion which should
-recur over any trajectory .  the distinguishing feature of this form is
-the appearance of the bessel rather than the trigonometric function as
-the characteristic mode of oscillation .
+The Use of Simulation in Studying Information Storage and Retrieval Systems
+
+Baker, Norman R.Nance, Richard E.
+
+   Previous applications of simulation to information storage and retrieval 
+systems (ISRS) have been overly restrictive in their scope and have failed to
+consider the environment within which such systems operate.. This paper 
+considers the ISRS as a subsystem within a larger system which includes the 
+users and the funders of the retrieval system.. The three components form a 
+closed-loop information feedback system in which user response influences both 
+the funding and operation of the ISRS as it attempts to satisfy user needs 
+within a finite budget allocation.. Reward-cost theory provides the basis for
+describing user behavior.. An industrial dynamics model has been developed to 
+simulate ISRS/user/funder behavior where a university departmental library is 
+the ISRS component.. The results which such an analysis can produce are 
+discussed..

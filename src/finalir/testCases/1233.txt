@@ -1,22 +1,14 @@
-.I 1233
-.T
-supersonic shear flow past an airfoil between two parallel
-walls .
-.A
-rhyming,i.l.
-.B
-j. ae. scs. 1961, 861.
-.W
-supersonic shear flow past an airfoil between two parallel
-walls .
-  the supersonic flow with assigned mach number gradient in
-the span direction past a straight wing between two parallel
-walls is studied using the small-disturbance theory .  the
-governing equation for the disturbance pressure on the airfoil, together
-with the boundary conditions on the airfoil and at the walls, is
-solved by the method of separation of variables .  upon
-separation the problem is reduced to a sturm-liouville eigenvalue
-problem and to the solution of the telegraph equation .
-  as an application, a certain mach number profile is selected
-and the resulting pressure distribution on a parabolic arc airfoil
-is computed .
+A Theory of Human Motivation
+
+Maslow, A.H.
+
+  The present paper is an attempt to formulate a positive
+theory of motivation which will satisfy these theoretical
+demands and at the same time conform to the known facts,
+clinical and observational as well as experimental.  It
+derives most directly, however, from clinical experience.
+This theory is, I think, in the functionalist tradition of
+James and Dewey, and is fused with the holism of Wertheimer,
+Goldstein, and Gestalt Psychology, and with the dynamicism of
+Freud and Adler.  This fusion of synthesis may arbitrarily 
+be called a 'general-dynamic' theory.

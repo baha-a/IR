@@ -1,33 +1,22 @@
-.I 556
-.T
-numerical comparison between exact and approximate
-theories of hypersonic inviscid flow past slender blunt
-nosed bodies .
-.A
-feldman,s.
-.B
-ars j. 30, 1960.
-.W
-numerical comparison between exact and approximate
-theories of hypersonic inviscid flow past slender blunt
-nosed bodies .
-  this paper presents numerical results of
-exact calculations of the inviscid equilibrium flow about
-a long hemisphere-cylinder in motion
-at hypersonic velocity .  a comparison is made with blast
-wave as well as free layer theories of hypersonic
-flow .  as a result of the comparison, it is concluded
-that the second-order blast wave theory can
-be used for the purpose of finding the shock shape and
-the body pressure distribution .  however,
-this procedure is definitely empirical and cannot be
-justified on rational or theoretical grounds .
-we show that the presently calculated radial distribution
-of energy is radically different than that
-given by blast wave theory .  if body shapes other than
-those considered here are of interest, the
-only reliable approach at the present time is to carry out
-numerical calculations .  it was found
-that for certain flight velocities the pressure on the body
-does not decay to free stream pressure
-monotonically but overexpands .
+Introduction to Subject Indexing; a Programmed Text
+
+Brown, A.G.
+
+  This programmed text has been developed from work initially carried out
+under a research project funded by the Office for Scientific and Technical
+Information (now the British Library Research and Development
+Department).  The project, designed to investigate the applicability of the
+techniques of programmed instruction in the teaching of practical subject
+indexing, was conducted at the School of Librarianship, the Polytechnic
+of North London in cooperation with the College of Librarianship Wales.
+The programmed instruction course, written during this project and used
+by students at both Schools of Librarianship, forms the basis of the
+programmed text.
+  Most of the existing programmed texts relevant to the field of practical
+subject indexing are concerned with the translation stage of indexing and
+aim to impart skills in the use of particular indexing languages.  Our
+intention, in the above-mentioned project, was to produce a course of
+programmed instruction which presented an integrated view of the basic
+principles and practices of subject indexing rather than attempting to 
+impart to the student a high degree of familiarity with any particular
+system.

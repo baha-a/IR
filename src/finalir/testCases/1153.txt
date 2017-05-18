@@ -1,24 +1,16 @@
-.I 1153
-.T
-a study of the simulation of flow with free stream mach number 1 in a
-choked wind tunnel .
-.A
-spreiter, j.r., smith, d.w. and hyett, b.j.
-.B
-nasa tr r-73, 1960 .
-.W
-a study of the simulation of flow with free stream mach number 1 in a
-choked wind tunnel .
-the degree to which experimental results obtained under choking
-conditions in a wind tunnel with solid walls simulate those associated with
-an unbounded flow with free-stream mach number 1 is investigated for the
- cases of two-dimensional and axisymmetric flows . it is found that a
-close resemblance does indeed exist in the vicinity of the body, and
-that the results obtained in this way are generally at least as accurate
- as those obtained in a transonic wind tunnel with partly open test
-section . some of the results indicate, however, that substantial
-interference effects, particularly those of the wave reflection type, may
-be encountered under certain conditions, both in choked wind tunnels and
- in transonic wind tunnels, and that the reduction of these interference
- effects to acceptable limits may require the use of models of unusually
- small size .
+Nonbook Materials: The Organization of Integrated Collections
+
+Weihs, J.R..B1973
+
+  Many segments of society are recognizing that
+access to information is a vital and fundamental
+contemporary need.  To provide optimum access
+it is essential to be able to retrieve information
+in whatever physical format it is found.  Such
+retrieval requires the development of cataloguing
+codes that will handle all media, including
+diverse kinds of audio and visual materials.
+To be most effective these cataloguing guidelines
+should be acceptable on an international level and
+should have the support of professional organizations
+most concerned with these problems.

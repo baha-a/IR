@@ -1,27 +1,16 @@
-.I 309
-.T
-on the motion of a flat plate at high speed in a viscous
-compressible fluid, ii, steady motion .
-.A
-stewartson,k.
-.B
-j. ae. scs. 22, 1955, 303.
-.W
-on the motion of a flat plate at high speed in a viscous
-compressible fluid, ii, steady motion .
-  the theory of the steady flow of a viscous compressible fluid
-past a flat plate at high mach number due to lees and
-probstein is extended by a more complete discussion of the flow in
-the inviscid layer between the shock wave and the boundary layer .
-it is shown that similar solutions exist in this layer, analogously
-to those found by li and nagamatsu in the boundary layer, and
-that the two may be joined to give, allowing one minor
-assumption, a full account of the flow .  it is shown that the
-boundary-layer equations may be reduced to those for an incompressible
-fluid and that the von karman-pohlhausen method describes
-the flow in it with good accuracy .  the tangent wedge
-approximation for the pressure on the plate, used by lees and his
-collaborators, is found to be in deficit
-by 10 per cent for air .  finally,
-it is shown that the theory for weak interaction cannot be
-extended further without a complete knowledge of the flow .
+The SMART Automatic Document Retrieval System - An Illustration
+
+Salton, GerardLesk, M.E.
+
+   A fully automatic document retrieval system operating on the IBM 7094 is 
+described.. The system is characterized by the fact that several hundred
+different  methods are available to analyze  documents and search requests..
+This feature is used in the retrieval process by leaving the exact sequence of
+operations initially unspecified, and adapting the search strategy to the needs
+of individual users..
+   The system is used not only to simulate an actual operating environment, but
+also to test the effectiveness of the various available processing methods..
+Results obtained so far seem to indicate that some combination of analysis 
+procedures can in general be relied upon to retrieve the wanted information..
+A typical search request is used as an example in the present  report to
+illustrate systems operations  and evaluation procedures..

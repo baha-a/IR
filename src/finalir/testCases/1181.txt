@@ -1,30 +1,14 @@
-.I 1181
-.T
-steady magnetohydrodynamic flow past a non-conducting
-wedge .
-.A
-chu,c.k. and lynn,y.m.
-.B
-aiaa jnl.
-.W
-steady magnetohydrodynamic flow past a non-conducting
-wedge .
-  this paper presents a study of the steady
-two-dimensional magnetohydrodynamic flow of an
-infinitely conducting fluid past a nonconducting
-wedge with nonaligned flow and magnetic
-field .  the flows considered are in the /superfast/
-or fully hyperbolic regime .  the flows consist
-of several regions of uniformity connected by
-shocks and expansion waves .  because of the
-boundary condition on the magnetic field, the
-magnetic field must be the same in the regions
-above and below the wedge,. thus the flows in these
-regions are coupled, unlike in the case of
-ordinary supersonic gasdynamics .  only small wedge
-angles and weak waves (characteristics) are
-considered .  the problem thus is linearized, and
-explicit solutions are obtained which are
-qualitatively similar to the nonlinear solutions .
-some interesting and unexpected features
-arise, and they are discussed in detail .
+The Origins of the Information Crisis:  A Contribution to the Statement of the Problem
+
+Yurko, A. A.
+
+   The different explanations of the nature of the information problems now
+facing science and their causes are cited and shown to be debatable.. It is
+necessary to give a definition of "information crisis", this widely used 
+concept in informatics and the science of science.. The author suggests one
+such definition, which reflects the specific historical nature of the possible
+manifestations of the crisis.. The "cumulativistic" concept of the progress of
+science is criticized as it rules out the possibility of finding the true
+causes of the information crisis.. The major cause is asserted to lie with the
+nature of the contemporary social production.. An approach to studying into
+the origins of the problem is suggested..

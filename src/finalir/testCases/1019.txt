@@ -1,51 +1,14 @@
-.I 1019
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  a method for estimating allowable
-load capacities of columns subject
-to creep is presented .  the method,
-which utilizes approximate stress
-distributions derived from
-isochronous-stress-strain curves to estimate
-column load capacities, is shown to
-be conservative for the time for which
-the estimate is made .
-  an application of the method is
-made to test data on as-received and
-on stabilized 24s-t4 aluminum alloy .
-a comparison of the computed column
-capacities with experimental capacities
-indicates that the method is
-satisfactory for estimating the decrease in
-capacity with increasing time .
-  easily obtained, time-dependent
-tangent-modulus loads are discussed .
-they are interpreted as being approximations
-to allowable load-capacity
-estimates .  a limited application is made to
-test data, and the results
-appear promising .  it is concluded that if
-certain limitations are recognized,
-the method may prove to be useful because
-of its simplicity .
-  a presentation of the results of an
-experimental investigation of the
-effects of column imperfection and
-column-material variation is made .  it
-is found that column-capacity variations of
-the order of 10 per cent can
-result from column-imperfection differences
-and column-material variation .
-  the results of an experimental study of
-the variation of column
-capacity with temperature of exposure are presented .
-they indicate that column
-efficiency, as measured by decrease in capacity,
-can be acceptable for very
-short times at the higher temperatures .  the
-efficiency at these higher
-temperatures falls rapidly, however, with increasing time .
+Determining the Optimal Number of Volumes for aLibrary's Core Collection
+
+Trueswell, R.W.
+
+  The concept of the core collection in a large library is not new. The
+thought behind such a concept is to provide a separation of the more
+frequently used volumes from those that are infrequently used.  There
+have been, however, difficulties in determining what volumes are to be
+included within the core collection.  It is usually necessary to establish
+a committee or group of professional people who determine, usually by 
+enumeration, those volumes that should be included in the core collection.
+Often the results of such a determination merely reflect the opinions of
+the individuals, and although valid in many cases as desirable reading, the
+core collection that results may not be a reflection of user requirements.

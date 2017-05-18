@@ -1,21 +1,29 @@
-.I 1187
-.T
-shock-induced boundary layer separation in overexpanded conical exhaust
-nozzles .
-.A
-arens, m. and spiegler, e
-.B
-aiaa journal, march 1963. p.578 .
-.W
-shock-induced boundary layer separation in overexpanded conical exhaust
-nozzles .
-the flow in overexpanded supersonic nozzles is reviewed . although five
-essentially different flow regimes can be discerned, depending on the
-nozzle pressure ratio, the regime of most interest to the engine
-designer is the one characterized by oblique shock patterns in the nozzle
-and flow separation from the nozzle wall . it is shown that the pressure
- rise associated with the separation correlates well with the mach
-number at the separation point . a simple analytical formulation for the
-pressure rise required to separate the flow provides excellent agreement
- with experimental data over a wide range of nozzle operating conditions
- and allows prediction of overexpanded nozzle performance .
+Organizations
+
+March, J.G.
+
+    This book is about the theory of formal organizations.  It is
+easier, and probably more useful, to give examples of formal organizations
+than to define the term.  The United States Steel Corporation is a formal
+organization; so is the Red Cross, the corner grocery store, the New York
+State Highway Department.  The latter organization is, of course, part of
+a larger one - the New York State government.  But for present purposes
+we need not trouble ourselves about the precise boundaries to be drawn
+around an organization or the exact distinction between an "organization" and
+a "nonorganization."  We are dealing with empirical phenomena, and the world
+has an uncomfortable way of not permitting itself to be fitted into clean
+classifications.
+    Authors are often convinced that the particular subjects with which
+they are dealing are more significant than the world has acknowledged.
+We cheerfully make this claim for organization theory.  However much
+organizations occupy the thoughts of practicing executives and
+administrators, and however many books for these practitioners have 
+been written about them, the theory of organizations occupies an insignificant
+place in modern social science.  Most current psychology and
+sociology textbooks do not devote even a short chapter to the
+subject of formal organizations.  The Handbook of Social Psychology
+(Lindzey, 1954) contains chapters on small groups, mass media, "industrial
+social psychology" (with only passing references to organizations),
+leadership, and voting behavior.  There is no comparable chapter on
+formal organizations, and only scattered reference to them throughout
+the text.

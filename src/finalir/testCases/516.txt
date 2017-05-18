@@ -1,22 +1,16 @@
-.I 516
-.T
-free-flight measurements of the dynamic longitudinal
-stability characteristics of a wind tunnel interference
-model (m=0 .92 to 1. 35) .
-.A
-greenwood,g.h.
-.B
-rae tn.aero.2798, 1961.
-.W
-free-flight measurements of the dynamic longitudinal
-stability characteristics of a wind tunnel interference
-model (m=0 .92 to 1. 35) .
-  the dynamic longitudinal-stability characteristics of a standard
-wind tunnel interference model have been investigated in free flight
-over a mach number range of 0.92 to 1.35 .
-  measurements of lift-curve slope and manoeuvre margin were
-obtained, and are compared with results from transonic-tunnel tests
-under low blockage conditions .
-  the analysis was extended to obtain damping derivatives to allow
-comparison to be made with possible future dynamic tests in wind tunnels
-on the standard shape .
+Problems in Information Retrieval:  Logical Jumps in the Expression of Information
+
+Farradane, J.Russel, J. M.Yates-Mercer, P. A.
+
+   In a structured data base, such as that obtained when information is indexed
+in a format including explicit relations, retrieval of all relevant items in
+response to a question may, in some cases, be restricted by technicalities of 
+the structure.. Condensations in the form of logical jumps, or the omission of 
+a concept with one relation out of a string of three concepts with two 
+interstitial relations, have been investigated by two different methods, in 
+order to overcome one of these technicalities.. Thirty-two rules are proposed
+which could permit the automatic condensation of either of both the stored 
+information and the question, when the concepts and relations are in the form 
+of linear or string display.. Nine rules are proposed for condensation of 
+angular structures.. Other type of logical jump and abbreviation are discussed, 
+together with related studies of expansions and inference steps..

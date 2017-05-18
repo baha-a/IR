@@ -1,21 +1,21 @@
-.I 665
-.T
-on the theory of hypersonic gas flow with a power law
-shock wave .
-.A
-sychev,v.v.
-.B
-j. app. math. mech. 24, 1960, 756.
-.W
-on the theory of hypersonic gas flow with a power law
-shock wave .
-plane and axisymmetric hypersonic gas flows are considered with shock
-waves of very great intensity that have a power-law form .  on the basis
-of an investigation of the portions of the flow with high entropy
-adjoining the surface of the body (not necessarily for a shock wave of the
-given form) it is shown that the use in the flow problem of the exact
-solution for the corresponding unsteady self-similar gas motion requires
-a supplementary refinement of the thickness of the high entropy layer .
-a method is shown for introducing such a correction and constructing the
-shape of the body contour, on which is to be applied the pressure
-distribution obtained on the basis of the theory of small disturbances .
+Morphology of "Information Flow"
+
+Fairthorne, R.A.
+
+  Such phrases as "information flow" may be purely metaphorical, or may refer to
+porterage and storage of physical documents, transmission of signals, power
+required for signaling, Shannon's Selective Information, changes in the state of
+one's personal knowledge, propagation of announcements concerning messages, 
+social increase of awareness, propagation of or reaction to imperatives, and so
+on.  These matters are distinct and must be distinguished.  Then conditions must
+be stated under which one can validly speak of and measure the appropriate flow.
+In this paper it is shown that within the field of Notification (mention and
+delivery of recorded messages to users) there are twenty basic activities formed
+by choosing triads from the six variables, Message, Code, Channel, Source,
+Destination, and Designation.
+  "Flow" has meaning only when two such triads have two variables in common,
+forming a tetrad.  Then flow or correspondence between any pair of variables is
+inextricable from a conjugate flow or correspondence between the other pair.
+Between any pair of endpoints there are six possibly distinct types of flow,
+according to which two of the remaining four variables are directly used to
+achieve the flow.

@@ -1,21 +1,14 @@
-.I 1036
-.T
-on transverse vibrations of thin, shallow elastic shells .
-.A
-reissner,e.
-.B
-q. app. math., 13, 1955, 169.
-.W
-on transverse vibrations of thin, shallow elastic shells .
-  according to marguerre (proc. 5th internat. congress
-appl. mech., cambridge, mass., 1938, wiley, new york,
-shells are governed by three simultaneous differential
-equations in the three displacements .  the author has
-considerably simplified this theory for the case of transverse
-vibrations by ignoring the longitudinal inertia terms, thus
-reducing the problem to that of solving two simultaneous
-differential equations in a stress function and one
-displacement component .  this simplification is justified by an
-order-of-magnitude analysis, and illustrated by considering the
-vibrations of a paraboloidal shell with a rectangular
-boundary .
+The Management of Innovation
+
+Burns, T.
+
+  All the research reported in this book arose out of an attempt, some
+years ago, to study an industrial concern as a 'community of people at
+work', that is, in much the same terms one would use in a study of
+conduct and relationships in a village, an urban neighborhood, or a
+small primitive community.  This aim was never realized, because it
+soon became evident that the social structure of the factory interlocked
+with, and often mirrored, that of the small isolated town in which it
+was situated.  The wider study which then appeared necessary was not
+practicable and the enquiry petered out rather inconclusively, assuming
+its present significance only in the context of later studies.

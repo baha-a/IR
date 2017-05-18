@@ -1,29 +1,10 @@
-.I 117
-.T
-the motion of a viscous liquid past a paraboloid .
-.A
-mather,d.j.
-.B
-q.j.mech.app.math. 14, 1961, 423.
-.W
-the motion of a viscous liquid past a paraboloid .
-  an approximate solution for the steady
-flow of incompressible viscous liquid past
-a paraboloid of revolution is described .
-an assumption is made for the form of the
-stokes stream function and substituted
-into the navier-stokes equations using
-paraboloidal coordinates .  after making
-suitable approximations, a non-linear
-differential equation for a function f is
-deduced .  the solutions of this equation
-depend on the reynolds number of the
-flow considered .  examples found by
-numerical integration are given to illustrate
-the properties of the function f for
-reynolds numbers varying from 0.0001 to
-is found, and it is shown that this approximate
-solution tends to the perfect fluid
-flow away from the boundary, allowance
-being made for the displacement effect of
-what may be called the boundary layer .
+TOSAR - A Topological method for the Representation of Synthetic and Analytical Relations of Concepts
+
+Fugmann, RobertNickelsen, HerbertNickelsen, IngeborgWinter, Jacob H.
+
+   In mechanized systems used for searching in literature stores there is a 
+steadily growing necessity not only to be able to formulate concepts as a
+search condition but also the characteristic connections under which these
+concepts appear in the inquiry.. In this way the precision of the mechanized
+literature search is considerably increased.. TOSAR has been developed in 
+order to improve computerized literature searching in this respect..

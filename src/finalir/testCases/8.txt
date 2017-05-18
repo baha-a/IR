@@ -1,26 +1,26 @@
-.I 8
-.T
-measurements of the effect of two-dimensional and three-dimensional
-roughness elements on boundary layer transition .
-.A
-klebanoff,p.s.
-.B
-j. ae. scs. 22, 1955, 803.
-.W
-measurements of the effect of two-dimensional and three-dimensional
-roughness elements on boundary layer transition .
-in his study of the effect of roughness on transition, h. l.
-dryden found, on the basis of available data, that the effect
-of a two-dimensional roughness element such as a /trip wire/
-could be represented reasonably well in terms of a functional
-relation between and, where is the reynolds number
-of transition based on distance from the leading edge, is the
-height of the roughness element, and is the boundary-layer
-displacement thickness at the position of the element .  at his
-suggestion some additional data were obtained, primarily to
-extend the range to higher values of, during the course of an
-investigation of transition on a flat plate conducted at the
-national bureau of standards .  after the results on the two-
-dimensional roughness elements were obtained, it appeared to be
-desirable to see whether a row of three-dimensional roughness
-elements would behave in the same way .
+The Academic Library Essays in Honor of Guy R. Lyle
+
+Farber, E.I.
+
+     As important for staff members' individual development
+as was the apprenticeship in administration, perhaps the most
+significant attitude one acquired while working for
+Guy was engendered by his insistence that librarians must
+be interested in and knowledgeable about the content of the
+materials with which they dealt.  His love of literature, his
+respect for scholarship, his admiration for good writing and
+reading were manifested in many ways, but most notably in
+his admonition that, though we were primarily a research
+library, we must constantly keep in mind our obligation to
+collect contemporary poetry, fiction and belles-letters.  It
+was primarily up to the library staff, he felt, to be
+responsible for these as well as for "general" books which crossed
+disciplinary lines or fell between the disciplines, those books
+which a faculty mostly concerned with research materials is
+apt to overlook.  And in building this portion of the collection,
+"there is no substitute for a thorough acquaintance with
+books through a reading of critical reviews and the books
+themselves."  This counsel is from The President, the Professor,
+and the College Library, but the importance of its thrust--the
+need to keep up with the world of books and publishing--was
+continually impressed upon us.

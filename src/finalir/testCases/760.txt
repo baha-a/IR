@@ -1,28 +1,22 @@
-.I 760
-.T
-inelastic buckling of initially imperfect cylindrical
-shells subject to axial compression .
-.A
-lee,l.h.n.
-.B
-j. ae. scs. 29, 1962, 87.
-.W
-inelastic buckling of initially imperfect cylindrical
-shells subject to axial compression .
-  an analytical and experimental study is made for inelastic
-instability of initially imperfect cylindrical shells subject to
-axial compression .  donnell's equations and the principle of
-virtual work are adapted to determine the effects of initial
-imperfections on the buckling modes and the critical buckling
-stresses .  the deformation theory and the incremental theory
-of plastic stress-strain relationships are both considered .  the
-experimental results of ten tests on specimens made of aluminum
-alloy 3003-0 are presented .  comparison of experimental with
-theoretical results indicates that the application of the
-deformation theory provides a fairly accurate prediction of buckling
-strength, but fails in this case to yield a correct description of
-post-buckling behavior .  on the other hand, the application of
-the incremental theory, which is mathematically and physically
-more rigorous, leads to an overestimation of buckling strength,
-even though initial imperfections are considered .  this paradox
-has existed for years, and remains to be resolved .
+The Foreign-Language Problem Facing Scientists and Technologists in the United Kingdom - Report of a Recent Survey
+
+Wood, D. N.
+
+   The foreign-language barrier facing British scientists is a function of a,
+the amount and value of foreign scientific literature produced; b, the 
+linguistic ability of the people wishing to read it; and c, the availability
+and effectiveness of translation services.. To obtain quantitative data on 
+these points the NLL has recently conducted a survey amongst scientists and
+librarians in the United Kingdom and the present paper presents the more
+important results..
+   The survey has shown that the language problem is of considerable magnitude
+and is common to the majority of scientists and technologists.. The languages
+creating the most difficulty are Russian, German, and Japanese.. It has also 
+indicated that local translation facilities are not particularly effective and 
+that, as far as national facilities are concerned, British scientists are 
+largely unaware of existing services which might help them to overcome their 
+difficulties..
+   The results of the investigation suggest a number of lines of action which 
+the appropriate authorities might follow..  The most important would seem to be
+the publishing of a international index to translations and the creation within 
+the United Kingdom of a centralized Japanese translation service..

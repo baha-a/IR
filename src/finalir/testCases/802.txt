@@ -1,22 +1,16 @@
-.I 802
-.T
-the behaviour of supersonic flow past a body of revolution
-far from the axis .
-.A
-whitham,g.b.
-.B
-proc. roy. soc. a, 201, 1950, 89.
-.W
-the behaviour of supersonic flow past a body of revolution
-far from the axis .
-a theory is developed of the supersonic flow past a body of revolution
-at large distances from the axis, where a linearized approximation is
-valueless owing to the divergence of the characteristics at infinity .
-it is used to find the asymptotic forms of the equations of the shocks
-which are formed from the neighbourhoods of the nose and tail .  in the
-special case of a slender pointed body, the general theory at large
-distances is used to modify the linearized approximation to give a
-theory which is uniformly valid at all distances from the axis .  the
-results which are of physical importance are summarized in the
-conclusion (9) and compared with the results of experimental
-observations .
+Feasibility Study of a Scheme for Reconciling Thesauri Covering a Common Subject
+
+Neville, H. H.
+
+   The feasibility is examined of devising a scheme for operating a joint 
+keyword system in a given subject area using several independently compiled 
+thesauri.. It is suggested that if the individual keywords of each 
+participating thesaurus represent indentifiable concepts, and these concepts are
+given unique code numbers, then the code numbers enable the keywords of any
+participating thesaurus to be converted into the appropriate keywords of any
+other participant.. Incompatibilities between keywords systems arise from 
+differences in the selection and form of keywords.. Eleven types of 
+incompatibility are identified and a method of reconciliation is proposed for 
+each.. The types of incompatibility that can arise in a single language include 
+those that arise between one language and another, so that a multilingual joint 
+system presents no additional problems..

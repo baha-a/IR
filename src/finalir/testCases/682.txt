@@ -1,26 +1,16 @@
-.I 682
-.T
-the lift of twisted and cambered wings in supersonic flow .
-.A
-lance, g.n.
-.B
-aero. quart. v. 6/2/, may, 1955 .
-.W
-the lift of twisted and cambered wings in supersonic flow .
-a generalised conical flow theory is used to deduce an integral equation
- relating the velocity potential on a delta wing/with subsonic leading
-edges/to the given downwash distribution over the wing . the complete
-solution of this integral equation is derived . this complete solution
-is composed of two parts, one being symmetric and the other
-antisymmetric with respect to the spanwise co-ordinate,. each part
-represents a velocity potential . for example, if y is the spanwise
-co-ordinate and x is measured in the free stream direction, then a
-downwash of the form w-a ux/y/is symmetric and will give rise to a
-symmetric potential, whereas w-a ux/y/sgn y is anti-symmetric and gives
-rise to an anti-symmetric potential . the velocity potentials of such
-flows are given in the form of tables for all downwashes up to and
-including homogenous cubics in the spanwise and streamwise
-co-ordinates . table iii gives similar formulae in the limiting case
-were used over a cycle of the tumbling motion . the analytical
-expression was in good agreement with numerical solutions of the complete
-non-linear equations of motion .
+Substructure Search in the MCC System
+
+Lefkovitz, D.
+
+  A monitor system based upon computer-produced printed indexes is described in
+this paper.  The system is intended to monitor a large scale experiment in file
+organization for a real-time, interactive chemical information system.  It is
+based upon a topological screen system that ensures the inclusion of every
+compound atom (including H) in at least one screen assignment, that appears to
+be responsive to a broad range of query types, and that is amenable to random-
+access techniques.  The Monitor system is also considered, in this paper, as
+an independent interim approach toward fulfilling, in an effective and economic
+manner, the functional requirements of a small- to medium-sized chemical 
+information system.  Thus it could be used to encode and generate structure
+files, to assign search screens, and to provide manual substructure search
+capability via microfilm or hard copy printed indexes. 

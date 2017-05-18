@@ -1,21 +1,13 @@
-.I 1042
-.T
-on transverse vibrations of thin, shallow elastic shells .
-.A
-.B
-.W
-on transverse vibrations of thin, shallow elastic shells .
-  the report presents information
-on the stress problems in the
-analysis of pressurized cabins of
-high-altitude aircraft not met with
-in other fields of stress analysis
-relating to aircraft .  the material
-may be roughly divided into shell
-problems and plate problems, the
-former being concerned with the
-curved walls of the cabin or pressure
-vessel and the latter being concerned
-with small rectangular panels of
-its walls, framed by stiffeners, but
-not necessarily plane .
+The Marc II Format:                                              A Communications Format for Bibliographic Data
+
+Avram, H.D.
+
+        The MARC (Machine-Readable-Cataloging) Pilot Project was an
+experiment to test the feasibility of distributing Library of Congress
+cataloging in machine-readable form to a variety of users.  This project
+grew out of the conviction of many librarians that automation was becoming
+necessary if libraries were to keep up with the rising tide of new
+materials and the mounting demand for rapid information.  Although there
+were other library procedures which stood to profit from mechanization,
+it was felt that devising a method of recording bibliographical information
+in machine-readable form was basic to the solution of other problems.

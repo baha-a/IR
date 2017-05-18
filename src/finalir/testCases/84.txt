@@ -1,28 +1,16 @@
-.I 84
-.T
-experimental investigation of the downstream influence
-of stagnation point mass transfer .
-.A
-libby,pa. and cresci,r.j.
-.B
-j. ae. scs. 28, 1961, 51.
-.W
-experimental investigation of the downstream influence
-of stagnation point mass transfer .
-  this report presents the results of an experimental
-investigation of the downstream influence of localized mass transfer in the
-stagnation region of a blunt body under hypersonic flow
-conditions .  the coolant is injected through a porous plug coaxial
-with the centerline of symmetry of the model .  the tests were
-carried out in a wind tunnel with a mach number of 6.0,
-stagnation temperatures of approximately 1,600 r., and a stagnation
-pressure of approximately 600 psia .  four different gases were
-injected over a range of mass flows .  the heat transfer on the
-impermeable section was measured under isothermal wall
-conditions,. for the higher rates of mass flow, adiabatic surface
-temperatures were also determined .  the theoretical analysis of the
-boundary-layer flow is investigated in order to establish the
-similarity parameters for the flow system .  these parameters permit
-the extrapolation of the test results to other flow conditions,
-provided that laminar flow prevails .  helium is found to be the
-most efficacious coolant .
+Some Independent Agreements and Resolved Disagreements    About Answer-Providing Documents
+
+O'Connor, John
+
+   Eighty-two documents and 30 questions, in documentation and related areas, 
+was compared to find answer-providing documents (documents from which answers to 
+questions can be inferred).. Two judges (documentation experts) made 
+comparisons independently.. They discussed their disagreements, attempting to
+resolve them.. In each case the positive judge was first asked to indicate what
+answer he inferred, and from what document passage(s).. The further discussion
+depended on the details of each case.. In general, the resolution procedures 
+used will resolve a disagreement about whether a document is answer-providing
+or reduce it to a familiar kind of scientific disagreement (about a passage's
+meaning, a statement's correctness, or an inference's correctness).. This seems
+better than treating relevance judgements as subjective and not open to 
+rational discussion..

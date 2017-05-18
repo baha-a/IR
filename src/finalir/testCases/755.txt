@@ -1,24 +1,18 @@
-.I 755
-.T
-oscillatory derivative measurements on sting-mounted
-wind tunnel models method of test and results for pitch
-and yaw on a cambered ogee wing at mach numbers up
-to 2. 6.
-.A
-thompson,j.s.
-.B
-rae r.aero.2668, 1962.
-.W
-oscillatory derivative measurements on sting-mounted
-wind tunnel models method of test and results for pitch
-and yaw on a cambered ogee wing at mach numbers up
-to 2. 6.
-  this report describes a method which has been developed for measuring
-oscillatory derivatives on sting-mounted models in the 8 ft by 8 ft
-supersonic tunnel at r.a.e. bedford .  direct and cross derivatives with
-respect to angular displacements and velocities in pitch and yaw have
-been measured satisfactorily, and results are given of tests on a
-cambered ogee wing at six mach numbers from 0.2 to 2.6 .  some tests
-were made on this model in the course of the preliminary development
-work in the 13 ft by 9 ft low speed wind tunnel, and results of these
-are included .
+The Journal of Documentation
+
+Bhattacharyya, K.
+
+  This paper examines the implications of the findings of evaluative tests
+regarding the retrieval performance of natural language in various subject
+fields.  It suggests parallel investigations into the structure of natural
+language, with particular reference to terminology, as used in the different
+branches of basic science.  The criteria for defining the terminological
+consistency of a subject are formulated and a measure suggested for
+determining the degree of terminological consistency.
+  The terminological and information structures of specific disciplines such
+as, chemistry, physics, botany, zoology, and geology; the circumstances in
+which terms originate; and the efforts made by the international scientific
+community to standardize the terminology in their respective disciplines -
+are examined in detail.  This investigation shows why and how an artificially
+created scientific language finds it impossible to keep pace with current
+developments and thus points to the source of natural language.

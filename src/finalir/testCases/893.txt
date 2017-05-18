@@ -1,22 +1,15 @@
-.I 893
-.T
-a new design of pitot-static tube with a discussion
-of pitot-static tubes and their calibration factors .
-.A
-salter,c.
-.B
-npl. aero. r.1013, 1962.
-.W
-a new design of pitot-static tube with a discussion
-of pitot-static tubes and their calibration factors .
-  the report describes experiments devised to investigate
-some of the previously unexplained peculiarities of normal types of
-pitot-static tube .  in the process use was made of what was as nearly
-as could be a standard static pressure tube .
-  the experiments led to a new alternative design of instrument
-having a nose of modified ellipsoidal shape and for which the main
-characteristics have been investigated .
-  it has been found to be necessary as well as desirable to
-include a discussion of the implications of the term /calibration
-factor/ and (although not in this respect comprehensive) of the special
-features and limitations of various pitot-static tubes .
+The Frequency Distribution of Scientific Productivity.
+
+Lotka, A.J.
+
+  It would be of interest to determine, if possible, the part which men
+of different calibre contribute to the progress of science.
+  Considering first simple volume of production, a count was made of
+the number of names, in the decennial index of Chemical Abstracts   
+1907-1916, against which appeared 1, 2, 3 . . . . entries.  Names
+of firms (e.g. Aktiengesellschaft, etc.) were omitted from reckoning,
+since they represent the output, not of a single individual, but of an
+unknown number of persons.  The letters A and B of the alphabet
+only were covered.  These were treated both separately and in the
+aggregate, with the results shown in the table and in figures 1 and 2
+below.

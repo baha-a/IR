@@ -1,16 +1,19 @@
-.I 350
-.T
-laminar jet mixing of two compressible fluids with heat release .
-.A
-s. i. pai
-.B
-university of maryland
-.W
-laminar jet mixing of two compressible fluids with heat release .
-the laminar jet mixing problems with heat release have been formulated .
-a general discussion of the solution of these problems is also given .
-the important parameters of these problems are brought out .  some
-specific cases of the jet mixing problem, such as jet mixing of one
-compressible fluid, isothermal jet mixing of two compressible fluids,
-and isovel jet mixing of two compressible fluids with heat release, are
-discussed in detail.
+The Design of Inquiring Systems
+
+Churchman, C.W.
+
+  "Design" is used throughout in its most generic sense,
+to include planning, operations research, engineering design,
+architectural design, programming, budgeting, and all the other
+activities in which we consciously attempt to change ourselves and our
+environment to improve the quality of our lives.  So the book could be
+read as a philosophy of organization theory, or of architectural or
+engineering design, or of operations research, or of planning.
+  The word "inquiry" suggests that the audience includes persons
+interested in the philosophy of science; this is true, so long as the
+interest is a very broad one, concerned with the meaning of science with
+respect to other social institutions, health, education, morality, and so
+on.  Inquiry is by no means restricted to the disciplines of science.  I
+could have called the book The Design of Systems, but this would not
+adequately reflect my style, which is to proceed from the more specific
+problem of inquiry to the "whole system."

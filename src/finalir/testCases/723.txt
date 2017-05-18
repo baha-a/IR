@@ -1,22 +1,12 @@
-.I 723
-.T
-on the fatigue failure of structures due to vibrations excited
-by random pressure fields .
-.A
-alan powell
-.B
-the university, southampton
-.W
-on the fatigue failure of structures due to vibrations excited
-by random pressure fields .
-on the assumption that the forced modes of vibration of a structure,
-subjected to pressure fluctuations random in time and space, can be
-approximated by the composition of the motions of the uncoupled
-natural modes, a general analysis is made using the ideas of vibration
-theory and spectrum analysis .  the power spectrum, and hence the
-rms value, of any quantity depending linearly upon structural
-distortions is derived and it involves a quantity (called the /joint
-acceptance/) concerning the spacewise structure of the pressure
-field and of the geometry of the modes of vibration .  it is shown how
-this result may be used (on assuming /normal/ randomness) to estimate
-the fatigue life on the hypothesis of cumulative damage .
+The Development, Cost, and Impact of a Current Awareness Service in anIndustrial Town
+
+Bowman, C.M.Brown, M.T.
+
+  The development of a current awareness system in The Dow Chemical Company 
+has resulted in four established services, one based on internal information and
+the other three on Chemical Abstracts.  In addition several other services are 
+now being tried or considered.  The operation of such a service is expensive, 
+but the willingness of the user to pay for it and responses to a survey indicate
+that it is a useful and worthwhile tool to the scientist and engineer.  The
+use of such services also has a significant effect on other established
+information services.

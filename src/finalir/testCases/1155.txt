@@ -1,21 +1,11 @@
-.I 1155
-.T
-some experimental investigations on the influence of wall boundary
-layers upon wind tunnel measurements at high subsonic speeds .
-.A
-petersohn, e.g.m.
-.B
-ffa n.r. 44, stockholm, 1952 .
-.W
-some experimental investigations on the influence of wall boundary
-layers upon wind tunnel measurements at high subsonic speeds .
-pressure distribution measurements and drag determination by means of
-balance measurements have been carried out for a number of models at
-high subsonic velocity in wind tunnels, where the boundary layer of the
-walls has been varied . within the investigated range it appeared that a
- thickening of the boundary layer reduced the disturbing influence of
-the walls, which also caused an increase of the choking mach number .
-the phenomenon described should be of a certain importance from the
-point of view of wind tunnel technique, since it is possible to increase
- the choking velocity for a given model by means of thickening the
-boundary layer .
+A Study of Information Requests for Scientific Research and Design
+
+Malyarenko, D.P.
+
+This paper describes methods of studying information requests on source
+information, analyzes results of questionnaire distribution.
+On the basis of the questionnaire answers a card file of the subject requests
+and list of requests on source information was formed.
+Since the study these requests determines the content and purpose of the
+information process, the author suggests that the study of requests be the
+first phase of information process.

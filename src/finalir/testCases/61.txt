@@ -1,24 +1,15 @@
-.I 61
-.T
-on flow of electrically conducting fluids over a flat
-plate in the presence of a transverse magnetic field .
-.A
-rossow,v.j.
-.B
-naca tn.3971, 1957.
-.W
-on flow of electrically conducting fluids over a flat
-plate in the presence of a transverse magnetic field .
-  the use of a magnetic field to control the motion of electrically
-conducting fluids is studied .  the boundary-layer solutions are found
-for flow over a flat plate when the magnetic field is fixed relative to
-the plate or to the fluid .  the
-equations are integrated numerically for
-the effect of the transverse magnetic
-field on the velocity and temperature
-profiles, and hence, the skin friction and rate of heat transfer .
-  it is concluded that the skin friction and the heat-transfer rate are
-reduced when the transverse magnetic
-field is fixed relative to the plate
-and increased when fixed relative to the fluid .  the total drag is
-increased in all the cases studied .
+Expected Search Length: A Single Measure of Retrieval Effectiveness Based on the Work Ordering Action of Retrieval Systems
+
+Cooper, William S.
+
+   A measure of document retrieval system performance called the "expected 
+search length reduction factor" is defined and compared with indicators, such 
+as precision and recall, that have been suggested by other workers.. The new 
+measure is based on calculations of the expected number of irrelevant documents
+in the collection which would have to be searched through before the desired 
+number of relevant documents could be found.. Its advantages are: (1) it 
+provides  a single index of the property it attempts to measure; (2) it allows
+for gradations of retrieval status, through the mathematical concept of a "weak 
+ordering"; (3) it evaluates retrieval performance relative to random searching;
+and (4) it takes into account the amount of relevant material desired by the 
+requester..

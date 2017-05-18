@@ -1,18 +1,22 @@
-.I 480
-.T
-adiabatic wall temperature due to mass transfer cooling with a
-combustible gas .
-.A
-d. b. spalding
-.B
-imperial college, london, england
-.W
-adiabatic wall temperature due to mass transfer cooling with a
-combustible gas .
-a recent technical note by sutton (1), with the above title, discusses
-the influence of the burning of a transpiration coolant on the quantity
-of coolant necessary to maintain a given wall temperature .  the present
-note discusses the same problem in a way which has been found useful
-in calculating the burning rates of solid and liquid fuels (2) .
-consider the transpiration cooling of a porous surface in a gas stream .
-then a simple modification of the general mass .
+Some Structural Characteristics of Articulated Subject Indexes
+
+Armitage, Janet E.Lynch, Michael F.
+
+   An articulated subject index is one in which logical transformations of 
+natural language phrases containing prepositions or connectives are employed to 
+organize the noun phrases as subject headings, with subordinate displays of the 
+remainder of the phrases.. The best-known example of the articulated subject 
+index is that to Chemical Abstracts..
+   It has been shown that a well-defined transformation links the entry, as it 
+appears in the index, with the original phrase, in natural order, as it was 
+first compiled by the indexer.. A reverse transformation can be used to 
+generate potential index entries from indexing phrases containing one or more 
+prepositions or connectives..
+   A simple model has been devised for the generation of articulated subject 
+index entries from natural language indexing phrases which exclude infinitives
+or words acting as gerunds or participles.. A sorting algorithm has also been 
+developed, the purpose of which is to select those entries which lead to 
+greatest organization in the index display..
+   Deviations from the model in manually-produced indexes are described.. The 
+potential value of certain of these characteristics in information retrieval 
+is examined..

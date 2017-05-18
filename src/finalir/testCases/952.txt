@@ -1,21 +1,20 @@
-.I 952
-.T
-study of creep collapse of a long circular cylindrical
-shell under various distributed force systems .
-.A
-serpico,j.c.
-.B
-j. ae. scs. 29, 1962, 1316.
-.W
-study of creep collapse of a long circular cylindrical
-shell under various distributed force systems .
-  an analysis is presented for determining the collapse of circular
-rings and long cylinders subjected to primary and secondary creep
-conditions at elevated temperatures .  the types of loading
-considered for the present investigation are dead loading and
-hydrostatic pressure-type forces .  the method of solution is based on
-an application of the variational theorem for creep described in
-ref. 1 with some additional terms being introduced for the
-pressure-type loading case .  the general results are reduced to a
-relatively simple form for the theoretical predictions of collapse
-time and are graphically illustrated for a typical sample material .
+Characteristics of the Research Literature Used by Chemistsand Physicists in the United States
+
+Fussler, H.H.
+
+  The increasing growth and complexities of research libraries are natural
+consequences of the growth of knowledge and the increasing complexity of 
+knowledge. Librarians have tried to amass more and
+more knowledge in the form of books for the benefit of the diverse interests of
+their clienteles.  Their success in this activity has been reflected in the
+increasing difficulties of identifying satisfactorily what they have.  The 
+processes of cataloging, classifying, and related technical routines have 
+become increasingly complex and expensive.  The processes
+are of such a nature that the cost for adding each new item to a large library
+is, on the average, potentially if not actually, higher than that for its
+predecessor.  The total proportion of the budgets of large research libraries
+that is spent for the processing of material, as distinguished
+from the costs of its purchase or its direct
+servicing, is now such as to give librarians pause for fear a day may come when
+nearly all the money available to large libraries will be spent in processing
+material, and little will be left to service the collection or to buy new books!

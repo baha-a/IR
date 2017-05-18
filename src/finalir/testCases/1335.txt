@@ -1,55 +1,22 @@
-.I 1335
-.T
-use of freon-12 as a fluid for aerodynamic testing .
-.A
-huber,p.w.
-.B
-naca tn.1024, 1946.
-.W
-use of freon-12 as a fluid for aerodynamic testing .
-  the thermodynamic properties
-of freon-12 have been
-investigated to determine the
-possibilities of the use
-of this gas as a fluid for
-aerodynamic testing .  the
-values of velocity of sound
-in freon-12, which are less
-than one-half those in air,
-are presented as functions
-of temperatures and pressure,
-including measurements at
-room temperature .  the density
-of freon-12 is about
-four times that of air .  changes
-in state of freon-12
-may be predicted by means of the
-ideal gas law with an
-accuracy of better than 1 percent
-at pressures below
-freon-12 is shown not
-to condense during an adiabatic
-expansion from normal
-conditions up to a mach number
-of 3 .  the values of the
-ratio of specific heats
-for freon-12 are lower than
-that for air, and therefore
-an additional parameter is
-introduced, which must be
-considered when comparisons
-are made of aerodynamic tests
-using freon-12 with those
-using air .
-  the time lag of the
-vibrational heat capacity
-of freon-12 to a change in
-temperature has been
-measured and found to be
-of the order of 2 x 10 second
-at atmospheric temperature
-and pressure .  this time
-is so short that no important
-energy dissipations
-should result in most
-engineering applications .
+Career Contingencies and the Fate of Sociological Research
+
+Oromaner, M.
+
+  During the past three hundred years the journal article has become
+the main institutionalized form of formal scholarly communication.
+Potential contributions to a discipline acquire credibility because
+they have been published in a reputable journal (Zuckerman and Merton,
+1971).  Who published what and where therefore becomes a central 
+question in the understanding of scholarly, and in particular
+scientific, disciplines.  There have recently been a number of
+investigations concerning the career of such publications.  This
+career, I suggest, can be conceptualized into three stages.
+1) Pre-publication.  Here the scholar writes the article, circulates
+it to colleagues and perhaps presents it at formal and informal
+meetings (Garvey, Lin and Nelson, 1971).
+2) Publication.  Here the article is submitted to one or more journals
+for publication consideration (Zuckerman and Merton, 1971).
+3) Post-publication.  Here colleagues either ignore the published
+article or reward it through citations to it in their own work.  The
+practice of citing a colleague's work is perhaps the main way in which
+scholars indicate what they consider to be a contribution to their discipline.

@@ -1,12 +1,11 @@
-.I 920
-.T
-supersonic flow over an inclined wing of zero aspect ratio .
-.A
-stewartson, k.
-.B
-proc. camb. phil. soc. v. 46, pt. 2, p307, april 1950 .
-.W
-supersonic flow over an inclined wing of zero aspect ratio .
-an asymptotic expression is found for the lift distribution on a long,
-narrow, laminar wing, at incidence in a supersonic stream . the
-approximations of the linearized potential theory are used .
+Main Entry for Serials
+
+Howard, J.H.
+
+  The nature of serials is such that, in both the ALA Cataloging Rules for 
+Author and Titles Entries and the Anglo-American Cataloging Rules (AACR),there
+are special rules for choice of entry for serials that differ from the rules for 
+monographs.  While the Statement of Principles Adopted at the International
+Conference on Cataloging Principles (Paris Principles) leaves much room for 
+interpretation and controversy regarding serials, it also provides for special 
+rules for choice of entry.

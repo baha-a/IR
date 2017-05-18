@@ -1,20 +1,11 @@
-.I 425
-.T
-the solution of elastic plate problems by electrical analogies .
-.A
-r. h. macneal,
-.B
-pasadena, calif.
-.W
-the solution of elastic plate problems by electrical analogies .
-a dynamic-analogy method for the solution of elastic plate problems is
-described in this paper .  the electrical circuits developed here can be
-set-up and studied on an electric-analog computer .  problems involving
-deflections under constant load, transient vibrations, or normal
-modes can be solved in this way .  the method of applying boundary
-conditions to plates with irregular edges is given, together with
-a detailed description of the representation of the boundary conditions
-for a rectangular variable-thickness plate .  solutions that have been
-obtained on the cal tech electric-analog computer are presented for
-the static deflections and normal modes of a rectangular cantilever
-plate .
+The Selection of R&D Program Content-Survey of Quantitative Methods
+
+Cetron, Marvin J.Martino, JosephRoepcke, Lewis
+
+   This paper presents a summary of methods of evaluating and selecting R&D
+projects.. Approximately thirty methods, which have appeared is scattered 
+places in the literature, are described briefly, and a bibliography is
+provided for further information.. The various methods are compared and 
+contrasted  with each other relative  to a standard set of features which they
+may possess, to a standard set of characteristics relating to ease of use, and
+to scientific or technological area of applicability..

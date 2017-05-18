@@ -1,39 +1,18 @@
-.I 904
-.T
-calibration of the standard pitot-static head used
-in the rae low speed wind tunnels .
-.A
-kettle,d.j.
-.B
-rae tech.memo 222, 1951.
-.W
-calibration of the standard pitot-static head used
-in the rae low speed wind tunnels .
-  recent results of tests in the
-r.a.e. wind tunnels concerned with
-the measurement of pressure distributions
-have shown slight discrepancies
-between the readings of various static
-pressure tubes and calculated
-pressure distributions .  as a consequence
-some doubt was felt concerning
-the calibrations of tunnel static pressure
-and upon the validity of the
-reading given by the standard pitot-static
-head .
-  it was therefore decided to check the
-standard pitot-static head
-used in the r.a.e. wind tunnels, against an
-instrument similar to the
-measurements of static
-pressure were also made using a long tube where
-the interference from head
-and support is calculated to be small .
-  this note gives the results of tests
-made in the 5 ft open jet wind
-tunnel and the no. 1 11 ft wind tunnel
-in order to determine the
-necessary correction to the reading of static
-pressure given by the r.a.e.
-pitot-static head .  the tests were made
-during september and october, 1951 .
+No Special Rules for Entry of Serials
+
+Carpenter, Michael
+
+   One of the objectives of a library catalog is to enable one to determine
+what books or publications by an author are in the library.. Establishment
+of special rules of entry for serial publications which preclude attribution of
+authorship defeats this objective.. The present rule 6 of the Anglo_American
+Cataloging Rules are the Paris Principles are criticized in this regard.. In the
+course of this criticism, it is shown that the presence of a generic title, the
+presence of the name of a corporate body within the serial publication are not
+valid criteria for determining authorship of a serial publication.. Furthermore, 
+using the form of publication produces unpredictable entries for serials..
+Therefore, it is proposed that special rules for entry of serials be abolished,
+that a serial be treated like any other work of corporate or personal authorship,
+including compilations and works produced under editorial direction.. This will
+have the added benefit of allowing consistent treatment of instances of 
+corporate and personal authorship..

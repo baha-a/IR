@@ -1,21 +1,16 @@
-.I 691
-.T
-calculation procedure for thermodynamic transport, and flow properties
-of the combustion products of a hydrocarbon fuel mixture burned in air
-with results for ethylene-air and methane-air mixtures .
-.A
-.B
-nasa tn d-914, 1962 .
-.W
-calculation procedure for thermodynamic transport, and flow properties
-of the combustion products of a hydrocarbon fuel mixture burned in air
-with results for ethylene-air and methane-air mixtures .
-a procedure is presented whereby the composition, thermodynamic
-properties, and transport properties of the dissociated combustion
-products of a fuel consisting of a mixed hydrocarbon compound burned in
-air may be calculated . equations and procedures for determining
-supersonic nozzle ordinates and flow properties for the dissociated
-combustion products are presented in an appendix . results are presented
-for the respective hydrocarbon fuels, methane and ethylene, at the
-equivalence ratios of 1.0, 0.9, 0.8, and 0.7 for pressures varying
-between 10 and 8 x 10 atmospheres and temperatures from 200degree k to
+Systems Requirements for Primary Information Systems
+
+Kuney, J.H.Weisgerber, W.H.
+
+  A selected sample of 281 readers of the Journal of Organic Chemistry has been
+interviewed personally to obtain data on their reading patterns of the November
+1968 issue.  Approximately 35% of the individual subscribers to JOC had read
+or looked through the journal within the first seven days of receipt.  The 
+average reader claims to have read part or all of 14 articles out of the 81
+available.  At least 75% of every one of the 81 articles was read, ranging
+from a low of 0.7% to a high of 10.2%.  Structures or equations rated high as
+a "noted" segment of an article.  In addition to data on amount of reading of
+the issue, respondents were asked about amount of time spent reading, other
+journals read, and journals subscribed to.  Correlations have been developed
+between subject interest as stated by respondent and his actual reading pattern.
+

@@ -1,22 +1,17 @@
-.I 1009
-.T
-free-flight measurements of the static and dynamic .
-.A
-.B
-.W
-free-flight measurements of the static and dynamic .
-  charts of thermodynamic properties for equilibrium air are presented
-with sufficient accuracy to permit the calculation of flow parameters in
-hypersonic nozzles operating at stagnation temperatures up to 4,950 r
-and pressures up to 1,000 atm .  flow parameters calculated from these
-charts are presented for a series of stagnation temperatures between
-use of these parameters, it is possible to calibrate a nozzle in the
-conventional way .  a method is also presented from which the flow
-parameters for conditions other than those chosen herein may be
-calculated .  real-gas effects on the calculation of a hypersonic nozzle
-contour are shown by an example calculation in which the nozzle contour
-for mach number 12 was determined by including real-gas effects, and
-this contour was compared with one calculated by ideal-gas
-considerations .  also presented are the approximate limiting mach
-numbers at which equilibrium air will just condense for various
-combinations of stagnation temperatures and pressures .
+Service to Industry and Research Parks by College and University Libraries
+
+Nicholson, N.N.
+
+  The phrase "research parks" in the title of this article recalls
+Eugene B. Jackson's 1961 prediction:
+
+In 1980 there will be universally-managed and industry-sponsored
+special libraries in the vicinity of the principal universities.  Their
+advanced use of new methods of bibliographic control, information
+retrieval, and data exchange will make their operations indistinguishable
+from those of special libraries of outstanding profit-making organizations
+in the same subject fields . . . Significant assessments will be
+made on the participating organization in research parts not only for
+the financing of day-to-day operations of facilities, especially set up
+for their benefit, but also for the total enrichment of the university
+library resources.

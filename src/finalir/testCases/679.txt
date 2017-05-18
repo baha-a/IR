@@ -1,39 +1,11 @@
-.I 679
-.T
-low speed tests on 45 sweptback wings .
-.A
-weber,j., brebner,g.g. and kuchemann,d.
-.B
-rae r. aero.2374, 1958.
-.W
-low speed tests on 45 sweptback wings .
-  this report contains the results
-of pressure measurements on three
-and aspect ratio 5, over an
-incidence range up to 10 .  chordwise
-and spanwise lift distributions
-are given, mostly near the centre
-where, on two of the wings,
-modifications had been made to the section
-shape .  it was found that altering
-the thickness distribution in the
-centre did not affect the loading but
-that approximately straight isobars
-could be obtained at values of
-below about 0.1 .  by the incorporation
-of twist and camber in the central
-part the distortion of the lift
-distribution in the centre could be
-avoided at one particular incidence,
-and thus the same chordwise
-distribution obtained over most of the span .
-  twist and camber alone do not improve
-the isobar pattern and
-therefore a thickness modification would be
-needed to give the desired
-lift distribution and isobar pattern at one
-particular incidence .
-  the results of experimental investigations
-of the boundary layer
-and of the effect of aspect ratio will be given
-in a later report .
+Conversion of Wiswesser Notation to a Connectivity Matrix for Organic Compounds
+
+Matthews, F.W.Hyde, E.Thomson, L.H.Wiswesser, W.J.
+
+  A computer program is described which generates a connectivity matrix using
+as input an unmodified Wiswesser notation.  This program records the topology
+of a molecule as a statement of the atoms and their connectivity.  One symbol
+is used to represent each atom and this symbol is descriptive of the atom and
+its bonds.  The network of a complex molecule is recorded as a series of 
+interruptions in an assumed linear path.  The application of this matrix to
+information handling of chemical structures is described in a subsequent paper.

@@ -1,19 +1,19 @@
-.I 905
-.T
-comparative tests of pitot-static tubes .
-.A
-merriam,k.g. and spaulding,e.r.
-.B
-naca tn.546.
-.W
-comparative tests of pitot-static tubes .
-  comparative tests were made on seven conventional
-pitot-static tubes to determine their static, dynamic, and
-resultant errors .  the effect of varying the dynamic
-opening, static openings, wall thickness, and inner-tube
-diameter was investigated .  pressure-distribution measurements
-showing stem and tip effects were also made .  a tentative
-design for a standard pitot-static tube for use in
-measuring air velocity is submitted .
-  this report covers an investigation conducted under
-the auspices of the national research council .
+Periodicals for the Small Bio-Medical and Clinical Library
+
+Hunt, J.W.
+
+    Since the advent of periodical literature in the seventeenth
+century well over ten thousand journals have been published in
+the field of bio-medicine.  Many of these have ceased publication;
+others are only of local interest.  Still, approximately two 
+thousand desirable periodicals in this field are being currently
+released.  As research and discovery are recorded in the journal
+literature, the greatest asset of a scientific library is its
+subscription list and periodical holdings.  It therefore becomes
+a major responsibility of such libraries to make this wealth of
+experimental data available to their readers.  When funds are
+limited, the selection of a periodical collection that will best
+serve the most urgent needs of the reader becomes of paramount
+importance.  A plan of highly selective purchasing must be adopted
+to prevent the improper use of funds.  Actual needs of the library
+must be at hand to carry out such a plan.

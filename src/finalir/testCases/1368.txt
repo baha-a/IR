@@ -1,22 +1,17 @@
-.I 1368
-.T
-three dimensional viscous wakes .
-.A
-steiger,m.h. and bloom,m.h.
-.B
-j.fluid mech. 14, 1962,233.
-.W
-three dimensional viscous wakes .
-the velocity fields of three-dimensional
-viscous wakes are examined with the
-use of the boundary-layer approximations,
-osoen's linearization of the convective
-terms, and the assumption of constant
-fluid properties .  transform methods
-yield solutions for general types of initial
-conditions .  as an illustration, the
-axial velocity distribution of a wake whose
-initial isovels (lines of constant
-velocity) are of elliptic shape and their decay
-to axial symmetry are demonstrated .
-both laminar and turbulent flows are considered .
+Computer-Based Bibliographic Retrieval Services
+
+Park, M.K.
+
+  The Information Dissemination Center has emerged as a broker or retailer for
+computer-based information retrieval services, interfacing with both the tape
+suppliers and with users of the search services.  Five areas which impact the
+center's interface with these two communities are discussed: the nature of the
+data bases which are available for search; retrieval results and factors which 
+affect them; the timeliness of services; costs and prices; and practical 
+operational considerations related to library interests.  Comparison shopping 
+between centers is advised as centers differ considerably
+in the services which are offered,  the data bases which are available, the
+experience of the information specialists who construct search profiles, 
+pricing structures which are used, and the prices which are charged. 
+Implications of the growing trend toward licensing and leasing information 
+resources, especially magnetic tape services, are discussed briefly.

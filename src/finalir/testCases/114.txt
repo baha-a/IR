@@ -1,31 +1,13 @@
-.I 114
-.T
-response of plates to a decaying and convecting randon
-pressure field .
-.A
-dyer,i.
-.B
-j.acous.s.am. 31, 1959, 922.
-.W
-response of plates to a decaying and convecting randon
-pressure field .
-  following the methods of lyon, an analysis of the
-vibratory response of a plate to a random pressure
-field is given .  the pressure correlation of the random
-field is assumed to have a scale small compared to
-the plate size, to decay exponentially, and to convect
-with constant speed over the plate .  two cases are
-considered, one in which the convection speed is much
-less than the speed of free flexural waves in the plate,
-the other in which the convection speed is the same
-order as the flexural wave speed .  the mean square plate
-displacement is shown to be relatively independent
-of convection for speeds much less than the flexural
-wave speed, and to increase significantly for speeds in
-the order of the flexural wave speed .  it is shown that
-damping is usually, but not always, an effective means
-of vibration reduction .  in the case of convection
-speeds much smaller than the flexural speed, the use of
-hysteretic damping for reduction of the displacement
-response is shown to be limited by the decay of the
-assumed random pressure field .
+The Analysis of Information Systems
+
+Meadow, C.T.
+
+  This book is intended to supply the background needed for
+participation in the analysis and design of information-handling
+systems and for understanding the literature in the field.
+I have tried to present a unified approach to the subject
+and to the relation of information retrieval to other
+disciplines and an appreciation of the importance of this
+interdisciplinary relationship.  I hope that the scientist
+or computer programmer, newly interested in information-retrieval
+problems, as well as the librarian, will find the book of value.

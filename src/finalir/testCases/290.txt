@@ -1,22 +1,17 @@
-.I 290
-.T
-dynamic stability of a missile in rolling flight .
-.A
-bolz,r.e.
-.B
-j. ae. scs. 19, 1952.
-.W
-dynamic stability of a missile in rolling flight .
-  the paper sets down the equations of motion for a symmetric
-rolling missile with respect to axes attached to the missile .  the
-missile may be jet (or rocket) propelled or coasting under
-accelerating or decelerating conditions, respectively, wherein the
-variable rolling velocity is derived from intentionally or
-unintentionally /canted/ fins and or wings .
-  the equations contain a force and moment system that
-includes, in addition to the usual forces and moments, those due to
-magnus effects, misaligned surfaces, canted surfaces, jet
-misalignment, and the linear accelerations in the plane normal to the
-missile axis .
-  the results present general stability criteria for a rolling missile
-which are summarized in the /discussion of stability ./
+Correlation the Subjects of Books Taken Out Of and Books Used Within an Open-Stack Library
+
+McGrath, William E.
+
+   The traditional over-the-counter circulation count is not always considered 
+a reliable indicator of total library use.. To test this assumption the author
+hypothesized that no correlation exists between the subjects of books taken out
+of the library and those used within the library.. Counts were made of books 
+left on tables, chairs, desks, and other surfaces and correlated to books 
+charged out.. Two studies were made.. In the first, books were counted within 
+finely delineated LC and Dewey class spans relating to academic departments..
+In the second, books were counted within the broad LC first and second letters 
+and the Dewey tens.. In the first case, the overall correlation was .86; in the
+second, with less data, .84.. The author concludes that out-of-library 
+circulation totals can be reliable indicators of in-library use.. For predicting
+in-library use (and thus total use) two methods are cited-simple ratio of out 
+to in, and the regression equation..

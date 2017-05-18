@@ -1,30 +1,13 @@
-.I 659
-.T
-nonuniform shear flow past cylinders .
-.A
-murray,j.d.
-.B
-q. j. mech. app. math. 10, 1957, 406.
-.W
-nonuniform shear flow past cylinders .
-  a general method is described whereby
-an approximation of any desired degree
-of accuracy to the stream functions for
-two types of variable shear flows past
-finite cylinders can be obtained .  the two
-shear distributions in the free stream can
-be approximated to the linear shear
-distribution and the shear present in an
-unretarded incompressible boundary layer
-respectively .  in every case the stagnation
-streamline is displaced from the position
-opposite the line of symmetry of the
-cylinder, and general expressions are
-obtained for this displacement .  the line of
-symmetry may be in the direction of
-or perpendicular to the direction of flow .
-the two particular examples cited are
-those of a general elliptic cylinder and
-cylinders of the form where and being the polar
-coordinates, and 2p the maximum width
-of the cylinder .
+A Highly Associative Document Retrieval System
+
+Cagan, Carl
+
+   This paper describes a document retrieval system implemented with a subset of 
+the medical literature.. With the exception of the development of a negative
+dictionary, all system operations are completely automatic.. Introduced are
+methods for computation of term-term association factors, indexing, assignment
+of term-document relevance values, and computations for recall and relevance..
+High weights are provided for low-frequency terms, and retrieval is performed 
+directly from highly connected term-document files without elaboration.. Recall 
+and relevance are based on quantitative internal system computations, and 
+results are compared with user evaluations..

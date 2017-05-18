@@ -1,16 +1,10 @@
-.I 389
-.T
-simple shear flow past a flat plate in a compressible
-viscous fluid .
-.A
-li,t.y.
-.B
-j. ae. scs. 22, 1955, 724.
-.W
-simple shear flow past a flat plate in a compressible
-viscous fluid .
-  by transformation of variables, the problem of a simple shear flow of
-a compressible fluid over a flat plate is reduced to the corresponding
-problem for an incompressible fluid .  the prandtl number of the
-compressible fluid is assumed to be unity and its viscosity to be a linear
-function of temperature .
+Factors Determining the Performance of Indexing Systems
+
+Cleverdon, C.W..BVol. 1
+
+  The original Aslib-Cranfield investigations on the efficiency of indexing
+systems (references 1, 2 and 3) did not, by itself, produce firm answers to 
+what is one of the basic problems in information retrieval, namely the 
+decision as to which index language should be used.  Certainly it did not, as 
+some people had anticipated, demonstrate that one system was 'better' than 
+another, either  generally, or in any given situation.

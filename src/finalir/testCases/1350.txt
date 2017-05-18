@@ -1,30 +1,16 @@
-.I 1350
-.T
-effects of jet billowing on stability of missile-type
-bodies at mach 3. 85 .
-.A
-salmi,r.j.
-.B
-nasa tn.d284, 1960.
-.W
-effects of jet billowing on stability of missile-type
-bodies at mach 3. 85 .
-  the interference effects of a
-billowing jet on the forces and
-moments of two missile-type bodies
-were investigated in the nasa lewis
-2-by 2-foot mach 3.85 wind tunnel .
-to simulate a rocket jet, pressurized
-nitrogen was exhausted from an
-annular sonic nozzle .
-  the results indicate that for
-both models the stability parameter
-moment coefficient with angle of
-attack) in the region of zero angle
-of attack was favorably influenced
-by the interference resulting from
-separation due to jet billowing .
-schlieren photographs are presented
-that show the separation due to the
-jet billowing at various pressure
-ratios and angles of attack .
+Soviet Bibliography
+
+Levin, M.I.
+
+The first and most basic phase of research was the analysis of existing
+bilbiographic publications.
+The chronicles of the All-Union Book Reserve, VINITI abstract journals,
+publications of subject information centers and main libraries, bulletins of
+new publications, as well as the main current foreign bibliography on some
+branches of knowledge were considered.
+After comparative analysis valuable data were obtained in the completeness
+of registration of literature and the efficiency of its reflection in
+different publications; on the types of classificatory schemes and intermediate
+instruments, on the quality of abstracts.
+The merits and drawbacks of basic bibliographic publications were shown, and
+recommendations for improving present bibliographic systems were suggested.

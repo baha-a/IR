@@ -1,23 +1,16 @@
-.I 729
-.T
-stresses in continuous skin stiffener panels under random loading .
-.A
-lin, y.k.
-.B
-j. aero. sc. january 1962 .
-.W
-stresses in continuous skin stiffener panels under random loading .
-theoretical aspects involved in the prediction of stress levels for
-continuous skin-stiffener panels subjected to a random pressure field
-are considered in the light of powell's general theory for statistical
-superposition of modal response . the choice of structural model is
-dictated by the prevalence of skin-stiffener construction in modern
-flight vehicle design . the present study clearly demonstrates that any
-truly adequate prediction of stress levels in actual aircraft structures
- requires a much better representation of structural characteristics
-than can be provided by single panel idealizations . in an example
-considering fuselage panels exposed to jet engine noise, essential
-agreement is shown with experimental data, although better correlation is
-shown for rms stress than for power spectrum . it is shown that
-reduction of stress level by increasing damping is effective only in the
-higher frequency range .
+An Indexing Coverage Study of Toxicological Literature
+
+Montgomery, R.R.
+
+  A data base of 1873 citations dated 1960-1969 was obtained through an 
+author survey of the members of the Society of Toxicology.  Coverage was
+determined by checking the author index through a maximum of three years
+after publication or through the end of the decade.  Chemical Abstracts
+consistently provided coverage of more than two-thirds of the 1960-1967
+citations in the data base.  Chemical Abstracts, Biological Abstracts,
+Index Medicus, and Science Citation Index each provided coverage of 79%
+to 85% of the 215 citations dated 1966 and their combined coverage exceeded
+98%.  Excerpta Medica (Section IIC) and Chemical-Biological Activities
+provided 43% and 58% coverage, respectively, of this same group of 215
+citations.
+

@@ -1,31 +1,19 @@
-.I 788
-.T
-an approximate boundary layer theory for semi-infinite cylinders of
-arbitrary cross-section .
-.A
-varley, e.
-.B
-j. fluid mech. vol. 3. 1958, p. 601-614 .
-.W
-an approximate boundary layer theory for semi-infinite cylinders of
-arbitrary cross-section .
-an estimate is given of the distribution of skin frictional force per
-unit length, and of displacement area, on the outside of a semi-infinite
- cylinder, of arbitrary cross-section, moving steadily in a direction
-parallel to its generators . a pohlhausen method is employed with a
-velocity distribution chosen to yield zero viscous retarding force on
-the boundary layer approximations . /the smallness of the fluid
-acceleration far from the leading edge has been pointed out by batchelor
-reasonable results atlarge distances from the leading edge . however,
-for a large class of cross-sections, which includes all convex
-cross-sections and locally concave cross-sections with re-entrant angles
-greater than 1/2, the method yields the expected square root growth of
-the boundary layer at the leading-edge, with a fairly close
-approximation to the coefficient, and it is supposed that the skin-frictional
-force and displacement area are given with reasonable accuracy along the
- whole length of the cylinder .
-results for the elliptic cylinder and the finite flat plate are given in
- closed form, valid for the whole length of the cylinder, and are
-expected to be in error by at most 20 per cent . in addition, some
-estimate is given of the effect of corners on skin frictional force and
-displacement area .
+The Use of Social Science Periodical Literature
+
+Wood, D. N.Bower, C. A.
+
+   The paper presents the results of a survey of the use of social science 
+periodicals carried out at the National Lending Library during a period of four 
+weeks in 1968..
+   Three-quarters of the requests came from universities and industrial 
+organizations and over 90% of the requests were for English language 
+publications.. Over a fifth of the requests were for seventeen titles.. There
+were marked variations in the subject matter requested by different types of
+organizations and although the overall 'half-life' of the literature proved to
+be 3 1/2 years this figure varied considerably from one subject to another..
+   Concerning the sources of references, it was discovered that compared with
+scientists and technologists social scientists make relatively little use of
+abstracting and indexing publications..
+   Appendixes include a copy of the questionnaire used in the survey, a list of
+title requested six or more times, and a list of abstracting and indexing 
+publications cited five or more times as sources of references..

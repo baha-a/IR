@@ -1,15 +1,13 @@
-.I 1141
-.T
-the wake behind an oscillating vehicle .
-.A
-zeisberg,s.l.
-.B
-j. ae. scs. 29, 1962, 1344.
-.W
-the wake behind an oscillating vehicle .
-  the incompressible laminar far wake behind an oscillating
-vehicle is analyzed with the use of the oseen linearization, and
-the assumption that the wake cross section is axisymmetric .
-time-wise drag variations are thus represented as changes in the
-wake diameter and velocity defect .  it is shown that the
-unsteadiness in this flow can be predicted by a quasi-steady theory .
+Algebra of Classification
+
+Shreider, Yu. A.
+
+   Two alternative concepts of isomorphism of classification are examined..
+It is shown that with the accuracy of up to isomorphism, the structure of a
+classification is characterized by a certain semigroup.. For an important type 
+of classifications, the algebraic structure of these semigroups is completely
+characterized by the relation of order on the set of generants.. The case of
+"perfect order" on the generants corresponds to hierarchical (tree) 
+classifications.. The case of "incomparability" of the generants corresponds to
+facet classifications.. All the other cases are "intermediate" between these
+two types of classification..

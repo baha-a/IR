@@ -1,28 +1,15 @@
-.I 1241
-.T
-the turbulent boundary layer on chemically active ablating
-surfaces .
-.A
-denison,m.r.
-.B
-j. ae. scs. 1961.
-.W
-the turbulent boundary layer on chemically active ablating
-surfaces .
-  incompressible turbulent-boundary-layer analysis is
-extrapolated analytically to the case of a compressible turbulent
-boundary layer with ablation or mass injection at the surface .
-the effects of chemical reactions such as dissociation and
-recombination as well as combustion are included .  the analysis
-applies to blunt as well as sharp bodies which are either
-axisymmetric or two-dimensional .  when the turbulent lewis and
-prandtl numbers are unity, it is found that, as in the laminar
-case, little detailed knowledge of the chemistry inside the
-boundary layer is required in most instances .  the conditions at the
-surface and the outer edge of the boundary layer are often
-sufficient for prediction of heat and mass transfer .
-  comparison is made with experiments on the combustion of
-graphite under turbulent flow conditions .  prediction of ablation
-rates within about 30 percent accuracy is obtained when
-empirical constants obtained from incompressible velocity profiles
-with no mass injection are used .
+Publishers and Libraries
+
+Fry, B.M.
+
+  The purpose of this study is to report on the viability of the journals' 
+system for communicating scholarly and research information.  Overall it
+examines the economics of the interaction between the publisher and library
+components in this system and seeks to identify the separate and interdependent
+problems of each.  Data have been collected for the five-year period 1969-73
+as a basis for analysis and interpretation.  Emerging issues and trends are 
+identified and evaluated for their possible future impact.  When supported by
+data and information derived from the study, conclusions and recommendations
+are offered, aimed at possible solutions, or processes for stabilizing the
+present deteriorating situation and the consequent drift toward a general
+crisis in journal communication.

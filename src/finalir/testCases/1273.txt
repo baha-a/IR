@@ -1,27 +1,20 @@
-.I 1273
-.T
-magnetohydrodynamic effects on the formation of couette,
-flow .
-.A
-tao,l.n.
-.B
-j. ae. scs. 1960, 334.
-.W
-magnetohydrodynamic effects on the formation of couette,
-flow .
-  this paper is concerned with the problem of the formation of
-couette flow--i.e., the problem of how the velocity profile varies
-with the time tending asymptotically to that of the steady flow of
-an electrically conducting viscous fluid in the presence of a
-magnetic field .  the governing equations and boundary conditions
-are established and discussed .  the cases of both vanishing and
-nonvanishing mean induced electric field strengths are solved in
-terms of complimentary error functions as well as some
-elementary functions .  it is shown that the solutions are reducible to
-that of the steady case as the time approaches infinity, and to that
-of the nonmagnetic field as the hartmann number becomes zero .
-some numerical calculations are given .  the results indicate
-that in the presence of a magnetic field the flow rate is reduced
-depending on the magnitude of the hartmann number, and that
-the magnetic field /assists/ the flow to reach its steady
-condition .
+Bibliographical Statistics as a Guide to Growth Points in Science
+
+Meadows, A.J.O'connor, J.G.
+
+  Efforts have been made in recent years to use statistical studies of
+scientific research papers as a means for deriving general statements about
+trends in science.  For example, there has been a continuing interest in the
+question of how the frequency of citation of a scientific paper depends on its
+age.  These investigations have, however, been mainly concerned with the major
+branches of science only, and have also, perhaps, been rather more interested
+in identifying past trends than in making specific predictions for the future.
+Although such results are obviously valuable, it is also important to push
+these analyses further into smaller areas within a main scientific subject
+division, since such areas may have significantly different bibliographical
+properties from the subject average.  One particularly important aspect of
+such work concerns the origin of new growth areas within a major discipline.
+We can specifically pose the question: is it possible, purely from a 
+statistical analysis of scientific research papers, to identify the 
+appearance of a new growth area and, if so, how soon after its first
+appearance can such an area be identified?

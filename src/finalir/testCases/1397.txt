@@ -1,17 +1,13 @@
-.I 1397
-.T
-critical shear stress of an infinitely long simply
-supported plate with transverse stiffeners .
-.A
-stein,m. and fralich,r.w.
-.B
-naca tn.1851, 1949.
-.W
-critical shear stress of an infinitely long simply
-supported plate with transverse stiffeners .
-  a theoretical solution is given for the critical shear stress of
-an infinitely long, simply supported, flat plate with identical, equally
-spaced, transverse stiffeners of zero torsional stiffness .  results are
-obtained by means of the lagrangian multiplier method and are presented
-in the form of design charts .  experimental results are included and
-are found to be in good agreement with the theoretical results .
+Survey of the Interlibrary Loan Operation of the National Library of Medicine
+
+Kurth, W. H.
+
+    This paper reports a survey of the interlibrary loan operations at the
+National Library of Medicine.
+    The operations discussed here represent a significant departure from
+conventional interlibrary loan routines.  The substance of the present report
+pertains to the handling of interlibrary loans through the instrumentality of
+photoduplication.  This concept - providing photoduplicates of desired
+materials in lieu of loaning the originals - stems from thinking enunciated by
+Atherton Seidell, a member of the Friends of the Army Medical Library who
+pioneered in the development of photoduplication services.

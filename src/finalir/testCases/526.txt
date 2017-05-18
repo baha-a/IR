@@ -1,21 +1,11 @@
-.I 526
-.T
-leading edge attachment in transonic flow with laminar
-or turbulent boundary layers .
-.A
-mabey,d.g.
-.B
-j. ae. scs. 29, 1962.
-.W
-leading edge attachment in transonic flow with laminar
-or turbulent boundary layers .
-  the transonic flow round a two-dimensional airfoil at
-incidence is often determined by the type of flow in the leading-edge
-region .  if the flow separates at the leading edge at low speeds it
-is liable to attach as the speed increases, often quite suddenly .
-a review of this change with laminar or with turbulent boundary
-layers re-emphasizes the importance of fixing transition when
-making model tests at transonic speeds in order to obtain flows
-closest to full-scale conditions .
-  it is shown that similar airfoils with attached leading-edge
-flow show transonic similarity upstream of the terminal shock .
+On-Line Information retrieval as a Scientists Tool
+
+Barber, Stephanie A.Barraclough, Elizabeth D.Gray, W. Alexander
+
+   The use of an on-line information retrieval system by the scientists 
+themselves is described.. MEDUSA was designed to allow physicians to 
+interrogate the MEDLARS data base.. A brief description is given of the system 
+and details of an experiment to test its effectiveness.. Search formulation 
+prepared on-line by medical research workers are compared for recall and 
+precision with the same requests formulated by search editors in the normal 
+way.. The results show that physicians can use an on-line system effectively..

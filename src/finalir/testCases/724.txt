@@ -1,29 +1,16 @@
-.I 724
-.T
-structural acoustic proof testing .
-.A
-schjeldrup,h.c.
-.B
-air eng. 1959.
-.W
-structural acoustic proof testing .
-with the introduction of high-powered
-propulsion systems, and paralleling their
-continued development, an
-accompanying increase in acoustical problems has arisen .
-  of these acoustical problems, that of
-acoustical fatigue failures has become paramount
-in the eyes of the structural engineer .  aircraft
-designed to normal strength requirements have
-been known literally to fall apart under acoustical
-loading .  this problem has required much
-endeavour to produce a solution, and considerable
-structural research, based upon results of siren or
-other testing, have proved inadequate .  this
-failure to find a satisfactory solution has resulted
-in the conviction that the final proof of a design
-can be found only in proof testing .  proof testing,
-in the acoustic fatigue sense, is the testing of a
-design structure in a simulated acoustical
-environment for a period of time long enough to assure
-equality with design life .
+Document Access
+
+Weil, B.H.
+
+  Long-range, copies of needed documents will be rapidly and inexpensively
+supplied to users in libraries or at their desks by querying an electronic
+network linking document sources (central libraries and publishers).  In the
+interim, local libraries will slowly progress through increased dependence
+on local holdings of microfilm to development of and dependence on regional,
+national, and discipline networks for access to most of the documents desired.
+These developments will depend, however, on resolution of the copyright problem
+by mechanisms that will fairly remunerate the copyright owners.  As background,
+and because radical change is not expected overnight, the paper also reviews
+conventional and sophisticated storage systems, including microfilm, facsimile,
+and video; copyright aspects; costs; need for speed; other user considerations;
+and standards.

@@ -1,39 +1,22 @@
-.I 1261
-.T
-a method of calculating velocity distribution for turbulent
-boundary layers in adverse pressure distributions .
-.A
-uram,e.m.
-.B
-j. ae. scs. 1960, 659.
-.W
-a method of calculating velocity distribution for turbulent
-boundary layers in adverse pressure distributions .
-  a new method of calculating the behavior of turbulent
-boundary layers in adverse pressure distributions is developed which
-permits direct determination of the velocity profile rather than
-the gross integral parameters normally used to infer the general
-character of the boundary layer .  the method offers the
-simplicity of algebraic equations coupled with the use of charts
-rather than the laborious simultaneous solution of coupled
-differential equations required by existing methods .  the method also
-affords, for the first time, a means of determining the total
-boundary-layer thickness, thus allowing calculation of the absolute as
-well as the nondimensional velocity distribution .
-the velocity profile is considered to be composed of two
-regions--an inner region which is described by the law of the wall
-and an outer region which is described by a function depicting
-the deviation from that law .  the deviation function involves
-two parameters which are uniquely dependent upon the
-skin-friction coefficient and a third parameter which, for practical
-purposes, can be considered a constant .  since the entire
-velocity distribution was found to be almost uniquely dependent
-upon the local skin friction, serious doubt is cast upon the
-generally accepted /history concept/ which considers the outer region
-of the boundary layer to be dependent on integrated upstream
-conditions .
-  agreement between experimental velocity distributions and
-those calculated by the method presented here is generally very
-good .  the analysis and calculation procedures which are
-presented are applicable to two-dimensional, pseudo-two-
-dimensional, and axisymmetric conical flows .
+The Ring Index
+
+Patterson, A.M.
+
+  The collection includes (1) simple parent rings and (2) parent systems of
+more than one ring in which the rings are united by having one or more atoms
+in common.  It thus comparizes simple and "fused" (ortho- and ortho-peri-fused), 
+or annelated, systems (including spiro forms),  but not systems like biphenyl
+or triphenylmethane, in which the rings are united only by valences or by atoms
+not belonging to the rings.  Some systems are included in which a polar valence
+is involved, e.g. the four-membered ring of betaine, since these are often shown
+in formulas as if true rings; but in such cases the presence of the polar bond
+is noted.  Polar bonds in metallic salts (e.g. calcium succinate) are 
+disregarded as ring formers; so also are coordinate linkages (as in the chelate
+compounds).  The word "system" is used to mean a single ring or a combination of
+rings united one to another by atoms common to both.
+  Except for some special reason, only systems representing known compounds
+of generally accepted structure, or definitely believed by authors to have a
+certain structure, are included.  The fact that a compound must have one or two
+alternative structures is not sufficient for the entry of a system based on
+either of them.  Where there is doubt about an entry a query (?) is inserted
+after the reference.

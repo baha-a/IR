@@ -1,51 +1,41 @@
-.I 1147
-.T
-heat transfer to bodies traveling at high speed in the upper
-atmosphere .
-.A
-jackson r. stalder and david jukoff
-.B
-report 944
-.W
-heat transfer to bodies traveling at high speed in the upper
-atmosphere .
-a general method has been developed, using the methods of kinetic
-theory, whereby the surface temperatures of bodies can be calculated for
-steady flight at any speed in a rarefied gas .  the particular solution
-was made for a flat plate., however, the calculations can be easily
-extended to bodies of arbitrary shape .
-it was found that the aerodynamic heating problem in the absence of
-solar radiation, that is, for the case of nocturnal flight, becomes of
-negligible importance at altitudes of 125 miles and higher and up to
-steady flight speeds of 36,000 feet per second .  the effect of solar
-radiation, for the case of daytime flight, becomes increasingly
-important as the flight altitude is increased .  at an altitude of 150
-miles and higher, solar radiation is the predominating factor that
-determines skin temperature .  owing to the strong effect of solar
-radiation on skin temperatures at high altitudes, the desirability of
-nocturnal flight is indicated in order to minimize skin temperatures .
-in order to maintain low skin temperatures, it was found that the
-angle of inclination of the body with respect to the flight path should
-be kept as small as possible .  this may be accomplished in practice
-by designing the body to be finely tapered and by flying the body at
-small angles of attack .
-it is pointed out that skin temperatures may be reduced by insuring
-thermal contact between portions of the skin inclined at positive
-and negative angles with respect to the flight path .  as much surface
-as possible should be inclined at negative angles .  practically,
-this may be accomplished by boattailing the body .
-in the event that an internal skin-cooling system is employed, it is
-shown that the rate of internal cooling must be of the same order of
-magnitude or greater than the rate at which heat is lost naturally
-by emitted radiation .  if the cooling rate is below the natural
-radiation rate, cooling has little effect upon skin temperatures .
-it is shown that, in the case of a missile designed to fly over a wide
-range of altitudes and speeds, it is desirable to make the emissivity
-of the skin as high as possible .  this conclusion, however, is
-based upon a skin surface for which the emissivity is independent
-of the wave length of the emitted and absorbed radiant energy .
-a possible method of reducing surface temperatures is indicated by
-the decrease in skin temperature which accompanies a decrease in
-thermal accommodation coefficient .  this phenomenon may be
-used to advantage if it is possible to decrease the accommodation
-coefficient by altering the surface characteristics of the skin .
+A Core Medical Library for Practitioners in Community Hospitals
+
+Stearns, N.S.Ratcliff, W.W.
+
+  In a ongoing study designed in part to evaluate
+and encourage continuing education programs in
+community hospitals Postgraduate Medical Institute
+(PMI) has determined that there is need for
+guidance in the area of medical-library development.
+Reports from PMI physician consultants who visited
+more than 40 community hospitals indicate that
+medical-library facilities are generally poor and 
+infrequently used by physicians.  The basic
+weaknesses of these libraries fall into four
+categories: inadequate collections, inadequate
+personnel, inadequate space, and the absence of
+any practical indexing system to facilitate use of
+collections that do exist.
+  Failure to deal with these problems does not
+reflect lack of interest but rather lack of stimulation
+to do so and absence of any concerted source of
+guidance.  In response to requests for such guidance
+PMI has undertaken a community hospital library
+development project in co-operation with the
+New England Regional Medical Library Service
+(NERMLS) at the Francis A. Countway Library of
+Medicine.  This report is concerned with the first
+phase of this project - namely, the formulation of
+a list consisting of a minimal number of textbooks and
+journals that can function as the core for a medical
+library.
+  Explanatory letters and questionnaires were sent
+to 400 specialists representing 50 areas of medical
+practice, including the basic sciences.  The
+specialists, chosen from regions throughout the
+country, were requested to recommend two textbooks
+and two journals in their area of special interest
+that they considered to be the most basic and 
+fundamentally useful for practitioners.  It was
+also requested that recommendations be made in order
+of preference.

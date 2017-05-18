@@ -1,28 +1,23 @@
-.I 263
-.T
-cylindrical shock waves produced by instantaneous energy
-release .
-.A
-lin,s.c.
-.B
-j.app.phys. 25, 1954, 54.
-.W
-cylindrical shock waves produced by instantaneous energy
-release .
-  taylor's analysis of the intense spherical explosion
-has been extended to the cylindrical case .  it is found
-that the radius r of a strong cylindrical shock wave
-produced by a sudden release of energy e per unit length
-grows with time t according to the equation
-where is the atmospheric density and
-is a calculated function of the specific
-heat ratio .  for is found to be approximately
-unity .  for this case, the pressure behind the
-shock wave decays with radius r according to the relation .
-applying the results of this analysis
-to the case of hypersonic flight, it can be shown that
-the shock envelope behind a meteor or a high-speed
-missile is approximately a paraboloid given by
-where d and v denote the total
-drag and the velocity of the missile, respectively,
-and x is the distance behind the missile .
+Classification Catalogue Code
+
+Ranganathan, S.R.
+
+  The Author, the Dictionary and the Classified catalogues
+represent three successive stages in the order of evolution
+of the internal form of the Library Catalogue.  The classified
+form being the latest to evolve, the literature relating
+to it is comparatively scanty.  It is strikingly so in the
+form of a systematic code of rules for cataloguing.  While
+the number of codes for the Author Catalogue is fairly
+large and the number for the Dictionary Catalogue is also
+respectable, there appear to be few systematic and complete
+codes published in book-form for the Classified Catalogue.
+Hence this little venture, which is based on twenty-five
+years of experimentation and on the valuable reciprocal
+influence gained by its being taught to students of library
+science during the last twenty years.
+  While the Call Numbers occurring in the examples given
+are constructed by the Colon Classification, the rules of
+this Code are not necessarily dependent on that scheme for
+their applicability.  They are all of general application,
+irrespective of the scheme of classification in use.

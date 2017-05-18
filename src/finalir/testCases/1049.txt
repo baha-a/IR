@@ -1,22 +1,20 @@
-.I 1049
-.T
-elastic constants for corrugated core sandwich plates .
-.A
-libove,c. and hubka,r.e.
-.B
-naca tn.2289, 1951.
-.W
-elastic constants for corrugated core sandwich plates .
-  the sandwich plate consisting of
-corrugated sheet fastened between
-two face sheets is considered .  application
-of existing theories to the
-analysis of such a sandwich plate requires
-the knowledge of certain
-elastic constants .  formulas and charts are
-presented for the evaluation
-of these constants .  the formulas for three
-of these constants were
-checked experimentally and found to give
-values in close agreement with
-the experimental values .
+Measuring the Quality of Library Service:  A Handbook
+
+Beeler, M.G.
+
+	There is probably no measurement task which public
+servants face which is more difficult than that of measuring
+the quality of service.  It is as difficult to measure the
+quality of hospital service, or of schools, or of social
+welfare programs, as it is to determine the quality of library
+service.  It is equally as difficult to decide what actions to
+take in order to improve service.
+        Legislators, urban and regional planners, consultants,
+boards of trustees, accrediting teams, librarians, and a
+host of other decision makers must act on the basis of some
+conclusions about the quality of service offered by library
+systems.  This handbook is intended for these groups, and
+especially for practicing librarians.  The pervasiveness of
+the problem across all public service institutions, however,
+leads us to hope that the handbook will be of interest to
+other groups.

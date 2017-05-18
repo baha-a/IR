@@ -1,28 +1,16 @@
-.I 749
-.T
-the aerodynamic effects of aspect ratio and sweepback
-on wing flutter .
-.A
-molyneux,w.g. and hall,h.
-.B
-arc r + m.3011.
-.W
-the aerodynamic effects of aspect ratio and sweepback
-on wing flutter .
-  the report describes tests to obtain direct
-measurements of the aerodynamic effects of aspect ratio and
-sweepback on wing flutter .  the tests were made on rigid
-wings with root flexibilities .
-  it is shown that measured effects of aspect ratio and
-sweepback on the flutter of these wings can be represented
-quite closely in flutter calculations based on two-dimensional
-flow theory by multiplying the two-dimensional
-aerodynamic coefficients by appropriate factors .  the effect of
-sweepback is represented by multiplying all aerodynamic
-coefficients by cos, where is the wing leading-edge
-sweepback, and the effect of aspect ratio is represented by
-multiplying the aerodynamic damping coefficients by 1f(a) and,
-the stiffness coefficients by 1(f(a)) where a is the
-aspect ratio .
-  for the wings tested an average value for
-f(a) is f(a) = (1 + (0.8a)) .
+Statistical Bibliography or Bibliometrics?
+
+Pritchard, A.
+
+  The term statistical bibliography seems to have been first used by E.
+Wyndham Hulme in 1922 when he delivered two lectures as the Sandars Reader
+in bibliography at the University of Cambridge.  Subsequently the lectures
+were published as a book.  Although the debt has never been explicitly
+recognized by means of citations, Hulme anticipated modern work on the
+history of science.  He used the term to mean the illumination of the
+processes of science and technology by means of counting documents.  Hulme
+both summarized the results of Cole and Eales and produced original work
+on the growth of UK patents (relating these to social progress in the
+UK) and on the changes displayed in the International Catalogue of
+Scientific Literature (relating changes in subject and country production
+of literature to international developments).

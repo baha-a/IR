@@ -1,49 +1,15 @@
-.I 274
-.T
-analysis of quartz and teflon shields for a particular
-re-entry mission .
-.A
-adams,e.w.
-.B
-heat transfer and fluid mech. inst. 1961, 222.
-.W
-analysis of quartz and teflon shields for a particular
-re-entry mission .
-  the transient performance of
-ablation type heat protection shields is
-treated herein for the surface of
-a vehicle returning from outer space to the
-earth .  the vehicle weighs 8640 kg,
-has a ballistic factor of 500 lb ft,
-re-enters with a speed of 11 km sec at
-ratio of 0.5, and is subjected to a
-maximum deceleration of 7.7 times the
-gravity constant .
-  by use of well known equations
-for the heat transfer and the mass
-transfer at a heated surface, a numerical
-calculation method is derived which, for
-the investigated ablation processes,
-yields exact transient solutions of the
-fundamental system of partial differential
-equations .  the method is applied
-to various quartz shields and to one
-teflon shield, which all evaporate so
-readily under the conditions of the
-problem at hand that practically no flow
-of molten shield material exists .
-the solutions also show comparatively small
-temperature changes parallel to the surface .
-  the results show that the nose
-of the vehicle is cooled predominantly by
-the evaporation of the quartz or the
-teflon,. the rest of the vehicle's surface
-is cooled by radiation of the quartz
-or evaporation of the teflon .  the large
-mass transfer effects on the nose of
-the vehicle are detrimental since the
-resulting low surface temperatures prevent
-the radiative heat transfer out of
-the shield, which does not involve any
-mass loss, from being the desirable
-governing cooling factor .
+Question-Negotiation and Information Seeking in Libraries
+
+Taylor, Robert S.
+
+   Seekers of information in libraries either go through a librarian 
+intermediary or they help themselves.. When they go through librarians they 
+must develop their questions through four levels of need, referred to here as 
+the visceral, conscious, formalized, and compromised needs.. In this pre-search
+interview with an information-seeker the reference librarian attempts to help
+him arrive at an understanding od his "compromised" need by determining: (1) 
+the subject of his interest; (2) his motivation; (3) his personal 
+characteristics; (4) the relationship of the inquiry to file organization; 
+and (5) anticipated answers.. The author contends that research is needed into
+the techniques of conducting this negotiation between the user and the 
+reference librarian..

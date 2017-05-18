@@ -1,20 +1,10 @@
-.I 741
-.T
-the behaviour of thin cylindrical shells after buckling
-under axial compression .
-.A
-michielsen,h.f.
-.B
-j. ae. scs. 15, 1948, 738.
-.W
-the behaviour of thin cylindrical shells after buckling
-under axial compression .
-  the fundamental investigations of von karman and tsien
-on the buckling of cylindrical shells under axial compression
-are continued .  the energy expression is simplified and
-minimized with respect to the axial and circumferential wave-length
-parameters .  solution of the equations obtained yields curves
-of the reduced average stress and of the wave dimensions plotted
-against the reduced average strain .  they illustrate the behavior
-of the cylinder during the buckling process .  the minimum
-buckling stress is found to be 0.195e(tr) .
+Searching Chemical Abstracts vs. CA Condensates
+
+Buntrock, Robert E.
+
+   As of March 1975, as much as four and one-half years of Chemical Abstracts
+Indexes and on-line accessible Chemical Abstracts Condensates can be compared..
+Although combined searches of both data bases are the most effective, examples
+are shown in which it is more practical and efficient to search CA Condensates..
+CHEMCON and CHEM7071, the on-line versions of CA Condensates loaded at System
+Development Corp. (SDC), are compared with CA Indexes..

@@ -1,19 +1,7 @@
-.I 868
-.T
-design and operation of the n. g. t. e.  thermal shock
-analogue .
-.A
-stanworth,c.g. and paine,d.s.c.
-.B
-arc cp.557, 1960.
-.W
-design and operation of the n. g. t. e.  thermal shock
-analogue .
-  a description is given of the n.g.t.e. thermal shock analogue which
-is suitable for estimating the temperature in a turbine blade section as
-a function of position and time when the blade is subjected to a step
-change in gas temperature .  the method of operating the analogue and
-obtaining results has also been described .
-  the limitations of the analogue have been stated, but they are
-considered a small penalty in view of the essential simplicity of the
-design .
+Title-Only Entries Retrieved by Use of Truncated Search Keys
+
+Kilgour, Frederick G.Long, Philip L.Liederman, Eugene B.Landgraf, Alan L.
+
+   An experiment testing utility of truncated search keys as inquiry terms in
+an on-line system was performed on a file of 16,792 title-only bibliographic
+entries.. Use of a 3,3 key yields eight or fewer entries 99.0% of the time..

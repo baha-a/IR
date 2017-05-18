@@ -1,35 +1,29 @@
-.I 1387
-.T
-the buckling of a square panel under shear, when one
-pair of opposite edges is clamped and the other pair
-is simply supported .
-.A
-leggett,d.m.a.
-.B
-arc r + m.1991, 1941.
-.W
-the buckling of a square panel under shear, when one
-pair of opposite edges is clamped and the other pair
-is simply supported .
-  reasons for investigation.--for an efficient design
-of spar with thin sheet web it is important to know
-the load which will just cause the web to buckle .  as stiffeners
-divide the web into panels, it is required to find the
-buckling stress of rectangular panels bounded on two sides by
-spar flanges and on the other two sides by stiffeners .
-boundary conditions which represent closely this type of edge
-fixing are clamping (along the flanges) and simple support
-critical shear stress for a square panel held in this way .
-  conclusions and further development.--it is found that the
-value of the critical shear stress is almost midway between
-its values when all four edges are clamped and all four edges
-are simply supported .
-  the method of solution developed in this report is of very
-general application, and can be used to investigate the
-stability of rectangular panels when the loading is any combination
-of shear and compression or tension, and the edges
-are clamped or simply supported, and not necessarily all clamped
-or all simply supported .  by an easy extension the
-method of solution can also be used to find the periods of transverse
-vibration of rectangular panels for the same types
-of loading and edge fixing .
+The Structure of Scientific Revolutions
+
+Kuhn, T.S.
+
+  The essay that follows is the first full published report on a
+project originally conceived almost fifteen years ago.  At that
+time I was a graduate student in theoretical physics already
+within sight of the end of my dissertation.  A fortunate involvement
+with an experimental college course treating physical
+science for the non-scientist provided my first exposure to
+out-of-date scientific theory and practice radically undermined
+some of my basic conceptions about the nature of science and
+the reasons for its special success.
+  Those conceptions were ones I had previously drawn partly
+from scientific training itself and partly from a long-standing
+avocational interest in the philosophy of science.  Somehow,
+whatever their pedagogic utility and their abstract plausibility,
+those notions did not at all fit the enterprise that historical study
+displayed.  Yet they were and are fundamental to many discussions
+of science, and their failures of verisimilitude therefore
+seemed thoroughly worth pursuing.  The result was a drastic
+shift in my career plans, a shift from physics to history of
+science and then, gradually, from relatively straightforward
+historical problems back to the more philosophical concerns that
+had initially led me to history.  Except for a few articles, this
+essay is the first of my published works in which these early
+concerns are dominant.  In some part it is an attempt to explain
+to myself and to friends how I happened to be drawn from
+science to its history in the first place.

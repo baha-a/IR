@@ -1,29 +1,14 @@
-.I 720
-.T
-a note on the use of sandwich structures in severe acoustic
-environments .
-.A
-d. j. mead, d. c. ae.
-.B
-d. j. mead, d.c.ae.
-.W
-a note on the use of sandwich structures in severe acoustic
-environments .
-this paper reviews some of the experience to date of using sandwich type
-structures in severe acoustic pressure environments .  the methods
-used for testing sandwich structures for acoustic fatigue are described
-and their limitations considered .  experimental and theoretical work
-relating to the damping and mode-frequency relationships of certain
-sandwich configurations is also reviewed .
-special attention is given to the estimation of the stress in the bond
-of a honeycomb sandwich panel subjected to sudden pressure
-fluctuations .  a /uni-modal/ theory is presented, relating the
-mean-square bond-stress to the random exciting pressure and panel dynamic
-characteristics .  this theory indicates that tensile bond stresses
-may be encountered of up to six times the local r.m.s. exciting
-pressure .  these must be combined with bending and shear stresses
-to obtain the principal stresses which precipitate bond fatigue
-failures .
-finally, an outline is given of some of the lines of future research
-which should lead to the achieving of the maximum possible fatigue
-resistance from sandwich configurations .
+A Selective Current-Awareness System Using Engineering Index'sPlastics Data Base.  II. Performance
+
+Wagner, R.H.
+
+  The operational performance over a 17-month period of the previously
+described selective dissemination system is presented.  Of the 21,000 
+notifications sent to about 20 users, 91% were evaluated; of these, 14%
+were of "Document-Ordered Interest," 48% were "Of Interest," 27% were
+"Marginal," and 11% were "Of No Interest."  Recall data obtained from
+about half the users over a period of eight months show the precision-
+factor/recall-factor products are generally greater than 0.5.  The
+effect of iterative profile adjustments on precision-recall performance
+is discussed.  A comparison made with four other SDI systems shows a
+relatively high level of performance for this system.

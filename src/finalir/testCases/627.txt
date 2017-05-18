@@ -1,23 +1,23 @@
-.I 627
-.T
-flutter analysis of circular panels .
-.A
-rattayya,j.v.
-.B
-j. ae. scs. 20, 1962, 534.
-.W
-flutter analysis of circular panels .
-  the flutter problem of flat circular panels with edges elastically
-restrained against rotation has been formulated in terms of
-small-deflection plate theory .  the panel is subjected to uniform
-all-round tension or compression in its middle plane, in addition to
-the supersonic compressible flow passing over its upper surface
-with still air below .  linear piston theory is employed to predict
-the aerodynamic load on the vibrating panel .
-  the problem is investigated by a rayleigh-type analysis
-involving chosen modes of the panel as degrees of freedom .
-  in order to investigate the convergence of the solution, the
-flutter-mode shape of the clamped-edge panel has been expressed
-in a series form in powers of r cos o .  the results of three-, four-,
-and five-term approximations have displayed oscillatory
-behavior with apparently rapid convergence of the solution .
+Theoretical Foundations of Thesaurus-Construction andSome Methodological Considerations for Thesaurus-Updating
+
+Kim, Chai
+
+   It was argued that the present-day thesaurus-construction and maintenance
+rules and conventions are not theoretically based.. For this reason, there
+are few rules and conventions for updating a thesaurus.. Consequently, 
+most of the thesauri adopted by operating information storage and
+retrieval systems are not systematically updated.. In order to 
+investigate how thesauri are actually updated, a survey was conducted.. 
+The working hypothesis was that the communication process between authors
+and readers is linear in nature ("one-way" communication allowing no 
+reciprocal feedback) if a thesaurus utilized in a system is not updated
+by both indexers and question negotiators.. Findings show that thesauri
+viewed from the communications point of view do not allow a cybernetic
+process of communication ("both-way" communication).. The survey
+indicated that the present practice of updating thesauri is largely
+done by indexers alone.. No attempt was made to develop a theory of
+thesaurus construction and updating.. It was, however, argued that
+such a theory, if developed, should at least account for the concepts
+of meaning and knowledge.. Within this theoretical framework, two
+techniques are suggested to be considered for the systematic updating
+of a thesaurus..

@@ -1,35 +1,19 @@
-.I 1224
-.T
-on the plk method and the supersonic blunt-body problem .
-.A
-vaglio-laurin,r.
-.B
-j. ae. scs. 1962, 185.
-.W
-on the plk method and the supersonic blunt-body problem .
-  detailed analysis of the subsonic and transonic portious of the
-flow field about either very blunt or asymmetric configurations
-requires successive approximations,. these can be carried out in a
-systematic fashion only when an appropriate convergent
-perturbation procedure is available .  the problem of producing
-successively refined sets of initial conditions for either /direct/
-or /inverse/ analysis of the flow is formulated in the following
-terms ..  given reasonable estimates for shock shape and
-pressure distribution on the body, can one determine the flow field
-of interest to any desired degree of approximation by a
-perturbation approach .qm
-  a procedure to this effect is developed which involves
-stretching of coordinates in the spirit of the poincare-lighthill-kuo
-are transformed along body, shock, and intermediate lines so as
-to annul perturbations of the local resultant velocity,. (b) for the
-integral method the coordinate along the boundary of each strip
-is shifted so as to control perturbations of the velocity component
-that determines the critical point .
-  the approach is justified by a study of the equations governing
-the direct method, and by consideration of model transonic flow
-problems for which closed form solutions are available .  the
-range of validity of the proposed procedure is assessed by
-practical application and comparison with experiment,. results are
-presented for a disk set normal to a low-termperature air stream
-at m = 4.76, and for a highly asymmetric two-dimensional
-configuration at m = 8 .
+On one model of semantic information theory
+
+Shreider, Y.A.
+
+Text processing problems (such as automatic translation and automatic
+abstracting) create a need for defining explicit concepts, which should be
+characterized as the properties and quantity of semantic information
+contained in document texts.
+In fact, we need a formal model, which lets us describe the process of
+semantic text analysis.
+  Semantic text analysis could be described from the point of view of someone
+with a different "conception of the world" - e.g. the text of very meaningful
+article does not contain, in fact, any information for people who are not
+specialists in the given mathematic field.
+Therefore, the formal model must contain descriptions of the "conception of the
+world: of the given observer.
+Such a description we call a thesaurus.
+  Semantic text analysis we interpret as changing the thesaurus in response
+to a given text.

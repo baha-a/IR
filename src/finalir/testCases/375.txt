@@ -1,41 +1,31 @@
-.I 375
-.T
-steady flow in the laminar boundary layer of a gas .
-.A
-illingworth,c.r.
-.B
-proc. roy. soc. a, 199, 1949.
-.W
-steady flow in the laminar boundary layer of a gas .
-if the boundary-layer equations for a gas are
-transformed by mises's transformation, as
-was done by karman   tsion for the flow
-along a flat plate of a gas with unit prandtl
-number, the computation of solutions is
-simplified, and use may be made of previously
-computed solutions for an incompressible fluid .
-for any value of the prandtl number, and
-any variation of the viscosity with the temperature
-t, after the method has been applied
-to flow along a flat plate (a problem otherwise treated
-by crocco), the flow near the forward
-stagnation point of a cylinder is calculated with
-dissipation neglected, both with the effect of
-gravity on the flow neglected and with this effect
-retained for vertical flow past a horizontal
-cylinder .  the approximations involved by the neglect
-of gravity are considered generally,
-and the cross-drift is calculated when a horizontal
-stream flows past a vertical surface .
-when, and the boundary is heat-insulated,
-it is shown that the boundary-layer
-equations for a gas may be made identical, whatever be
-the main stream, with the
-boundary-layer equations for an incompressible fluid with a certain,
-determinable, main stream .  the
-method is also applied to free convection at a flat plate
-variation with altitude of the state of the surrounding
-fluid neglected) and to laminar flow in
-plane wakes, but for plane jets the conditions,
-previously imposed by howarth,
-are also imposed here in order to obtain simple solutions .
+Encyclopedia of Information Systems and Services
+
+Kruzas, A.T.
+
+  The processing and transfer of information is an important activity of many
+thousands of libraries, research institutes, educational institutions,
+professional and trade associations, non-profit organizations, publishing
+houses, government agencies, and others.  All of these groups are already
+listed in a variety of existing directories.  This publication, on the other
+hand, has selected from the above groups, those organizations and services
+which are principally concerned with storage, retrieval, and dissemination
+of information, and in addition, are innovative, experimental, or non-
+conventional.  A major emphasis is on computerization, micrographics, networks,
+advanced reference services, information centers, and data banks.
+  The Encyclopedia of Information Systems and Services includes descriptions
+of the following types of services and facilities:
+        
+        Information Centers
+        Computerized Systems and Services
+        Networks and Cooperative Programs
+        Data Banks
+        Documentation Centers
+	Information Storage and Retrieval Systems
+	Micrographic Systems and Services
+        Research Centers and Projects
+        Clearinghouses and Referral Centerss
+        Consulting and Planning Organizations and Services
+	Information Offices
+        Industrial Research Information Centers
+        Professional Associations
+        Specialized Library Reference Services

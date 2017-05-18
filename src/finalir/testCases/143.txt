@@ -1,18 +1,15 @@
-.I 143
-.T
-interplanetary orbits .
-.A
-vertregt,m.
-.B
-j.brit.inter.s. 16, 1958, 326.
-.W
-interplanetary orbits .
-  the basic equations under simplified
-conditions for interplanetary flight are derived .
-for a voyage from planet to planet an
-unlimited number of orbits is possible .  in
-order to give a clear survey of these possible
-orbits a diagram is developed from which the
-approximate energy-requirement, the duration,
-and other particulars of a voyage can be
-easily found .
+The Area Specialist Bibliographer: an inquiry into his role 
+
+Stuart, R.D.
+
+  It is the intent of this volume to develop a model designed
+to eliminate present difficulties and ambiguities and
+to improve administrative procedures for future development
+of area programs.  This will be accomplished by giving
+some indication of the climate of opinion toward area specialist
+bibliographers and by isolating factors which influence
+these opinions.  These attitudes will be presented by the
+perceptions of area bibliographers toward their role and the
+expectations of faculty and library administrators toward that
+role.  The bibliographer's academic, professional, and
+educational experience will be examined in this framework.

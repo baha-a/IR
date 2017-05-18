@@ -1,19 +1,19 @@
-.I 424
-.T
-cantilever plate with concentrated edge load .
-.A
-holl,d.l.
-.B
-j.app.mech. 1937, 8.
-.W
-cantilever plate with concentrated edge load .
-  the author gives, by the method of finite differences, an
-approximate solution of the problem of a finite length
-of a cantilever plate which bears a concentrated load at
-the longitudinal free edge .  all the boundary conditions
-are taken into account, and the plate action is
-determined approximately at all points of the plate .  the
-author points out that a secondary maximum transverse
-stress occurs at the clamped edge nearest the loading
-point, and that the longitudinal stress is greatest directly
-under the loading point .
+A Method for Allocating R & D Expenditures
+
+Rosen, E.M.Souder, W.E.
+
+   The analytical problems of developing quantitative techniques for R & D 
+investment management are often complicated by the existence of conflicting 
+goals.. Corporate goals may require the R & D  manager to simultaneously seek
+the highest probable profits, the largest probable number of successes, and the
+greatest probable profit per dollar spent.. Departmental goals may restrict the
+manager to some maximum budget, a minimum number of projects to be worked on, 
+and minimum levels of accomplishment on specific projects.. In a sense, then, 
+the research manager is faced with a constrained multiple-output production 
+problem: how much to spend on which project and how much to spend overall.. 
+This  paper shows how a slight modification of Hess' approach to project
+selection  and an analogy to the theoretical economics of a multiple-product
+factory have been used to help our research management simultaneously solve
+these project selection, resource allocation, and budget determination 
+problems..  Most approaches in the literature have treated these three problems
+separately..

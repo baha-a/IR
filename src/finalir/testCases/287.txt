@@ -1,26 +1,9 @@
-.I 287
-.T
-some theoretical low-speed loading characteristics
-of swept wings in roll and sideslip .
-.A
-bird,j.d.
-.B
-naca r969, 1950.
-.W
-some theoretical low-speed loading characteristics
-of swept wings in roll and sideslip .
-  the weissinger method for determining additional span
-loading for incompressible flow is used to find the damping in
-roll, the lateral center of pressure of the rolling load, and the
-span loading coefficients caused by rolling for wing plan forms
-of various aspect ratios, taper ratios, and sweep angles .  in
-addition, the applicability of the method to the determination
-of certain other aerodynamic derivatives is investigated, and
-corrections for the first-order effects of compressibility are
-indicated .
-  the agreement obtained between experimentally and
-theoretically determined values for the aerodynamic coefficients
-indicates that the method of weissinger is well suited to the
-calculation of the additional span loading caused by rolling
-and for the calculation of such resulting aerodynamic
-derivatives of wings as do not involve considerations of tip suction .
+Major Decision Points in Labrary Automation
+
+Veaner, Allen B.
+
+   This article is based on a longer, more detailed paper prepared for the 1970 
+Midwinter Meeting of the Association of Research Libraries.. Readers interested 
+in the  complete test (with bibliography) are referred to the Minutes of the ARL
+meeting.. The author discusses automation in the context of the management, 
+facilities, and system requirements for large research libraries..

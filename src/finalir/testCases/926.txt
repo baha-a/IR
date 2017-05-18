@@ -1,24 +1,14 @@
-.I 926
-.T
-post buckling behaviour of circular cylinderical shells
-under hydrostatic pressure .
-.A
-kempner,j.
-.B
-j. ae. scs. 24, 1957, 253.
-.W
-post buckling behaviour of circular cylinderical shells
-under hydrostatic pressure .
-  the postbuckling behavior of initially perfect, thin-walled,
-circular cylindrical shells under hydrostatic pressure is
-investigated with the aid of the principle of stationary potential energy
-together with appropriate approximate deflection functions .
-calculations show that postbuckling equilibrium configurations
-exist for loads greater than as well as loads slightly less than the
-critical load calculated from small-deflection theory .  loads
-less than the critical load are obtained only for a finite range of a
-parameter indicative of shell geometry .  for loads corresponding
-to radial displacements of the order of the shell thickness, it is
-found that the number of circumferential waves remain
-essentially constant with increasing deflection and equal to the
-number of waves developed at buckling .
+The Lending of Books to One Another by Libraries
+
+Green, S.S.
+
+  It would add greatly to the usefulness of our reference libraries if an 
+agreement should be made to lend books to each other for short periods of time.
+It happens not unfrequently that some book is called for by a reader, or that
+in looking up the answer to a question a librarian has occasion to use a book 
+which he finds in the catalogue of another library, but which does not belong 
+to his own collection. The book, very likely, is one that can be replaced
+if lost.  But it would take time to get it through ordinary channels; it might 
+be necessary to send abroad for a copy or to wait to pick up one, if the book 
+is scarce.  In such a case it would be a great convenience to be able to
+borrow a book for a few days.

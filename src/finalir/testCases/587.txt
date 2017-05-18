@@ -1,21 +1,20 @@
-.I 587
-.T
-variational analysis of ablation .
-.A
-m. a. biot and h. daughaday
-.B
-consultant and principal research engineer, respectively, cornell
-aeronautical laboratory, inc., buffalo 21, n.y.
-.W
-variational analysis of ablation .
-the variational and lagrangian thermodynamics developed in earlier
-publications are directly applicable to problems of heat conduction
-with melting boundaries .  these techniques are used here in treating
-the problem of a half-space subjected to a constant rate of heat input
-at the melting surface (fig. 1) .
-the applicability of the lagrangian equations to this case follows
-from the fact that the basic variational principle is valid whether the
-boundaries are fixed or move as arbitrary functions of time .  this
-can be seen if we remember that the equations govern only the
-instantaneous configuration of the flow rates for a given geometry and
-temperature field .
+Obsolescence of Special Library Periodicals: Sampling Errors andUtility Contours
+
+Brookes, B. C.
+
+   Problems arising in the measurement of the rates of obsolescence of the sets
+of periodicals taken by special libraries are discussed.. The relatively large
+errors that arise in sampling the negative exponential distribution are 
+analyzed because they may account for some of the discrepancies reported and
+because they indicate the need for firmer statistical control of work on
+obsolescence than has yet been generally appreciated..
+   When the rate of decline has been satisfactorily established there still
+remains the problem of deciding how to apply it.. Issues of those periodicals
+that contribute most productively should be retained for a longer period than
+those of periodicals that contribute less.. To solve this problem the concept
+of "utility contours" is introduced and exemplified in the design of a p%
+library..
+   It is argued that no discarding policy is likely to be generally applicable; 
+every special library must be regarded as a special case.  Rather than suggest
+new measurements, therefore, the paper offers simple graphical techniques that
+are applicable to any other special case..

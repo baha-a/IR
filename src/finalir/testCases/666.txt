@@ -1,22 +1,24 @@
-.I 666
-.T
-blunt body heat transfer at hypersonic speed and low reynolds numbers .
-.A
-ferri, a. zakkay, v. and ting, l.
-.B
-j. aero. sc. v. 28. p. 862. 1961 .
-.W
-blunt body heat transfer at hypersonic speed and low reynolds numbers .
-an analytical method for the determination of effect of shock curvature
-on heat transfer in the region of the nose has been developed . it is
-shown that for practical body shape the viscous terms in the
-navier-stokes equations are not important in the region of the flow far from
-the wall, and the displacement thickness can be neglected . then the
-flow can be approximately represented by an inviscid-flow solution
-having as boundary conditions the body shape, which is not affected by
-the reynolds number, and by a boundary-layer type of flow near the
-wall, having appropriate boundary conditions . this approach permits us
-to determine the heat transfer in the region of the nose even at very
-low reynolds numbers .
-experimental results are presented . the experimental results agree
-with the values given by the analysis .
+New Methods in Automatic Extracting
+
+Edmundson, H.P.
+
+  This paper describes new methods of automatically extracting documents for
+screening purposes, i.e. the computer selection of sentences having the
+greatest possible potential for conveying to the reader the substance of
+the document.  While previous work has focused on one component of sentence
+significance, namely, the presence of high-frequency content words (key words),
+the methods described here also treat three additional components: pragmatic
+words (cue words); title and heading words; and structural indicators (sentence
+location).
+  The research has resulted in an operating system and a research methodology.
+The extracting system is parameterized to control and vary the influence of
+the above four components.  The research methodology includes procedures for
+the compilation of the required dictionaries, the setting of the control
+parameters, and the comparative evaluation of the automatic extracts with
+manually produced extracts.  The results indicate that the three newly proposed
+components dominate the frequency component in the production of better 
+extracts.
+  KEY WORDS AND PHRASES:  automatic extracting, automatic abstracting, sentence 
+selection, document screening, sentence significance, relevance, content words,
+key words, pragmatic words, cue words, title words, sentence location, research
+methodology, parameterization, comparative evaluation.

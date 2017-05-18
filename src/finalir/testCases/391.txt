@@ -1,23 +1,28 @@
-.I 391
-.T
-flutter of rectangular simply supported panels at high
-supersonic speeds .
-.A
-hedgepeth,j.m.
-.B
-j. ae. scs. 24, 1957.
-.W
-flutter of rectangular simply supported panels at high
-supersonic speeds .
-  the problem of panel flutter of rectangular simply supported
-plates subjected to supersonic flow over one surface is treated
-theoretically .  the assumption is made, and subsequently
-verified, that the /static/ approximation to the aerodynamic flutter
-forces yields flutter boundaries with satisfactory accuracy for
-mach numbers greater than about 2 .  two panel flutter analyses
-are performed using this static approximation in conjunction with
-thin-plate theory--one employs aerodynamic strip theory, the
-other aerodynamic surface theory .  the influence of mach
-number, dynamic pressure, panel aspect ratio, and midplane
-stress on the panel thickness required to prevent flutter is
-determined for extensive ranges of these parameters .
+Factors in the Transfer of Technology
+
+Gruber, W.H.
+
+  The strong correlation between the scope and depth of this country's
+research and development activities and the vigor and the growth of its
+industrial plant is today a widely accepted fact.  Government expenditures
+for research and development have increased from a modest
+annual rate of $200 million some thirty years ago to $17 billion today.
+The research budgets of the private sector of the economy, which were
+almost miniscule in the 1930's, total approximately $8 billion today.
+These expenditures have had their many tangible and visible results,
+ranging from nylon and antibiotics to radar and solid state electronics,
+but what is not so generally appreciated is the additional product
+represented by the increasing inventory of ideas and new knowledge
+whose application, for the most part, is still a potential one.  The
+sophisticated and often urgent nature of some of the larger products in
+which we engage today, which require vast research expenditures to
+find the efficient way, or the economical way, or the safe way, or the
+most accurate way to accomplish some end purpose, also produces an
+increase in the national level of scientific and technological competence
+that has not yet been transferred into the civilian economy.  The
+value of the technical ideas now stored and awaiting application can
+be estimated as a value many times larger than the annual rate of
+billions of dollars invested in the effort it took to develop this increased
+technical capability.  As a national resource for underwriting further
+economic and industrial development, this technical inventory is a
+factor of major importance.

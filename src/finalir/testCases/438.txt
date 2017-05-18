@@ -1,17 +1,12 @@
-.I 438
-.T
-stagnation point heat transfer measurements at super
-satellite speeds .
-.A
-offenhartz,e., wisblatt,h. and flagg, r.f.
-.B
-j. roy. aero. soc., 66, 1962.
-.W
-stagnation point heat transfer measurements at super
-satellite speeds .
-  brief description of experiments performed by using shock tube
-techniques for measurement of the stagnation point heating of a blunt
-body over a stagnation enthalpy range of 650 to 900,
-corresponding to velocities between 32,000 ft. per sec. and 39,000
-ft per sec., respectively .  data thus provided are used for
-comparison with theory .
+Inequality; a reassessment of the effect of family and schooling in America
+
+Jenchs, C.
+
+  This book summarizes the results of three years of research at the
+Center for Educational Policy Research.  The eight coauthors were all
+Research Associates at the Center, and our work there was a collaborative
+effort.  We plagiarized both ideas and data from one another.  Most of
+us also spent a good deal of time criticizing one another's work.  While
+each of us took primary responsibility for certain lines of inquiry, and
+this responsibility is recorded in appropriate footnotes, we see our
+research as an integrated effort which should bear all our names.

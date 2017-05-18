@@ -1,19 +1,23 @@
-.I 1080
-.T
-viscous flow round a sphere at low reynolds numbers . /l40/ .
-.A
-jenson, v.g.
-.B
-proc. roy. soc. series, a. v. 249, p. 346, 1959 .
-.W
-viscous flow round a sphere at low reynolds numbers . /l40/ .
-relaxation methods are outlined, and the present problem formulated in
-modified spherical polar co-ordinates . the results of calculations made
-  for r 5, 10, 20, 40 are presented in the form of stream function and
-vorticity distributions,. and further results of pressure distributions,
- velocity distributions, and drag coefficients, calculated from them .
-these results are shown to compare favourably with experimental work,
-showing a steady trend from symmetrical stokes's flow, towards boundary
-layer flow . the phenomenon of separation of the forward flow and
-development of a circulating wake, is explained and illustrated, the first
-formation of a wake being at r 17 .
+National Document-Handling Systems for Science and Technology
+
+Carter, L.F.
+
+  This book has grown out of a study undertaken for the Committee on Scientific 
+and Technical Information (COSATI) Task Group on National Systems(s) for 
+Scientific and Technical Information in support of their examination of national
+document and information systems.  The emphasis of the study as stated by 
+COSATI is as follows:
+    1. Initial and primary priority will be placed on national systems 
+relating to scientific and technical documents, their handling and the
+management of such documents.  Specific matters to be reported on will include, 
+the current organizational and functional situation in the United States; the 
+extent to which known  deficiencies are causing a reduction in the  potential 
+for technical effectiveness in the United States scientific and technical 
+community; the alternatives which are available and economically feasible for 
+correction of these deficiencies; and one or more action plans which can be
+followed by governmental (especially including Congress) and non-governmental 
+units.
+    2. Secondary attention will be given to development of programs which can 
+be undertaken with Government support for identifying,  analyzing, and giving 
+a structure to the total flow of scientific and technical information in the 
+United States."

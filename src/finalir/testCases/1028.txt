@@ -1,41 +1,15 @@
-.I 1028
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  the phenomenological theory previously
-proposed in naca technical
-note 4000 for the behavior of metals at
-elevated temperatures has been
-modified to yield transient creep curves
-by assuming that the metal
-consists of two phases, each with its own
-elasticity and viscosity .  the
-extended theory satisfies the basic
-requirements for a theory of
-transient creep at elevated temperatures ..
-that the transient creep be closely
-connected with the subsequent steady
-creep, and that the apparent
-exponent of the time in the transient region
-be permitted wide variations
-between 0 and 1 .  from this theory it is
-possible to construct
-nondimensional creep curves which extend continuously
-from the transient region
-into the steady-state region .  the
-corresponding family of creep curves
-for any metal may be obtained from
-the nondimensional family by use of
-appropriate constants .  the constants
-required are those obtained from
-steady creep measurements, together
-with two additional constants which
-represent the difference between the
-phases .  the transient creep curves
-resulting from this theory are compared
-with the experimental curves
-for pure aluminum, gamma iron, lead, and
-agreement is found .
+A List of Books for College Libraries
+
+Shaw, C.B.
+
+  To permit a qualitative estimate of a college library's resources, the
+Advisory Group on College Libraries of the Carnegie Corporation authorized
+the compilation of a list of not less that 8,000 nor more than 15,000 titles
+which might be regarded as a statement of the minimum or basic book collection
+of a four-year liberal arts college.
+  The procedure on which the Advisory Group decided included (1) the selection
+of a librarian under whose direction the compilation should be made, (2) the
+checking and improvement of the original lists drawn up by this compiler by such
+a homogeneous group as the faculty of a single college, and (3) the submission
+of these revised recommendations to an able group of widely scattered college
+teachers for further revision.

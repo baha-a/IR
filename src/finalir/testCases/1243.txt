@@ -1,19 +1,13 @@
-.I 1243
-.T
-supersonic boom of wing-body configurations .
-.A
-ryhming,i.l. and yoler,y.a.
-.B
-j. ae. scs. 1961, 313.
-.W
-supersonic boom of wing-body configurations .
-  the supersonic boom in steady, level flight of a wing-body
-configuration is due to the effects of body volume, wing volume,
-wing incidence or lift, and wing-body interference .  the
-contribution in the far field of each of these factors can, in any given
-azimuthal plane, be represented as that of an equivalent body
-of revolution .  this concept is developed to investigate the
-possibilities of using interference among the components of a
-wing-body configuration to reduce or suppress the boom due to
-lift .  results of wind tunnel experiments are also presented and
-discussed in light of the theoretical indications .
+Rare Book Librarianship
+
+Cave, R.
+
+  Although there is an extensive and enjoyable literature on the subject
+of rare books, most of it is concerned with bibliography or book
+collecting, and relatively little on the librarianship of rare books
+is available.  This book is an attempt to consider some of the problems
+of custodianship and exploitation of special collections in libraries;
+problems sufficiently different, I believe, to make the concept of rare
+book librarianship a valid one.  It is based distantly upon lecture notes
+for a course on this subject which was offered to postgraduate students
+at Loughborough University.

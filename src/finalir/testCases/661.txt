@@ -1,47 +1,23 @@
-.I 661
-.T
-summary of laminar boundary layer solutions for
-wedge-type flow over convection and transpiration cooled
-surfaces .
-.A
-livingood,j.n.b. and donoughe,p.
-.B
-naca tn.3588, 1955.
-.W
-summary of laminar boundary layer solutions for
-wedge-type flow over convection and transpiration cooled
-surfaces .
-  a summary of exact solutions of the
-laminar-boundary-layer equations
-for wedge-type flow, useful in estimating
-heat transfer to such
-arbitrarily shaped bodies as turbine blades,
-is presented .  the solutions are
-determined for small mach numbers and
-a prandtl number at the wall of 0.7 ,.
-ranges of mainstream pressure gradients
-and rates of coolant flow through
-a porous wall are considered for the
-following cases ..  (1) small
-temperature changes in the boundary layer
-along a constant- and along a
-variable-temperature wall, and (2) large
-temperature changes in the boundary layer
-along a constant-temperature wall .
-  dimensionless forms of heat-transfer
-and friction parameters and
-boundary-layer thicknesses are tabulated .
-the results indicate that
-coolant emission and increased stream-to-wall
-temperature ratios diminished
-the friction and heat transfer for a
-constant wall temperature .  for a
-variable wall temperature with small
-temperature differences in the
-boundary layer, the friction was unaffected,
-but the heat transfer was greatly
-increased for increased wall-temperature
-gradient .  heat-transfer results
-in the literature reveal that transpiration
-cooling is much more effective
-for prandtl numbers of the order of 5.0 than for 0.7 .
+Is Automatic Classification a Reasonable Application of StatisticalAnalysis of Text?
+
+Doyle, Lauren B.
+
+   The statistical approach to the analysis of document collections and
+retrieval therefrom has proceeded along two main lines, associative machine
+searching and automatic classification.. The former approach has been
+favored because of the tendency of people in the computer field to strive for
+new methods of dealing with the literature--methods which do not resemble those
+of traditional libraries.. But automatic classification study also has been
+thriving; some of the reasons for this are discussed..
+   The crucial question of the quality of automatic classification is treated
+at considerable length, and empirical data are introduced  to support the
+hypothesis that classification quality improves as more information about
+each document is used for input to the classification program.. Six
+nonjudgmental criteria are used in testing the hypothesis for 100
+keyword lists (each list representing a document) for a series of computer
+runs in which the number of words per document is increased progressively
+from 12 to 36.. Four of the six criteria indicate the hypothesis holds, and
+two point to no effect.. Previous work of this kind has been confined to the
+range of one through eight words per document..
+   Finally, the future of automatic classification and some of the practical
+problems to be faced are outlined..      

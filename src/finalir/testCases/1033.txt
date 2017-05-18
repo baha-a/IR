@@ -1,18 +1,11 @@
-.I 1033
-.T
-the design of tubes under uniform external pressure on the
-basis of assumed inaccuracies .
-.A
-.B
-.W
-the design of tubes under uniform external pressure on the
-basis of assumed inaccuracies .
-since the failure of tubes under uniform external pressure depends
-very much upon the various kinds of imperfections in them,
-it seems logical to derive a design formula for such tubes in
-which the quantities depending on imperfections will appear explicitly .
-the most common imperfection in tubes is an initial ellipticity,
-the limiting value of which in each type of tube is usually well-known
-from numerous inspection measurements .  the deviation of the shape
-of the tube from a perfect circular form can be defined by the
-initial radial deflections w' .
+The Making of a Library
+
+Taylor, R.S.
+
+A book like this is a cumulation of experience, thought, error, and
+hopefully, learning of many years.  It did not start, like a water faucet, at
+precisely that moment in 1967 when the Office of Education so kindly
+awarded a grant to Hampshire college for the development of the concept
+of the extended and experimenting library, although the grant was certainly
+the means for, and a spur to, it formalization.
+

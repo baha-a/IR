@@ -1,18 +1,17 @@
-.I 107
-.T
-on the mixing of two parallel streams .
-.A
-ting,lu.
-.B
-j.math.phys. 38, 1959, 153.
-.W
-on the mixing of two parallel streams .
-  using the techniques of boundary-layer theory, the proper third
-boundary condition for the mixing of two parallel streams is
-derived from the compatibility condition of the higher order
-approximation .  it is shown that the commonly adopted third boundary
-condition of balancing of transverse momentum is correct only for
-the mixing problem of two semi-infinite incompressible streams .
-for the fulfillment of the proper third boundary condition, the
-possibility of introducing the similar solution of blasius type is
-examined for various cases .
+The Structure of Scientific Fields and   the Functioning of University Graduate Departments
+
+Lodahl, Janice BeyerGordon, Gerald
+
+   Kuhn's concept of paradigm suggests that academic disciplines could be viewed
+as technologies involving degree of task predictability.. A series of hypotheses
+were developed in which relatively high paradigm development in a discipline was 
+predicted to facilitate research and teaching through improved processes of 
+communication and access to stored information.. Using questionnaire data 
+collected from 80 university graduate departments, physicists and chemists were 
+found to exhibit more agreement over field content, and to be more willing and 
+satisfied to spend time with graduate students than sociologists and political 
+scientists.. In addition, chemists were found to collaborate with larger 
+numbers of graduate students in research than scientists in the other fields..
+Two other aspects of scientific structure are discussed: the level of innovation 
+being pursued within a field of a given time, and the degree of 
+institutionalized differentiation of the field into subdisciplines..

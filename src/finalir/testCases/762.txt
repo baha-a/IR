@@ -1,26 +1,25 @@
-.I 762
-.T
-allowable axial loads and bending moments for inelastic structures
-under nonuniform temperature distribution .
-.A
-b. e. gatewood and r. w. gehring
-.B
-the ohio state university and north american aviation, inc.
-.W
-allowable axial loads and bending moments for inelastic structures
-under nonuniform temperature distribution .
-a strain-analysis method is derived and demonstrated for the
-calculation of design allowable load-strain curves for the cross section
-of a structure supporting axial loads and bending moments .  the
-temperature effects of thermal stresses and changed material properties
-and all inelastic effects are included in the calculations so that
-the final curve is a design curve for the applied stresses as calculated
-by room-temperature elastic procedures .  the method allows for sequence
-application and removal of load and temperature, as well as cycling
-of load and/or temperature .  applications are shown for a rectangular
-bar under temperature cycling with axial loads and/or bending moments
-and for a box beam with one bending-moment temperature cycle .
-interaction curves beyween axial load and bending moment with inelastic
-effects included are given, the calculations being done on a digital
-computer .  a procedure is given for using the method to construct
-design curves .
+Opening the Black Box of 'Relevance'
+
+Cuarda, Carlos A.Katter, Robert V.
+
+   The purpose of this project was to identify variables thought to affect 
+relevance judgements and conduct a series of laboratory studies to determine
+the effects of these variables on relevance judgements.. This paper discusses
+the variable of 'implicit use orientations' - the particular attitude taken by
+a subject (judge) about the intended use of a document.. One hundred and forty
+judges rated each of nine abstracts for relevance to several short information 
+requirement statements.. The some judges then repeated the ratings, each 
+adopting (assuming) one of the fourteen use orientations described to them.. It
+was found that the particular use orientation assumed by the judge has a marked 
+effect on relevance judgements.. It was also found that implicit use 
+orientations can be analysed in terms of their underlying structure and that
+their study offers the possibility of discovering the conditions under which
+one person can accurately simulate and use the implicit use orientations of 
+another..
+   Relevance judgements have been used as a basis of measures designed to
+evaluate the effectiveness of information retrieval system.. This judgements
+have usually been accepted at face value and have not been subjected to 
+critical scrutiny.. There is reason to believe, however, that as ordinarily
+obtained, they may be unreliable and sensitive to a number of conditions of
+measurement that have not been carefully controlled in previous evaluation
+studies..

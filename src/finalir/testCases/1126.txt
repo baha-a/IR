@@ -1,25 +1,9 @@
-.I 1126
-.T
-an engineer's conceptual approach to the buckling of
-cylindrical shell (axial loading) .
-.A
-cunningham,j.h.
-.B
-ias paper 62-106, 1962.
-.W
-an engineer's conceptual approach to the buckling of
-cylindrical shell (axial loading) .
-by using the well known analogy between
-the bending of a beam on an elastic
-foundation and the axial symmetric
-displacement of a cylinder, a physical
-insight is obtained for the buckling of
-cylindrical shells under axial
-compression .  the technique is equivalent
-to classical small deflection theory
-and provides good agreement with the more
-elaborate solutions for the buckling
-strength of various sandwich, multi-layered,
-and orthotropic cylinders,
-including the effects of internal pressure
-or an elastic core .
+Evaluation of Indexing and a Technique for Formalized Search RequestStatement
+
+Frants, Yu. I.Voiskunskii, V. G.Mukosei, V. I.Kozhina, T. G.
+
+   A method for evaluation of indexing is expounded.  The feasibility is 
+examined of using marked documents instead of requests, called the "beacon
+method".. A M-algorithm for formalized statement of search requests is 
+described and exemplified by an information retrieval system in the nitrogen
+industry..

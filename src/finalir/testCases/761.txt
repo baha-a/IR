@@ -1,17 +1,14 @@
-.I 761
-.T
-buckling of sandwich under normal pressure .
-.A
-yao,j.c.
-.B
-j. ae. scs. 29, 1962, 264.
-.W
-buckling of sandwich under normal pressure .
-  a theoretical study is made of the buckling of a sandwich sphere
-comprised of a core layer of low-modulus material and two thin
-facing layers of higher modulus material .  the solution for the
-buckling resistance of the sphere under normal external pressure
-is obtained by linearized theory, and is reducible to the classical
-solution for monocoque spherical shells .  critical buckling
-pressures are calculated for various radius-thickness ratios and sphere
-materials .
+Minimum Vocabularies in Information Indexing
+
+Moss, R.
+
+   Words have no precision, though in information storage and retrieval we are
+required to act as if they did.. We have, therefore, to impose certain 
+arbitrary conditions to reduce the element of personal interpretation..
+'Meaning' must be remove from the indexing stage to that of vocabulary 
+construction.. Vocabularies can be reduced to a minimum, first to a core of 
+terms used in specialist science, and, following Russel, ultimately to
+undefined terms symbolic of sense experience.. 'Basic English' has shown 
+similar minimizing to be feasible for a natural language.. The success of
+Batten cards shown that the principle could be equally applicable to specialist 
+indexing vocabularies..

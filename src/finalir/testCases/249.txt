@@ -1,29 +1,11 @@
-.I 249
-.T
-formulae for the computation of the functions employed
-for calculating the velocity distribution about a given
-aerofoil .
-.A
-watson,e.j.
-.B
-arc r + m 2176.
-.W
-formulae for the computation of the functions employed
-for calculating the velocity distribution about a given
-aerofoil .
-  in order to determine the velocity distribution
-about an arbitrary aerofoil, it is necessary to evaluate
-the functions and (in the notation of aerofoil theory)
-when is given numerically .  if the values of are specified
-at 2n points equally spaced about the circle into which the
-aerofoil is transformed, the formulae obtained here may be
-used to calculate these functions at the same points .
-formulae are also given for calculating the integrals of or,
-since these have application to the design of aerofoils by
-thwaites's numerical method .
-  the simplicity of the formulae for and enables
-the effect on the velocity distribution of a local change of shape
-readily to be determined by making n large .  this is
-discussed in 3 .
-  the formulae are collected in the appendix, and a table
-of the coefficients for the case n = 20 is given .
+Centralized Book Processing
+
+Leonard, L.E.
+
+  This report summarizes the results of the fourteen-month feasibility
+study -- the Colorado Academic Libraries Book Processing Center
+project (CALBPC).  The report is organized under nine major sections:
+I. Background; II. Participating Libraries -- Operational Characteristics;
+III. Cost Analysis; IV. Business Office Procedures; V. The Book Processing
+Center; VI. Approval Plan Utilization; VII.  Mathematical Model/Simulation;
+VIII. Attitude Survey; IX. Conclusions and Recommendations.

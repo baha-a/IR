@@ -1,29 +1,18 @@
-.I 1075
-.T
-an experimental and theoretical investigation of second-order supersonic
- wing-body interference, for a non-lifting body with wings at incidence .
-.A
-wilby, p.g.
-.B
-aero. res. inst. of sweden, ffa report 87, 1960 .
-.W
-an experimental and theoretical investigation of second-order supersonic
- wing-body interference, for a non-lifting body with wings at incidence .
-pressure distributions on the wing of two wing-body combinations are
-measured experimentally at mach numbers 3 and 4 with the wing at various
- incidences in the range 0degree to 10degree . the results are compared
-with theoretical results which include interference effects calculated
-according to the second-order supersonic wing-body interference theory
-due to landahl and beane /1/ . this theory, having been tested
-previously for non-lifting wing-body combinations, is thus tested also for
-wings at incidence . the agreement between theory and experiment is
-found to vary with mach number and wing sweepback . for the higher mach
-number and moderate sweepback the theory gives a good prediction of
-pressure distribution, but for the most adverse condition of low mach
-number and large sweepback the theory is found to overestimate the
-interference effects . this is expected as the theory assumes the
-sweepback of the wings is small compared with that of the mach line . an
- empirical guide to the limit of application of the interference theory
-is given . within this limit the agreement between theory and experiment
- is found to deteriorate only a little with increase of incidence, over
-the range tested .
+Possibilities for Revisions of the DK (Decimal Classification)
+
+Dahlberg, I.
+
+  For a number of reasons mentioned it is proposed to reorganize in a new
+edition the existing UDC completely, to reallocate the subject fields of
+the UDC main classes according to present day views, state of knowledge and
+priorities, and to subdivide these main classes only by subfields of subject
+fields.  The specific facets of each field should be represented by a uniform
+array of special auxiliaries attached to the fields through the technique
+of interrupted subdivision.  These should express the following categories:
+(1) Theory, (2) Objects, (3) Processes, (4) Attributes, (6) Order, organization,
+(7) Relation, (8) Determination, (9) Evaluation. ((5) is left free for the 
+moment).  Proposals for further simplification of the scheme are outlined
+regarding the general categories, the symbols used and the rules for 
+syntagmatic organization taking into account the implications of computer
+technology.  Possible changes in the layout and editions of a new UDC are
+discussed.

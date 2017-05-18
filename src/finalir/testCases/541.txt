@@ -1,38 +1,22 @@
-.I 541
-.T
-similitude of hypersonic flows over slender bodies
-in non-equilibrium dissociated gases .
-.A
-inger,g.r.
-.B
-a.i.a.a. j. 1963, 46.
-.W
-similitude of hypersonic flows over slender bodies
-in non-equilibrium dissociated gases .
-  this paper is concerned with the similitude laws
-governing inviscid, nonequilibrium gas flows
-around blunt or sharp-nosed slender bodies at
-zero angle of attack, based on the hypersonic
-small disturbance flow theory .  some related
-features of the interaction between the effects of
-nose bluntness and nonequilibrium dissociation
-and vibration and the influence of a
-dissociated freestream are also discussed .  the
-hypersonic equivalence principle and the related
-similitude for affinely related bodies are set
-forth for nonequilibrium flows in either diatomic
-gases or a gas mixture such as air .  for a family
-of diatomic gases, as opposed to a given gas
-such as air, a generalized ambient gas state
-scaling condition is obtained, whereby the
-ambient density and temperature need not be
-simulated .  a detailed discussion is given of
-blunted cylinders and slabs or sharp-nosed
-cones and wedges, including example
-nonequilibrium flow field correlations of numerical
-solutions available in the literature .  low density
-nonequilibrium flows with a negligible shock
-layer atom recombination rate are also
-examined ,. as expected, a less restrictive small
-disturbance similitude law is obtained in this
-case .
+ISBD(S) and Title Main Entry for Serials
+
+Spalding, C. Sumner
+
+  At the IFLA Liverpool Conference in 1971 a Joint working
+Group of the Committees on Cataloguing and on Serial Publications
+was set up to draw up an International Standard Bibliographic
+Description for Serials, taking the ISBD(M) as a model in
+so far as practicable.  As might be expected, the special problems
+presented by serial publications made the task of developing an
+ISBD(S) a difficult assignment which the Joint Working Group
+tackled with great energy and devotion.  The successive drafts
+were prepared by the Chairman and the Secretary, Mlle M.-L.
+Bossuat and Mlle M. Pelletier.
+  Probably no data element presented such a severe problem as
+that of serial title.  The seemingly countless Mitteilungen,
+Memoires, Proceedings, Bulletins, Trudy's, and the like seemed to 
+demand some useful and standardized way to be identified.  A
+solution to this problem was found in the adoption of a device
+which consisted of marrying the author statement to the generic
+title proper, with a wedding ring consisting of a space-hyphen-
+space and dubbing the happy couple the "distinctive title."

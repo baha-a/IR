@@ -1,20 +1,23 @@
-.I 1396
-.T
-shear buckling of clamped and simply-supported infinitely
-long plates reinforced by transverse stiffeners .
-.A
-cook,i.t. and rockey,k.c.
-.B
-aero. quart. 13, 1962, 41.
-.W
-shear buckling of clamped and simply-supported infinitely
-long plates reinforced by transverse stiffeners .
-  the paper presents a solution to the buckling of infinitely long
-plates clamped along the edges, together with an extension of the
-solution obtained by stein and fralich for the case when the edges are
-simply-supported .  it is shown that, as a consequence of increasing the
-edge support from that of a simple support to one in which both
-deflection and rotation are prevented, the rigidity which an
-intermediate transverse stiffener must possess in order to support the
-plate effectively is much reduced .  agreement between the theoretical
-relationships and existing experimental data is good .
+Survey of Commercially Available Computer-Readable Bibliographic Data Bases
+
+Schneider, John H.Gechman, MarvinFurth, Stephen E.
+
+   This document contains the results of a survey of 94 US organizations, 
+and 36 organizations in other countries that were thought to prepare 
+machine-readable data bases.. Of those surveyed, 55 organizations (40 in U.S., 
+15 in other countries) provided completed camera-ready forms describing
+bibliographic information about published literature..
+   The following types of data were requested for each data base:  Name, 
+frequency of issue, and time span covered by the data base; Name of 
+organizations and individuals who can provide information on the data base;
+Subject matter and scope of data on the tape; Source of information in the 
+data base (journal articles, reports, patents, monographs, etc.); Method(s)
+used for indexing or other types of subject analysis; Special data elements;
+Tape specifications (density, tracks, labels, etc.); Availability of programs
+for retrospective searching and selective dissemination of information (SDI); 
+Type and cost of search services offered; and Availability and charges for data
+bases.. The information provided represents the status of these data bases as 
+of November 1972..
+   It is anticipated that libraries and other information centers will find
+this document helpful in selecting data bases for providing SDI; retrospective
+search services, and other bibliographic reference services to their users..

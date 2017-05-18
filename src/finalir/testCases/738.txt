@@ -1,30 +1,16 @@
-.I 738
-.T
-finding zero's of arbitrary functions .
-.A
-frank,w.l.
-.B
-j. assoc. comput. mach. 5, 1958, 154.
-.W
-finding zero's of arbitrary functions .
-  a method for finding real and complex
-roots of polynomial equations, due to
-d. muller, is applied to finding roots of
-general equations of the form f(z) = 0,
-where f(z) is analytic in the neighborhood
-of the roots .  the procedure does not
-depend on any prior knowledge of the
-location of the roots nor on any special
-starting process .  all that is required is
-the ability to evaluate f(z) for any
-desired value of z .  multiple roots can also be
-obtained .  a general purpose program,
-prepared for the univac scientific 1103
-and 1103a, is described and numerical
-results are presented for the following
-applications ..  finding eigenvalues of
-differential operators ,. finding eigenvalues of
-arbitrary matrices ,. finding zeros of the
-generalized eigenvalue problem ,. finding
-roots of a number of transcendental
-equations .
+Substructure Searching of Computer-Readable Chemical AbstractsService Ninth Collective Index Nomenclature Files
+
+Fisanick, W.Mitchell, L.D.Scott, J.A.Vander Stouw, G.G.
+
+  The increasing availability of computer-readable files of chemical  
+nomenclature and of programs for text searching has led to the development
+of methods for performing substructure searches in which CA nomenclature
+terms are used as search terms.  Substructure searches on CA Index
+nomenclature can often result in very high recall relative to topological
+searches, as is shown by experimental results achieved on a variety of
+searches.  Many data bases which contain CA Index nomenclature also contain
+nonsubstance data.  Thus, searching of substance and nonsubstance data
+can often be done within a single search of a file with both high recall
+and relevancy.  Profile construction aids prepared by CAS make it possible
+for persons without sophisticated nomenclature backgrounds to construct
+nomenclature profiles for many questions.

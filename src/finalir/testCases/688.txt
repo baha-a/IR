@@ -1,37 +1,30 @@
-.I 688
-.T
-tables of aerodynamic coefficients obtained from developed newtonian
-expressions for complete and partial conic and spheric bodies at
-combined angles of attack and sideslip with some comparisons with
-hypersonic experimental data .
-.A
-wells, w.r. and armstrong, w.o.
-.B
-nasa tr r -dash 127, 1962 .
-.W
-tables of aerodynamic coefficients obtained from developed newtonian
-expressions for complete and partial conic and spheric bodies at
-combined angles of attack and sideslip with some comparisons with
-hypersonic experimental data .
-closed-form expressions and tables composed from these expressions are
-presented for complete and partial conic and spheric bodies at combined
-angles of attack and sideslip in newtonian flow . aerodynamic
-coefficients of these bodies are tabulated for various body segments
-over a range of angles of attack from 1degree to 85degree and angles of
-sideslip from 0degree to 15degree .
-some comparisons between newtonian predictions and hypersonic
-experimental aerodynamic characteristics were made for conic bodies
-having various surface slopes, nose bluntnesses, and body cross sections
- to indicate the range of validity of the theory . in general, the
-theory is shown to agree quite well with experimental results for
-sharp-nose complete cones and for configurations having large blunted
-noses and steep surface slopes . however, agreement between theory and
-experiment generally is poor for the more slender, slightly blunted
-complete or half conic bodies and also for sharp-nose half conic bodies
-where real-flow phenomena such as forebody interference, viscous forces,
- leeward surface contributions, or leading-edge pressure reductions may
-have significant effect . the agreement between theory and experiment
-for the bodies considered can be improved by using the stagnation
-pressure coefficient behind a normal shock rather than 2 as the newtonian
-coefficient, although for the sharp-nose half conic bodies there is no
-theoretical justification for this modification .
+The Multiterm Index:  A New Concept in Information Storage and Retrieval
+
+Skolnik, H.
+
+  An index not only can be a creative communication
+medium, it needs to be in a research and development
+environment.  A creative index is achievable if the
+relationship and association of things and actions,
+one to another, can be communicated as a continuous
+function vis-a-vis the real world of science and
+technology.
+  A chemist does not think of a chemical, for example,
+ethyl alcohol, in isolation.  Ethyl alcohol is not merely
+a word or a term without dimensions to a chemist.  It
+is a concept that he associates with or relates to a
+product, a reactant, a solvent in a reaction, a use, a
+property, etc.  It is within the semantics of his
+conceptual needs that he would like to use an index to 
+retrieve those documents he needs.  He wants more than
+documents, however, from the index.  He wants the index
+to direct him to those documents which are pertinent
+to his problem.  He wants the index to help him to
+generate thoughts and to suggest new combinations.
+He wants the index to help him in terms of his language,
+logic, and semantics and through a generic or specific 
+approach, whichever occurs to him first.  He wants the
+ability to browse among the terms to discover the term
+that is on the tip of his tongue or recessed in his
+memory.  These are the criteria an index must satisfy
+if it is to be a creative medium of communication. 

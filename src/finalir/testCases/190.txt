@@ -1,35 +1,19 @@
-.I 190
-.T
-on magnetohydrodynamic shock waves .
-.A
-kanwal,r.
-.B
-j.math.mech. 9, 1960, 681.
-.W
-on magnetohydrodynamic shock waves .
-  in the earlier attempts at finding the jump conditions
-across a hydromagnetic shock wave (1, 2, 3)
-various simplifying assumptions
-regarding the shape of the shock and the
-dimensions and the character of the
-motion are made .  from that analysis it
-is possible to write down the jump
-conditions in a higher degree of generality (4) .
-  the shock conditions for magnetohydrodynamic
-flows can, however, be
-derived in their full generality with the help
-of the transport equation as used by
-thomas (5) in the derivation of shock conditions
-in conventional gas dynamics .
-  the purposes of this paper are ..
-cover the present more general case .
-that every flow and field quantity
-downstream from the shock wave is
-expressible separately in terms of
-the known values of these quantities
-upstream from the shock wave .
-in this rearranged form of the equations,
-various effects of the shock
-wave can be easily read off .
-the shock conditions along the same
-lines as in conventional gas dynamics .
+MEDLINE Evaluation Study
+
+Moll, Wilhelm
+
+   MEDLINE (MEDLARS-ON-LINE) is the new on-line, interactive bibliographic
+searching system which was recently developed by the National Library of 
+Medicine.. The system provides users with lists of bibliographical citations
+and other information from a three-year file of over 1,250 biomedical
+journals.. A survey testing user reactions was conducted at the University of
+Virginia Medical Library.. The results of the survey are based on replies by
+246 users who requested one or more MEDLINE searches between September 1972 and
+March 1973.. The findings indicate that over 93% believe that MEDLINE is a 
+substantial improvement over the traditional methods of searching through the
+printed indexes.. These respondents also stated that the results of MEDLINE
+searches had assisted them in their clinical or research work, or both.. Asked
+whether they would continue to use MEDLINE after the imposition of user charges
+on July 1, 1973, about 75% said that they would.. The remaining 25% expressed
+some reservation and doubts.. The survey gives reason to believe that with the
+imposition of user charges the use of MEDLINE will decline..

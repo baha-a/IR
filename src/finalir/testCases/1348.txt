@@ -1,24 +1,15 @@
-.I 1348
-.T
-radiative heat transfer during atmosphere entry at
-parabolic velocity .
-.A
-yoshikawa,k.k. and wick,b.h.
-.B
-nasa tn.d1074, 1961.
-.W
-radiative heat transfer during atmosphere entry at
-parabolic velocity .
-  stagnation point radiative heating
-rates for manned vehicles entering
-the earth's atmosphere at parabolic
-velocity are presented and compared
-with corresponding laminar convective
-heating rates .  the calculations
-were made for both nonlifting and lifting
-entry trajectories for vehicles
-of varying nose radius, weight-to-area
-ratio, and drag .  it is concluded
-from the results presented that radiative
-heating will be important for
-the entry conditions considered .
+Sociology and Modern system Theory
+
+Buckley, W.
+
+  This book is intended as an exploratory sketch of a revolutionary
+scientific perspective and conceptual framework as it might be applied
+to the sociocultural system.  This point of view and still developing
+framework, as interpreted here, stems from the General Systems Research
+movement and the now closely allied fields of cybernetics and information
+or communication theory.  The principal goal of the book is to bring to the
+attention of a larger number of social scientists, particularly sociologists,
+the wealth of principles, ideas, and insights that have already brought a
+higher degree of scientific order and understanding to many areas of
+biology, psychology, and some physical sciences to say nothing of the
+applied areas of technology to which they are essential.

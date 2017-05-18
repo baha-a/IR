@@ -1,19 +1,15 @@
-.I 449
-.T
-interaction of a charged satellite with the ionosphere .
-.A
-davis,a.h. and harris,i.
-.B
-nasa tn. d704, 1961.
-.W
-interaction of a charged satellite with the ionosphere .
-  the problem of the ion density distribution around a
-charged satellite has been treated by a numerical method
-which does not require linearization of the equations or
-restriction to infinitesimal objects .  however, magnetic field
-effects were not considered, and a number of other
-simplifying assumptions were required .  some sample calculations
-for spherical satellites are presented, illustrating the
-general character of the satellite wake .  calculations of the
-so-called /charge drag/ were also made, yielding results
-qualitatively similar to those previously obtained by jastrow and pearse .
+Situational Relevance
+
+Wilson, Patrick
+
+   The concept of situational relevance is introduced, based on W.S.Cooper's
+definitions of logical relevance, on the notion of evidential relevance drawn
+from inductive logic, on the notions of a personal stock of knowledge and a set 
+of personal concerns, the latter explained in terms of preferences over ranges 
+of alternatives.. Situationally relevant items of information are those that 
+answer, or logically help to answer, questions of concern.. Significant 
+situationally relevant information is explained in terms of changes of view in 
+relation to questions of concern.. It is claimed that situational relevance is 
+an explication of the ordinary notion of practical relevance, and that it is 
+the appropriate relevance concept to use in evaluation of systems supplying 
+practically relevant information..

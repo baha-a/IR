@@ -1,43 +1,13 @@
-.I 204
-.T
-a study of the application of airfoil section data
-to the estimation of the high subsonic speed characteristics
-of swept wings .
-.A
-hunton,l.w.
-.B
-naca rm a55c23, 1955.
-.W
-a study of the application of airfoil section data
-to the estimation of the high subsonic speed characteristics
-of swept wings .
-  estimates of the variation with
-mach number of the aerodynamic
-characteristics of swept wings are made
-on the basis of airfoil section
-data combined with span-loading theory .
-the analysis deals with
-examinations of some 26 wings and wing-body
-combinations ranging in sweep
-angle from 30 to 60 and for mach
-numbers between 0.6 and 1.0 .
-  results of the study indicate
-that the two-dimensional section data
-afford good qualitative information
-for such high-speed aerodynamic
-characteristics as the variation with
-mach number of drag, zero-lift
-pitching-moment coefficient, and lift
-coefficient for flow separation .
-quantitative estimates of the force
-and moment divergence mach numbers
-could not be made with any degree of
-certainty from the airfoil data
-alone .  somewhat improved quantitative
-estimates for a given
-configuration were obtainable by basing the
-estimates on the measured
-characteristics for a wing of similar plan form
-but different section, and
-adjusting for the effects of differences in
-section on the basis of section data .
+Analysis of Recorded Biomedical Book and Journal Use in the Yale MedicalLibraryPart II. Subject and User Relations
+
+Stangl, PeterKilgour, Frederick G.
+
+   Cancelled charge slips collected over a one-year period supply the data for
+this analysis of circulation in the Yale Medical Library.. Full-time teacher
+faculty are the heaviest users of journal literature, and  students, of
+monograph literature.. Faculties of Medical School departments are compared in
+terms of their use of material in individual subjects.. Subject literatures are
+analyzed in terms of groups of users borrowing from them.. The extent to which
+journal titles used by medical students  are also used by Medical School
+faculty is examined.. One of the products of the study is a rank list of 
+journal titles used in the Library.. Results are presented in several tables..

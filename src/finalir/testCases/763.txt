@@ -1,19 +1,12 @@
-.I 763
-.T
-effects of internal pressure on the buckling of circular-cylindrical
-shells under bending.
-.A
-weingarten,v.i.
-.B
-.W
-effects of internal pressure on the buckling of circular-cylindrical
-shells under bending.
-  the effect of internal pressure on the small-deflection buckling
-of thin-walled cylinders under bending is investigated by means
-of a modified donnell equation .  the results indicate that the
-maximum critical stress due to bending increases with internal
-pressure, unlike the case of pressurized cylinders under
-compression .  these results represent the moment at which
-significant deformations appear in the cylinder, rather than the
-maximum moment able to be carried, but may be a good
-approximation to the latter for metal cylinders .
+Current Awareness Needs of Physicists: Results of an Anglo-American Study
+
+Keenan, StellaSlater, Margaret
+
+   An outline of methods and summary of findings of a study of American,British
+and Overseas physicists.. This project was conducted by Aslib Research 
+Department (acting for the Institution of Electrical Engineers) and the 
+American Institute of Physics.. It took place in 1966, the first year of
+publication of Current Papers in Physics.. Aims were to assess the need for and
+reactions to this new current awareness journal and suggestions for improvement,
+and to obtain background information on the current awareness requirements of 
+the physics community..

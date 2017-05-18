@@ -1,39 +1,24 @@
-.I 1144
-.T
-slipstream flow around several tilt-wing vtol aircraft models
-operating near the ground .
-.A
-william a. newsom, jr., and louis p. tosti
-.B
-technical note d-1382
-.W
-slipstream flow around several tilt-wing vtol aircraft models
-operating near the ground .
-a collection of data from a number of brief investigations made with
-three different models to determine the character of the slipstream flow
-along the ground is presented for multiple-propeller tilt-wing vtol
-aircraft configurations operating near the ground .  in general, the tests
-involved tuft surveys and slipstream dynamic-pressure measurements for
-several tilt-wing vtol models .  a more extensive series of tests,
-including some measurements of the erosion of gravel by the slipstream
-and some measurements of the unsteady rolling, yawing, and pitching
-moments, was also made on one of the models operating in the hovering
-condition near the ground .
-the results of the flow studies indicated the presence of a stronger
-and deeper slipstream flow along the center line of the aircraft, and to
-some extent along parallel planes between adjacent propellers (on one
-wing), than to the side of the aircraft .  this effect is caused by an
-intensification of the individual slipstreams as they meet at the planes
-of flow symmetry .  the intensified flow along the center line of the
-aircraft is amplified by the presence of the fuselage and causes the
-dynamic pressure to be greater in front of the aircraft than would be
-expected on the basis of the slipstream of the individual propellers .
-in the erosion tests it was found that gravel, if sufficiently small,
-was rapidly eroded by the slipstream and that this gravel could be
-thrown high into the air if it struck even very small fixed obstacles on
-the ground (obstacles with a height less than the diameter of the
-gravel) .  results of the investigation of moment fluctuations
-indicated that there are large, erratic variations of rolling, yawing,
-and pitching moments and that the propellers, reacting to an erratic
-inflow from the recirculating slipstream, are the primary source of
-these moments .
+Automatic Indexing
+
+Stevens, M.E.
+
+    A state-of-the-art survey of automatic indexing systems
+and experiments has been conducted by the Research Information
+Center and Advisory Service on Information Processing,
+Information Technology Division, Institute for Applied
+Technology, National Bureau of Standards.  Consideration is first
+given to indexes compiled by or with the aid of machines,
+including citation indexes.  Automatic derivative indexing is
+exemplified by key-word-in-context (KWIC) and other word-
+in-context techniques.  Advantages, disadvantages, and
+possibilities for modification and improvement are discussed.
+Experiments in automatic assignment indexing are summarized.
+Related research efforts in such areas as automatic classification
+and categorization, computer use of thesauri, statistical
+association techniques, and linguistic data processing are
+described.  A major question is that of evaluation, particularly
+in view of evidence of human inter-indexer inconsistency.  It
+is concluded that indexes based on words extracted from text
+are practical for many purposes today, and that automatic
+assignment indexing and classification experiments show promise
+for future progress. 

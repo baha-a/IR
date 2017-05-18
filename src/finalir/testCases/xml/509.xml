@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="509">
+	<title>The Use of Hierarchic Clustering in Information Retrieval	</title>
+	<author>Jardine, N.Van Rijsbergen, C. J.	</author>
+	<text>
+		   We introduce information retrieval strategies which are based on automatic
+		hierarchic clustering of documents.. We discuss the evaluation of retrieval
+		strategies and show, using a subset of the Cranfield Aeronautics document 
+		collection, that cluster-based retrieval strategies can be devised which are as 
+		effective as linear associative retrieval strategies and much more efficient..
+		Finally, we outline how cluster-based retrieval may be extended to large growing
+		document collections and indicate some ways in which the effectiveness of
+		cluster-based retrieval strategies may be improved..
+	</text>
+</article>

@@ -1,14 +1,7 @@
-.I 853
-.T
-the accuracy of donnell's equations .
-.A
-hoff,n.j.
-.B
-j. app. mech. 22, 1955.
-.W
-the accuracy of donnell's equations .
-  solutions of donnell's equations of the small
-deformations of the perfectly elastic thin-walled circular
-cylindrical shell are compared with those obtainable from flugge's
-equations .  the range of the basic parameters is found
-within which the two solutions are approximately equal .
+A Fast Algorithm for Automatic Classification
+
+Dattola, R. T.
+
+   An economical classification process of order n log n (for n elements),
+which does not employ n-square procedures.. Conversion proofs are given and
+possible information retrieval applications are discussed..

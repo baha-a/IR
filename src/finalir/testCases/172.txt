@@ -1,40 +1,22 @@
-.I 172
-.T
-some aerodynamic considerations of nozzle afterbody
-combination .
-.A
-cortright,e.m.
-.B
-aero. eng. rev. 15, 1956, 59.
-.W
-some aerodynamic considerations of nozzle afterbody
-combination .
-  the aerodynamic problems associated with
-propulsion-system installations have assumed a role
-of vital importance in the development of supersonic
-aircraft .  although air-induction systems have received
-moderate attention in the literature, considerably less
-information can be found on the design and installation
-of turbojet exit nozzles .  this condition should not be
-interpreted to indicate a lack of problems in jet-exit
-design .
-  as flight speeds reach supersonic levels, it becomes
-increasingly difficult to achieve nozzle installations
-which are efficient over the entire speed range .  the
-difficulties largely stem from the fact that the goals of
-high jet thrust and low afterbody drag are not always
-compatible .  in many of the compromise solutions, it
-is generally unsatisfactory to examine isolated nozzle
-and afterbody performance .  rather they must be
-treated as a unit, and the complex effects of jet
-interaction with the external stream must be taken into
-account .  to accomplish this, the nozzle and air-frame
-designers must closely coordinate their efforts .
-  some of the aerodynamic problems of nozzle
-afterbody combinations are outlined in this report .
-particular attention is devoted to the influence of the
-jet-stream interaction on both nozzle thrust and
-after-body drag .  for this purpose, use is made of shock-
-boundary-layer-interaction concepts .  this approach,
-although not precise, correctly predicts many trends
-and is generally enlightening .
+As We May Think
+
+Bush, V.
+
+  As Director of the Office of Scientific Research and Development,
+Dr. Vannevar Bush has coordinated the activities of some six
+thousand leading American scientists in the application of
+science to warfare.  In this significant article he holds up
+an incentive for scientists when the fighting has ceased.  He
+urges that men of science should then turn to the massive task
+of making more accessible our bewildering store of knowledge.
+For years inventions have extended man's physical powers rather than
+the powers of his mind.  Trip hammers that multiply the fists,
+microscopes that sharpen the eye, and engines of destruction and
+detection are new results, but not the end results, of modern
+science.  Now, says Dr.Bush, instruments are at hand which, if properly
+developed, will give man access to and command over the inherited
+knowledge of the ages.  The perfection of these pacific instruments
+should be the first objective of our scientists as they emerge from
+their war work.  Like Emerson's famous address of 1837 on "The
+American Scholar," this paper by Dr. Bush calls for a new relationship
+between thinking man and the sum of our knowledge. - The Editor

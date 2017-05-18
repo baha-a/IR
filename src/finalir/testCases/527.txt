@@ -1,21 +1,12 @@
-.I 527
-.T
-note on the three-point boundary layer problem for
-the blasius equations .
-.A
-martin,e.d.
-.B
-j. ae. scs. 29, 1962.
-.W
-note on the three-point boundary layer problem for
-the blasius equations .
-in a recent paper a method was presented for obtaining
-higher accuracy in the numerical solution of the blasius
-equation with three-point boundary conditions .  the
-well-known blasius equation was previously developed in an
-investigation of the steady two-dimensional incompressible
-boundary-layer flow over a flat plate, but it has been extensively used in
-investigating other fluid flow problems .  the three-point
-boundary-value problem is encountered in the theory of laminar
-mixing and in approximate analyses of separated and wake
-flows as noted in ref. 1 .
+A Technique for Machine-Aided Indexing
+
+Klingbiel, Paul H.
+
+   Subject indexing of text can, in principle, be accomplished in many ways.. 
+The technique for machine-aided indexing (MAI) developed at the Defense 
+Documentation Center (DDC) is illustrated on a randomly chosen abstract..
+Additional text is provided in coded form so that the reader can more fully
+explore this technique and form his own opinion of the applicability and 
+versatility of this particular procedure.. The DDC method for subject indexing 
+is very close to operational status for a data base which grows at the rate of 
+two million words of text per year..

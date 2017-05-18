@@ -1,16 +1,14 @@
-.I 862
-.T
-the phenomenon of change in buckle pattern in elastic
-structures .
-.A
-stein,m.
-.B
-nasa tr r39, 1959.
-.W
-the phenomenon of change in buckle pattern in elastic
-structures .
-  a model is analyzed which exhibits the important properties
-associated with change in buckle pattern of plates .  the analysis includes
-a rigorous study of stability in its various modes .  a discussion of
-how the present results may be applied to plates and other elastic
-structures is given .
+An Algorithm for Variable-Length Proper-Name Compression
+
+Dolby, James L.
+
+   Viable on-line search systems require reasonable capabilities to
+automatically detect (and hopefully correct) variations between request
+format and stored format.. An important requirement is the solution of the
+problem of matching proper names, not only because both input specifications
+and storage specifications are subject ot error, but also because various 
+transliteration schemes exist and can provide variant proper name forms in 
+the same data base.. This paper reviews several proper name matching schemes
+and provides an updated version of these schemes which tests out nicely on
+the proper name equivalence classes of a suburban telephone book..  An
+appendix lists the corpus of names used for algorithm test.

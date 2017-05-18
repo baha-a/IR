@@ -1,16 +1,9 @@
-.I 882
-.T
-the variation of gust frequency with gust velocity
-and altitude .
-.A
-bullen,n.i.
-.B
-arc cp.324, 1956.
-.W
-the variation of gust frequency with gust velocity
-and altitude .
-  information on atmospheric turbulence obtained from counting
-accelerometer records is examined and relations giving the variation of
-gust frequency with gust velocity and altitude are obtained .  the
-results are summarized in a form convenient for use in estimating the
-fatigue life of an aircraft .
+CONSER: An Update
+
+Anable, Richard
+
+   The purposes of this paper are to explain what the CONSER Project is, to
+answer some of the questions that have been raised concerning it, and to make
+some general comments on the problems associated with this type of project..
+This paper will not attempt to review in detail the history and operational
+facets of the project since these are available elsewhere..

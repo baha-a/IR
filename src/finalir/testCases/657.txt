@@ -1,23 +1,24 @@
-.I 657
-.T
-interferometric studies of supersonic flows about truncated
-cones .
-.A
-giese,j.h. and bergdolt,v.e.
-.B
-j.app.phys. 24, 1953, 1389.
-.W
-interferometric studies of supersonic flows about truncated
-cones .
-  fringe shifts on interferograms of flows at m=2.45
-about variously truncated 15 (half-angle) cone
-cylinders in free flight in a pressurized range have been
-examined for similarity of the flow fields, occurrence of
-scale effects, and convergence to conical flow .  it was
-found that flows over similar objects with equal tip
-reynolds numbers were similar and that convergence
-to conical flow occurred before the disturbance at the
-tip had been reflected the second time along
-characteristics to the body .  density distributions have been
-determined, and a number of comparisons have
-been made with theoretical predictions .
+Standards For Writing Abstracts
+
+Weil, Ben H.
+
+   An abstract, as defined here, is an abbreviated, accurate representation
+of a document.. The following recommendations are made for the guidance of
+authors and editors, so that abstracts in primary documents may be both
+helpful to their readers and reproducible with little or no change in
+secondary publications and services..
+   Prepare an abstract for every formal item in journals and proceedings,
+and for each separately published report, pamphlet, thesis, monograph, 
+and patent.. Place the abstract as early as possible in the document..
+Make the abstract as informative as the document will permit, so that
+readers may decide whether they need to read the entire document.. State the
+purpose, methods results, and conclusions presented in the document, either
+in that order or with initial emphasis on findings..
+   Make each abstract self-contained but concise; retain the basic information
+and tone of the original document..  Keep abstracts of most papers to 
+fewer than 250 words, abstracts of reports and theses to fewer than 500 words
+(preferably on one page), and abstracts of short communications to fewer
+than 100 words.. Write most abstracts in a single paragraph.. Normally
+employ complete, connected sentences; active verbs; ad the third person..
+Employ standard nomenclature, or define unfamiliar terms, abbreviations, and
+symbols the first time they occur in the abstract..

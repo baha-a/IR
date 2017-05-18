@@ -1,18 +1,11 @@
-.I 983
-.T
-addendum to 'heat transfer to satellite vehicles re-entering the
-atmosphere .
-.A
-detra, r.w., kemp, n.h. and riddell, f.r.
-.B
-jet propulsion, vol. 27, december 1957 . pp 1256-57 .
-.W
-addendum to 'heat transfer to satellite vehicles re-entering the
-atmosphere .
-the original paper gave a correlation formula for stagnation point heat
-transfer rate to a blunt body of revolution in hypersonic flow . this
-note gives a somewhat refined version, based on further calculation and
-shock tube data . its effect on the conclusions of the original paper is
- negligible except at surface temperature parameters of over 5000
-r-ft1/8 . in other problems, where heat transfer rate itself is
-important, it can make a significant defference .
+Criteria for Weeding of Collections
+
+Cooper, Marianne
+
+  Growing library collections have focused attention upon the need for selective
+storage and weeding of the materials..Certain objective measures for determining
+which items in a collection may be retired to storage are presented, and an 
+example of the use of such measures at Columbia University is described.. It is 
+concluded that the criteria for weeding and storage must be selected on the basis
+of the goals of the institution in question and of the various patterns of use 
+in different disciplines..

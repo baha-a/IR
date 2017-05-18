@@ -1,18 +1,19 @@
-.I 93
-.T
-the supersonic blunt body problem - review and extensions .
-.A
-van dyke,m.d.
-.B
-j. ae. scs. 25, 1958, 485.
-.W
-the supersonic blunt body problem - review and extensions .
-  a survey of existing analytical treatments of the supersonic or
-hypersonic blunt-body problem indicates that none is adequate
-for predicting the details of the flow field .  reasons are given for
-the failure of various plausible approximations .  a numerical
-method, which is simpler than others proposed, is set forth for
-solving the full inviscid equations using a medium-sized electronic
-computer .  results are shown from a number of solutions for
-bodies that support detached shock waves described by conic
-sections .
+The American Occupational Structure
+
+Blau, P.M.
+
+  This book is the result of a collaborative effort extending over seven
+years.  We have tried hard to make the book a genuine joint product
+to which each of us made the contributions he is best qualified to
+make.  There is no senior author; the sequence of name is simply
+alphabetical, and we have reversed it in signing the preface and elsewhere
+to emphasize this fact.  Our collaboration was motivated by our shared
+interest in social stratification, our common concern with advancing
+scientific social theory on the basis of systematic research, and the
+conviction that the inquiry would benefit from the different qualifications
+and viewpoints the two of us represent.  There can be no doubt
+that our interests in and approaches to sociological problems differ to
+a considerable degree.  Although we agree that refining research methods
+and advancing social theory are both important, for example, it is
+only fair to state that Duncan lays more stress on deriving theoretical
+generalizations.

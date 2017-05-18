@@ -1,21 +1,12 @@
-.I 878
-.T
-experimental model techniques and equipment for flutter
-investigations .
-.A
-molyneux,w.g.
-.B
-air. eng. 1958.
-.W
-experimental model techniques and equipment for flutter
-investigations .
-an outline is given of the uses of flutter models as an
-aid to the designer in the avoidance of flutter .  details
-are given of the different types and methods of
-construction that are used for flutter models and of the
-various test facilities that are available for high speed
-and low speed tests .
-  the procedure followed in the u.k. for flutter
-clearance of the full scale aircraft is described, and the value
-of the electronic flutter simulator in this field is
-discussed .
+The Ad Hoc Discussion Group on Serials Data Bases: Its History, CurrentPosition, and Future
+
+Anable, Richard
+
+The Ad Hoc Discussion Group on Serials Data Bases was formed as a
+result of an informal meeting held during the American Library Association's
+Conference in Las Vegas on June 26, 1973.  Those in attendance were
+primarily interested in the generation and maintenance of machine-readable
+union files of serials.  (This author's involvement in that meeting and
+the later activities of the group stems from a contract between the
+National Library of Canada and York University concerning an investigation
+of the problems associated with machine-readable serials files.)

@@ -1,22 +1,10 @@
-.I 295
-.T
-a note on transitional heat transfer under hypersonic conditions .
-.A
-constantino economos and paul a. libby
-.B
-research assistant and professor of aeronautical engineering,
-respectively
-polytechnic institute of brooklyn, brooklyn, n.y.
-.W
-a note on transitional heat transfer under hypersonic conditions .
-in references 1 and 2 there were presented experimental data on
-transitional heat transfer on a blunt body under hypersonic-flow
-conditions obtained by the shroud technique .  the data were compared
-with a theoretical prediction of transitional heat transfer based
-on a suggestion of persh .  the agreement between theory and experiment
-in the transitional region was found to be 'qualitatively good and
-quantitatively fair' .
-it is the purpose of this note to present some additional transitional
-data obtained in conventional wind-tunnel tests and to indicate a
-means for improving somewhat the agreement between transitional
-theory and experiment .
+An Approach to the Measurement of Use and Cost of a Large Academic ResearchLibrary System: A Report of a Study Done at Columbia University Libraries
+
+Mount, EllisFasana, Paul
+
+   A description of the methodology used in collecting performance data in a
+large academic research library is given.. Twelve types of surveys used to 
+measure and evaluate users, services, and materials were developed and 
+conducted during the period 1968/69 at Columbia University libraries and later
+evaluated.. Sample results are included.. Costs of providing research services
+were found to be 64 percent versus 36 percent for instructional services..

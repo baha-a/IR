@@ -1,23 +1,19 @@
-.I 477
-.T
-laminar boundary layers at the interface of co-current
-parallel streams .
-.A
-potter,o.e.
-.B
-q. j. mech. app. math. 10, 1957, 302.
-.W
-laminar boundary layers at the interface of co-current
-parallel streams .
-  the approximate solution of keulegan(1) for the steady flow of a
-stream of viscous incompressible fluid over another at rest is extended
-to the case where both fluids are moving co-current but at different
-velocities .  this solution utilizes a sextic polynomial for the
-velocity distribution in the boundary layers .  the solutions depend
-only on the ratio of the velocities of the two streams and on the
-product of the corresponding viscosity and density ratios .  numerical
-results are given for seven values of at one value of .  lock(2) has
-published an exact solution with a numerical result for and the sextic
-polynomial solution is evaluated f40umerical result for and the sextic
-indicates that in general the sextic polynomial is more accurate than
-the quartic polynomial but that the advantage is not great .
+Some Remarks on Information Languages, Their Analysis and Comparison
+
+Soergel, D.
+
+    "The machine language [information language in our terminology D.S.]
+should not be confused with the machine code: (Upenskii, 59:357).  In
+Ranganathan's more general terms: There should be no confusion between the
+idea plane and the notational plane.  Many difficulties in classification
+arise from this confusion.  This paper is devoted mainly to problems on
+the idea plane.
+    "The IR-language I want to talk about, is the language in which the
+information to be retrieved is formulated, i.e. a declarative sentence
+language, not the imperative sentence language of the programmer-retriever"
+(Bohnert in Samet, 62.1:10), that is, the information language should not
+be confused with the programming language.  (To avoid misunderstandings
+it would perhaps be better to say "descriptive" instead of "declarative"
+and to state explicitly that in a descriptive sentence an imperative may
+be described which is, however, not to be executed by the system but to
+be retrieved by appropriate searches.)

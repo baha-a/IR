@@ -1,24 +1,19 @@
-.I 791
-.T
-measurements at mach numbers up to 2. 8 of the longitudinal
-characteristics of one plane and three cambered slender
-'ogee' wings .
-.A
-taylor,c.r.
-.B
-rae r. aero.2658, 1961.
-.W
-measurements at mach numbers up to 2. 8 of the longitudinal
-characteristics of one plane and three cambered slender
-'ogee' wings .
-  measurements have been made of
-the longitudinal characteristics of one
-plane and three cambered slender ogee
-wings (p = 0.45,) at two
-subsonic and eight supersonic mach
-numbers up to 2.8 .  the tests also included
-measurements of the zero-lift pressure
-drag and support interference of the
-plane wing .  the results have been analysed
-to give data for estimating the
-performance of supersonic transport aircraft .
+Progress in DocumentationEmpirical Hyperbolic Distributions (Bradford-Zipf-Mandelbrot)for Bibliometric Description and Prediction
+
+Fairthorne, R.A. 
+
+  Since 1960, and especially during the past three years, many papers have
+appeared about particular manifestations and applications of a certain class
+of empirical laws to a field that may be labelled conveniently 'Bibliometrics'.
+This term, resuscitated by Alan Pritchard (see page 348), denotes,
+in my paraphrase, quantitative treatment of the properties of recorded
+discourse and behaviour appertaining to it.
+  In this field the law cited is usually that named after Bradford or
+Zipf according to whether the interest is in vocabulary or periodical
+literature or physical access, in the rate of diminishing returns, or in the
+cumulative yield from a given input.  The behaviour is hyperbolic; that is,
+the product of fixed powers of the variables is constant.  This type of
+behaviour has been observed for a century or so in fields ranging from
+meteorology to economics, and has given rise to many particular explanations
+appropriate to the particular fields.  Thus it has received many names 
+according to its exponents, in both senses of that word.

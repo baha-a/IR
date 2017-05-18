@@ -1,22 +1,13 @@
-.I 1058
-.T
-the conical disk spring .
-.A
-wempner,g.a.
-.B
-proc. 3rd u.s. nat. cong. app. mech. 1958, 473.
-.W
-the conical disk spring .
-  this paper presents approximate formulas
-to describe the behavior of the conical
-disk spring .  it is assumed that the shallow
-conical shell remains conical when
-subjected to the axially symmetric edge loads .
-the principle of stationary potential
-energy is used to derive the relations between
-load and deflection .  formulas relating
-the applied loads, stresses, and deflections are
-given for several types of edge
-constraint .  the analysis is essentially a refinement
-and extension of the previous work
-of almen and laszlo .
+User Resistance to Microforms in the Research Library
+
+Salmon, S.R.
+
+  Microforms enjoy only limited acceptance in research libraries, largely
+because of user resistance.  A growing number of published studies indicate
+that improper production, inadequate bibliographic access, lack of 
+standardization, defects in equipment design, maintenance problems,
+poor environments for microform usage, and certain inherent characteristics
+of the microforms themselves all combine to make their use inconvenient.
+Solutions to most of these problems have existed for some time, but the
+microform industry has been slow to correct them.  Some positive developments
+have occurred in the last two years, but the major problems remain. 

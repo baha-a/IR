@@ -1,16 +1,10 @@
-.I 906
-.T
-review of the pitot tube .
-.A
-folson,r.g.
-.B
-asme trans. 70, 1956.
-.W
-review of the pitot tube .
-  this paper is an attempt to bring together the
-important information regarding pitot tubes and their use,.
-to summarize the available data on the application of
-various types of impact and velocity probes for the
-guidance of engineers and research workers,. and to aid
-them in the design of flow instruments for specific
-applications .
+Libraries and Cultural Change
+
+Benge, R.C.
+
+  This work is a contribution to the literature of librarianship and
+some parts of it may interest a wider audience.  The chapters consist
+of a series of introductory explorations into several related fields.
+Some of these areas are usually included in curricula for library
+studies programmes, under a title such as "The library and the
+community" or "The social background to libraries."

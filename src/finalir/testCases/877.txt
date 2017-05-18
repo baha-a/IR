@@ -1,16 +1,8 @@
-.I 877
-.T
-the influence of aerodynamic heating on the flexural
-rigidity of a thin wing .
-.A
-mansfield,e.h.
-.B
-arc r + m.3115, 1957.
-.W
-the influence of aerodynamic heating on the flexural
-rigidity of a thin wing .
-  this report considers the loss of flexural rigidity of a thin wing due
-to the presence of middle-surface stresses resulting from aerodynamic
-heating .  the spanwise properties of the wing are assumed constant but
-the wing section is arbitrary .  the loss of flexural rigidity is
-comparable with the corresponding loss of torsional rigidity .
+Comparison of MARC Serials, NSDP, and ISBD-S
+
+Pulsifer, Josephine S.
+
+   Briefly characterizes and compares the specifications for serial records of
+the MAR Serials Distribution Service, the National Serials Data Program, and the
+International Standard Bibliographic Description for Serials.. Both data 
+content and, where applicable, machine format are analyzed..

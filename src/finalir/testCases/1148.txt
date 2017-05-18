@@ -1,17 +1,16 @@
-.I 1148
-.T
-knudsen flow through a circular capillary .
-.A
-w. c. demarcus and e. h. hopper
-.B
-carbide and carbon chemicals company, k-25 plant, post office box p,
-oak ridge, tennessee
-.W
-knudsen flow through a circular capillary .
-the problem of knudsen flow through a circular capillary has been
-often discussed, usually by the momentum transfer method .  however,
-p. clausing gave a rigorous formulation for the problem and obtained an
-integral equation for which he gave an approximate solution .  from
-time to time the accuracy of clausing's solution has been questioned
-and since clausing did not give a rigorous estimate of his error we
-have reinvestigated the problem .
+The New Industrial State
+
+Galbraith, J.K.
+
+  During the fifties and sixties it had become customary to depict
+the economic system of the United States, along with its European
+and Japanese counterparts, as an accomplishment unique since the
+Creation.  This volume departed from the accustomed cheering.  It
+is my impression that the adult reader was always more skeptical
+than the economists of the neo-Keynesian nirvana.  Economic life
+was not meant to be that easy.  And perhaps some sensed what I here
+urge, that what was called success was less what served the
+individual than what served the goals of great industrial and
+military bureaucracies which had come, the economic myth notwithstanding,
+to comprise so large a part of the economic system.  Still, who could
+tell that a herald of such news would be welcomed - or even heard. 

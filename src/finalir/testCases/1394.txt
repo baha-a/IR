@@ -1,25 +1,14 @@
-.I 1394
-.T
-stagnation point heat transfer measurements in hypersonic
-low density flow .
-.A
-neice,s.e., rutkowski,r.w. and chann,k.k.
-.B
-j. ae. scs.27, 1960, 387.
-.W
-stagnation point heat transfer measurements in hypersonic
-low density flow .
-in hypersonic, low reynolds number flow around a blunt body,
-the boundary-layer thickness approaches the shock-layer
-thickness (shock standoff distance) within the region of
-continuum flow .  in this instance, the customary boundary-layer
-approximations no longer apply .  hoshizaki and probstein
-have obtained solutions to the incompressible navier-stokes
-equations in the stagnation region of a blunt body in this
-hypersonic low reynolds number flow .  the results indicate that
-heat-transfer rates are substantially higher than those predicted by
-incompressible boundary-layer theory .  probstein indicated that
-the actual heat-transfer rates would be correspondingly higher
-than the predictions of fay and riddell .  these findings are of
-particular importance in the atmospheric entry phase of
-recoverable satellites .
+Subject CataloguesHeading and Structure
+
+Coates, E.J.
+
+  In 1955 the Publications Committee of the Library Association
+approached my chief, Mr. A.J. Wells, with a request that he should
+write a book on subject cataloguing.  At the time, Mr. Wells was
+preoccupied with the inauguration of the British National Bibliography
+Card Service, and he made the suggestion, which was agreed by the
+Committee, that I should undertake the task.  The result is scarcely an
+adequate substitute for the book which Mr. Wells would have written.
+Nevertheless, he has had a major part in shaping my views on subject
+cataloguing, and in this sense the present book stems back to him,
+though he might not subscribe to all the views now put forward.

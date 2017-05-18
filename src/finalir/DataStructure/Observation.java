@@ -26,9 +26,8 @@ public class Observation {
     public int getTypeWeight() {
         switch(type)
         {
-            case Titel:       return 10;
-            case Author:      return 7;
-            case Description: return 4;
+            case Titel:       return 7;
+            case Author:      return 3;
         }
         return 1;
     }

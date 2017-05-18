@@ -1,26 +1,27 @@
-.I 523
-.T
-approximate determination of position of the sonic
-line for a blunt body in hypersonic flow .
-.A
-rahman,m.a.
-.B
-j. ae. scs. 29, 1962.
-.W
-approximate determination of position of the sonic
-line for a blunt body in hypersonic flow .
-the detached shock in front of a blunt body in hypersonic
-flow tends to acquire the shape of the frontal curvature of the
-body .  thus the curvature of the shock can be assumed to be the
-same as that of the body, at least up to the sonic point (point a,
-fig. 1) .  if the equation of curvature of the body is known, the
-equation of curvature of the shock is also known .  in this paper,
-with this assumption, a method is described to determine the
-approximate position of the sonic line (ao'b, fig. 1) .  the
-shock-detachment distance is assumed known .
-  the method is, of course, general .  this can be applied to
-any detached shock provided its equation of curvature is known
-corresponding to that of the body .  for simplicity the detached
-shock is assumed to be circular in this paper and the procedure is
-outlined below with the assumption that the sonic line ao'b is
-parabolic .
+The Cost_Performance of an On-Line, Free-Text Bibliographic Retrieval System
+
+Katzer, Jeffrey
+
+   The cost-performance evaluation of the SUPARS system is reported.. SUPARS 
+was an on-line, free-text bibliographic  retrieval system; cost-effectiveness 
+data of such systems are not readily available.. In our evaluation, two 
+measures of cost were employed: a computer processing charge expressed in 
+dollars, and the number of documents retrieved (a measure of work that must be 
+expended to review the retrieved items).. The measure of performance was an 
+estimate of the recall ratio..
+   To obtain the requisite measures an experimental plan was developed in which 
+experts searched the data base of Psychological Abstracts forming their queries
+from written statements of information needs.. These statements (along with the 
+list of documents relevant to them) were produced by people with information
+problems.. Tallies were kept of the number of documents retrieved before each 
+of the designed relevant items were found.. The major findings are noted 
+below..
+   (1) Queries to the system employing simple Boolean operators (AND, OR) have
+better cost-performance characteristics than queries using more elegant 
+searching operators..
+   (2) On-demand access to the index or dictionary contributes sizeably to
+improving the cost-performance of the system..
+   (3) The argument is raised that human factors, such as the differences among
+users of a system, probably should be a major factor in the design, operation 
+and evaluation of retrieval systems.. It appears that consideration of these 
+factors will improve system cost-performance..

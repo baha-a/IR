@@ -1,26 +1,13 @@
-.I 239
-.T
-design and calibration at low speeds of a static tube
-and a pitot-static tube with semi-ellipsoidal nose
-shapes .
-.A
-kettle,d.j.
-.B
-rae tn.aero.2247, 1953.
-.W
-design and calibration at low speeds of a static tube
-and a pitot-static tube with semi-ellipsoidal nose
-shapes .
-  a new static tube and a new pitot-static tube have been designed and
-calibrated in the no.1 and the no.2 11 ft x 8 ft wind tunnels of the
-r.a.e., using a long static tube, the error of which is believed to be
-very small, as a standard for comparison .
-  the results show that the static pressure measured by these tubes
-is in error due to the supporting strut and to the nose shape of the
-tube by an amount which may be calculated for positions of the static
-slot, or holes, greater than 10 tube diameters ahead of the strut .  the
-readings show no measurable scale effect in the speed range 100-230 ft
-sec .  the static tube is insensitive to yaw in the range 1 with a
-square-edged slot and is even less sensitive to yaw when the slot edges
-are rounded .  the turbulence of the tunnel has an effect on the static
-pressure reading .
+Buyers and Borrowers
+
+Mann, P.H.
+
+  This is the second book based on studies into social aspects 
+of book reading.
+  The present book is largely a report on work which was
+carried out in 1967-68 but either not analysed or written
+up in time for the first book, or work actually carried out
+and analysed during the second year's research.  The reader
+of this book will find it useful to have read the first book,
+but the present book is self-contained and does not require
+reference to the first one.

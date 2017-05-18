@@ -1,29 +1,23 @@
-.I 2
-.T
-simple shear flow past a flat plate in an incompressible fluid of small
-viscosity .
-.A
-ting-yili
-.B
-department of aeronautical engineering, rensselaer polytechnic
-institute
-troy, n.y.
-.W
-simple shear flow past a flat plate in an incompressible fluid of small
-viscosity .
-in the study of high-speed viscous flow past a two-dimensional body it
-is usually necessary to consider a curved shock wave emitting from the
-nose or leading edge of the body .  consequently, there exists an
-inviscid rotational flow region between the shock wave and the boundary
-layer .  such a situation arises, for instance, in the study of the
-hypersonic viscous flow past a flat plate .  the situation is somewhat
-different from prandtl's classical boundary-layer problem . in prandtl's
-original problem the inviscid free stream outside the boundary layer is
-irrotational while in a hypersonic boundary-layer problem the inviscid
-free stream must be considered as rotational .  the possible effects of
-vorticity have been recently discussed by ferri and libby .  in the
-present paper, the simple shear flow past a flat plate in a fluid of small
-viscosity is investigated .  it can be shown that this problem can again
-be treated by the boundary-layer approximation, the only novel feature
-being that the free stream has a constant vorticity .  the discussion
-here is restricted to two-dimensional incompressible steady flow .
+Use Made of Technical Libraries
+
+Slater, M.
+
+This report is an analysis of 6300 acts of use
+in 104 technical libraries in the United Kingdom.
+Library use is only one aspect of the wider pattern of
+information use.  Information transfer in libraries is
+restricted to the use of documents.  It takes no
+account of documents used outside the library, still
+less of information transferred orally from person
+to person.  The library acts as a channel in only a
+proportion of the situations in which information is
+transferred.
+Taking technical information transfer as a whole,
+there is no doubt that this proportion is not the
+major one.  There are users of technical information -
+particularly in technology rather than science -
+who visit libraries rarely if at all, relying on desk
+collections of handbooks, current periodicals and personal
+contact with their colleagues and with people in other
+organizations.  Even regular library users also receive
+information in other ways.

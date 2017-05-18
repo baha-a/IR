@@ -1,21 +1,19 @@
-.I 888
-.T
-combinations of temperature and axial compression required
-for buckling of a ring-stiffened cylinder .
-.A
-anderson,m.s.
-.B
-nasa tn.d1224, 1962.
-.W
-combinations of temperature and axial compression required
-for buckling of a ring-stiffened cylinder .
-  a theory is presented to predict the buckling temperature of an
-axially compressed, uniformly heated ring-stiffened cylinder .  the
-cylinder buckles because of the interaction of the axial stress due to
-applied compressive loads and the circumferential stress resulting
-from restraint of thermal expansion by the rings .  buckling charts
-covering a wide range of cylinder proportions are presented for both
-clamped and simply supported cylinders .  the buckling temperature for a
-given axial loading is determined from a simple equation involving a
-coefficient given in the buckling charts and the radius-thickness ratio
-of the cylinder .
+Serials Data Control:  Current Problems and Prospects
+
+Fasana, P.
+
+  This paper will describe three areas of current serials activity which are
+of importance to conventional libraries.  I would like to do this in general
+terms, eschewing details which only seem to serve to confuse.  The three
+areas are:
+  l. Standards.  What they are, what impact they can have, what influence
+     they currently are having on serials processing.
+  2. Standards Setting Projects. I will attempt to describe and/or define
+     the almost incestuous intricacies of the National Serials Data Program
+     (NSDP), the International Serials Data System (ISDS), and CONSER
+     (CONversion of SERials).
+  3. Code Revision Activities.  I will outline the influence that current
+     standards and projects are having on code revision activities.
+  My comments are to be considered within the context of conventional
+libraries, primarily one wherein card catalogs still exist and manual processes
+are the rule.

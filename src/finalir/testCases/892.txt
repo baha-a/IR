@@ -1,17 +1,13 @@
-.I 892
-.T
-research on unsteady flow .
-.A
-jones,w.p.
-.B
-j. ae. scs. 29, 1962, 249.
-.W
-research on unsteady flow .
-  this is a survey of certain recent advances made in the study
-of aerodynamic unsteady flow and of some of the new problems
-arising which require further investigation .  no attempt is made to
-reproduce classical theory, but emphasis rather is laid on validity
-and general usefulness, particular attention being given to
-unsteady boundary-layer effects, especially when there is flow
-separation .  coverage is broad and author thus provides a useful review
-for those interested in this field .
+The Georgia Tech Library's Microfiche Catalog
+
+Roberts, Edward G.Kennedy, John P.
+
+   The Price Gilbert Memorial Library of the Georgia Institute of Technology has 
+reproduced its entire card catalog on microfiche, and is updating this basic 
+file with a bimonthly cumulated supplement produced by the Computer Output
+Microfiche (COM) process.. The total catalog has been placed, with in 
+appropriate microfiche reader, in every academic and research department on
+campus - thereby taking the chief bibliographic record of the library to the 
+faculty user.. Remote bibliographic access is complemented by a telephone 
+request and delivery service which provides delivery of requested books or
+photocopies from the library to the faculty member..

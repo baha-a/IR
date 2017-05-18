@@ -1,18 +1,10 @@
-.I 465
-.T
-slender delta wings with sharp edges at zero lift .
-.A
-weber,j.
-.B
-rae tn.aero.2508.
-.W
-slender delta wings with sharp edges at zero lift .
-  several slender wings of delta planform with sharp edges have been
-investigated theoretically at zero lift at subsonic and at supersonic
-speeds .  most of the wings have diamond-shaped cross sections and are
-intended to lead to a type of flow with leading-edge separation in the
-lifting condition .  the pressure distributions and overall
-normal-pressure drags resulting from various theoretical methods are compared
-with one another and some discussion is included concerning the
-possibility of achieving the results, calculated for an inviscid stream,
-in a real flow in the presence of a viscous layer around the body .
+Using Commercially Available Literature Tapes  for a Current Awareness Service 
+
+Corbett, L.
+
+   The paper reviews the need for current awareness services and describes the 
+basic characteristics of SDI, indicating its advantages.. Details are given of 
+the problems that have arisen in providing an SDI service based on Chemical 
+Titles tapes at Aldermaston with particular reference to program limitations.. 
+Data on operating costs and on use assessments of the service are given.. The 
+pros and cons of title-only alerting systems are discussed..

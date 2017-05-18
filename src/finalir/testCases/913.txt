@@ -1,28 +1,18 @@
-.I 913
-.T
-vibrations of beams on many supports .
-.A
-miles,j.w.
-.B
-proc. a.s.c.e., 82, 1956.
-.W
-vibrations of beams on many supports .
-  the natural frequencies of a continuous
-beam resting on an arbitrary
-number of uniformly spaced supports are
-determined from a difference equation
-formulation .  these frequencies fall in
-periodically spaced groups that are
-separated by spectral gaps of widths
-equal to approximately half the interval
-between the natural frequencies of a
-single beam on a square root frequency
-scale .  these groups tend to uniform
-spectra as the number of supports tends
-to infinity, but the gaps remain, giving
-a band-pass character to the entire
-spectrum .  wave propagation along an
-infinite, periodically supported beam
-is discussed and the phase and group
-velocities evaluated as functions of
-frequency .
+On the construction and care of white elephants
+
+Grose, M.W.Line M.B.
+
+  Although catalogue codes and standards have received much attention, there 
+has been very little fundamental questioning of cataloguing principles and 
+practice.  Basic questions in need of investigation include: whether individual 
+libraries need catalogues of their own stock; how far printed  bibliographies
+could serve as a substitute; the functions catalogues are serving at present, 
+and the actual demands placed on them; the nature of users and non-users, and 
+the possible conflicts between the catalogue needs of librarians and 
+non-librarians; the psychological factors of approachability and usability; 
+whether standardization should over-rule local needs; whether catalogues
+should be designed for use by readers at all; the functions of printed national 
+catalogues; the implications of increased co-operation and of the changing 
+functions of libraries; what a catalogue entry should contain and how it
+should be arranged; and the possible administrative uses of catalogue data.  
+Mechanization has made these questions of great urgency.

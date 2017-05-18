@@ -1,40 +1,12 @@
-.I 267
-.T
-steady and transient free convection of an electrically
-conducting fluid from a vertical plate in the presence
-of a magnetic field .
-.A
-gupta,s.
-.B
-app. sc. res. 9, 1959.
-.W
-steady and transient free convection of an electrically
-conducting fluid from a vertical plate in the presence
-of a magnetic field .
-  an analysis is made for the laminar
-free convection and heat transfer of
-a viscous electrically conducting fluid
-from a hot vertical plate in the case
-when the induced field is negligible
-compared to the imposed magnetic field .
-it is found that similar solutions for
-velocity and temperature exist when
-the imposed magnetic field (acting
-perpendicular to the plate) varies inversely
-as the fourth root of the distance from
-the lowest end of the plate .  explicit
-expressions for velocity, temperature,
-boundary layer thickness and nusselt
-number are obtained and the effect
-of a magnetic field on them is studied .
-it is found that the effect of the
-magnetic field is to decrease the rate of
-heat transfer from the wall .  in the
-second part, the method of characteristics
-is employed to obtain solutions of
-the time-dependent hydromagnetic free
-convection equations (hyperbolic) of
-momentum and energy put into integral
-form .  the results yield the time required
-for the steady flow to be established,
-and the effect of the magnetic field on this time is studied .
+System Analysis in University Libraries
+
+Leimkuhler, Ferdinand F.
+
+   A comprehensive enginnering approach to the analysis and functional design 
+of library systems is described in terms of fundamental space-time relationship 
+which characterize university libraries.. Long-run trends in aquisitions and
+circulation are related to the relative obsolescence of stored materials, and 
+the uncertainty of short-run demand pattern is related to the need for excess
+service capability.. The spatial dispertion of library resources among 
+specialized information centers and central depositories is considered with
+respect to availability, retrieval, duplication, and efficient storage..

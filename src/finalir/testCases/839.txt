@@ -1,30 +1,18 @@
-.I 839
-.T
-the bending stability of thin-- walled unstiffened
-circular cylinders including the effects of internal
-pressure .
-.A
-suer,h.s., harris,l.a., skene,w.t. and benjamin,r.j.
-.B
-j. ae. scs. 25, 1958.
-.W
-the bending stability of thin-- walled unstiffened
-circular cylinders including the effects of internal
-pressure .
-  in a recent paper, the authors presented a statistical,
-semiempirical design procedure for the determination of the buckling
-strength of unpressurized and pressurized cylinders under axial
-compression .  this procedure has been extended in the present
-paper to the bending of unpressurized and pressurized cylindrical
-shells and allows the calculation of the critical bending stress with
-a knowledge of the cylinder geometry and the internal pressure
-only .
-  because no published data could be found, an extensive series
-of bending tests of pressurized cylinders has been performed .
-these new data for pressurized cylinders are treated
-semiempirically together with all of the other known test data for
-unpressurized cylinders .  best-fit curves are presented using applicable
-theoretical parameters .  design curves for determining the
-critical buckling stress for unpressurized and pressurized cylinders
-in bending are then developed as 90 per cent probability curves
-from the test data .
+Information Services in University Libraries
+
+Line, M.B.
+
+  Development in university libraries in recent years in reader services,
+instruction in library use and subject specialization go only a small way
+to meeting the problems created by the "information explosion."  Reasons
+why more dynamic and personal information services for scientists and
+social scientists should be developed include the limitations in researchers'
+present use of libraries and information, the preference of users for informal
+channels of communication, increasing pressures on the time of university
+teachers, and problems associated with computer retrieval systems.  Specialist
+posts of information officer should be created as part of the library services,
+but with functions distinct from those of the librarian; difficulties that
+may arise with their location and operation are discussed.  The cost of
+information services in depth is heavy, but it may be possible to develop
+them within the existing budget by a reallocation of funds and staff duties.
+

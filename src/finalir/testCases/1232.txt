@@ -1,20 +1,13 @@
-.I 1232
-.T
-the curtain jet .
-.A
-ehrich,f.f.
-.B
-j. ae. scs. 1961, 855.
-.W
-the curtain jet .
-  a detailed analytic study is made of the curtain jet, the
-two-dimensional fluid wall used to contain support pressure on the
-underside of ground effect machines .  two variations of the jet
-are studied in detail--the bifurcated jet, in which a portion of the
-flow streams into the support pressure region, and the deflected
-jet, in which none of the flow penetrates into the support pressure
-region .  kirchhoff-helmholtz free steamline analysis is used
-to construct the flow field, and quantitative results are presented
-for the effect of nozzle inclination and detailed geometry on flow
-requirements and support pressure differential at varying
-altitudes .
+The Magical Number Seven, Plus or Minus Two:Some Limits on Our Capacity for Processing Information
+
+Miller, G.A.
+
+  My problem is that I have been persecuted by an integer.  For seven years
+this number has followed me around, has intruded in my most private data, and
+has assaulted me from the pages of our most public journals.  This number 
+assumes a variety of disguises, being sometimes a little larger and sometimes a
+little smaller than usual, but never changing so much as to be unrecognizable.
+The persistence with which this number plagues me is far more than
+a random accident.  There is, to quote a famous senator, a design behind it,
+some pattern governing its appearances. Either there really is something 
+unusual about the number or else I am suffering from delusions of persecution.

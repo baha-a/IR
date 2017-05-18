@@ -1,17 +1,14 @@
-.I 194
-.T
-general theory of airfoil sections having arbitrary
-shape or pressure distribution .
-.A
-allen,h.j.
-.B
-naca r833, 1945.
-.W
-general theory of airfoil sections having arbitrary
-shape or pressure distribution .
-  in this report a theory of thin airfoils of small camber is
-developed which permits either the velocity distribution
-corresponding to a given airfoil shape, or the airfoil shape
-corresponding to a given velocity distribution to be calculated .  the
-procedures to be employed in these calculations are outlined and
-illustrated with suitable examples .
+The Evaluation of Published Indexes and Abstract Journals:      Criteria and Possible Procedures
+
+Lancaster, F.W.
+
+   This paper describes possible criteria by which the effectiveness of a
+published index  may be evaluated and suggest procedures that might be used to
+conduct an evaluation of a published index.. The procedures were developed for
+the National Library of Medicine and relate specifically to the recurring
+bibliographies produced by MEDLARS in various specialized areas of
+biomedicine.. The methods described should, however, be applicable to other
+printed indexes and abstract journals..
+   Factors affecting the performance  of a published index are also discussed
+and some research projects relevant to the evaluation of published indexes are
+reviewed..

@@ -1,26 +1,14 @@
-.I 612
-.T
-pressure distributions and flow patterns at m=4 . on
-some delta wings of inverted 'v' cross section .
-.A
-squire,l.c.
-.B
-rae tn.aero.2838, 1962.
-.W
-pressure distributions and flow patterns at m=4 . on
-some delta wings of inverted 'v' cross section .
-  wind tunnel tests have been made
-to measure pressure distributions
-and to study flow patterns on a series
-of delta wings of inverted 'v'
-cross-section .  each of these wings
-was designed to have a plane shock
-wave in the plane of the leading edges
-at a chosen mach number and incidence .
-  it was found that for a wide
-incidence range about the design point
-the shock wave remained virtually
-attached to the leading edges and at
-each incidence the pressure was
-approximately constant over the lower
-surface .
+Interactive Search of Bibliographic Data Bases in an Academic Environment
+
+Borman, LorraineMittman, Benjamin
+
+   A surprising difference is found in the acceptance of on-line bibliographic 
+search between university research workers and students in the classroom.. The
+typical research worker, even after careful preparation and individual help, 
+abandons the on-line system in favor of more traditional searching techniques..
+The student and the seminar participant, on the other hand, take to this new 
+tool with enthusiasm and profit.. Bibliographic data bases in physics, 
+astronomy and urban systems are available to users through on-line access to 
+the Remote Information Query System (RIQS).. Examples of introductory on-line 
+sessions are presented and a report of one of the professors participating is 
+included..

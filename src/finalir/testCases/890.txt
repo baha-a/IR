@@ -1,22 +1,14 @@
-.I 890
-.T
-comments on 'thermal buckling of clamped cylindrical shells' .
-.A
-david j. johns
-.B
-lecturer, college of aeronautics, cranfield, england
-.W
-comments on 'thermal buckling of clamped cylindrical shells' .
-in the recent paper by zuk, an expression was presented for
-the critical buckling temperature of a clamped cylindrical shell
-in terms of the material and geometrical properties of the shell .
-restraint at the edges of the shell was assumed to be provided by
-rigid frames experiencing no temperature rise .
-the circumferential stress induced in the shell when it experienced
-a temperature rise, t, may be approximated by the function .
-in other words, there is a compressive circumferential stress along
-the entire length, l, of the shell .
-it is well known, however, that the discontinuity stresses introduced at
-the junction of a shell and a rigid frame (or bulk-head) are extremely
-localized, and the circumferential stresses induced in the shell
-decrease rapidly away from the joint .
+Pattern Recognition and Structure-Activity Relationship Studies.. Computer-Assisted Prediction of Antitumor Activity in Structurally DiverseDrugs in an Experimental Mouse Brain Tumor System
+
+Chu, K. C.Feldman, R. J.Shapiro, M. B.Hazard, G. F. Jr.Geran, R. I.
+
+   This paper reports the application of pattern recognition and substructural 
+analysis to the problem of predicting the antineoplastic activity of 24 test 
+compounds in an experimental mouse brain tumor system based on 138 structurally
+diverse compounds tested in this tumor system.. The molecules were represented 
+by three types of substructural fragments, the augmented atom, the heteropath, 
+and the ring fragments.. Of the two pattern recognition methods used to predict
+the activity of the test compounds the nearest neighbor method predicted 83%
+correctly while the learning machine  method predicted 92% correctly.. The test
+structures and the important substructural fragments used in this study are 
+given and the implications of these results are discussed..

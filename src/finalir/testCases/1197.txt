@@ -1,30 +1,14 @@
-.I 1197
-.T
-unsteady aerodynamic forces on slender supersonic aircraft
-with flexible wings and bodies .
-.A
-yates,j.e. and zeydel,e.f.e.
-.B
-aiaa jnl. 1, 1963, 350.
-.W
-unsteady aerodynamic forces on slender supersonic aircraft
-with flexible wings and bodies .
-  the present paper derives generalized aerodynamic
-forces for slender supersonic aircraft on
-the basis of slender-body theory .  particular
-consideration is given to configurations which
-are spanwise flexible .  to treat configurations
-with flexible wings and bodies, the slender
-wing-body problem is first reduced to a simple body
-problem whose solution is well known, and a
-solution of the latter is obtained, utilizing the
-circle theorem or method of images and a known
-solution of the airfoil equation for a double
-interval .  with this approach, it is not necessary
-to apply conformal mapping techniques,
-and the solution so obtained is valid for arbitrary
-spanwise downwash distributions .  on the
-basis of slender-body theory, the velocity potential
-and, subsequently, the generalized
-aerodynamic forces are derived for a general class of
-spanwise flexible wing-body configurations .
+Retrieval of Single Entries from a Computerized Library Catalog File
+
+Kilgour, F.G.
+
+        The major intellectual challenges confronting an architect of a total
+computerized library system is organization of a efficient file of millions of
+bibliographic references from which a single entry can be retrieved swiftly
+and uniquely.  Research on file organization has concentrated on retrieval of 
+multiple entries possessing some equal or similar characteristic.  However, a
+basic library bibliographic file should be organized to yield a record unequal
+and dissimilar to all others.  Such a file is analogous to the familiar main
+entry catalog, which every library maintains, and would have associated with
+it supplementary index files of subjects, titles, call numbers, and perhaps 
+other attributes.

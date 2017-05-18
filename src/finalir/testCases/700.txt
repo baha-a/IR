@@ -1,18 +1,17 @@
-.I 700
-.T
-two and three-dimensional unsteady lift problems in high speed flight .
-.A
-lomax et al.
-.B
-naca rep. 1077, 1952 .
-.W
-two and three-dimensional unsteady lift problems in high speed flight .
-the problem of transient lift on two- and three-dimensional wings flying
- at high speeds is discussed as a boundary-value problem for the
-classical wave equation . kirchhoffs formula is applied so that the
-analysis is reduced, just as in the steady state, to an investigation of
- sources and doublets . the applications include the evaluation of
-indicial lift and pitchingmoment curves for two-dimensional sinking and
-pitching wings flying at mach numbers equal to 0, 0.8, 1.0, 1.2, and
-triangular wings in both forward and reversed flow are presented and
-compared with the two-dimensional values .
+Strategic Considerations in the Design of a Screening System forSubstructure Searches of Chemical Structure Files
+
+Adamson, G.W.Cowell, J.Lynch, M.F.McLure, A.H.W.Town, W.G.Yapp, A.M.
+
+  A major problem in the design of screening systems for substructure searches
+of chemical structure files is the development of a methodology for selection of
+an optimal set of structural characteristics to act as screens.  The set chosen
+for a particular application will depend on the characteristics of the
+collection, as well as on its size and growth rate.  A strategy which takes
+account of the disparate frequencies of the various species of fragments
+in a data-base by use of differential, and, in part, hierarchical levels of
+description is detailed.  The distributions of a variety of structural
+characteristics, including bond-centered, atom-centered, and ring fragments
+in a 30,000-compound sample of the Chemical Abstracts Service Registry System
+are summarized.  Implementation of the approach, using primarily bond-centered
+fragments, by means of simple and highly efficient computer programs, is
+detailed.

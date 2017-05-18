@@ -1,19 +1,19 @@
-.I 356
-.T
-on optimum nose curves for missiles in the super-aerodynamic
-regime .
-.A
-tan,h.s.
-.B
-j. ae. scs. 25, 1958, 56.
-.W
-on optimum nose curves for missiles in the super-aerodynamic
-regime .
-  author shows that the differential equations defining the
-minimum drag body shapes for free molecule flow that were developed
-and numerically integrated by w. j. carter (amr 11 (1958), rev.
-realized, however, that numerical or analytical integration of the
-second-order differential equation is unnecessary since, for the
-flow conditions considered, the first integral to the euler equation
-can be written prior to the substitution of the expression defining
-the pressure coefficient .
+Diffusion of Innovations
+
+Rogers, E.
+
+  This book is directed both to advanced college students
+enrolled in sociology courses and to students of the other
+social sciences (such as anthropology, economics, history,
+and psychology) who are concerned with diffusion.  (For this 
+reason, sociological concepts are defined when they are
+introduced.)
+  More than five hundred publications on the diffusion of
+innovations are reviewed here.  The innovations studied range
+from new drugs among physicians to hand tools among primitive
+tribes, and from driver training among public high 
+schools to hybrid corn among farmers.  Although a generally
+consistent set of findings has emerged from these studies, a
+search of the literature shows little attempt to summarize and
+evaluate available results and theories on the spread of ideas.
+This volume synthesizes these findings and theories. 

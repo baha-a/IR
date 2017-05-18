@@ -1,41 +1,21 @@
-.I 731
-.T
-upper and lower bounds for the solution of the first
-biharmonic boundary value problem .
-.A
-diaz,g.b., and greenberg,h.g.
-.B
-j. math. phys. 27, 1948, 193.
-.W
-upper and lower bounds for the solution of the first
-biharmonic boundary value problem .
-  let w(x,y) be a solution of the boundary value problem
-where r is a plane
-domain with the boundary c .  the authors obtain upper and
-lower bounds for, the value of w at a point in r,
-by a method which is applicable to many other problems .
-  if u is a function satisfying the boundary conditions
-and v is a function satisfying the partial differential
-equation, then the authors obtain by applying green's
-classical identity and schwarz's inequality a pair of inequalities
-of the form where .
-  together with the function w the authors consider a
-function the solution of the boundary value problem
-on c, and in
-analogy with the functions u and v associated with the
-function w a pair of functions and associated with the
-function .  in the expression for derived from green's
-classical identity appears an unknown line integral
-containing the values of w and on c .  but the same line
-integral appears also in the expressions for
-to which the above inequalities are
-applicable .
-  in this way the authors obtain two inequalities of the form
-where b and b', respectively, are approximate
-values of .  in order to improve these bounds
-one may add to u a linear set of functions and to v a
-linear set of functions and then minimize h(u-v) in order
-to determine the coefficients of the best linear combinations .
-if the sequences and are complete in a certain sense
-defined by the authors the approximations will converge to
-the value .
+Evaluation of an SDI Service Based on the Index Chemicus Registry System
+
+Leggate, P.Rossiter, B.N.Rowland, J.F.B.
+
+  The Index Chemicus Registry System (ICRS) is the
+machine-readable equivalent of Current Abstracts in
+Chemistry & Index Chemicus (CAC & IC).  In an earlier
+paper, we described the development of an experimental
+selective-dissemination-of-information (SDI) service
+based on these tapes.  A detailed description of the
+techniques of profile construction for searching a
+Wiswesser Line Notation (WLN) structure file is given in
+this earlier paper.  The present paper describes the evaluation
+of the SDI service in terms both of quantitative measures
+of retrieval performance, coverage and currency, and also of
+user reactions to the service, as expressed in their replies
+to a questionnaire.  Failure analysis techniques were used to
+identify the reasons for retrieval failures and possible
+methods for improving retrieval performance.  A fuller
+description of the evaluation has been published in report
+form.

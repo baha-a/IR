@@ -1,24 +1,11 @@
-.I 719
-.T
-tumbling bodies entering the atmosphere .
-.A
-remmler, k.l.
-.B
-ars jnl. v. 32, january 1962. pp 92-95 .
-.W
-tumbling bodies entering the atmosphere .
-the equations of motion of a tumbling flat plate entering an exponential
- atmosphere were linearized and solved analytically to obtain a simple
-expression for the altitude at which tumbling would cease and libration
-would commence . the plate had only three degrees of freedom, and
-aerodynamic forces were derived from newtonian impact theory . in the
-linear analysis, mean values of the drag and pitch damping coefficients
-so that flutter occurs in the range of a low-speed wind tunnel .
-a particular type of construction for supersonic flutter models is
-described in detail . methods of vibration testing, static testing, and
-flutter testing are discussed . particular emphasis is placed on the
-technique of varying flow parameters rather than model parameters to
-precipitate flutter . the tool for varying flow parameters is the
-variable mach number supersonic test section of the massachusetts
-institute of technology blowdown wind tunnel . the aerodynamic features of
- the supersonic test section are presented .
+Critical Reviews: The User's Point of View
+
+Herring, C.
+
+Scientists are worried about the "information explosion" and the amount of
+published literature that could have a significant impact on their work. One
+thing that can help is a condensation and evaluation of the published material.
+This is the task of reviews, and without them, the other tools for dealing with
+the information explosion will be inadequate. Suggestions are made on ways for
+authors and editors to make their reviews more eccessible and more useful and on 
+the need for better education of users.

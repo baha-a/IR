@@ -1,13 +1,9 @@
-.I 875
-.T
-models for aeroelastic investigation .
-.A
-templeton,h.
-.B
-arc cp.255, 1955.
-.W
-models for aeroelastic investigation .
-  this addendum provides a short note on two aspects omitted from the
-original paper, viz. gravitational effects and structural damping .  a
-short list of references to earlier papers dealing with the subject is
-also added .
+File Structure for an On-Line Catalog of One Million Titles
+
+Dimsdale, J. J.
+
+   A description is given of the file organization and design of an on-line
+catalog suitable for automation of a library of one million books.. A method of
+virtual hash addressing allows rapid search of the indexes to the catalog 
+file.. Storage of textual material in a compressed form allows considerable
+reduction in storage costs..

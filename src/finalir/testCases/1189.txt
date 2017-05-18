@@ -1,24 +1,15 @@
-.I 1189
-.T
-nonequilibrium flow past a wedge .
-.A
-capiaux,r. and washington,m.
-.B
-aiaa jnl. 1963, 1, 650.
-.W
-nonequilibrium flow past a wedge .
-  an exact numerical solution is obtained for
-the chemically reacting flow past a wedge .  the
-freestream is either in equilibrium or out of
-equilibrium but nonreacting .  the attached
-shock wave is shown to be either concave, convex,
-or straight, depending on the values of the
-amount of dissociation in the freestream and
-a parameter describing the amount of energy
-contained in the freestream relative to the gas
-dissociation energy .  numerical examples are
-presented illustrating these regimes .  the flow
-field is characterized by the presence of an
-entropy layer and a relaxation layer, both easily
-identifiable in the presentation of the numerical
-results .
+Organizing Nonprint Material
+
+Daily, T.E.
+
+  The object of this book is to establish a means for organizing
+collections of nonprint material so that greatest efficiency can match
+most effective service.  No lesser goal is worthy of consideration.
+In discussing the problems of organization, the examples of material
+have been used to explain differences in treatment that can be made
+responsive to the needs of the community that the library serves.
+Nonprint material is a vital part of a modern library of whatever
+type.  School libraries have made the greatest use of the material so
+far, to the point of becoming media-centers, but the avalanche of
+information is not only in print form and the need for information
+may often be satisfied only by nonprint material. 

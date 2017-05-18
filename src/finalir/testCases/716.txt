@@ -1,27 +1,15 @@
-.I 716
-.T
-study of the oscillatory motion of manned vehicles
-entering the earth's atmosphere .
-.A
-sommer,s.c. and tobak,m.
-.B
-nasa memo 3-2-59a, 1959.
-.W
-study of the oscillatory motion of manned vehicles
-entering the earth's atmosphere .
-  an analysis is made of the oscillatory
-motion of vehicles which
-traverse arbitrarily prescribed trajectories
-through the atmosphere .
-expressions for the oscillatory motion
-are derived as continuous functions
-of the properties of the trajectory .
-  results are applied to a study of
-the oscillatory behavior of re-entry
-vehicles which have decelerations that
-remain within limits of human
-tolerance .  it is found that a deficiency of
-aerodynamic damping for such
-vehicles may have more serious consequences
-than it does for comparable
-ballistic missiles .
+Reading Behavior of Chemists
+
+Gushee, D.E.
+
+  Most discussions about the future design of chemical information systems
+emphasize the effects of computer speed on composition, storage, searching,
+and retrieval.  Little attention has been paid to the behavior of the
+scientist (chemist) toward the learning process and the role of the literature
+in that learning process.  The ACS has gained some insight into this behavior
+and thus urges caution before one leaps to the uncritical conclusion that
+the literature as now constituted is dead but has not yet fallen over.  What
+seems more likely, when human behavior patterns are considered, is that the
+new and the old will co-exist side by side for several generations, and that
+the system's current emphasis on completeness will be replaced with selective
+compression. 

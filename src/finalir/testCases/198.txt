@@ -1,41 +1,28 @@
-.I 198
-.T
-investigation of a systematic group of naca 1 - series
-cowlings with and without spinners .
-.A
-nichols,m.r. and keith,a.l.
-.B
-naca r950, 1949.
-.W
-investigation of a systematic group of naca 1 - series
-cowlings with and without spinners .
-  an investigation has been conducted in the langley
-propeller-research tunnel to study cowling-spinner combinations based
-on the naca 1-series nose inlets and to obtain systematic
-design data for one family of approximately ellipsoidal spinners .
-in the main part of the investigation, 11 of the related spinners
-were tested in various combinations with 9 naca open-nose
-cowlings, which were also tested without spinners .  the effects
-of location and shape of the spinner, shape of the inner surface
-of the cowling lip, and operation of a propeller having
-approximately oval shanks were investigated briefly .  in addition, a
-study was conducted to determine the correct procedure for
-extrapolating design conditions determined from the low-speed
-test data to the design conditions at the actual flight mach
-number .
-  the design conditions for the naca 1-series cowlings and
-cowling-spinner combinations are presented in the form of
-charts from which, for wide ranges of spinner proportions and
-rates of internal flow, cowlings with near-maximum pressure
-recovery can be selected for critical mach numbers ranging from
-spinners and the effects of the spinners and the propeller on
-the cowling design conditions are presented separately to
-provide initial quantitative data for use in a general design
-procedure through which naca 1-series cowlings can be
-selected for use with spinners of other shapes .  by use of this
-general design procedure, correlation curves established from
-the test data, and derived compressible-flow equations relating
-the inlet-velocity ratio to the surface pressures on the cowling
-and spinner, naca 1-series cowlings and cowling-spinner
-combinations can be designed for critical mach numbers as
-high as 0.90 .
+Choosing Physiology Journals
+
+Brodman, E.
+
+  For many years administrators of library collections have sought
+objective criteria for assembling well-rounded periodical collections
+in the subject fields represented by their collections.  The nearest
+approach to any criterion which does away with the a priori knowledge
+of the specialist was first suggested by Gross and Gross in 1927.  This
+method consists, essentially, of counting the bibliographic citations at
+the conclusions of the articles in a basic periodical of the field under
+consideration, and of arranging the journals cited in order of the
+frequency of their citation.  Thus, in the field of chemistry, the 
+references in the Journal of the American Chemical Society are counted and
+a list is made of the most frequently cited journals.  According to Gross
+and Gross, the journals which are cited most frequently in the Journal of the
+American Chemical Society are the most valuable journals for a library
+to purchase in order to possess a well-rounded collection in chemistry.
+  Although the Gross and Gross method has been in use for almost twenty
+years, the fundamental assumptions upon which the method is based have
+never been examined.  These assumptions are:
+1. The value of a periodical to a professional worker is in direct
+   proportion to the number of times it is cited in the professional
+   literature.
+2. The journal or journals used as the base for the tabulation are
+   representative of the entire field.
+3. If more than one journal is used as a base, all of them can be weighted
+   equally.

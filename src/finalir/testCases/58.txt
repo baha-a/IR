@@ -1,37 +1,20 @@
-.I 58
-.T
-pressure measurements on sharp and blunt 5 and 15 half-angle
-cones at mach number 3.86 and angles of attack to
-100 .
-.A
-amick,j.l.
-.B
-nasa tn.d753, 1961.
-.W
-pressure measurements on sharp and blunt 5 and 15 half-angle
-cones at mach number 3.86 and angles of attack to
-100 .
-  measured pressure distributions on cones are compared with modified
-newtonian theory .  deviations as large as 14 percent of the stagnation
-pressure behind a normal shock are found .
-by combining empirical results
-for cylinders normal to the flow with
-newtonian concepts, a method of
-calculating pressures on cones at high angles
-of attack is developed .
-calculations by this method differ from the
-experimental results on sharp cones
-by only 2 percent of the stagnation
-pressure behind a normal shock .  for
-blunted cones, additional deviations
-up to 8 percent are noted near the
-nose .
-  schlieren pictures of the flow show an attached shock on the sharp
-of attack .  detachment of the shock
-appears to be associated with the
-attainment of sonic speed immediately
-behind the shock .
-  an orifice size effect is found which can increase the indicated
-pressure above the true value, if
-the orifice width is greater than
-one-tenth the local radius of curvature .
+Relevance Disagreements and Unclear Request Forms
+
+O'Connor, John
+
+   Disagreements about the relevance of documents to retrieval requests occur
+because relevance judges differently interpret requests of documents.. Requests
+may be differently interpreted because they are unclear.. Well-known types of
+request obscurity are reviewed.. Less well known is that a request may be 
+unclear because its form - "documents about subject S", "document answering 
+question Q", etc. - is unclear.. 
+   Explications are developed of the meanings of the request forms just given 
+and several others.. A request of any of the forms discussed is interpreted to 
+be for documents which support statements of a specified kind in a specified 
+way.. Examples are given which suggest that some, perhaps all, "about S" 
+requests are unclear.. Some ways of formulating clear question requests are 
+given..
+   Various ways in which documents may support statements are distinguished..
+These depend on on such factors as parts of a document use, inference strength,
+and background knowledge permitted.. Some possible clear support specifications
+are indicated..

@@ -1,32 +1,27 @@
-.I 589
-.T
-some stall and surge phenomena in axial flow compressors .
-.A
-.B
-.W
-some stall and surge phenomena in axial flow compressors .
-observations of rotating stall have shown that a wide variety
-of stall patterns is possible .
-     hot-wire anemometer data on a multistage compressor have
-shown a progressive-type stall at low speeds . the amplitude
-of the flow fluctuations increases in magnitude through the first
-few stages and then diminishes rapidly to a small value in the
-latter stages . a stage-stacking analysis has shown that rotating
-stall will exist over a large portion of the compressor map at low
-speeds but will be instigated almost simultaneously with
-compressor surge at high speeds .
-     blades failures attributable to resonant vibrations excited by
-rotating stall have been experienced in single  and multistage
-compressors .
-      in the stage-stacking analysis no deterioration of stage
-performance due to unsteady flow resulting from stall of adjacent stages
-was considered . in general, the pressure drop at the stall point
-is believed to be much larger than indicated by an analytical
-formulation of compressor performance . compressor surge is
-attributed to a limit cycle operation about the compressor stall
-point, and, as indicated in a few compressor tests and in
-jet-engine tests, a small compressor discharge receiver volume may
-result simply in stall of the compressor without the cyclic
-characteristics of compressor surge . in this event, engine operation
-will be limited because of the large drop in performance which
-accompanies compressor stall  .
+Are Titles of Chemical Papers Becoming More Informative?
+
+Tocatlian, Jacques J.
+
+   The efficiency of key-work-in-context (KWIC) permuted-title indexes and
+their numerous variations is highly dependent upon authors' choices of titles
+for their papers.. Titles are important not only in commercial services,
+such as Chemical Titles, BASIC, Current Contents, and CA Condensates, but
+also in scanning primary journals, and in traditional library services, such
+as bibliographies.. It is generally believed and often stated that titles
+of chemical papers are becoming more informative as authors become
+increasingly aware of the importance of titles as "carriers" of information..
+The present study was undertaken to test whether (1) titles of chemical papers
+are becoming more informative and (2) whether uninformative titles of chemical
+papers are being eliminated since the advent of the KWIC index in 1958..
+   The first hypothesis was tested by comparing titles published in 1948, 
+1958, and 1968 by the following criteria: (1) a count of substantive words
+in the title; (2) a count of all word matches between title and 10 leading
+substantive words selected from the abstract, with and without the use of a
+thesaurus; and (3) a count of word matches between title and 10 leading
+substantive words selected from the abstract, with and without the use of
+a thesaurus.. The second hypothesis was tested by comparing a count of
+short titles (with 3 or less substantive words) published in 1948, 1958,
+and 1968..
+   Results confirm that uninformative titles of chemical papers are
+being eliminated and that informative titles are becoming more informative
+since the advent of the KWIC index..  

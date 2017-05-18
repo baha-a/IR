@@ -1,16 +1,13 @@
-.I 1299
-.T
-hypersonic viscous shock layer .
-.A
-scala,s.m.
-.B
-ars jnl. 1959, 29, 520.
-.W
-hypersonic viscous shock layer .
-a decade ago tsien (1) (as well as others) and, more
-recently, adams and probstein (2) have attempted to
-define the different regimes of gaseous interactions during high
-altitude flight .  in this note some results are presented which
-are pertinent to the flight of hypersonic lifting vehicles
-composed of axially symmetric and two-dimensional elements,.
-sec. fig. 1 .
+Current Physics Information
+
+Koch, H. William
+
+   A new concept in science communication will be given its first test in
+calendar year 1972.. Primary and secondary contents of a selected subset of 
+the world's journal literature in physics will be provided in a variety of
+output formats.. Among them are a monthly microfilm containing the full texts
+of all articles in the set of journals (Current Physics Microform); an advance
+abstracts journal describing the articles (Current Physics Advance Abstracts);
+a printed, classified index of the titles of the articles (Current Physics 
+Titles); and a computer tape index to the articles (Searchable Physics 
+Information Notices)..

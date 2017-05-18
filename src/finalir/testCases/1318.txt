@@ -1,17 +1,17 @@
-.I 1318
-.T
-stagnation temperature measurements in a hypersonic gun tunnel using the
- sodium-line reversal method .
-.A
-stollery, j.l.
-.B
-arc 22854, may 1961 .
-.W
-stagnation temperature measurements in a hypersonic gun tunnel using the
- sodium-line reversal method .
-the sodium line reversal /s.l.r./ method has recently been used to
-measure transient temperatures in the 1400degreek to 3000degreek range, for
- example ref.6 reports measurements of gun flash temperatures . in the
-gun tunnel, stagnation temperatures in the above range can be generated
-flow between a blunt body and its bow shock wave . the gas temperature
-in this zone is close to the stagnation value .
+Scientific and Technical Libraries:Their Organization and Administration
+
+Strauss, L.J.
+
+  The book is designed to serve multiple purposes.  First the needs of
+practicing librarians, particularly those who are just beginning their
+careers, and require a general guide and source of operational and
+bibliographic information, have been given special consideration.  A
+second purpose is to provide a textbook for library school and other
+advanced students whose interests are oriented toward the literature of
+the life and physical sciences.  The book could also help persons in
+management positions of organizations in which the establishment of a
+library is contemplated, presenting, if only from a review of the contents,
+the scope of such a department.  Finally it should be a good resource for
+library consultants engaged in assisting management to make the right
+decisions.  The requirements of all of these audiences have been assessed
+and endeavor made to meet their somewhat varied requirements.

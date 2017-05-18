@@ -17,10 +17,10 @@ public class Tokenizer {
     }
 
     public List<CoreLabel> getTokens(File f) throws FileNotFoundException, IOException {
-        return getTokens(new Scanner(f).useDelimiter("\\Z").next());
+        return getTokens(new Scanner(f).useDelimiter("\\Z").next().toLowerCase());
     }
         
-    public List<CoreLabel> getTokens(String txt) {  
+    public List<CoreLabel> getTokens(String txt) {
         return stemming(removeStopWords(Split(txt)));
     }
     

@@ -1,13 +1,8 @@
-.I 1102
-.T
-a five-stage solid fuel sounding rocket system .
-.A
-swanson, a.g.
-.B
-nasa memo 3-6-59 l, 1959 .
-.W
-a five-stage solid fuel sounding rocket system .
-a five-stage solid-fuel sounding-rocket system which can boost a payload
- of 25 pounds to an altitude of 525 nautical miles and that of 100
-pounds to 300 nautical miles is described . data obtained from a typical
- flight test of the system are discussed .
+Nature and Essence of Information Needs
+
+Shekhurin, D.E.
+
+   The individual, collegiate and social information needs are considered in
+conjunction with the scientific, economic and social interests of the
+community..  A classification of the information needs is given which takes
+into account their historic background and subject-specialty specifics..

@@ -1,16 +1,9 @@
-.I 384
-.T
-application of second-order shock-expansion theory
-to several types of bodies of revolution .
-.A
-lavender,r.e. and deep,r.a.
-.B
-j. ae. scs. 23, 1956, 1052.
-.W
-application of second-order shock-expansion theory
-to several types of bodies of revolution .
-  second-order shock-expansion theory is utilized to obtain equations
-for the initial normal force curve slope, initial pitching moment curve
-slope, and zero-lift wave drag for several type bodies of revolution .
-bodies considered are the cone-cylinder, cone-cylinder-frustum,
-cone-cylinder-frustum-booster, cone-frustum, and cone-frustum booster .
+Evaluation of the World Food Literature
+
+Mann, E.J.
+
+  This publication presents the culmination of a concerted International
+effort to survey the relevant world's scientific and technological
+literature for its food science and technology content as a preliminary
+step towards the establishment of a comprehensive abstracting and
+documentation service in this field.

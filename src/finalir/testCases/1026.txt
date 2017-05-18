@@ -1,12 +1,9 @@
-.I 1026
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  this paper is concerned with the solution of the creep buckling of
-columns .  instantaneous elastic and plastic deformations, as well as
-the transient and secondary creep, are considered .  formulae for the
-critical time at which a column fails are presented for integral values
-of the exponents appearing in the creep law .
+Line - Formula Chemical Notation
+
+Wiswesser, W.T.
+
+  This manual is the culmination of a long search for a chemical
+notation that should consist of symbols limited to those on the
+standard typewriter keyboard.  The necessity for such a notation
+has been made almost inescapable by recent tremendous advances in
+technology and the vast growth of chemical literature.

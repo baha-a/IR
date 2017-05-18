@@ -1,24 +1,14 @@
-.I 1196
-.T
-growth of the turbulent wake behind a supersonic sphere .
-.A
-murphy,c.h. and dickinson,e.r.
-.B
-aiaa jnl. 1, 1963, 339.
-.W
-growth of the turbulent wake behind a supersonic sphere .
-  experimental data are presented on the growth
-of turbulent wakes up to 8000 calibers
-behind and spheres traveling at supersonic
-velocities .  experimental determination
-of the exponential coefficient in the growth law is
-very difficult, if not impossible .  data are
-presented in the form of both .
-in the representation, two
-regions of different wake growths are observed .
-by means of a quasi-steady state assumption,
-the effect of drag deceleration is eliminated
-and growth of the far wake compared with
-theoretical predictions .  the agreement with the
-lees-hromas theory in this region was found to
-be quite good .
+Retrieval of Bibliographic Entries from a Name-Title Catalog by Use ofTruncated Search Keys
+
+Kilgour, Frederick G.Long, Philip L.Leiderman, Eugene B.
+
+   An experiment to produce information on the utility of co-ordinating derived,
+truncated search keys as enquiry terms to an on-line bibliographic system was
+performed on a file of 132,808 name-title entries.. Statistics on the number 
+of entries associated with each key for keys varying from four to eight 
+characters in length were obtained.. Assuming use of a keyboard cathode ray 
+tube terminal capable of displaying at least ten lines of text, and taking
+spelling error probabilities into account, a derived key consisting of the 
+first three characters of author name concatenate with the first three  
+characters of title was determined to be effective for at least four-fifths of
+all academic libraries..

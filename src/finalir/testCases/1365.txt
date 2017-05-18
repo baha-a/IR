@@ -1,26 +1,20 @@
-.I 1365
-.T
-approximate calculation of the laminar boundary layer .
-.A
-thwaites,b.
-.B
-aero. quart. 1, 1949-1950.
-.W
-approximate calculation of the laminar boundary layer .
-  after analyzing a large class of boundary-layer
-velocity-profiles, the author discovered that the functions l(m) and
-h(m) for all such cases differ only slightly from each other
-over the whole range of positive and negative pressure
-gradients .  here l, m and h are defined by
-being the
-velocity-component in the x direction and u the value of u at the
-edge of the boundary-layer and and the displacement
-and momentum thickness, respectively .  based on this
-discovery, an approximate method is proposed by constructing
-two universal curves l(m) and h(m) for all conceivable
-boundary-layer flows found in practice .  once these are
-chosen, karman's momentum-integral can be written in the
-form, v being the kinematic
-viscosity coefficient, and can be integrated numerically .  as
-examples, both howarth's and hartree's
-tained is considered good for practical purposes .
+Centralization vs. Decentralization:A Location Analysis Approach for Librarians
+
+Raffel, J.Shishko, R.
+
+  An application of location theory to
+the question of centralized versus
+decentralized library facilities for a
+university, with relevance for special 
+libraries is presented.  Locating university
+libraries near classrooms, offices, and
+dormitories requires a larger budget
+than combining these libraries into a 
+centralized facility.  Yet there is a cost
+to the university community which does not 
+appear in the university budget - a cost
+in time, energy, and decreased use resulting
+from locating the library a longer distance
+from users.  The analysis provides models
+for a single library, for two or more libraries,
+or for decentralized facilities.

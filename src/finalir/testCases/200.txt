@@ -1,25 +1,18 @@
-.I 200
-.T
-calculation of derivatives for a cropped delta wing
-with subsonic leading edges oscillating in a supersonic
-airstream .
-.A
-watson,j.
-.B
-arc r + m 3060, 1958.
-.W
-calculation of derivatives for a cropped delta wing
-with subsonic leading edges oscillating in a supersonic
-airstream .
-  the lift, pitching moment and full-span
-constant-chord control hinge-moment are derived for a cropped
-delta wing describing harmonic plunging and pitching
-oscillations of small amplitude and low-frequency parameter in
-a supersonic air stream .  it is assumed that (a) the wing
-has subsonic leading edges, (b) the wing is sufficiently thin
-and the mach number sufficiently supersonic to permit the
-use of linearised theory .
-  expressions for the various derivative coefficients are
-obtained for a particular delta wing of aspect ratio 1.8 and
-taper ratio these are avaluated and tabulated for mach
-numbers 1.1, 1.15, 1.2, 1.3, 1.4, 1.5, 1.6 and 1.944 .
+Mechanization of Library Procedures in the Medium-sized Medical Library
+
+Pizer, I.H.Franz, D.R.Brodman, E.
+
+  Mechanical means for expediting library work have been considered
+for many years, as an examination of the early pages of Library
+Journals bears out. The very first volume of the forerunner of the Bulletin,
+the Medical Library and Historical Journal, moreover, contained an
+article on the use of the "typewriting machine" in cataloging.  Telephones
+have long been accepted as library machines, and, except for unusual
+items, hand bookbinding has given way to machine-bound books.
+  Nevertheless, when the term "machine methods" is used for libraries
+today, the prevailing idea is that expensive and complicated electronic
+equipment must be employed, and, since few libraries are able to afford
+such equipment for themselves, it is generally assumed that none but the
+largest libraries (the Library of Congress or the National Library of
+Medicine, for example) will be able to employ already existing mechanical
+methods or devise systems specifically applicable to their own situations. 

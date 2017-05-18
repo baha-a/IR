@@ -1,21 +1,20 @@
-.I 354
-.T
-laminar heat-transfer and pressure measurements over blunt-nosed
-cones at large angle of attack .
-.A
-victor zakkay
-.B
-research associate, polytechnic institute of brooklyn, freeport, n.y.
-.W
-laminar heat-transfer and pressure measurements over blunt-nosed
-cones at large angle of attack .
-tests have been conducted at a mach number of 6, in the pibal hypersonic
-facility, in order to determine the heat-transfer and pressure
-distributions over a slender blunted cone at angles of attack of
-erature ratio, stagnation to wall, was approximately 2.3 .  the model
-tested has a sperical nose diameter of 1.0 in., a base diameter of 3.75
-in., and a cone half-angle of 20 degrees .  the measurements were made
-at 5 peripheral stations on the model .
-in this note the experimental results at a 15 degree angle of attack
-are presented .  a more detailed analysis of the results for all
-angles of attack is presented in reference 1 .
+Dewey Decimal Classification
+
+Dewey, M.
+
+  The schedules of Edition 18, like those of 17, are based on the
+principle of subject integrity.  Both the subject matter and the notation are
+hierarchical, so that what is true of a given whole is true of all its parts.
+The schedules are developed according to logical principles, so that the
+classifier is guided to make correct decisions.  The terminology of the
+classification scheme reflects the terminology used by the literature
+being classified.
+  For ease of use, this edition includes many more example notes, more detailed
+and precise instructions, and freer use of layman's terminology than did its
+immediate predecessor.
+  Since this edition is intended for use as a shelf-arrangement system for
+general libraries of all sizes, its fulness is based upon the number of titles
+that large libraries may be expected to acquire in various fields.  Since
+it is also intended for use in classified catalogs and bibliographies (for
+which the Dewey Decimal Classification is increasingly in demand in many
+countries), it contains an increased number of provisions for number building.

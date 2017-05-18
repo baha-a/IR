@@ -1,40 +1,11 @@
-.I 1064
-.T
-propeller slipstream effects as determined from wing
-pressure distribution on a large-scale six-propeller
-vtol model at static thrust .
-.A
-winston,m.m.
-.B
-nasa tn.d1509, 1962.
-.W
-propeller slipstream effects as determined from wing
-pressure distribution on a large-scale six-propeller
-vtol model at static thrust .
-  during static-thrust tests of a
-large-scale general research model having a
-tilting wing and double-slotted flaps,
-static-pressure measurements were made on
-a wing segment behind one propeller to
-survey the effects of the slipstream .  for
-the conditions of highest slipstream energy,
-the hovering end point of aerodynamic
-parameters for aircraft having vertical and
-short take-off and landing capability
-the tilt-wing configuration (zero
-flap deflection) was a 6 spanwise variation
-in effective angle of attack in a
-span of slightly less than 1 propeller diameter .
-effective changes in camber
-on the tilt-wing configuration as a result of
-slipstream rotation, the radial
-velocity gradient, and the resultant spanwise
-flow were negative and had a maximum
-magnitude of less than 2-percent chord .  for
-the deflected-slipstream
-configuration (double-slotted flaps deflected), effects
-important to the hovering
-performance were found, including a 40-percent spanwise
-variation in effective thrust
-recovery and a 20 spanwise variation in effective
-thrust turning .
+Modern Manuscripts  A Practical Manual for Their Management, Care and Use
+
+Duckett, K.W.
+
+                The title of this book is intended to indicate
+that its scope is limited to manuscripts of the seventeenth century
+to the present.  Examples and techniques are drawn from institutions
+in the United States with occasional references to practices in Great
+Britain and Canada.  The book is directed toward the novice curator
+of manuscripts, and, again, as the title indicates, it is intended to 
+serve as a practical guide, not as an exposition of theory.

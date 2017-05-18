@@ -1,21 +1,13 @@
-.I 849
-.T
-a theory of imperfection for the vibrations of elastic bodies of
-revolution .
-.A
-s. a. tobias, ph.d.
-.B
-.W
-a theory of imperfection for the vibrations of elastic bodies of
-revolution .
-various observations and preliminary experiments
-have shown that the effect of imperfections upon the
-vibrations of bodies of revolution cannot be neglected .
-owing to the possibility of applying the lagrange
-equation, the influence of the imperfections could be
-traced through the kinetic energy, the potential energy
-and the dissipation function .  although the fundamental
-difficulty of the uncertainty of certain variables
-was not eliminated, this procedure permitted at least
-the making of general qualitative statements as to the
-behaviour of the system if imperfections are present .
+The Development and Administration of automated systems in Academic Libraries
+
+De Gennardo, Richard
+
+   The first part of this paper considers three general approaches to the
+development of an automation program in a large research library.. The library
+may decide simply to wait for developments; it may attempt to develop a total 
+or integrated system from the start; or it may adopt an evolutionary approach
+leading to an integrated system.. Outside consultants,it is suggested, will 
+become increasingly important.. The second part of the paper deals with 
+important elements in any program regardless of the approach.. These include
+the building of a capability to do automation work, staffing, equipment,
+organizational structure, selection of projects, and costs..

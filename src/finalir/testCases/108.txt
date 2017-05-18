@@ -1,19 +1,16 @@
-.I 108
-.T
-properties of the confluent hypergeometric function .
-.A
-a. d. macdonald
-.B
-.W
-properties of the confluent hypergeometric function .
-the confluent hypergeometric functions have proved useful in many
-branches of physics .  they have been used in such problems involving
-diffusion and sedimentation, as isotope separation and protein molecular
-weight determinations in the ultracentrifuge .  the solution of the
-equation for the velocity distribution of electrons in high frequency
-gas discharges may frequently be expressed in terms of these functions .
-the high frequency breakdown electric field may then be predicted
-theoretically for gases by the use of such solutions together with kinetic
-theory .
-this report presents some of the properties of the confluent
-hypergeometric functions together with six-figure tables of the functions .
+Productivity Differences among Scientists:  Evidence for Accumulative Advantage
+
+Allison, Paul D.Stewart, John A
+
+   The highly skewed distributions of productivity among scientists can be 
+partly explained by a process of accumulative advantage.. Because of feedback
+through recognition and resources, highly productive scientists maintain or
+increase their productivity, while scientists who produce very little produce
+even less later on.. A major implication of accumulative advantage is that the
+distribution of productivity becomes increasingly unequal as a cohort of
+scientists ages.. Cross-sectional survey data support this hypothesis for
+chemists, physicists, and mathematicians, who show strong linear increases in
+inequality with increasing career age.. This increase is highly associated with 
+a changing distribution of time spent on research.. Another implication of 
+accumulative advantage is also corroborated: the association among productivity,
+resources and esteem increases as career age increases..

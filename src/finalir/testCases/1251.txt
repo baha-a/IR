@@ -1,28 +1,17 @@
-.I 1251
-.T
-viscous flow past a quarter infinite plate .
-.A
-stewartson,k.
-.B
-j. ae. scs. 1961, 1.
-.W
-viscous flow past a quarter infinite plate .
-  a study is made of the motion of an incompressible viscous
-fluid past a quarter-infinite plate, whose leading edge is
-perpendicular to and whose side edge is parallel to the undisturbed
-direction of the stream .  it is assumed that the kinematic
-viscosity is small .  the first approximation is taken to be the
-undisturbed motion, and successive approximations are obtained
-by iferation .  the second approximation is the blasius shear
-layer necessary to satisfy the boundary conditions on the plate .
-in turn, this layer leads to a velocity component normal to the
-plate which needs a potential solution, in which the velocities
-are 0, to match with the conditions at infinity .  further,
-the match at the edge of the blasius shear layer must be
-completed to 0 by introducing a secondary shear layer .  the
-regions near the leading and side edges are considered separately,.
-in particular, the neighborhood of the side edge needs special
-care, because the determination of the chief terms is complicated
-by the presence of powers of log .  in particular it is shown
-that the effect of the edge is to change the skin-friction coefficient
-by a factor
+Reader in Technical Services
+
+Applebaum, E. L.
+
+   This collection attempts to bring together a readable and germane group of
+materials ranging from history, review papers, and practical exposition to
+reports on current research and development and conjecture about the future.. 
+It is expected that these selections will be of interest and use to the 
+teacher and student.. It is also hoped that they will be of equal interest to
+the professional librarian and researcher.. There has been a deliberate attempt
+to exclude materials that have appeared in recently published collections..
+It is for this reason that the names of Panizzi, Cutter, Martel, Hanson,
+Dewey, Rider, Bliss, Haykin, Shera, Lubetzky and others do not appear.. A
+specific focus has been given to this book.. It is in the direction of a 
+rational sharing of local, national, and international efforts and the 
+eventual coordination and standardization of practices in the technical services
+insofar as this is practical..

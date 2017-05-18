@@ -1,25 +1,20 @@
-.I 896
-.T
-the calculation of loads on a supersonic weapon in
-the steady circling case .
-.A
-seal,d.m.
-.B
-rae tn.struct.275, 1960.
-.W
-the calculation of loads on a supersonic weapon in
-the steady circling case .
-  the economy of a design depends
-on the accuracy with which it is possible
-to solve the various structural problems
-as this has a direct bearing on
-structure weight .  this paper describes
-the calculation of the bending moments
-on a specific weapon for the high-g steady
-circling case .  a hybrid method is
-used to obtain the aerodynamic loads .
-  the results presented show the effect
-of a number of parameters, such
-as - altitude, weight, acceleration and mach
-number - on the magnitude of the
-maximum bending moment .
+Job Dimensions and Educational Needs in Librarianship
+
+Kertendick, T.T.
+
+  This study was undertaken to meet more fully the demands for
+improved and expanded training of library personnel, especially at the
+middle and upper levels, occasioned by the rapidly changing roles and
+functions of libraries as they try to adapt to the vast social, economic,
+and technological changes currently in progress.  The rise to a higher
+level of required skills and competencies - often new - has brought about
+an urgent need for improved training beyond the first professional
+degree at the post-master's level.  The basic purpose of this research is
+curriculum development at the post-master's level that will equip the
+middle- and upper-level personnel in libraries for the changes confronting
+them.  Although it would be possible to restructure the master's program
+and add the courses that this study shows a need for, that alternative
+has not been pursued for two reasons: a fairly stable master's curriculum
+is widely accepted and institutionalized and, more important, the new
+courses are designed for a different group of students - experienced
+librarians.

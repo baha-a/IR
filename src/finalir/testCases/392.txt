@@ -1,20 +1,15 @@
-.I 392
-.T
-natural frequencies of rectangular plates with edges
-elastically restrained against rotation .
-.A
-jogarao,v. and lakshmikantham,c.
-.B
-j. ae. scs. 1957.
-.W
-natural frequencies of rectangular plates with edges
-elastically restrained against rotation .
-  plates with attachments to heavier members along the
-edges can be described as having edges elastically restrained
-against rotation, in many cases uniformly along each edge .  at
-the edges, setting slope, when is the edge bending
-moment with always positive, the elastic restraint can be
-analytically defined with describing respectively,
-clamped and simply supported edges .  in this note natural
-frequencies of such plates are calculated mainly following the
-nomenclature of dana young .
+Faculty Status for Librarians
+
+Massman, V.F.
+
+  The purpose of this study is:  (1) to
+review the history of the struggle for faculty status for
+librarians and some of the arguments advanced in support of
+that objective; and (2) to gather information on the 
+similarities and differences between librarians and faculty 
+members in the broad areas of preparation, contributions,
+and rewards.  With detailed information on such matters
+as education, salaries, professional experience, tenure, sabbaticals,
+participation in academic government, and scholarly activity
+of librarians and faculty members, one should be able to
+judge whether librarians receive unfair or unequal treatment.

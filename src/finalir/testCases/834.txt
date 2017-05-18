@@ -1,14 +1,8 @@
-.I 834
-.T
-limit design for economical missile structures .
-.A
-l. a. riedinger
-.B
-assistant manager-rand d structures dept., missile systems div.,
-lockheed aircraft corp.
-.W
-limit design for economical missile structures .
-a special safety factor alone won't do the trick in the design of
-lightweight, high temperature missile structures .  if you really want
-to end up with the most efficient structure you can get, an entirely
-new design approach is needed .
+Costs of Library Catalog Cards Produced by Computer
+
+Kilgour, F.G.
+
+  Production costs of 79,831 cards are analyzed.  Cards were
+produced by four variants of the Columbia-Harvard-Yale procedure
+employing an IBM 870 Document Writer and an IBM 1401 computer.
+Costs per card ranged from 8.8 to 9.8 cents for completed cards.

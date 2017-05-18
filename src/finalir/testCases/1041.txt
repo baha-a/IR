@@ -1,22 +1,16 @@
-.I 1041
-.T
-analysis of stresses in the elements of shell structure .
-.A
-c. e. taylor and
-e. wenk, jr.
-.B
-structural research engineer, david taylor model basin head,
-structures division, david taylor model basin
-.W
-analysis of stresses in the elements of shell structure .
-the love-meissner analysis for thin shells has previously been applied
-to cones of uniform wall thickness, and solutions for the stress
-resultants were given in terms of kelvin's functions . since
-tabulation of these functions for large arguments is not practical,
-considerable computation was still required .  in the present paper, the authors
-define special functions which eliminate the necessity of evaluating
-kelvin/s functions and which may be used with simple algebraic and
-trigonometric functions to compute the boundary forces and displacements
-for cones for various loading conditions .  these special functions also
-make clear the magnitude of errors which result from geckeler/s and
-other approximate solutions .
+The Managerial Grid
+
+Blake, R.R.
+
+  The Managerial Grid method of designating various
+styles of leadership avoids these semantic traps.  Even more,
+it shows how a leader can simultaneously maximize both 
+the methods which are production-oriented and those which
+are people-oriented.  Thus instead of putting a manager in
+a dilemma of choosing one or the other alternative, it
+illustrates that there are ways he can gain the benefits of
+both.  It puts various methods of managing problems into
+a framework where the leader can identify, study and
+change his own behavior.  Thus he is in a position to understand
+it better, to evaluate the results it produces, and to
+encourage its use by others.   

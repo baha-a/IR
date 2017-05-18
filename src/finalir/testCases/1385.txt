@@ -1,28 +1,17 @@
-.I 1385
-.T
-air flow in a separating laminar boundary layer .
-.A
-schubauer,g.b.
-.B
-naca r.527, 1935.
-.W
-air flow in a separating laminar boundary layer .
-  the speed distribution in a laminar boundary layer on
-the surface of an elliptic cylinder, of major and minor
-axes 11.78 and 3.98 inches, respectively, has been
-determined by means of a hot-wire anemometer .  the direction
-of the impinging air stream was parallel to the major axis .
-special attention was given to the speed distribution in
-the region of separation and to the exact location of the
-point of separation .  an approximate method, developed
-by k. pohlhausen for computing the speed distribution,
-the thickness of the layer, and the point of separation, is
-described in detail,. and speed-distribution curves
-calculated by this method are presented for comparison with
-experiment .  good agreement is obtained along the
-forward part of the cylinder, but pohlhausen's method fails
-shortly before the separation point is reached and
-consequently cannot be used to locate this point .
-  the work was carried out at the national bureau of
-standards with the cooperation and financial assistance
-of the national advisory committee for aeronautics .
+Structural Models:  an introduction to the theory of directed graphs
+
+Harary, F.
+
+  The purpose of this book is to present an introduction to a body of
+mathematics concerned with the abstract notion of "structure."  Its
+preparation has been motivated by the belief that knowledge of the
+mathematics of abstract structures will be of value to investigators
+interested in various kinds of empirical structures.  The mathematics
+with which we are concerned is known as the theory of directed graphs,
+or more briefly as digraph theory.  It deals with abstract configurations
+called digraphs, which consist of "points" and "directed lines."  When
+these terms are given concrete referents, digraphs serve as mathematical
+models of empirical structures, and properties of digraphs reflect
+structural properties of the empirical world.  Since the same mathematical
+terms can be given a variety of empirical meanings, digraph theory has
+applicability to many different fields of investigation.

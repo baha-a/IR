@@ -1,23 +1,15 @@
-.I 616
-.T
-determination of upper-atmosphere air density and scale height from
-satellite observations .
-.A
-groves, g.v.
-.B
-proc. roy. soc. a. 252, 16-27, 1959 .
-.W
-determination of upper-atmosphere air density and scale height from
-satellite observations .
-a solution is obtained for the rate of change of semi-major axis and
-perigee distance of a satellite orbit with time due to the resistance of
- the atmosphere . the logarithm of air density is assumed to vary
-quadratically with height, and the oblateness of the atmosphere is taken
-into account .
-the calculation of perigee air density in terms of the rate of change
-of satellite period is dealt with,. and the method is applied to data
-at present available on six different satellites . the variation of air
-density with height is obtained as
-in p-28.59/0.15/-h-200//46/5/0.028/0.013//h-200///46/
-for h in the range of approximately 170 to 700 km, where p is in grams/c
-m, h is in kilometres and standard deviations are given in brackets .
+A Bibliometric Analysis of Certain Information Science Literature
+
+Donohue, Joseph C.
+
+   Several bibliometric techniques previously applied to 
+separate scientific literatures were used together in the analysis of a
+single corpus of journal articles relating to information science.. 
+Techniques included are (a) Bradford analysis, (b) epidemic analysis, 
+(c) identification of research front, and (d) bibliographic coupling.. 
+Similar analysis was made of writings cited by the main corpus articles, 
+and of the literature which in turn cites the main corpus.. Results
+were analyzed in terms of structure and processes observable in patterns
+of authorship, publication, and citation.. Their significance is discussed
+with potential application of the method to the solution of problems in the
+management of large research libraries..

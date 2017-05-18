@@ -1,15 +1,10 @@
-.I 880
-.T
-the design and testing of supersonic flutter models .
-.A
-mccarthy, j.f. and halfman, r.l.
-.B
-j. aero. sc. june, 1956 .
-.W
-the design and testing of supersonic flutter models .
-the basic problems of flutter testing in the low supersonic speed range
-simulate full-scale airplanes when mach number is included as a
-parameter are reviewed and are compared with those where velocity is scaled
-when the leading edges become transonic,. these are compared with
-results given elsewhere and serve as a check on the results of tables
-i and ii .
+BIBCON - A General Purpose Software System for MARC-Based Book CatalogProduction
+
+Gibson, Liz
+
+   The BIBCON file management system, designed for use on IBM 360 system 
+equipment, performs two basic functions: (1) it creates MARC structured, 
+bibliographic records from untagged input data; (2) from these records it 
+produces page image output for book catalogs.. The system accepts data from
+several different input devices and can produce a variety of output formats by 
+line printer, photocomposition, or computer output microform (COM)..

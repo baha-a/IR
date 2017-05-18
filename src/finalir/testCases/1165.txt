@@ -1,38 +1,16 @@
-.I 1165
-.T
-an investigation of the effect of downwash from a vtol
-aircraft and a helicopter in the ground environment .
-.A
-o'bryan,t.c.
-.B
-nasa tn.d977, 1961.
-.W
-an investigation of the effect of downwash from a vtol
-aircraft and a helicopter in the ground environment .
-  dynamic-pressure measurement,
-in ground effect, have been obtained
-about a single-rotor helicopter and
-a dual-propeller vtol aircraft .  the
-results indicate that the slipstream
-dynamic pressure along the ground,
-some distance from the center of
-rotation, is not a function of disk
-loading but merely a function of
-the gross weight or thrust of the
-aircraft .  furthermore, for a given
-gross weight the thickness of this
-outward flowing sheet of air is less
-for a small-diameter propeller (higher
-disk loading propeller) .
-  the variation of the dynamic-pressure
-flow field for single and
-dual propellers or rotors is significantly
-different in the plane of
-symmetry between the two rotors than
-in a direction normal to this
-plane .  the interaction of the two
-flows produces a region of upflow
-in this plane where the fuselage is
-located, and the decay of the
-maximum dynamic pressure with distance
-ahead of the fuselage is slower .
+Issues in the informational analysis of documents.
+
+Polushkin, V.A.
+
+In scientific process and primary scientific documents there are objective
+characteristics, which allow the accurate and unambiguous reflection of
+the form and content of primary statements n the informational analysis of
+their secondary pattern.
+Using these characteristics allows one to develop a model of standardized
+bibliographic and abstract document description and minimize subjectivity in
+information analysis.
+  The objective characteristics of form and content of documents and corresponding
+elements of bibliographic and abstractive description must be based on
+application of classification schemes.
+For each characteristic there must be a corresponding scheme of particular
+structural complexity.

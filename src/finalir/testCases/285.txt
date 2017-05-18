@@ -1,15 +1,13 @@
-.I 285
-.T
-on the flutter of panels at high mach numbers .
-.A
-hedgepeth,j.m.
-.B
-j.ae.scs. 23, 1956.
-.W
-on the flutter of panels at high mach numbers .
-there have recently arisen some questions as to the
-possibility of panel flutter at high dynamic pressures and
-mach numbers .  in addition, some doubts have been raised
-about the convergence of the galerkin method when applied to
-such problems .  this note is intended to shed light on these
-matters .
+Modernizing the University Library Structure
+
+Kaser, D.
+
+  Among the several kinds of change that appear to be in order in personnel
+management in university libraries, some have been described, others have
+not.  There has perhaps been a super-abundance of attention devoted, for
+example, to the inadequate treatment of librarians within the university 
+community as a whole, but little discussion has thus far appeared in print 
+concerning their treatment within the library itself. This paper will attempt 
+to define certain progressive changes that it is possible and probably 
+desirable for the library to implement internally regardless of the university's
+willingness to consider improving the librarian's lot in the larger community.

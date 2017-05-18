@@ -1,31 +1,20 @@
-.I 207
-.T
-laminar boundary layer oscillations and transition
-on a flat plate .
-.A
-schubauer,g.b. and skramstad,h.k.
-.B
-naca r909, 1948.
-.W
-laminar boundary layer oscillations and transition
-on a flat plate .
-  this is an account of an investigation in which oscillations
-were discovered in the laminar boundary layer along a flat plate .
-these oscillations were found during the course of an experiment
-in which transition from laminar to turbulent flow was being
-studied on the plate as the turbulence in the wind stream was
-being reduced to unusually low values by means of damping
-screens .  the first part of the paper deals with experimental
-methods and apparatus, measurements of turbulence and
-sound, and studies of transition .  a description is then given
-of the manner in which oscillations were discovered and how
-they were found to be related to transition, and then how
-controlled oscillations were produced and studied in detail .  the
-oscillations are shown to be the velocity variations
-accompanying a wave motion in the boundary layer, this wave motion having
-all the characteristics predicted by a stability theory based on
-the exponential growth of small disturbances .  a review of this
-theory is given .  the work is thus experimental confirmation
-of a mathematical theory of stability which had been in the
-process of development for a period of approximately 40 years,
-mainly by german investigators .
+Development of Methodologic Tools for Planning andManaging Library Services:II. Measuring a Library's Capability for Providing Documents
+
+Orr, Richard H.Pings, Vern M.Pizer, Irwin H.Olson, Edwin E.Spencer, Carol C.
+
+   A method of measuring a library's capability for providing the documents its
+users need has been developed.. The library is tested with representative 
+sample of such documents to determine how long would be required for users to
+obtain these documents.. Test results are expressed in terms of a Capability
+Index, which has a maximal value of 100 only if all the sample documents are
+found "on shelf".. Specific tests employing samples of 300 documents have been
+developed that are appropriate for academic an for "reservoir" biomedical
+libraries.. Realistic field trials have demonstrated that these two tests are
+practical to administer and that test results are adequately reproducible..
+When strict comparability is not important, a library can test itself.. In
+assessing a reservoir library, test results are supplemented by data on its
+typical processing time for interlibrary loan requests.. Currently these tests
+are being used in a national survey.. The general method is applicable to other
+types of libraries, provided appropriate test samples are established.. If 
+their limitations are clearly understood, these "Document Delivery Tests"
+can be valuable tools for planning and managing library services..

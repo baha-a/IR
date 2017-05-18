@@ -1,32 +1,18 @@
-.I 552
-.T
-chemical kinetics of high temperature air .
-.A
-wray,k.l.
-.B
-hypersonic flow research, p 181, academic press, new york, 1962.
-.W
-chemical kinetics of high temperature air .
-  when a hypersonic object enters earth's atmosphere, a shock
-wave is formed in front of it, and the air passing through this
-shock wave is heated to high temperatures .  the shock heated
-molecules equilibrate their translational and rotational
-degrees of freedom within a distance of a few mean free paths .
-to achieve equilibrium, it is necessary to excite vibration,
-dissociate molecules, produce new molecules and produce ions
-and electrons .  the problem is complex, since all these
-phenomena occur simultaneously and because the reaction rates depend
-on the temperature, density and composition which are changing
-during the relaxation toward equilibrium .
-  the experimental techniques used to investigate these
-reactions are briefly discussed along with the resulting rate
-expressions obtained by the various investigators .  a compilation
-of the rate expressions for these reactions representing the
-author's evaluation of all the available data is presented .
-several pertinent problems which are not yet completely
-understood and which still require theoretical and experimental
-investigation are outlined .  computed concentration, temperature
-and density time histories are shown for three different shock
-speeds in air .  the time rate of change of concentration for
-each chemical reaction is also shown and regimes of importance
-for the various processes are discussed .
+Interlibrary Requests
+
+Ash, L.
+
+  Our survey, in other words, is offered within the bounds of descriptive
+or deductive statistics which seeks to analyze a group, not attempt to estimate
+the parameters of that population of which the group has been chosen as a
+sample.  The latter role is assumed by inductive statistics which makes use
+of probability sampling. Accordingly, our data are presented in those forms
+and with those statistical measures appropriate to the methods of descriptive
+statistics: arrays, frequency distributions, breakdowns by categories which
+seem of optimum value to the librarian and administrator, e.g., the frequency
+of requests for journals versus monographs, the age of journals requested,
+the types and ages of materials requested by the various types of libraries
+(university, pharmaceutical, etc.).  The tables are arranged to give evidence
+of the types of frequency distribution revealed by the Survey, as well as to
+indicate central tendency, dispersion, rank order, and possibly correlations
+for significant factors.

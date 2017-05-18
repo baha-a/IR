@@ -1,17 +1,10 @@
-.I 119
-.T
-conduction of fluctuating heat flow in a wall consisting
-of many layers .
-.A
-vodicka,v.
-.B
-app.sc.res. 5, 1955, 108.
-.W
-conduction of fluctuating heat flow in a wall consisting
-of many layers .
-  van gorcum has pointed to interesting and important analogies
-between the theory of a passive four-pole and the conduction of heat
-waves through stratiform bodies .  this paper generalizes in certain
-regards van gorcum's ideas and draws their consequences for the case of
-a solid, bounded by two infinite parallel planes and consisting of any
-number of layers made from different materials .
+Information Networks
+
+Becker, J.Olsen, W.C.
+
+  In the literature, active network plans and developments appear to cluster 
+in three main areas: (1) Education, (2) Libraries, and (3) Government, Industry,
+and Professional Societies.  These network groupings are described in this
+chapter following a discussion of network definitions, concepts, and current
+impetus.  References to information systems are included when there is an 
+indication that a particular system will probably be transformed into a network.

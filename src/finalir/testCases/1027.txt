@@ -1,25 +1,16 @@
-.I 1027
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  a phenomenological relation between
-stress, strain rate, and
-temperature is suggested to account for the
-behavior of polycrystalline metals
-above the equicohesive temperature .
-the properties of the metal
-included in the relation are elasticity,
-linear thermal expansion, and
-viscosity .  the relation may be integrated
-under various conditions to
-provide information on creep rates, creep
-rupture, stress-strain curves,
-and rapid-heating curves .  it is shown
-that for one material - 7075-t6
-aluminum-alloy sheet - the information
-yielded by the relation for these
-four applications agrees reasonably
-well with test data .
+Linguistics and Information Science
+
+Jones, Sparck, K.
+
+  This study was commissioned by the Committee on Linguistics in
+Documentation of the Federation Internationale de Documentation (FID).
+It is concerned with the linguistic aspects of information science, and
+in particular with the linguistic components of document analysis,
+description, and retrieval.  We have attempted to relate linguistics
+and information science by considering the theories and techniques
+linguistics has to offer, and how far these have been, or could be, 
+exploited by information scientists.  We have examined these questions
+within the context of automated language processing and automated 
+documentation.  The use of computers for linguistic operations presents
+special challenges as well as interesting possibilities, and we have
+chosen to approach the field from this particular point of view.

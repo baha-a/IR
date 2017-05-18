@@ -1,19 +1,9 @@
-.I 1293
-.T
-design of stiffened cylinders in axial compression .
-.A
-hedgepeth,j.m.
-.B
-nasa tn.d1510, 1962.
-.W
-design of stiffened cylinders in axial compression .
-  the problem of optimum design
-of axially compressed cylinders
-stiffened by rings and stringers is
-discussed .  particular
-attention is devoted to configurations
-suitable for large launch
-vehicles .  consideration is given to
-the analytical techniques for
-determining strength as well as
-the procedures for optimization .
+Psychology:  Apprehension over a New Communications System
+
+Boffey, P.M.
+
+  Dissension has arisen in the American Psychological Association (APA) over a
+multimillion dollar plan to establish a "national information system for
+psychology."  The plan would supplement the existing psychology journals with
+a computerized system for distributing unedited manuscripts on a rapid-fire
+basis.

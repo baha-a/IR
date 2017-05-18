@@ -1,21 +1,12 @@
-.I 422
-.T
-bending of a square plate with two adjacent edges free
-and the others clamped or simply supported .
-.A
-leissa,a.w. and niedenfuhr,f.w.
-.B
-a.i.a.a. jnl. 1, 1963, 116.
-.W
-bending of a square plate with two adjacent edges free
-and the others clamped or simply supported .
-  the title problems were solved for the two cases ..  (1) uniform
-transverse loading, (2) a concentrated force at the free corner .  a
-function is chosen to exactly satisfy the biharmonic equation
-while the boundary conditions are enforced at a number of points
-plied at discrete points around the boundary for each of the four
-problems and the resulting 35 simultaneous equations were solved
-on an ibm 704 .  tables listing the values of deflection and
-bending moments are presented .  this paper provides useful information
-on the solution of these problems which are intractable by
-analytical methods .
+On Some Clustering Techniques
+
+Bonner, R.E.
+
+   The problem of organizing a large mass of data occurs frequently in 
+research.. Normally, some process of generalization is used to compress the 
+data so that it can be analyzed more easily.. A primitive step in this process 
+is the "clustering" technique, which involves gathering together similar data 
+into a cluster to permit a significant generalization..
+   This paper describes a number of methods which make use of IBM 7090 computer
+programs to do clustering.. A medical research problem is used to illustrate
+and compare these methods..

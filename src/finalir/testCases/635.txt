@@ -1,31 +1,14 @@
-.I 635
-.T
-heat transfer and pressure distributions on a hemisphere-cylinder and a
-bluff-afterbody model
-in methane-air combustion products and in air .
-.A
-irving weinstein
-.B
-national aeronautics and space administration .
-technical note d-1503
-.W
-heat transfer and pressure distributions on a hemisphere-cylinder and a
-bluff-afterbody model
-in methane-air combustion products and in air .
-an experimental investigation has been made to indicate the validity of
-using methane-air combustion products as the test medium for aerodynamic
-heating and loading tests .  tests were conducted on a
-hemisphere-cylinder and on a bluff-afterbody model, both in methane-air combustion
-products and in air alone, and covered a range of mach numbers from 6 to
-the data showed that the nondimensional heating-rate distribution
-along a hemisphere-cylinder as obtained in combustion products was in
-good agreement with that obtained in air, and the results were in
-reasonable agreement with theory .  the stagnation-point heating rates
-in air and in combustion products over the hemisphere-cylinder agreed
-within 10 percent of the theoretical values .  the pressure
-distributions around a hemisphere-cylinder obtained from tests in combution
-products were in good agreement with those obtained in air and could
-be predicted by newtonian flow theory .  the tests in combustion
-products of a bluff-afterbody model produced nondimensional
-heat-transfer coefficients which were in fair agreement with results
-obtained in air .
+Clustering of Scientific Journals
+
+Carpenter, Mark P.Narin, Francis
+
+A cluster analysis procedure is described in which 188 journals in the
+discipline of physics, chemistry and molecular biology are grouped into 
+clusters.. Most of the clusters are easily identified as subdisciplinary
+subject areas.. The data source was the cross citing amongst the journals
+derived from the Journal Citation Index (JCI), a file derived in turn from
+the Science Citation Index (SCI).. The JCI consists of journal by journal
+tabulation of citings to and from each journal processed in the SCI..
+Two-step citation maps linking the clusters are presented for each 
+discipline.. Within the disciplines the clusters of journals form fully
+transitive hierarchies with very few relational conflicts..

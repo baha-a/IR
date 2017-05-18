@@ -1,15 +1,20 @@
-.I 1008
-.T
-free-flight measurements of the static and dynamic .
-.A
-.B
-.W
-free-flight measurements of the static and dynamic .
-  representative experimental results are presented to show the
-current status of the panel flutter problem .  results are presented for
-unstiffened rectangular panels and for rectangular panels stiffened by
-corrugated backing .  flutter boundaries are established for all types
-of panels when considered on the basis of equivalent isotropic plates .
-the effects of mach number, differential pressure, and aerodynamic
-heating on panel flutter are discussed .  a flutter analysis of
-orthotropic panels is presented in the appendix .
+The Measurement and Evaluation of Reference Service
+
+Rothstein, S.
+
+        The measurement and evaluation of reference service
+has been more often discussed than attempted.  In fact, the 
+literature of this subject has itself spawned a fair-sized 
+literature of review.
+        Admittedly, the task is formidable.  As compared with 
+other library activities such as circulation, acquisitions, and
+cataloging, reference service is ill-defined, with little
+agreement on its component parts.  Is inter-library lending an
+integral part of reference work because many reference librarians
+are responsible for it?  Formal instruction in the use of books
+and libraries?  The supervision of reference reading rooms?  The
+preparation of indexes?  And having decided what the genus 
+"reference librarian" does, how can one readily determine the
+effectiveness of his work or its impact?  Reference librarians
+may have acted rather blindly in approaching their elephant of a
+problem, but it is undeniably a big one.

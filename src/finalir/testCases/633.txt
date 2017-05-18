@@ -1,24 +1,11 @@
-.I 633
-.T
-an extension of the method of generalised conical flows
-for lifting wings in supersonic flow .
-.A
-portnoy,h.
-.B
-rae tn. aero.2849, 1962.
-.W
-an extension of the method of generalised conical flows
-for lifting wings in supersonic flow .
-  the method of generalised conical
-flows has previously been developed
-subject to the condition that the
-upwash divided by the streamwise
-co-ordinate to the power k, where
-k is the order of the conical flow, must
-have vanishing (k+1)th derivative
-with respect to the conical co-ordinate .
-  in the present note this restriction is removed .
-  the results are also used to
-discuss the effect of the application of
-the leading edge attachment condition
-on the wing pressure and geometry .
+Use of an Automatic Text Analyzer in Preparation of SDI Profiles
+
+Carroll, John M.Tague, Jean M.
+
+   The conventional method of preparing SDI (Selective Dissemination of
+Information) profiles often necessitates detailed interview sessions between 
+the client and one or more information scientists.. This research shows that by
+submitting samples of the client's recent professional reading material to 
+automatic text analysis, SDI profiles can be prepared that result in 
+significantly higher initial recall scores than do those prepared by 
+conventional techniques; relevance scores are not significantly different..

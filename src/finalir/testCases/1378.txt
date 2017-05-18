@@ -1,19 +1,16 @@
-.I 1378
-.T
-blunt-cone pressure distributions at hypersonic mach numbers .
-.A
-andrew f. burke and james t. curtis
-.B
-head, research section, and research aerodynamicist, respectively,
-applied hypersonic research dept., cornell aeronautical laboratory,
-inc., buffalo, n.y.
-.W
-blunt-cone pressure distributions at hypersonic mach numbers .
-the static pressure distributions on the surface of a
-blunted 7.5 degree-half-angle cone have recently been experimentally
-determined in the cal 48 inch hypersonic shock tunnel .  this
-facility and the associated instrumentation are described in detail
-in ref. 1 .  these tests covered a mach number range of 8 to 18
-at a reynolds number per foot of approximately 1 times 10 to the 5th
-power., the models included one flat-faced cone and two hemispherically
-blunted cones .
+Standards for Library Service: An International Survey
+
+Withers, F.N.
+
+  In recent years, it has become recognized that a country's
+documentation and library services, indispensable for all forms of
+economic, social and cultural development, should be considered
+as one co-ordinated information system and accordingly included
+in any national development plans.  However, planning can only be
+carried out if the necessary statistical data and other information
+are available.  Unesco therefore concluded a contract in 1968 with
+the International Federation of Library Associations (IFLA) for a
+survey of standards for library services currently recommended for
+libraries of all types in different countries.  The work was entrusted
+to F.N. Withers, a research fellow at the Polytechnic of North
+London School of Librarianship (United Kingdom).

@@ -1,26 +1,17 @@
-.I 519
-.T
-base pressure at supersonic speeds in the presence
-of a supersonic jet .
-.A
-craven,a.h.
-.B
-coa r.144, 1960.
-.W
-base pressure at supersonic speeds in the presence
-of a supersonic jet .
-  the effects on base pressure of jet mach number, free stream
-reynolds number and jet to base diameter ratio have been investigated
-experimentally .
-  it was found that, for jet stagnation pressures greater than that
-required for the nozzle to reach its design mach number, an increase
-of jet mach number reduced the base pressure .  similarly the base
-pressure increased with increase of the ratio of jet diameter to base
-diameter and, at high jet stagnation pressures, base pressures higher
-than free stream static pressure were found .  the base pressure was
-independent of free stream reynolds numbers greater than 2 x 10 per
-foot but increased with reduction of reynolds number below 2 x 10 per
-foot .
-  unsteady wave patterns were found when the jet mach number did
-not differ markedly from the free stream mach number and the jet had
-just reached its design conditions .
+Distance between Sets as an Objective Measure of Retrieval Effectiveness
+
+Heine, M. H.
+
+   A general measure of retrieval effectiveness having full metric properties 
+and treating the "retrieval system - arbiter of relevance"situation 
+symmetrically, is the Marczewski-Steinhaus metric, D, measuring the distance 
+between the set of relevant documents, A, and set of retrieved documents, B, 
+according to D = 1 -(n (A ^ B)/n(A u B)).. D can be expressed as a function of 
+Presicion and Recall, or of Generality, Fallout and Recall, and of other sets 
+of traditional measures.. Acceptance of the measure allows criteria for 
+retrieval optimality and degeneracy to be stated, defined by minimum and 
+constant  values of D respectively.. Precision_Recall degeneracy curves for D 
+are given and compared with those for another general measure: the probability
+that a document will be correctly identified by a retrieval system.. 
+Statistical extensions of D are examined, and these and other properties of the
+metric are illustrated with seven examples..

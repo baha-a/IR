@@ -1,31 +1,22 @@
-.I 476
-.T
-the blasius equation with three-point boundary conditions .
-.A
-napolitano, i. g.
-.B
-quart. appl. math. v. 16, no. 4, pp 397-408, 1958 .
-.W
-the blasius equation with three-point boundary conditions .
-the blasius equation subject to three-point boundary conditions,
-describing the interaction between two parallel streams, is solved by way
-of a series in terms of ascending powers of the ratio equals /u1 -dash
-u2//u1, where the u1's are the outer streams' velocities .
-the first three terms of the series are analytically expressed in terms
-of the repeated integrals of the complementary error function /im erfc /
-and of the repeated integrals of the square of the successive integrals
-of the complementary error function /jmin erfc n/ . these functions
-often appear in problems leading to extended heat-conduction type of
-equations . a recurrence formula for jmin erfc n is established and
-formulae relating the functions in erfc /-dashn/ and jmjn erfc to
-available tabulated values of the functions in erfc /n/ are derived .
-the first three approximations to the blasius function and to its first
-two derivatives are also presented in tabulated form with four
-significant figures . test on the convergence of the series has been made by
-comparison with some exact solutions obtained by high speed computing
-machine . the comparison, extended to the physically essential
-quantities, shows that ..
-second and first derivatives .
-yield extremely accurate results . the errors in the first two
-derivatives of the blasius functions are always contained within less than one
- per cent .
+On the Articulation of Surrogates:  An Attempt at an EpistemologicalFoundation
+
+Perreault, J.M.
+
+  There are two major purposes, in mind, for this gathering.  The first is the
+most general that can be proposed for any gathering: the simple advantage of
+bringing together those who have been at work on a single problem or at least
+a small class of problems - especially when this problem has not previously
+benefited from exclusive and thematic collaboration among its investigators.
+To further such thematic collaboration, the formal presentations have been
+scheduled no more than three each day, with time left after each presentation
+for (formal) discussion here in the conference room, and with as much time as
+possible - given the number of presentations - left free for informal 
+discussion. 
+  The second purpose is one of even greater necessity, in my opinion, though
+one not so obvious as the first.  Over and above the hope for interchange of
+what has already been thought out - in the form of personal contact, where
+the presence of the originator of the system or theory can reinforce the
+printed word in its usual and ineffable way - it is my hope that we will all
+be able (especially in our informal discussions) to penetrate beyond mere
+similarity and difference to the underlying philosophical bases of syntactic
+relationship.

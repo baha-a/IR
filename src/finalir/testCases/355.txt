@@ -1,20 +1,17 @@
-.I 355
-.T
-the injection of air into the dissociated hypersonic laminar boundary
-layer .
-.A
-sinclaire m. scala
-.B
-research engineer
-missile and ordnance systems department, general electric company,
-philadelphia, pa.
-.W
-the injection of air into the dissociated hypersonic laminar boundary
-layer .
-in first approximation, dissociated air may be treated as a binary
-mixture of air atoms and air molecules .  in order to include the
-effects of mass transfer into the boundary layer, it becomes necessary
-to introduce a third chemical species and hence a second diffusion
-equation .  we have avoided this complexity by considering the injection
-of air molecules into the boundary layer, and hence the theoretical
-treatment is accomplished within the framework of a binary mixture gas .
+Diffusion of Abstract and Indexing Services for Government - Sponsored Research
+
+Klempner, I.M.
+
+  During the last several decades, science and technology have
+undergone a drastic transformation.  The enormity and depth of this
+transformation can be measured in many ways.  It can be measured
+in terms of the number of students enrolled in graduate and
+undergraduate schools offering degrees in the physical and applied
+sciences, in terms of the number of new devices, products and
+innovations introduced into the military establishment and into the 
+civilian sector of our economy, in terms of the number of scientists and
+engineers employed by industry and public and private institutions,
+in terms of the amounts of money expended annually on research
+and development, in terms of the number of technical reports, books,
+journals, papers, reprints, and conference proceedings stemming
+from these expenditures, and in many other ways.   

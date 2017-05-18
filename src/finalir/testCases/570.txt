@@ -1,19 +1,21 @@
-.I 570
-.T
-on the boundary layer equations in hypersonic flow
-and their approximate solutions .
-.A
-lees,l.
-.B
-j. ae. scs. 20, 1953, 143.
-.W
-on the boundary layer equations in hypersonic flow
-and their approximate solutions .
-  analytical solutions of the prandtl boundary-layer equations are
-obtained for the problem of the /strong/ interaction between the
-leading-edge shock and the viscous layer over a flat plate at hypersonic
-velocities .  as the mach number increases and the interaction region
-spreads downstream over the plate, the local skin-friction coefficient
-increases rapidly over its conventional value .  the local heat-transfer
-coefficient at first remains practically unaffected but then also begins
-to increase with mach number .
+Deriving Term Relations for a Corpus by Graph Theoretical Clusters
+
+Augustson, J.G.Minker, J.
+
+  We discuss how alternative methods of automatic
+term clustering may provide insight into how terms are
+related within a corpus.  The work reported uses a
+corpus of 2267 documents that contain 3950 index
+terms.	A similarity matrix is developed using the
+document - term matrix.  A threshold level T is applied to
+the similarity matrix.  Entries in the matrix that are
+greater than or equal to the threshold level are set
+equal to one, and the remaining entries are set to zero.
+  Three definitions are applied to the corresponding
+graph of each threshold matrix to develop clusters.
+These are, (1) the connected components of the graph,
+(2) the maximal complete subgraphs of the graph, and
+(3) the combined maximal complete subgraphs of the
+graph as described that show how insight may be
+gained into the term relations by varying the threshold
+levels and the cluster definitions.

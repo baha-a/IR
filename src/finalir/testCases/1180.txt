@@ -1,33 +1,14 @@
-.I 1180
-.T
-approximate analysis of the slot injection of a gas
-in laminar flow .
-.A
-libby,p.a. and schetz,j.a.
-.B
-aiaa jnl. 1963, 1056.
-.W
-approximate analysis of the slot injection of a gas
-in laminar flow .
-  the laminar diffusion and combustion of a gas
-injected into a high-speed uniform stream by
-means of a wall slot are considered .  the
-dorodnitzin-howarth transformation is employed to
-reduce the boundary layer equations to
-incompressible form,. the nonsimilar flow field is
-treated by a modified oseen approximation in
-conjunction with the integral method .  thermal
-boundary conditions corresponding to an adiabatic
-wall and to constant wall enthalpy are
-discussed .  the injection of homogeneous, heterogeneous,
-nonreactive, and reactive gases is
-treated .  for the latter case, the models usually
-employed for chemical behavior, namely,
-frozen and equilibrium flow, are considered .  the
-analysis is applicable to a wide variety of
-laminar flows, e.g., those involving cooling, thermal
-protection, skin-friction reduction, and
-supersonic deflagration .  a numerical example of
-practical interest in connection with the
-venting of gaseous hydrogen boiloff from a rocket
-booster is presented .
+A Notation for Coding Organic Compounds
+
+Geivandov, E. A.
+
+   A notation for coding organic structures has been developed which provides
+for very simple and rational rules of coding the common cyclic fragments..
+   The conventional unit used in coding regular structures is benzol ring, and
+the skeleton of the regular condensed system is coded using a sequence of even
+and odd integers.. The set of rules for coding regular systems might be used as
+component of a universal notation for organic compounds.. The code offered by
+the author is designed to cover an important and broad class of compounds with
+conjugate bonds and it can be used within the framework of a specialized 
+computer-based information retrieval system in the capacity of both the input 
+and the internal machine language..

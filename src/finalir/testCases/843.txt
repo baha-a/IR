@@ -1,29 +1,12 @@
-.I 843
-.T
-a simplified method of elastic stability analysis for
-thin cylindrical shells .
-.A
-batdorf,s.b.
-.B
-i. donnell's equation.  naca tn.1341, 1947.
-.W
-a simplified method of elastic stability analysis for
-thin cylindrical shells .
-  the equation for the equilibrium of cylindrical
-shells introduced by donnell in naca report no. 479 to
-find the critical stresses of cylinders in torsion is
-applied to find critical stresses for cylinders with
-simply supported edges under other loading conditions .
-it is shown that by this method solutions may be obtained
-very easily and the results in each case may be expressed
-in terms of two nondimensional parameters, one dependent
-on the critical stress and the other essentially
-determined by the geometry of the cylinder .  the influence of
-boundary conditions related to edge displacements in the
-shell median surface is discussed .  the accuracy of the
-solutions found is established by comparing them with
-previous theoretical solutions and with test results .
-  the solutions to a number of problems concerned with
-buckling of cylinders with simply supported edges on the
-basis of a unified viewpoint are presented in a convenient
-form for practical use .
+Subject Specialisation in Academic Libraries:some preliminary observations on role conflict and organizational stress
+
+Guttsman, W.L.
+
+  The library of the University of East Anglia has been organized on the basis
+of subject specialization, a system which the author believes to be applicable
+to small and medium-sized universities.  A comparison of university structure
+and university library structure shows how the system can bring about
+organizational strains and conflict situations in respect of career patterns
+of senior staff members.  The need to recognize academic considerations for
+library promotions is stressed and a case made out for the fullest involvement
+of all senior library staff in policy-making.

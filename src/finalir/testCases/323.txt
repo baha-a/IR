@@ -1,18 +1,19 @@
-.I 323
-.T
-vorticity interaction at an axisymmetric stagnation
-point in a viscous incompressible fluid .
-.A
-kemp,n.h.
-.B
-j. ae. scs. 26, 1959.
-.W
-vorticity interaction at an axisymmetric stagnation
-point in a viscous incompressible fluid .
-  the purpose of the present note is to give an exact solution of
-the incompressible navier-stokes equations at an axisymmetric
-stagnation point with vorticity in the oncoming flow which varies
-linearly with distance from the axis .  this solution has application
-to the hypersonic axisymmetric blunt body problem, for which
-lighthill has shown the vorticity in the inviscid shock layer is
-very nearly of this form .
+Comparative and International Librarianship; essays on themes and problems
+
+Jackson, M.M.
+
+  In this decade, professionals in the field of librarianship and the
+information sciences will continue to be faced with most of the
+problems that have haunted libraries for generations, problems that
+can be best summed up as the attempt to reduce the anonymity of
+information.  There will also be many new problems.  Some of these
+are already becoming apparent, while others are still unknown.  But
+librarians need not despair; the past record is clear.  Through the use
+of sophisticated electronic machines, we have begun to master the
+bibliographical control and retrieval of information, we have
+improved the communication between librarians and the consumers
+of information on a national and international basis, and we have
+refined the many problems concerned with cataloging and classifying
+information.  In addition, library education has been on the front
+line in trying to educate people to understand the complexities of
+organizing and disseminating information of all types.

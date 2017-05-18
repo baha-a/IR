@@ -1,23 +1,13 @@
-.I 1017
-.T
-note on creep buckling of columns .
-.A
-gerard,g.
-.B
-j. ae. scs. 19, 1962, 714.
-.W
-note on creep buckling of columns .
-it appears from librove's interesting analysis that, for
-the case of creep buckling of columns, the initial
-imperfections contained in ordinary columns provide the mechanism by
-which failure due to creep occurs after a period of time .  in fact,
-it can be concluded from this analysis that a theoretically perfect
-column that is initially loaded below the time-independent critical
-load will not buckle at all .  this is an interesting contrast to the
-case of static buckling where small initial imperfections play an
-insignificant role, since the failing load of an initially imperfect
-column is substantially the same as that of a theoretically perfect
-column .  it is of interest, therefore, to conjecture whether there is
-any possible mechanism by which a column containing no initial
-imperfections can fail as a result of creep when the initial load is
-less than the theoretical buckling load .
+Evaluation of Adult Reference Service
+
+Weech, T.L.
+
+            The evaluation of reference service has received
+considerable attention in the literature over a comparatively long
+period.  But, as Samuel Rothstein pointed out in his 1964 Library Trends
+article on the measurement and evaluation of reference service, much
+of the literature has focused on discussing the lack of evaluation or
+the shortcomings of the evaluation that has taken place.  In the ten years
+since Rothstein wrote his article, there does seem to be more effort at
+evaluation of reference service.  Undoubtedly, many of the trends in 
+recent evaluation are due to the influence of Rothstein's article.

@@ -1,15 +1,10 @@
-.I 854
-.T
-boundary-value problems of the thin-walled circular
-cylinder .
-.A
-hoff,n.j.
-.B
-j. app. mech. 21, 1954.
-.W
-boundary-value problems of the thin-walled circular
-cylinder .
-  the homogeneous differential equations of donnell's
-theory of thin cylindrical shells are integrated .
-expressions are obtained in closed form for the displacements,
-membrane stresses, moments, and shear forces .
+Library Network Analysis and Planning (Lib-Nat)
+
+Duggan, Maryann
+
+   A preliminary report on planning for network design undertaken by the
+Reference Round Table of the Texas Library Association and the State Advisory
+Council to Library services and Construction Act Title III Texas Program..
+Necessary components of a network are discussed, and network transactions of
+eighteen Dallas area libraries analyzed using a methodology and quantitative
+measures developed for this project..

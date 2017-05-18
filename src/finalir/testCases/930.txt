@@ -1,22 +1,15 @@
-.I 930
-.T
-general theory of large deflections of thin shells
-with special applications to conical shells .
-.A
-dill,e.h.
-.B
-nasa tn.d826, 1961.
-.W
-general theory of large deflections of thin shells
-with special applications to conical shells .
-  a general theory is developed for the case of large deflections
-but with rotations of the elements negligible compared to unity .  the
-derivation is carried out in tensor form and therefore any coordinate
-system on the surface of the shell can be used .  the effect of initial
-imperfections is included .  it is shown that for shells of negligible
-gaussian curvature (shallow shells and developable surfaces), the
-problem can be reduced to the solution of two fourth-order partial
-differential equations in a stress function and the deflection normal to the
-shell .  for shells forming a surface of revolution the results are
-indicated in terms of the equation of the generating curve .  the
-differential equations for the conical shell are then listed .
+Top Priority for Cataloging-In-Source
+
+Wheeler, J.L.
+
+  After a century of public library service and progress, public
+libraries attract less than a third, perhaps only a quarter of the adult
+population, either to read and borrow books, or to look up information.  
+But nearly 60 per cent of the population is over 21. Currently a few large city
+libraries show slight decreases in  annual circulation, the major measure
+of their usefulness.  Yet, nationally, circulation and the informational use 
+of public libraries have in general steadily increased, especially in the last 
+decade.  Possibly  because the number of public, college, university, and 
+special libraries doubled, from 13,676 reported in 1960, to 27,746 in 1968 
+(Publishers' Weekly, January 20, 1969).  And there are more than that many 
+school libraries.

@@ -1,18 +1,12 @@
-.I 226
-.T
-aerofoil theory of a flat delta wing at supersonic
-speeds .
-.A
-robinson,a.
-.B
-rae r.aero.2151, 1946.
-.W
-aerofoil theory of a flat delta wing at supersonic
-speeds .
-  lift, drag, and pressure distribution of a triangular
-flat plate moving at a small incidence at supersonic
-speeds are given for arbitrary mach number and aspect ratio .
-the values obtained for lift and drag are compared with
-the corresponding values obtained by strip theory .  the
-possibility of further applications of the analysis leading up
-to the above results is indicated .
+A Behavioral Approach to Historical Analysis
+
+Berkhofer, R.F.
+
+  To issue a clarion call for historians to adopt a behavioral
+approach to their subject may seem as up-to-date and exciting as
+last month's newspaper, for it is the academic fashion today to
+argue the utility of social science theory in the writing of
+history.  Books and articles issue forth from the presses in
+seeming profusion advocating and even occasionally demonstrating
+such an approach.  Yet these many pages fail in three significant
+ways to accomplish the end they nominally espouse and which I urge.

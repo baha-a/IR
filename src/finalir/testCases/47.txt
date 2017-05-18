@@ -1,31 +1,23 @@
-.I 47
-.T
-analysis of low-aspect-ratio aircraft structures .
-.A
-samson,s.h. and bergmann,h.w.
-.B
-j. ae. scs. 27, 1960, 679.
-.W
-analysis of low-aspect-ratio aircraft structures .
-  two methods are presented for the analysis of complex low-
-aspect-ratio aircraft structures .  both methods provide for
-arbitrary external loading, are general with respect to the
-orientation of structural members, and permit arbitrary boundary
-conditions .  for purposes of analysis a structure is idealized as a
-network of flexural members with interconnected torsion boxes .
-  in the first method, sets of linear equations are obtained by
-expressing boundary conditions, member deflection equations,
-equilibrium requirements, and slope-compatibility relationships
-in terms of deflections and internal forces .  the solution for
-deflections and internal forces is then formed as the product of an
-inverse structural matrix and a column matrix of load functions .
-  in the second method, the conditions at a given boundary are
-assembled as a column matrix and are transferred in a step
-by-step fashion over the entire structure to an opposite boundary .
-the transfer is accomplished by successive multiplications of
-square matrices composed independently for the different
-transfer ranges .  the final operation is the inversion of a relatively
-small matrix and provides the solution for the unknown boundary
-conditions .
-  comparisons of theoretical results with experimental data and
-electric-analog solutions are favorable .
+Improvement of the Selectivity of Citation Indexes to Science LiteratureThrough Inclusion of Citation Relationship Indicators
+
+Lipetz, Ben-Ami
+
+   Citation indexes to large bodies of science literature can often list far
+more citing references under the known cited reference than the user can 
+afford the time to look up.. By providing some additional information, beyond 
+the minimal association of the citing reference with the cited reference, a 
+citation index could provide the means of the user to select from a long list 
+those citing references which are most relevant to his immediate search 
+requirement.. Means of providing this selectivity are discussed.. Particular 
+attention is given to the possibility of adding short codes to the citation 
+entries which would be informative of the way in which the citing publication
+is operationally related to the cited one (this method is an integral feature 
+of the Shepard's legal citations).. A scheme of citation relationships of 
+potential value to users of science literature is presented.. These 
+relationships were tested on a sampling of physics literature.. The suggested 
+categories include indicators of the relation of the citing reference to the
+scientific process in general, as well as indicators of its relationship to the
+cited reference in particular.. Assignment of the categories to a citation 
+requires the exercise of judgment, as in subject indexing, but does not involve
+the use of subject terminology.. An illustration is provided of the application 
+from a citation index to physics literature..

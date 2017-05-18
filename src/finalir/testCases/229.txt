@@ -1,32 +1,23 @@
-.I 229
-.T
-interference between the wings and tail surfaces of
-a combination of slender body, cruciform wings and
-cruciform tail set at both incidence and yaw .
-.A
-owen,p.r. and anderson,r.g.
-.B
-rae r.aero.2471, 1952.
-.W
-interference between the wings and tail surfaces of
-a combination of slender body, cruciform wings and
-cruciform tail set at both incidence and yaw .
-  the interference between the wings and the tail surfaces of a
-combination of circular body, low aspect ratio cruciform wings and
-cruciform tail in an inviscid flow is analysed using the slender body
-theory .  the system may be subjected to both incidence and yaw and,
-in general, the tail fins may be staggered angularly with respect to
-the main wings .
-  the method is a development of that used by owen and maskell in
-r.a.e. report no. aero.2441 to analyse similar effects on a system set
-at zero yaw .
-  simple expressions to determine the strengths and positions of
-the trailing vortices (supposed to be rolled-up) downstream of the main
-wings are given, and from them the forces on the tail are deduced .
-when the tail surfaces are triangular and of low aspect ratio an exact
-solution is obtained from slender body theory ..  but for rectangular
-tail surfaces of moderate or high aspect ratio, it is suggested that the
-changes in lift and sideforce on the tail caused by the wing vortex
-field can be estimated approximately from the mean upwash and sidewash
-angles evaluated over the respective tail spans .  formulae for these
-means angles are presented .
+A Mathematical Theory of Communication
+
+Shannon, C.E.
+
+  In this final installment of the paper we consider the case where the
+signals or the messages or both are continuously variable, in contrast with
+the discrete nature assumed until now.  To a considerable extent the
+continuous case can be obtained through a limiting process from the discrete
+case by dividing the continuum of messages and signals into a large but finite
+number of small regions and calculating the various parameters involved on
+a discrete basis.  As the size of the regions is decreased these parameters in
+general approach as limits the proper values for the continuous case.  There
+are, however, a few new effects that appear and also a general change of
+emphasis in the direction of specialization of the general results to
+particular cases.
+  We will not attempt, in the continuous case, to obtain our results with
+the greatest generality, or with the extreme rigor of pure mathematics, since
+this would involve a great deal of abstract measure theory and would
+obscure the main thread of the analysis.  A preliminary study, however,
+indicates that the theory can be formulated in a completely axiomatic and
+rigorous manner which includes both the continuous and discrete cases and
+many others. The occasional liberties taken with limiting processes in the
+present analysis can be justified in all cases of practical interest.

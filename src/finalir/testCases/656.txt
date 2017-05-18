@@ -1,30 +1,23 @@
-.I 656
-.T
-departure from dissociation equilibrium in a hypersonic nozzle .
-.A
-bray, k.n.c.
-.B
-a.r.c. 19, 983, march 1958 .
-.W
-departure from dissociation equilibrium in a hypersonic nozzle .
-the equations of motion for the flow of an ideal dissociating gas
-through a nearly conical nozzle have been solved numerically, assuming
-a simple equation for the rate of dissociation, and a number of
-different values of the rate constant . the results of these
-calculations suggest that deviations from dissociation equilibrium will
-occur in the nozzle if the rate constant lies within a very wide range
-of values . they also suggest that once such a deviation has begun the
-gas will very rapidly/freeze/, so that the dissociation fraction will
-remain almost constant if the flow is expanded further, or even if it
-passes through a constant area test section . an approximate method
-of solution, making use of this property of sudden/freezing/of the flow,
- has been developed and applied to the problem of estimating the
-deviations from equilibrium under a wide range of conditions . if all
-the assumptions made in this report are accepted, then lack of
-dissociation equilibrium may be expected in the working sections of
-hypersonic wind tunnels and hypersonic shock tubes .
-it is shown, however, that the flow behind a normal shock wave in such a
- wind tunnel will not be greatly affected by any freezing that may take
-place in the nozzle upstream of the shock wave . even so, the stand-off
-distance of a shock wave in front of a blunt model may be quite
-sensitive to deviations from equilibrium .
+Measures of the Usefulness of Written Technical Informationto Chemical Researchers
+
+Kegan,  Daniel L.
+
+   The effective transfer of technology involves more than just
+distributing paper; it demands that useful documents be disseminated with a
+minimum of useless ones.. For 1 month, 10 researchers recorded a sample of
+the written technical information items that they received; 4 months later
+they were interviewed to determine which of these items had proved useful, 
+and in what ways..
+   The results indicate that (1) a researcher will call an item "useful"
+even if it does not cause him to take some action, but only has some
+significance for him; (2) the more the source of an item knows about the needs
+of the researcher or the more the researcher knows about an item he seeks, 
+the more likely it is that the researcher will find the item useful; (3) 
+no strong relationships were found between certain readily observable,
+physical arrangements and information behavior; and (4) an item may prove
+useful, not because of the information objectively contained in that item, 
+but because the item causes a cognitive restructuring of the researcher's
+mind or a "free association."
+   Other studies that restrict their measures of information usefulness
+to externally observable behavior or that do not carefully define usefulness
+may not be validly representing usefulness to the researcher..

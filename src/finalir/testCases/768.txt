@@ -1,17 +1,12 @@
-.I 768
-.T
-formulae for use with the fatigue load meter in the
-assessment of wing fatigue life .
-.A
-phillips,j.
-.B
-rae tn. struct.279, 1960.
-.W
-formulae for use with the fatigue load meter in the
-assessment of wing fatigue life .
-  this note gives a method for the derivation of suitable constants
-which, when multiplied by the readings recorded at each appropriate
-acceleration level on a fatigue load meter and then added together, give
-directly the proportion of fatigue life used up in the wing .  it is
-suggested that when the estimated proportion is of order 80, then a more
-detailed assessment of fatigue life should be made .
+Student Attitudes to the University Library.  A Survey at Southampton University
+
+Line, M.B.
+
+  A good deal is now known about the use made by students of university
+libraries, notably from the surveys carried out by Leeds University
+Library in 1957 and 1960.  Statistics of use, however, will not by themselves
+indicate how good a library is, whether as a bookstock, a building, or
+an administrative department.  How adequate is the bookstock?  How fully
+is it being exploited?  How important are physical and personal elements?
+These are questions librarians are continually asking themselves, but they
+are also questions readers could be asked directly or indirectly.

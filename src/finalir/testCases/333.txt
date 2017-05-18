@@ -1,19 +1,14 @@
-.I 333
-.T
-boundary-layer interaction on a yawed infinite wing in hypersonic
-flow .
-.A
-robert j. whalen
-.B
-principal scientist, flight sciences laboratory, inc.,
-buffalo, n.y.
-.W
-boundary-layer interaction on a yawed infinite wing in hypersonic
-flow .
-the equations are given for the laminar boundary-layer
-equations on a yawed infinite wing for constant
-wall temperature, under the combined howorth and
-mangler transformation .  diagrams show the relatively
-small influence of yaw, the increase of boundary-layer
-secondary flow, and the variation of the local heat
-transfer rate with yaw .
+The Concept of Main Entry as Represented in the Anglo-American Cataloging Rules
+
+Hamdy, M.N.
+
+  The work published here is rather like those conclusive statements
+of renaissance science that located the soul not in the human frame but
+in the human spirit.  The author of this work may face the wrath of the
+medievalists among our fellow professional catalogers.  At the least, the
+publication of this book should encourage a complete reappraisal of our
+cataloging methods, because the difference between title unit entry and
+author-equivalent unit entry, a confabulation of main and unit entry
+arising from tradition rather than practicality, can be clearly seen not 
+only in the job classifications and job descriptions of cataloging
+departments, but also in our philosophy of librarianship.

@@ -1,30 +1,13 @@
-.I 746
-.T
-aeroelastic problems in connection with high speed
-flight .
-.A
-broadbent,e.g.
-.B
-j. roy. aero. soc. 1956.
-.W
-aeroelastic problems in connection with high speed
-flight .
-  a review is given of developments
-in the field of aeroelasticity during the
-past ten years .  the effect of steadily increasing
-mach number has been two-fold ..  on
-the one hand the aerodynamic derivatives have
-changed, and in some cases brought new
-problems, and on the other hand the design for
-higher mach numbers has led to thinner
-aerofoils and more slender fuselages for which
-the required stiffness is more difficult to
-provide .  both these aspects are discussed,
-and various methods of attack on the
-problems are considered .  the relative merits
-of stiffness, damping and massbalance
-for the prevention of control surface flutter are
-discussed .  a brief mention is made of
-the recent problems of damage from jet efflux
-and of the possible aeroelastic effects
-of kinetic heating .
+Subject Indexes and Automatic Document Retrieval
+
+Lynch, Michael F.
+
+   Index entries from the subject indexes to CA can, in general, be converted
+to 'normal' or title-like phrases by applying simple tests to the positions of
+prepositions and conjunctions in the entries.. Other, more complex, entries can
+be transformed after somewhat deeper analysis.. These manipulations are a 
+necessary preliminary step to the use of the subject-index language in 
+retrieval..A scheme is outlined for automatically compiling and editing subject 
+indexes by transforming descriptive phrases with regular structure and 
+vocabulary.. These transformations, based on the formal structure of language, 
+are shown to be admirably suited to computer manipulation..

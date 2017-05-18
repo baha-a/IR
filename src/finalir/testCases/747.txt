@@ -1,24 +1,13 @@
-.I 747
-.T
-bodt freedom flutter of ground launched rocket models
-at supersonic and high subsonic speeds .
-.A
-gaukroger,d.r.
-.B
-rae r. struct.237, 1957.
-.W
-bodt freedom flutter of ground launched rocket models
-at supersonic and high subsonic speeds .
-  a theoretical investigation of symmetric
-body freedom flutter of a rocket model is described .  the results
-confirm that structural failures of models were caused
-by this type of flutter, and an extension of the investigation
-indicates the parameters that are of importance .  a high
-ratio of body to wing mass and a well forward position of the
-overall centre of gravity are conditions under which flutter
-may occur .  increase of body pitching radius of gyration
-and tailplane volume are beneficial .
-  it is concluded that this type of flutter may be significant
-in some aircraft designs, and that the canard has no
-advantage in this respect over the conventional lay-out of wing
-and tailplane .
+The Law of Constant Citation for Scientific Literature
+
+Gomperts, M. C.
+
+   In listing the literature concerning the subject of 'vibrating plates' the
+following law was noticed:
+            Rj x aj,t = constant = 5x6
+where Rj is the 'citation factor' for the year, j, and aj,t stands for the 
+total number of articles that have appeared up to and including year j..
+   'This 'citation law' is based on the remarkable fact that in more than 150
+years the mean number of relevant citations per article per year has remained
+constant, viz. 2x8, in spite of the fact that after 1950 three times as many
+articles have been published as in the period before 1950..

@@ -1,13 +1,10 @@
-.I 1317
-.T
-shock-tube testing time .
-.A
-anderson, g.
-.B
-j. aero. sc. vol. 26, march 1959, p184 .
-.W
-shock-tube testing time .
-in a theoretical investigation of attenuation effects of the shock wave
-the conservation of mass equation led to an explanation of the
-difference between the ideal theoretical test time and the experimentally
-obtained time . a numerical example is given .
+Scientific Management of Library Operations
+
+Dougherty, R.M.
+
+  This book is intended both as a textbook for library school students
+and a handbook for practicing librarians.  It will acquaint the former
+with the basic tools of the management analyst and will aid the latter
+in improving their present systems.  The major analysis techniques are
+described in step-by-step detail, with a wealth of illustrations and
+library examples.

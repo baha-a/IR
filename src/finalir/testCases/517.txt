@@ -1,21 +1,15 @@
-.I 517
-.T
-reaction-resisted shock fronts .
-.A
-clarke,j.f.
-.B
-coa r.150, 1961.
-.W
-reaction-resisted shock fronts .
-  it is shown that shock waves whose
-structure is determined solely by the effects
-of chemical reactions (reaction-resisted
-shock fronts) are possible and completely
-analogous to relaxation - resisted waves .
-a single dissociation reaction is considered
-and numerical results indicate that such
-waves could be observed experimentally .
-bulk viscosities equivalent to reaction
-effects are possibly 10 or more times shear
-viscosity values .  (examples are based on
-lighthill's ideal dissociating gas) .
+Machine_Aided Indexing of Technical Literature
+
+Klingbiel, Paul H.
+
+   To index successfully in the Defense Documentation Center's environment, an
+automated system must chose single words or phrases (dependent upon context)
+rapidly and economically.. The automation of DDC's indexing has been 
+machine-aided from its inception.. A machine-aided indexing (MAI) system is 
+described that indexes one million words of text per hour of CPU time.. 
+Grammatical errors do not exceed five per cent of the output, so human 
+screening is satisfactorily low.. The system could potentially scale up to an
+operational size of 10 million words of text per year - the equivalent of a
+dozen bibles or a third of the Encyclopedia Britannica.. In a batch mode, the
+programs to accomplish this indexing would require no more than fifteen minutes
+of CPU time per week..

@@ -1,36 +1,11 @@
-.I 428
-.T
-the quasi-cylinder of specified thickness and shell
-loading in supersonic flow .
-.A
-portnoy,j.
-.B
-aero. quart. 11, 1960, 387.
-.W
-the quasi-cylinder of specified thickness and shell
-loading in supersonic flow .
-  the methods of the operational
-calculus are used to obtain a linear
-approximation to the shape of the mean camber
-surface of a quasi-cylinder in a
-supersonic flow in terms of its shell thickness
-and loading distributions .  the
-analysis deals with a generalised quasi-cylinder ,.
-that is one which, although lying
-close to a mean cylinder, need not possess
-axial symmetry .  the quasi-cylinder
-is also permitted to be within the small
-disturbance field of other separate
-components, e.g. a centre-body .  because
-the linearised theory is inadmissable
-for internal duct flows close to and beyond
-the first reflected characteristic cone,
-the present solution is likewise invalid close
-to and beyond the position where
-this characteristic meets the mean cylinder .
-the work given here enables the
-camber shapes of /ring-wings/, which have
-been used theoretically to reduce or
-even nullify the wave-drag of a central slender-body,
-to be found .  an example
-illustrates the general method .
+Analysis of Some Portfolio Selection Models for R&D
+
+Gear, A.E.Lockett, A.G.Pearson, A.W.
+
+   This paper presents the analytical review of mathematical programming models
+that have been proposed as aids to the related problems of resources allocation 
+and project selection in R&D.. The models are classified according to whether
+they are based on linear, integer, chance constrained, or dynamic programming..
+Representative examples from these classes are described and evaluated in 
+detail.. The evaluation is on terms of data requirements; built-in assumptions;
+ease of computation; usefulness of outputs; versatility of application..

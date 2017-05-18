@@ -1,19 +1,15 @@
-.I 440
-.T
-compilation of information on the transonic attachment
-of flows at the leading edge of airfoils .
-.A
-lindsey,w.f. and landrum,e.
-.B
-naca tn.4204, 1958.
-.W
-compilation of information on the transonic attachment
-of flows at the leading edge of airfoils .
-  schlieren photographs have been compiled of the two-dimensional flow
-at transonic speeds past 37 airfoils having variously shaped profiles,
-some of which are related and vary in thickness and camber .  the data
-for these airfoils were analyzed to provide basic information on the
-flow changes involved and to determine factors affecting transonic-flow
-attachment, which is a transition from separated to unseparated flow at
-the leading edges of two-dimensional airfoils at fixed angles of attack
-as the subsonic mach number is increased .
+Research Studies in Scientific Communication: IV.The Continuity of Dissemination of Information by "Productive Scientists"
+
+Garvey, William D.Lin, NanTomita, Kazuo
+
+   This article is the last in series which describes a set of studies which
+were conducted over a 4,5-year period (1966-1971).. The series of articles 
+sought to describe a comprehensive picture of the dissemination and assimilation
+of scientific information as it flows through various informal and formal media,
+from the time a scientist initiates his work until it is published.. The 
+present article examines the continuity of scientific work and information 
+exchange by "productive scientists" two years after the publication of their 
+articles in 1968/1969.. The results indicate that about half of the authors had
+changed to a subject-matter area which differed from that of their earlier
+articles, however, such shifts did not decrease authors' productivity nor 
+greatly increase their information needs..

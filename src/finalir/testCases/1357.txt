@@ -1,15 +1,13 @@
-.I 1357
-.T
-compressive buckling of simply supplorted plates with
-longitudinal stiffeners .
-.A
-seide,p. and stein,m.
-.B
-naca tn.1825, 1949.
-.W
-compressive buckling of simply supplorted plates with
-longitudinal stiffeners .
-  charts are presented for the analysis of the stability under
-compression of simply supported rectangular plates with one, two, three,
-and an infinite number of identical equally spaced longitudinal
-stiffeners that have zero torsional stiffness .
+Freud, Frug, and Feedback
+
+Shosid, N.J.
+
+  People ask one another, "Am I communicating?"  The question should be,
+"What do you think I am communicating?"  The answer would be surprising.
+Librarians are in the communications business.	Theories of nonverbal 
+communication and role can be adapted to a library situation.  Applied, they
+would provide a basis for improving librarian-library user communication.
+Awareness of feedback is the key to this improvement.  Preliminary
+investigations underway at the University of Southern California indicate
+the reference encounter provides a investigative approach in which this
+key can be utilized to enhance communication.

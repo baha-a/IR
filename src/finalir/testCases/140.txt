@@ -1,60 +1,25 @@
-.I 140
-.T
-the determination of turbulent skin friction by means
-of pitot tubes .
-.A
-preston,j.h.
-.B
-j.roy.ae.s. 58, 1954, 109.
-.W
-the determination of turbulent skin friction by means
-of pitot tubes .
-  a simple method of determining
-local turbulent skin friction on a smooth
-surface has been developed which utilises a
-round pitot tube resting on the surface .
-assuming the existence of a region near the
-surface in which conditions are functions
-only of the skin friction, the relevant physical
-constants of the fluid and a suitable length,
-a universal non-dimensional relation is
-obtained for the difference between the total
-pressure recorded by the tube and the static
-pressure at the wall, in terms of the skin
-friction .  this relation, on this assumption,
-is independent of the pressure gradient .
-the truth and form of the relation were first
-established, to a considerable degree of
-accuracy, in a pipe using four geometrically
-similar round pitot tubes--the diameter
-being taken as representative length .  these four
-pitot tubes were then used to determine
-the local skin friction coefficient at three stations
-on a wind tunnel wall, under varying
-conditions of pressure gradient .  at each station,
-within the limits of experimental
-accuracy, the deduced skin friction coefficient was
-found to be the same for each pitot
-tube, thus confirming the basic assumption and
-leaving little doubt as to the correctness
-of the skin friction so found .  pitot traverses
-were then made in the pipe and in the
-boundary layer on the wind tunnel wall .  the results
-were plotted in two non-dimensional
-forms on the basis already suggested and they
-fell close together in a region whose
-outer limit represented the breakdown of the
-basic assumption, but close to the wall
-the results spread out, due to the unknown
-displacement of the effective centre of a
-pitot tube near a wall .  this again provides
-further evidence of the existence of a
-region of local dynamical similarity and of the
-correctness of the skin friction deduced
-from measurements with round pitot tubes on
-the wind tunnel wall .  the extent of the
-region in which the local dynamical similarity
-may be expected to hold appears to vary
-from about to of the boundary-layer
-thickness for conditions remote from,
-and close to, separation respectively .
+Annual Review of Information Science and Technology
+
+Cuadra, C.A..B1970
+
+  The field of information science and technology continues to grow
+and, as it grows, to show new emphases and explore new areas of interest.
+Volume 5 reflects these changes.  The increasing interest in
+and movement toward library networks and other cooperative,
+technology-supported information activities have helped to focus
+special attention not only on data processing and microfilm technology,
+the two traditional mainstays of library and document-handling systems,
+but also on the rapidly developing capabilities in modern tele-communications.
+Thus, a chapter on communication technology has appeared, for the first
+time, to bring readers up to date on changes in the communications industry
+that have had or will have a great impact on how we design and use
+information-handling systems.
+  Two other first-time chapters cover management information systems
+and information systems in state and local government.  While
+the intent behind the development of such systems, and the kinds of
+services they provide, is peripheral to the purposes and services of
+library and document-handling systems, one often sees in these peripheral
+areas some information parallels.  Indeed, one of the reasons for the
+Annual Review's covering one or more of these areas each year is to
+help its readers exploit more fully the thinking and the problem-solving
+techniques they are fostering.

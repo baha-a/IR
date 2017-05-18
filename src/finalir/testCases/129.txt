@@ -1,31 +1,28 @@
-.I 129
-.T
-an investigation of the noise produced by a subsonic air jet .
-.A
-j. h. gerrard
-.B
-university of manchester
-.W
-an investigation of the noise produced by a subsonic air jet .
-to investigate the theoretical predictions of lighthill on aerodynamic
-sound, measurements have been made of the sound field of a 1 in. air jet
-issuing from a long pipe .  the measurements have been made over a wide
-frequency band (30 to 10,000 cycles/sec.) and in one-third octave bands
-in this frequency range .   the mean mach number at the pipe orifice was
-varied from 0.3 to 1.0 .
-the dependence of the apparent position of the noise sources on
-frequency and jet speed was investigated .  at a given frequency a source is
-situated farther from the jet orifice the higher the jet speed .  lower
-frequency sources appear farther downstream than ones of higher
-frequency, consistent with their association with larger eddies .  the
-directional characteristics of the sound field at different frequencies
-and jet speeds are illustrated by means of scale diagrams showing lines
-of constant sound intensity .  these sound fields are analyzed in terms
-of the moving quadrupole sources of lighthill's theory and good
-agreement obtained .  it is shown that the apparent spread of the sources at
-low frequencies is due to the doppler effect .  at low frequency
-relative to the frequency of maximum power output) the radiation is
-predominantly that of three mutually orthogonal longitudinal quadrupoles
-which, except for the effect of convection upon it, has a sound field
-like a monopole source .  at higher frequencies the sound fields of
-lateral and longitudinal quadrupoles predominate .
+Generation and Uses of Machine-Readable Data Bases
+
+Schipma, P.B.
+
+  This chapter continues the coverage of the generation and use of
+machine-readable data bases inaugurated in Volume 9 by Williams (178).  It
+is therefore an update consisting primarily of 1974 material and is prepared
+in general accordance with Williams's initial compilation.
+  The same definition of data bases and the boundaries of their applications
+used in Volume 9 are continued this year.  A data base is considered
+to be an organized collection of machine-readable records containing
+bibliographic and/or document-related data (e.g., index information).
+The data bases that we will consider are used for information storage
+and retrieval and/or research in information storage and retrieval or
+data base generation.
+  The choice of these constraints precludes coverage of several areas.  First,
+data bases primarily concerned with numerical or other nonbibliographic
+information, such as chemical structures, (Milen et al., 112) are excluded.
+Thus, even though the Chemical Abstracts Service (CAS) Registry Number
+is a data element common to many bibliographic data bases, papers such as
+that by CAS regarding progress in building the Registry System itself (39)
+are excluded.  Similarly, though some textual and bibliographic material
+is included in the Systems Consultants, Inc report (156) to the Navy, most
+of the information retrieval is concerned with miniaturized hardware in a
+shipboard environment and thus is not considered within the scope of this
+chapter.  Finally, though many of the data bases are used for generation
+of publications via phototypesetting, we are not considering that production
+operation.

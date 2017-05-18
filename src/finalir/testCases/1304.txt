@@ -1,34 +1,14 @@
-.I 1304
-.T
-newtonian flow over a surface .
-.A
-giraud,j.p.
-.B
-colston symposium on hypersonic flow, bristol, 1959.
-.W
-newtonian flow over a surface .
-a general method is presented for
-the study of a three-dimensional
-hypersonic flow about a body of arbitrary shape when .
-the manner of constructing a double
-asymptotic development in
-and is shown .  formulae are given
-which enable the first three terms of
-this development to be obtained while neglecting .
-the theory is then applied to the case of
-a body of circular-cone shape .  the
-pressure is given as a triple development
-in accordance with the preceding
-parameters and the angle of attack,. this
-development neglects .  a. ferri's
-vortical layer is brought into evidence .
-a second application is devoted to
-calculation of the total forces acting
-upon bodies of revolution at angles of
-incidence, while neglecting .
-general formulae are
-established for the coefficients of axial
-force, normal force and moments .
-the formulae are developed according
-to the powers of incidence, the first
-terms of each formula being of very simple form .
+Citation Analysis
+
+Gouldsmit, S.A.
+
+  The Science Citation Index is a valuable and powerful tool when
+used for the purpose for which it was intended, as an aid in literature
+search.  It also invites a variety of statistical investigations, which
+must, however, be considered with prudence, since they may lead to
+misleading results.  No matter how cautiously the authors express
+themselves, the casual readers,  that is the majority, will treat 
+the results as established facts and forget about the assumptions
+underlying them.  This is also happening with the computer output
+for economic models, which is accepted as if it were experimental
+observation.

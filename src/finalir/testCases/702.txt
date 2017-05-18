@@ -1,25 +1,16 @@
-.I 702
-.T
-numerical determination of indical lift and moment functions for a two
-dimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 .
-.A
-mazelsky, b. and drischler, j.a.
-.B
-naca tn 2739, 1952 .
-.W
-numerical determination of indical lift and moment functions for a two
-dimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 .
-the indicial lift and moment functions are determined approximately for
-sinking and pitching motion at mach numbers m of 0.5 and 0.6 . these
-functions are determined from a knowledge of the existing oscillatory
-coefficients at the low reduced frequencies and from approximate
-expressions of these coefficients at the high reduced frequencies .
-the beginning portion of the indicial lift function associated with an
-airfoil penetrating a sharp-edge gust in subsonic flow is evaluated by
-use of an exact method . by use of an approximate method for determining
- the remaining portion, the complete indicial gust function is
-determined for m 0.5, m 0.6, and m 0.7 .
-all the indicial lift and moment functions are approximated by an
-exponential series,. the coefficients which appear in the exponential
-approximations for each indicial function are tabulated for m 0.5,
-m 0.6, and m 0.7 .
+The CA Integrated Subject File.  II. Evaluation of Alternative Data Base Organizations
+
+Zipperer, W.C.Park, M.K.Carmon, J.L.
+
+  The relative retrieval performances of the CA Integrated Subject File (CAISF),
+CA Condensates, and a Merged File created from these two data bases have been
+measured.  Retrieval performance is reported in terms of recall and precision
+values as well as costs.  The precision and recall retrieval failures - i.e.,
+irrelevant documents and missed documents - have been analyzed for each data
+base and characterized according to the five major types of failures: index 
+language, indexing, searching, clerical, and miscellaneous.  Over-all analysis
+of the performance suggests that an effective data base can be created by
+augmenting the CA Condensates data base with Registry Numbers and some
+representation of the CAISF General Subject concept headings, which results
+in a file approximately half the size of the corresponding CAISF data base
+and is suitable for search using existing retrieval system software.

@@ -1,15 +1,10 @@
-.I 532
-.T
-pitch-yaw stability of a missile oscillating in roll
-via the second method of lyapunov .
-.A
-parks,p.c.
-.B
-j. ae. scs. 29, 1962, 874.
-.W
-pitch-yaw stability of a missile oscillating in roll
-via the second method of lyapunov .
-the stability theory of a. m. lyapunov, a popular topic in
-the u.s.s.r., is receiving increasing attention elsewhere .
-this note describes lyapunov's /second method/ very briefly
-and applies it to an aeronautical stability problem .
+Relevance, Pertinence and Information System Development
+
+Kemp, D.A.
+
+   The different between pertinence and relevance is discussed.. Other pairs of
+terms and the differences between their members are examined, and the 
+suggestion is made that such studies could increase our understanding of the 
+theory of information systems, and hence lead to practical improvements.. Some
+examples are considered, among them the use of "personality profiles" to 
+improve the pertinence effectiveness of systems..

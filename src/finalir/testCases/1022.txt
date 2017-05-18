@@ -1,18 +1,9 @@
-.I 1022
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  forty-three cylinders of 40-inch
-length and 16-inch diameter, made
-of 5052-0 aluminum-alloy sheets of
-thickness, were subjected to bending
-moments constant along the cylinder
-and in time in an oven which maintained
-a constant temperature of 500 f
-during the test .  all the cylinders
-failed by buckling .  the time that
-elapsed between load application and
-collapse was measured .
+Information Science in Librarianship
+
+Hayes, R.M.
+
+  These information systems create a real challenge for librarianship, since
+on the surface it would seem that librarians can have a central role in their
+development, their operation, and their management.  But to do so, librarians
+must recognize the contribution they can make and be willing to accept the
+challenges.

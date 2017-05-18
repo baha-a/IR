@@ -1,33 +1,23 @@
-.I 341
-.T
-the analytical design of an axially symmetric laval
-nozzle for a parallel and uniform jet .
-.A
-foelsch,k.
-.B
-j. ae. scs. 16, 1949.
-.W
-the analytical design of an axially symmetric laval
-nozzle for a parallel and uniform jet .
-  the equations for the nozzle's contours are derived by
-integration of the characteristic equations of the axially symmetric flow .
-since it is not possible to integrate these equations
-mathematically in an exact form, it was necessary to find a way to
-approximate the calculations .  the approximation offers itself by
-considering and comparing the conditions of the flow in a cone with
-those in a nozzle, as a linearization of the characteristic equations .
-  the first part of the report deals with equations for the
-transition curve by which the conical source flow is converted into a
-parallel stream of uniform velocity .  the equations are derived
-by integration along a mach line of the flow in the region where
-the conversion takes place .  a factor f is introduced expressing a
-relation between the direction and the velocity of the flow along
-a certain mach line .  f remains undetermined and is not involved
-in the final equations .
-  in the second part of the report, the spherical sonic flow
-section is converted into a plane circular section of the throat .
-the nozzle's contour adjacent to the throat is formed by the arc
-of a circle connected with the transition curve by a straight line .
-the gas dynamic properties of the boundary mach line are
-calculated in table 1, the use of which shortens the calculations
-considerably .
+Copying Methods Manual
+
+Hawken, N.R.
+
+  The current need for a manual of copying methods dealing with the processes, 
+methods, techniques, and types of equipment which can be used for reproducing 
+documents of a great many different kinds arises from two factors:
+  (1) The great importance of document reproduction processes in the 
+acquisition, preservation, dissemination, and communication of information
+vital to the conduct of research work in all fields of human endeavor and on an 
+international scale.
+  (2) The complexity of the field of document reproduction today which has 
+resulted from the enormous technical advances made in the past fifteen years.
+  The need for the coining of the new class word - reprography (an unfortunate
+graft of a Latin fragment on a Greek root) - is in itself indicative of the 
+great changes that have come about.  Processes and methods which formerly were 
+discrete and distinctive have now become intricately interrelated. New processes
+and combinations of processes with different and astonishing capabilities
+continue to appear.  This revolution in the document copying field has been 
+powerfully augmented by intensive competition on the part of manufacturers for 
+a share of the vast and lucrative office-records copying field.  The results, 
+however, have led to highly important applications in the reproduction of 
+research materials as well.

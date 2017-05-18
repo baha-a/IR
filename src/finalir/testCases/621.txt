@@ -1,19 +1,16 @@
-.I 621
-.T
-latitude and diurnal variations of air densities from 190 to 280 km.
-as derived from the orbits of discoverer satellites .
-.A
-groves, g.v.
-.B
-proc. roy. soc. a. 263. 212-216. 1961 .
-.W
-latitude and diurnal variations of air densities from 190 to 280 km.
-as derived from the orbits of discoverer satellites .
-variations in air density between day and night in the region 190 to 280
- km are found to be small/less than about 25(/ . the presence of a
-possible region of local heating at about 220 km which disappears at
-night . the night-time density profile conforms with a constant scale
-height of 35/2/km.no definite variation of air density with latitude is
-evident apart from a possible increase of about 60(, which is indicated
-by rather limited polar-region data . for other latitudes and seasons a
-variation of less than about 20( is indicated .
+Dialectical Inquiring Systems:A New Methodology for Information Science
+
+Mitroff, Ian I.Williams, JamesRathswohl, Eugene
+
+   A taxonomy for modeling information systems is presented.. The taxonomy
+derives from the history of modern epistemology.. Epistemology is used as a
+prescriptive modeling basis because (1) the fundamental problems of 
+epistemology are concerned with information, and (2), because the history of
+epistemology identifies any archetypal ways that men have conceived of
+information and of models..
+   It is shown how the different models of epistemology can be made
+scientifically operational through the use of a special kind of systems
+analysis..
+   Finally, the results of a preliminary experiment based on one of the models
+are presented in the form of prescriptive rules for the design of future
+experiments.. 

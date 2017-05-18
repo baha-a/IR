@@ -1,23 +1,14 @@
-.I 81
-.T
-compressible laminar flow and heat transfer about a
-rotating isothermal disk .
-.A
-ostrach,s. and thornton,p.
-.B
-naca tn.4320, 1958.
-.W
-compressible laminar flow and heat transfer about a
-rotating isothermal disk .
-  the flow and heat transfer about a rotating isothermal disk are
-re-examined to include the effects of compressibility and property
-variations .  if viscous dissipation is neglected,
-the compressible problem is
-correlated to the incompressible problem by assuming linear variations
-of viscosity and thermal conductivity with temperature .  certain
-inaccuracies in several previous incompressible solutions are noted and
-corrected herein .  the effect of compressibility appears as a
-distortion of the normal coordinate and normal velocity component and as
-a multiplicative factor in the heat-transfer coefficient, the nusselt
-number, and in the expressions for the skin-friction components and
-torque required to rotate the disk .
+Indexing Consistency and Quality
+
+Zunde, PranasDexter, Margaret E.
+
+   A measure of indexing consistency is developed based on the concept of 
+"fuzzy-sets".. It assigns a higher consistency value if indexers agree on the 
+more important terms.. Measures of the quality of an indexer's work and 
+exhaustivity of indexing are also proposed.. Experimental data on indexing 
+consistency is presented for certain categories of indexers; and consistency,
+quality, and exhaustivity values are compared and analyzed.. The analysis of 
+indexing exhaustivity leads to the conclusion that the increase of information
+as a result of group indexing is a process analogous to Bradford's law of
+information scattering, Lotka's law of scientific productivity, and Zipf's law
+of vocabulary distribution..

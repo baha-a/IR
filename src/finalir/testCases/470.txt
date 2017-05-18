@@ -1,28 +1,22 @@
-.I 470
-.T
-some notes for the small disturbance linear theory
-of the method of local linearisation of the flow over
-an airfoil at mach number of unity .
-.A
-miyai,y.
-.B
-proc. 10th japan nat. cong. app. mech. iii-4, 1960, 207.
-.W
-some notes for the small disturbance linear theory
-of the method of local linearisation of the flow over
-an airfoil at mach number of unity .
-  in this paper, the pressure
-distribution at the surface of a symmetrical
-non-lifting aerofoil with free stream
-mach number of unity has been
-investigated by means of the small-disturbance
-linear theory or the method of local
-linearization .  and by comparing with
-the calculated results based on an
-hodograph method, the accuracy of these
-approximate methods has been
-evaluated .  moreover, when these approximate
-methods are used for the calculation
-of the pressure coefficient, some notes
-necessary to obtain more correct
-results have been discussed .
+Information Service in Libraries
+
+Crowley, T.
+
+        The two studies presented here represent efforts
+to measure the performance of library staffs in an unobstrusive
+fashion:  that is, to apply certain tests generally
+similar to portions of the normal workload without drawing
+attention to the fact that a test is being carried out.  The
+two projects were rather different as to purpose, method,
+and reliability of result (that is, statistical significance).
+Dr. Crowley's investigation, the first in point of time,
+arose partly from his experience in a county library.  His
+curiousity about the real result of the reference activities
+(as different from merely counting the questions answered)
+led him to ask, "Is there substantial difference between the
+claims made by librarians for reference work and the actual
+result as observed in a number of different situations by
+individuals posing as clients?"  The study which followed
+from this question was, then, exploratory and necessarily
+less rigidly controlled than was the second study of this
+pair.

@@ -1,26 +1,20 @@
-.I 1025
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  the creep of a slightly crooked section column carrying a
-constant load is studied theoretically .  the material of the
-column is characterized by a strain-time relationship, under
-constant uniaxial stress, of the form, where is
-the total strain, is the constant stress, is the time, and e,a,b,
-and k are material constants .  this form was selected because it
-applies to at least two alloys--75s-t6 aluminum alloy at 600 f .
-and a low-alloy steel at 800 and 1,100 f .  however, the
-analysis is intended for any material having creep properties of the
-same form and for which the material constants are known .  a
-strain-time relationship under variable uniaxial stress, necessary
-for the column analysis, is formulated from the constant-stress
-properties with the aid of shanley's engineering hypotheses of
-creep .
-  the analysis leads to the conclusion that the lateral deflection
-approaches infinity--that is, the column collapses--in finite time .
-results are given showing the maximum length of time the
-column can support a given load before it collapses and the growth
-of stresses, strains, and deflections prior to collapse .
+Limits Growth
+
+Meadows, D.H.
+
+    In April 1968, a group of thirty individuals from ten
+countries - scientists, educators, economists, humanists,
+industrialists, and national and international civil servants -
+gathered in the Accademia dei Lincei in Rome.  They met at
+the instigation of Dr. Aurelio Peccei, an Italian industrial
+manager, economist, and man of vision, to discuss a subject of 
+staggering scope - the present and future predicament of man.
+    A series of early meetings of The Club of Rome culminated
+in the decision to initiate a remarkably ambitious undertaking
+- the Project on the Predicament of Mankind.
+    The intent of the project is to examine the complex of
+problems troubling men of all nations: poverty in the midst
+of plenty; degradation of the environment; loss of faith in
+institutions; uncontrolled urban spread; insecurity of employment;
+alienation of youth; rejection of traditional values; and inflation
+and other monetary and economic disruptions.

@@ -1,19 +1,20 @@
-.I 1018
-.T
-note on creep buckling of columns .
-.A
-.B
-.W
-note on creep buckling of columns .
-  the results of short-time elevated-temperature creep tests of
-objective of obtaining procedures for predicting column lifetime .
-semiempirical lifetime curves are obtained with the aid of a previously
-published column creep theory and are used for deriving column curves .
-the semiempirical lifetime curves are also used to study the effect of
-varying applied stress and out-of-straightness .  in the range
-considered, small variations in out-of-straightness are found to be of
-little practical significance,. whereas, small stress variations change
-the column lifetime considerably .  for the range of out-of-straightness
-encountered in the tests, the data can be presented in plots that do not
-explicitly include out-of-straightness, and plots of this type should be
-satisfactory for predicting column lifetime for design purposes .
+The Library's Public; a report of the public library inquiry
+
+Berelson, B.
+
+        The following report on use of the public library is
+the product of two separate studies made for the Public Library
+Inquiry.  One was the national sample survey of library use
+made for the Inquiry by the Survey Research Center of the 
+University of Michigan.  Personal interviews of a half-hour
+or more in length were held with 1,151 people selected at
+random in different counties scattered over the United States.
+The sample was designed so as to represent all adult persons
+living in private households.
+    By this tested method the survey gathered information 
+concerning the amount and the kind of use people make of the 
+public library and what changes or extension of library
+service people in general would prefer.  The survey also
+gathered information on the use of books obtained from sources
+other than the public library, as well as the extent of regular
+use of newspapers, radio, magazines, and movies.

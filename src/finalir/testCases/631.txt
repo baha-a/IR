@@ -1,20 +1,10 @@
-.I 631
-.T
-low speed wind tunnel tests on a two dimensional aerofoil
-with split flap near the ground .
-.A
-bagley,j.a.
-.B
-arc cp.568, 1961.
-.W
-low speed wind tunnel tests on a two dimensional aerofoil
-with split flap near the ground .
-  pressure distributions have been
-measured on a 10 thick two-dimensional
-aerofoil of r.a.e.101 section fitted with
-split flaps deflected at 15 and 55 .
-measurements were made at two distances
-above a ground plate, and also without
-the ground plate .  the results have been
-integrated to give the sectional
-lift, drag and pitching-moment coefficients .
+A General Statistical Model for Estimating Future Demand Levels of Data-BaseUtilization Within an Information Retrieval Organization
+
+Ware, Glenn O.
+
+   A statistical model for characterizing the growth patterns of data base
+utilization and for estimating future utilization levels of demand has been
+developed for information retrieval organizations.. The model developed is
+y = b( 1 - e(**-at) ) where y is the number of users of a data base at time t,
+and a and b are parameters to be estimated.. Illustrations of the model applied 
+to a typical information retrieval organization are given and discussed..

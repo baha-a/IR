@@ -1,25 +1,26 @@
-.I 816
-.T
-experimental investigation at a mach number of 3. 11
-of the lift, drag and pitching moment characteristics
-of a number of blunt low-fineness-ratio bodies .
-.A
-letko,w.
-.B
-nasa memo 1-18-159l, 1959.
-.W
-experimental investigation at a mach number of 3. 11
-of the lift, drag and pitching moment characteristics
-of a number of blunt low-fineness-ratio bodies .
-  a number of blunt bodies having shapes that may be suitable for
-atmospheric reentry were tested to determine the lift, drag, and
-pitching-moment characteristics at a mach number of 3.11 and a reynolds
-number of 6 x 10 based on maximum body diameter of 2 inches .
-  the results of the tests showed that all the bodies were statically
-stable about a point located one-third of the body length from the
-nose .  the results also showed that high-drag bodies which have a large
-portion of their afterbodies negatively sloped (decrease in
-cross-sectional area from nose to base) may have a negative lift-curve slope .
-this negative slope results from the large negative lift component of
-the axial force obtained with those bodies and the fact that with
-negatively sloped afterbodies only small normal forces are developed .
+Measuring Readers' Failure at the Shelf in Three University Libraries
+
+Urquhart, John A.Schofield, J. L.
+
+   This paper continues the reporting of the Unit's work on a method of 
+investigating how often readers fail to find what they are looking for on the 
+shelves, why they fail, and what particular books they fail to find..
+   The method used is a slight modification of the earlier one - readers were
+asked to record on a slip provided the details of the book or periodical they
+were looking for, or subject area they were looking in, their academic status,
+and the date, and then to place the slip in an adjoining box.. Fron analysis of
+these 'failure' slips it was possible to determine the cause of the reader's
+failure, the individual book the reader was looking for, and the pattern of
+failure for different groups of volumes..
+  A new development was surveys of samples of readers, carried out during the
+fortnight of peak demand.. Answers to these surveys provided information on the
+effect or failure on a reader's work, what action he took after failing, whether
+he found adequate substitutes, how many books he found by browsing, and what
+proportion of the books he consulted he borrowed.. Some of these answers could be
+checked by a direct count of the books used in, and borrowed from, the library..
+   The investigations were carried out in three University libraries, each with 
+its own characteristic library structure and teaching patterns.. These 
+differences were reflected in the results obtained..
+   It is hoped that the methods of investigation used can be employed by 
+librarians to investigate the effectiveness of some of the services in their own
+libraries..

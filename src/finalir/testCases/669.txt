@@ -1,16 +1,15 @@
-.I 669
-.T
-subsonic potential flow past a sphere inside a cylindrical duct .
-.A
-william l. haberman
-.B
-david taylor model basin, carderock, md.
-.W
-subsonic potential flow past a sphere inside a cylindrical duct .
-the subsonic potential flow of a compressible fluid past a sphere
-in an infinite medium was first determined by rayleigh .  subsequently,
-caplan and tamada extended the solution to include the fourth power
-of the mach number .  to the author's knowledge, no solution for
-subsonic flow past a sphere in a finite medium has been published .  it
-is the purpose of this note to present a solution for subsonic
-potential flow past a sphere inside a circular cylindrical duct .
+Rapid Structure Searches via Permuted Chemical Line-Notations
+
+Sorter, P.F.Granito, C.E.Gilmer, J.C.Gelberg, A.Metcalf, E.A.
+
+  The Wiswesser chemical line-notation is an unique
+and unambiguous method of representing chemical
+structures by a linear series of letters, numbers,
+ampersands, and hyphens.  These symbols are meaningful to
+chemists familiar with the notation and can be processed
+by automatic data processing (ADP) equipment. 
+  The uniqueness of the line-notation permits the use
+of alphanumerically arranged lists of notations for
+dictionary-type searches.  This ordered arrangement
+permits the rapid location of a specific compound or a
+specific class of ring compounds other than benzenoid.

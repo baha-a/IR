@@ -1,23 +1,12 @@
-.I 1116
-.T
-general instability of stiffened cylinders .
-.A
-becker,h.
-.B
-naca tn.4237, 1958.
-.W
-general instability of stiffened cylinders .
-  theoretical buckling stresses
-are determined in explicit form for
-circular cylinders with
-circumferential and axial stiffening .  the
-loadings are axial compression, radial
-pressure, hydrostatic pressure,
-and torsion .  analyses were confined
-to moderate-length and long
-cylinders .  the investigation was based
-upon the use of a form of donnell's
-equation derived by taylor which is
-applicable to orthotropic cylinders .
-the derivation of this equation is
-presented in this report .
+Pragmatic Aspects of Scientific Information
+
+Ursul, A. D.
+
+   Postulating an interrelation between semantic and pragmatic properties of 
+scientific information, the author formulates the information value function
+as depending on three arguments:  subject, information, and purpose; thus, this 
+value is a composite of subjective and objective factors..  Possible 
+classifications scientific information values are discussed.. A methodological
+analysis of three approaches to the mathematical notion of information value is
+given and, by analogy, some propositions concerning measurement of scientific
+information value are expressed..

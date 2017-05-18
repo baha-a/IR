@@ -1,32 +1,18 @@
-.I 1398
-.T
-stability of rectangular plates under shear and bending
-forces .
-.A
-way,s.
-.B
-j. app. mech. 3, 1936, a131.
-.W
-stability of rectangular plates under shear and bending
-forces .
-  the author first discusses the problem of a plane, simply
-supported rectangular plate loaded by shearing forces in
-the plane of the plate on all four edges .  there are two
-stiffeners attached one third and two thirds of the way
-along the plate .  the critical load is calculated for various
-stiffener rigidities .  also, the rigidity necessary to keep
-the stiffeners straight when the plate buckles is found .
-this stiffener rigidity is found to be slightly larger than
-that necessary for a plate with one stiffener and the same
-panel dimensions as the plate with two stiffeners .
-  the second problem discussed by the author is that of a
-plane, simply supported rectangular plate loaded by
-uniformly distributed edge shearing forces in the plane of the
-plate and linearly distributed tension and compression in
-the plane of the plate at the ends .  the end forces vary
-from tension, at one corner to, at the other corner,
-so that their resultant is a bending moment .  the
-presence of the edge shearing forces is found to diminish the
-critical bending stress in this case .  calculations are made
-for various magnitudes of bending and shearing forces for
-plates of various proportions .
+Switching and Finite Automata Theory
+
+Kohavi, Z.
+
+  The subject of switching and finite automata theory needs no introduction.
+It has become a part of every computer science and electrical
+engineering curriculum, and rightly so.  It provides techniques useful
+in a wide variety of applications and helps develop a way of thinking that
+leads to understanding of the structure, behavior, and limitations and
+capabilities of logical machines.  In this book I have tried to cover the
+whole subject, starting with introductory material and leading to the
+more advanced topics, assuming a minimal technical background on the
+part of the reader.  I did not attempt to provide detailed techniques
+for the design of specific circuits, but rather to formulate methods and to
+develop algorithms that can be applied to a broad class of problems.
+For once such general principles are understood, the relevance of specific
+procedures and their applicability to given problems are a matter of
+engineering decisions.

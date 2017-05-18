@@ -1,33 +1,14 @@
-.I 1130
-.T
-handbook of structural stability . pt .vi . strength
-of stiffened curved plates and shells .
-.A
-becker,h.
-.B
-naca tn.3786, 1958.
-.W
-handbook of structural stability . pt .vi . strength
-of stiffened curved plates and shells .
-  a comprehensive review of failure
-of stiffened curved plates and
-shells is presented .
-  panel instability in stiffened
-curved plates and general instability
-of stiffened cylinders are discussed .
-the loadings considered for the
-plates are axial, shear, and the
-combination of the two .  for the
-cylinders, bending, external pressure,
-torsion, transverse shear, and
-combinations of these loads are considered .
-  general instability in stiffened
-cylinders was investigated .  for
-bending and torsion loads, test data
-and theory were correlated .  for
-external pressure several existing
-theories were compared .  as a result
-of this investigation a unified theoretical
-approach to analysis of
-general instability in stiffened cylinders
-was developed .
+Aspect Abstracting:  A New Technique
+
+Solovyev, V. I.  
+
+   The new technique has been developed on the basis of an analysis of the
+present methodological requirements laid to abstracting and a study of textual
+records as modelling the real world and reflecting the logic of research..
+Aspects of meaning have been adopted as the invariant unit characteristics
+of a document's purport.. Semantic adequacy and semantic equivalence are 
+proposed as criteria to evaluate abstracting precision and exhaustivity..
+The aspect-based approach could be likewise applied to indexing of documents
+and information requests.. If introduced into the practices of information
+analysis, this technique is expected to raise the standard of abstracts and 
+the efficiency of document-oriented retrieval..

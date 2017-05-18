@@ -1,24 +1,21 @@
-.I 88
-.T
-magnetohydrodynamic free-convection pipe flow .
-.A
-cramer,k.r.
-.B
-j. ae. scs. 28, 1961, 736.
-.W
-magnetohydrodynamic free-convection pipe flow .
-it has been shown that transverse magnetic fields of practical
-strengths exert considerable influence on liquid-metal,
-free-convection, vertical, flat-plate and parallel-plate flow fields .
-the extent of influence was determined by the magnitude of a
-nondimensional parameter a which is the ratio of the hartmann
-number to the fourth root of the grashof number, and is a
-measure of the relative influence of the magnetic and buoyant
-forces .  in this note the steady, fully developed, laminar,
-free-convection flow of a fluid of electrical conductivity through
-a fully submerged, open-ended, constant-temperature, vertical
-pipe located in a transverse magnetic field of strength is
-analyzed in terms of the same parameter .  the magnitude of
-its influence on the velocity and temperature profiles, the surface
-shear and heat transfer, and the volumetric flow rate is
-determined .
+Patterns of Name Ordering among Authors of Scientific Papers:A study of Social Symbolism and Its Ambiguity
+
+Zuckerman, Harriet A.
+
+   With increasing scientific collaboration, visibility of individual 
+role-performance has diminished.. Ordering of author' names as an adaptive 
+device which symbolizes their relative contributions to research.. Interviews 
+with Nobel laureates and comparisons of their name-order practices to those of 
+other scientists suggest that this symbol is ambiguous and makes evaluation of 
+individual role-performance difficult.. A probability model of expected 
+distribution of name orders is used in measuring preferences for particular 
+sequences, and these preferences vary with the authors' eminence.. On the 
+assumptions that authors' names are listed in order of the value of their 
+contributions, laureates should be first-authors more often than other 
+scientists; in fact, they are not.. Instead, they exercise their noblesse 
+oblige by giving credit to less eminent co-workers increasingly as their 
+eminence grows.. They do so more often after the prize, and eminent 
+laureates-to-be forego first-authorship more often than  those as yet 
+unrecognized.. The noblesse oblige, however, has its limits; laureates' 
+contributions to prize-winning research are more visible than contributions to 
+their other research..

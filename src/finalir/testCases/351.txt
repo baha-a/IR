@@ -1,22 +1,16 @@
-.I 351
-.T
-thermal distributions in jeffrey-hamel flows between nonparallel plane
-walls .
-.A
-millsaps, k. and pohlhausen, k.
-.B
-j. aero. sc. v. 20. march 1953, pp 187-196 .
-.W
-thermal distributions in jeffrey-hamel flows between nonparallel plane
-walls .
-the authors give the exact solution for the thermal distributions for
-the steady laminar flow of a viscous incompressible fluid between
-non-parallel plane walls held at a constant temperature . the velocity
-profiles are determined with the aid of jacobian elliptic functions by
-using the jeffery-hamel solution of the hydrodynamic problem . it is
-shown that in this special case the energy equation giving the
-temperature profiles can be reduced to an ordinary linear differential
-equation with variable coefficients . after the introduction of
-dimensionless parameters, numerical solutions are given for diverging and
-converging channels with total openings of 10degree for the possible
-combinations of three reynolds numbers and five prandtl numbers .
+Deterioration and Preservation of Library Materials
+
+Winger, H.W.
+
+  The deterioration of library materials, constant since libraries began, has
+accelerated to alarming proportions in 1969.  Researchers have predicted that
+all paper-based records of this century, as well as those of earlier years,face
+imminent ruin.  Without new and effective efforts for their preservation, most
+will not be usable in their present form in the next century.  The danger of
+destruction threatens not only research library collections but also the world
+of knowledge and scholarship that they support. For not only paper is involved.
+Similar dangers of destruction confront other cellulosic products, such as
+film, which may substitute for paper as the material base of records.  And not
+only research libraries are involved. The surprisingly rapid deterioration of
+printed materials, even those that have been produced with some eye to 
+permanence, creates problems and expenses for other libraries as well.

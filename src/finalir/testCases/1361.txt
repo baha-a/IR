@@ -1,27 +1,16 @@
-.I 1361
-.T
-large deflections of structures subjected to heating
-and external loads .
-.A
-turner,j.m.
-.B
-j. ae. scs. 1960.
-.W
-large deflections of structures subjected to heating
-and external loads .
-  the method of direct formulation of the stiffness matrix is
-extended to include the effects of nonuniform heating and large
-deflections .  the purpose is to develop an analytical tool for the
-treatment of actual structures .
-  in the solution of aeroelastic problems the relations between
-forces and deflections must be determined .  the usual stiffness
-matrix formulation of this relationship is limited to small
-temperature changes and small deflections .  for large temperature
-changes additional terms are required .  also the problem
-becomes geometrically nonlinear when large deflections are
-involved .  to overcome the inherent difficulties of the nonlinear
-problem for practical structures either an iterative or a step-
-by-step procedure must be used .  the force-deformation relations
-necessary for this step-by-step or iterative approach are derived
-for an axially loaded member and for a plate element including
-the effects of thermal strains .
+User Needs and Their Effect on Information Center AdministrationA Review 1953/66
+
+Coover, R.W.
+
+  A determination of the needs of users is
+absolutely essential to the management of an
+Information Center.  Various techniques of
+doing this (e.g., interview, diary, questionnaire,
+etc.) are detailed along with their limitations.
+Some specific user need studies
+are described with their significant results.
+Interactions between users and an information
+system are described.  Finally, all of these
+factors are considered in assessing the user
+needs that might be used to properly manage
+Information Centers.

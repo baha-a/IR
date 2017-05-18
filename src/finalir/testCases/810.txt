@@ -1,43 +1,15 @@
-.I 810
-.T
-the shock wave noise problem of supersonic aircraft
-in steady flight .
-.A
-maglieri,d.j. and carlson,h.w.
-.B
-nasa memo 3-4-59l, 1959.
-.W
-the shock wave noise problem of supersonic aircraft
-in steady flight .
-  data are presented which provide
-an insight into the nature of the
-shock-wave noise problem, the significant
-variables involved, and the
-manner in which airplane operation
-may be affected .  flight-test data
-are also given, and a comparison with
-the available theory is made .  an
-attempt is also made to correlate the
-subjective reactions of observers
-and some associated physical phenomena
-with the pressure amplitudes
-during full-scale flight .
-  it is indicated that for the proposed
-supersonic transport airplanes
-of the future, booms on the ground will
-most probably be experienced
-during the major portion of the flight
-plan .  the boom pressures will be
-most severe during the climb and descent
-phases of the flight plan .
-during the cruise phase of the flight,
-the boom pressures are of much
-lesser intensity but are spread laterally
-for many miles .  the manner
-in which the airplane is operated appears
-to be significant,. for example,
-the boom pressures during the climb,
-cruise, and descent phases can be
-minimized by operating the airplane at
-its maximum altitude consistent
-with its performance capabilities .
+A Probabilistic Search Strategy for MEDLARS
+
+Miller, William L.
+
+   One technique for searching a Co-ordinate Index is to compare each reference
+with a Boolean expression of index terms.. This divides the file into retrieved
+and not-retrieved references.. An alternative is to assign each reference score
+calculated from its index terms and to retrieve the N highest scoring 
+references in the file.. This scoring technique has several advantages in
+theory, and it performed slightly better in a retrieval test with N equal to
+the number of references retrieved by the corresponding Boolean search.. In the
+test a minimum value of N = 10 was used, and when less then this number of
+references matched the Boolean search requirement, the Scoring technique
+successfully widened the score of the search and retrieved twice as many 
+relevant references as the Boolean searches..

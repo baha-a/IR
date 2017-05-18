@@ -1,20 +1,10 @@
-.I 647
-.T
-bending of a uniformly loaded rectangular plate with
-two adjacent edges and the others either simply supported
-or free .
-.A
-huang,m.k. and conway,d.
-.B
-j.app.mech. 1952, 451.
-.W
-bending of a uniformly loaded rectangular plate with
-two adjacent edges and the others either simply supported
-or free .
-  the distribution of deflection and bending moment in a
-uniformly loaded rectangular plate having two adjacent
-edges clamped and the others either simply supported or
-free, are obtained by a method of superposition .
-numerical values are given for square plates and, in one case, the
-results are compared with those obtained by another
-method .
+Optimal Resource Allocation in Library Systems
+
+Rouse, William B.
+
+   A procedure is developed for optimal allocation of resources among the many
+processes of a library system.. Queueing theory is used to model processes as
+either waiting or balking processes.. The optimal allocation of resources to 
+these processes is defined as that which maximizes the expected value of the
+decision-maker's utility function.. An application of the procedure to a 
+specific library system is discussed..

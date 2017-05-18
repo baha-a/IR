@@ -1,30 +1,15 @@
-.I 236
-.T
-criteria for thermodynamic equilibrium in gas flow .
-.A
-rudin,m.
-.B
-phys.fluids, 1, 1958.
-.W
-criteria for thermodynamic equilibrium in gas flow .
-  when gases flow at high velocity, the rates
-of internal processes may not be fast enough to
-maintain thermodynamic equilibrium .  by defining
-quasi-equilibrium in flow as the condition in which
-the temperature, pressure, density, and velocity
-deviate by less than a fixed, small percentage from
-what they would be if the flowing gas could actually
-be in thermodynamic equilibrium, criteria are
-derived for determining whether quasi-equilibrium
-is a stable condition in the flow .  by use of
-excitation of molecular vibration as an example, the
-general properties of criteria curves are discussed and
-interpreted .  a discussion is given of how to use
-these results to determine definitely whether a flow
-is or is not in thermodynamic equilibrium .
-applications to dissociating gases, to mixtures, and to
-the phenomenon of /choking/ in a laval nozzle
-are given special consideration .  for cases when
-application of the criteria predict nonequilibrium,
-equations are provided in a form useful for
-numerical forward integration along streamlines .
+Book Publishing:  What it Is, What it Does
+
+Dessauer, J.P.
+
+  We speak of book publishing as an industry and as a profession.
+Both designations are certainly appropriate.  Book publishing is
+a business conducted, for the most part, for profit.  But its
+practitioners - at least those who do it honor - have
+motivations that transcend their profit interest.  They know
+that books are no mere commodity, no mere items for consumption that
+leave their readers much as they find them.  Books, like other vehicles of
+information and sources of entertainment can change, influence, elevate,
+demean, exalt, or depress those who expose themselves to them.	What
+books are and can be depends heavily on the judgement, integrity, taste,
+and acumen of those who select and produce them - their publishers.

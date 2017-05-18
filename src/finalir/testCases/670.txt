@@ -1,14 +1,18 @@
-.I 670
-.T
-on blunt-body heat transfer at hypersonic speed and low reynolds
-number .
-.A
-ferri, a. zakkay, v. and ting, l.
-.B
-j. aero. sc. v. 29. p. 882, 1962 .
-.W
-on blunt-body heat transfer at hypersonic speed and low reynolds
-number .
-a discussion of differences arising between experimental and analytical
-results, in particular those due to inconsistencies introduced in the
-presentation of data and the way the comparison is made .
+A Chemical Structure Storage and Search System Developed at Du Pont
+
+Gluck, D.J.
+
+  As early as 1961, we in the engineering Department of
+Du Pont recognized the need for a better system for
+recording chemical structure information for storage and
+subsequent retrieval.  We believed that current methods
+and the then current development of notation systems
+would not completely serve our chemists' long range
+chemical identification needs.
+  Accordingly, we studied and then developed a chemical
+structure storage and search system.  Huber gave a good
+review of the various approaches and applications.  To use
+his terminology, our system is topological coding.
+  Our initial investigation led to singling out the following
+needs for such a system.
+

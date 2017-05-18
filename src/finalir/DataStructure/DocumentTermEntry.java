@@ -81,4 +81,11 @@ public class DocumentTermEntry {
     public boolean equals(DocumentTermEntry b){
         return document.getName().equals(b.document.getName());
     }
+    
+    public boolean checkTermType(TermType t){
+        for (Observation o : observation)
+            if(o.getType() == t)
+                return true;
+        return false;
+    }
 }

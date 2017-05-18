@@ -1,22 +1,16 @@
-.I 583
-.T
-influence coefficients for real gases .
-.A
-mario william cardullo
-.B
-u.s. naval air rocket test station, lake denmark, dover, n.j.
-.W
-influence coefficients for real gases .
-in the analysis of one-dimensional fluid-flow problems, it is often
-assumed that the behavior of the medium is that of a perfect gas .
-this assumption is justified, provided the pressure and temperature
-range of interest is small and near atmospheric .  at higher pressures
-and temperatures various deviations are introduced thereby causing
-deviations from the results obtained by using the ideal fluid-flow
-equations .
-in this note, influence coefficients, similar to those developed by
-shapiro, are presented for the case of real gases .  this analysis is
-based upon the use of various functions of the compressibility factor
-emmons .  some of the assumptions made were as follows..  (1) the flow
-is one-dimensional and steady, (2) changes in the stream properties
-are continuous, and (3) the flow is comprised of imperfect gases
+Evaluation of a KWIC Index for Library Literature
+
+Brodie, N.E.
+
+  A librarian attempting to do a literature search currently
+faces an eight-month gap in access to the literature of
+his field through Library Literature.  In April 1968,
+librarians made a rare examination of their own literature
+and considered this gap and other information problems
+in librarianship.  The Albany Conference on the Bibliographic
+Control of Library Science Literature recommended the
+establishment of a fast announcement service for library
+schools (1).  A monthly Keyword in Context (KWIC) index
+serving the whole range of information-oriented professions 
+was a specific proposal which was favored by one conference
+group to meet the need for current information (2).

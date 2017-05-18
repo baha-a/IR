@@ -26,14 +26,24 @@ public class LeskWSD{
     public List<String> getSynonyms(String sentense, String word){
         try
         {
-            return disambiguate(sentense, dictionary.lookupIndexWord(POS.NOUN, word));
+            return disambiguate(sentense, dictionary.lookupIndexWord(POS.NOUN, word),true,true);
         }
         catch(Exception j) { }
        
         return new ArrayList<>();
     }
     
-    private List<String> disambiguate(String sentense, IndexWord word) throws JWNLException {
+    public List<String> getSynonyms(String sentense, String word,boolean hypernyms,boolean hyponyms){
+        try
+        {
+            return disambiguate(sentense, dictionary.lookupIndexWord(POS.NOUN, word),hypernyms,hyponyms);
+        }
+        catch(Exception j) { }
+       
+        return new ArrayList<>();
+    }
+    
+    private List<String> disambiguate(String sentense, IndexWord word,boolean hypernyms,boolean hyponyms) throws JWNLException {
         int index = getMaxIdx(lesk(word, sentense));
         
         // get correct synonyms
@@ -43,18 +53,20 @@ public class LeskWSD{
                 sysns.add(w.getLemma());
     
         // get all hypernyms
+        if(hypernyms)
         for (PointerTargetNode p : PointerUtils.getDirectHypernyms(word.getSenses().get(index)))
             for (Word w : p.getSynset().getWords())
                 sysns.add(w.getLemma());
 
         // get some hyponyms
         int some = 3;
-        for (PointerTargetNode p : PointerUtils.getDirectHyponyms(word.getSenses().get(index))) {
-            for (Word w : p.getSynset().getWords())
-                sysns.add(w.getLemma());
-            if(--some == 0)
-                break;
-        }
+        if(hyponyms)
+            for (PointerTargetNode p : PointerUtils.getDirectHyponyms(word.getSenses().get(index))) {
+                for (Word w : p.getSynset().getWords())
+                    sysns.add(w.getLemma());
+                if(--some == 0)
+                    break;
+            }
         
         return sysns;
     }

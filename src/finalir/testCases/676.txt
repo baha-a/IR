@@ -1,17 +1,14 @@
-.I 676
-.T
-a simple method for calculating the span and chordwise loading on
-straight and swept wings of any aspect ratio at subsonic speeds .
-.A
-kuchemann, d.
-.B
-r + m 2935, r.a.e. rep. aero. 2476, a.r.c. 15,633. august 1962 .
-.W
-a simple method for calculating the span and chordwise loading on
-straight and swept wings of any aspect ratio at subsonic speeds .
-the methods of the classical aerofoil theory are used to derive a
-general theory for wings of any given planform . the load over the
-whole surface of a given wing can be calculated at a given subcritical
-mach number, and the procedure is as simple and rapid as that of the
-classical aerofoil theory . the calculated results are confirmed by
-experiments .
+ISI's Experiences with ASCA - A Selective Dissemination System
+
+Garfield, E.Sher, I.H.
+
+  ASCA (Automatic Subject Citation Alert) is a commercially available SDI
+system covering the journal literature.  The repertoire of questions which
+ASCA can utilize includes cited references, words from titles, authors,
+organizations, etc., and allows for logical combinations of these questions.
+This paper discusses differences and similarities between "citations" and
+"words" in retrieving and disseminating information.  The problem of user-
+system interaction is explored, and some techniques for developing effective
+interest profiles are described.  Although ASCA is a multi-disciplinary system,
+examples from fields like synthetic chemistry and biochemistry are provided.
+

@@ -1,25 +1,17 @@
-.I 557
-.T
-a numerical comparison between exact and approximate
-theories of hypersonic inviscid flow past slender blunt
-nosed bodies .
-.A
-cheng,k.h. and chang,a.l.
-.B
-ars j. 31, 1961.
-.W
-a numerical comparison between exact and approximate
-theories of hypersonic inviscid flow past slender blunt
-nosed bodies .
-  this note refers to paper of same title by feldman in ars j. 30,
-validity of blast wave theory cannot be justified on rational or
-theoretical grounds because of different values of energy in cross
-flow field as calculated by this theory and by method of
-characteristics .  present note questions this conclusion, shows reasonably
-good agreement when energy is calculated for points where shock
-location, streamline pattern, and velocity, temperature, and
-pressure profiles are adequately defined, and still better agreement
-when energy is calculated from flow quantities provided by-
-characteristics method .  results are checked using data from
-independent source .  conclusion is reached that blast wave theory is
-still valid .
+Introduction to Systems Philosophy
+
+Laszlo, E.
+
+    The general systems theory, pioneered by von Bertalanffy,
+Kenneth Boulding, Anatol Rapoport and their collaborators, gives us a
+theoretical instrument for assuring the mutual relevance of scientific
+information and philosophic meaning.  Extended into a general systems
+philosophy, this instrument can polarize the contemporary theoretical scene
+as a magnet polarizes a field of charged particles: by ordering the formerly
+random segments into a meaningful pattern.  If made good use of, this
+instrument could channel to us a stream of informed as well as sophisticated
+answers through the cross-fertilization of contemporary science and
+philosophy.
+    This, then is my credo; the conviction which led to the formulation of the
+present Introduction to "systems philosophy" over a period of three years
+of research in alternating states of euphoria and dejection.

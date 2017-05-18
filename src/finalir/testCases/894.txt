@@ -1,30 +1,26 @@
-.I 894
-.T
-flutter of a two dimensional simply supported buckled
-panel with elastic restraint against edge displacement .
-.A
-smith,g.e.
-.B
-rae r. struct.269, 1961.
-.W
-flutter of a two dimensional simply supported buckled
-panel with elastic restraint against edge displacement .
-  the critical flutter speed is evaluated for a two-dimensional thin
-buckled panel with one surface exposed to a supersonic airstream and the
-other to still air at the same static pressure .  the panel is simply
-supported along the leading and trailing edges by rigid edge members
-separated by an elastic member represented by a compression spring .
-the whole system is acted upon by a constant compressive force uniformly
-distributed along the edge members .  the aerodynamic forces acting on
-the deflected panel are found from two-dimensional /quasi-steady/
-theory, valid for slow oscillations where the downwash velocity is small
-compared with the speed of flow and provided that the mach number is
-sufficiently greater than .  the elastic behaviour of the panel is given
-by von karman's large deflection equations modified to cover initially
-curved plates .  the solution of the equations is carried out by means
-of galerkin's method, which has been shown to give valid results for
-a panel with a non-zero bending rigidity .
-  the influence of the midplane compressive force carried by the panel
-itself, the initial buckle amplitude and the elastic restraint against
-edge displacements is investigated, and curves are presented giving the
-critical dynamic pressure ratio as a function of these variables .
+An Experiment in Index Term Frequency
+
+Svenonius, Elaine
+
+   This paper presents an experimental study of index-term frequency as a factor
+in retrieval performance.. The frequency of an index term, or its "breadth" as
+it is called here, is the number of postings made to the term in a given 
+collection.. The question is asked: Of index terms assigned to documents, which
+function most effectively in retrieval, the most term or popular terms, or those
+which are used relatively infrequently? The experiment is a retrieval experiment
+and uses the Cranfield-Salton data.. Breadth of indexing is varied by 
+nonrandomly deleting terms from documents.. Retrieval output is evaluated using 
+the Expected Search Length measure of retrieval effectiveness as well as the 
+usual precision and recall.. The Wilcoxen Test is used to determine the 
+statistical significance of the different indexings.. The results show that the 
+"optimal" breadth of indexing is a variable, depending on user needs: if a few
+documents are wanted or high precision is desired, then narrow terms are more
+effective than broad ones; if, on the other hand, all or most relevant documents
+are wanted, then broad terms are better.. An argument, however, can be made for 
+the quality of narrow terms, since when these terms are deleted precision never 
+improves, whereas deleting broad terms always results in a higher precision.. A
+corollary experiment is carried out to compare two indexings of the same
+average breadth where one indexing consists of
+semantically appropriate terms - terms taken from the document title - and the
+other consists of merely "reasonable" index terms.. The result suggest that 
+title-term indexing is qualifiedly superior..

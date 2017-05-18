@@ -1,28 +1,13 @@
-.I 167
-.T
-linearized flow of a dissociating gas .
-.A
-clarke,j.f.
-.B
-j.fluid mech. 7, 1960, 577.
-.W
-linearized flow of a dissociating gas .
-the equations for planar two-dimensional
-steady flow of an ideal dissociating gas
-are linearized, assuming small disturbances
-to a free stream in chemical
-equilibrium .
-  as an example of their solution, the
-flow past a sharp corner in a supersonic
-stream is evaluated and the variations
-of flow properties in the relaxation zone
-are found .  numerical illustrations are
-provided using an 'oxygen-like' ideal gas
-and comparisons made with a characteristics
-solution .  the flow past a sharp
-corner can be studied in a conventional
-shock tube and it may be possible to
-verify the present theory experimentally .
-in particular it may prove feasible to
-use the results to obtain a measure of the
-reaction rates in the gas mixture .
+Rationalization of Serial Holdings in Special Libraries
+
+Houghton, B.Prosser, C.
+
+   This paper describes progress which has been made toward the development of
+a procedural model intended as a code of good practice to enable special 
+librarians to effect economies in their journal holdings by systematically 
+planned use of the BLL..
+   A theoretical model suggested by B. C. Brookes was tested on various sets of 
+usage data from seven special libraries but the results proved to be unrealistic
+in terms of immediate provision to the user.. A new experimental approach has 
+now been developed based on the total use versus total cost of a journal 
+collection..

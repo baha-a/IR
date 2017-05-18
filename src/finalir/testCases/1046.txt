@@ -1,22 +1,12 @@
-.I 1046
-.T
-the bending strength of pressurized cylinders .
-.A
-.B
-.W
-the bending strength of pressurized cylinders .
-  a theoretical solution is given
-for the critical stress of
-thin-walled cylinders loaded in torsion .
-the results are presented
-in terms of a few simple formulas and
-curves which are applicable
-to a wide range of cylinder dimensions
-from very short cylinders of
-large radius to long cylinders of small
-radius .  theoretical
-results are found to be in somewhat better
-agreement with
-experimental results than previous theoretical
-work for the same range
-of cylinder dimensions .
+Meaning and the Structure of Language
+
+Chafe, W.L.
+
+  The work to which this chapter forms a preface arises out of a deep
+and prolonged dissatisfaction which the author has felt with both
+past and present theories of the structure of language.  This
+dissatisfaction may be understood more readily, and the suggestions
+which make up the body of this work may appear in clearer perspective,
+if I begin with a few remarks of an autobiographical nature.
+The intrinsic importance of these remarks is minimal, but they may
+provide a useful background for what follows.

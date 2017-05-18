@@ -1,28 +1,25 @@
-.I 357
-.T
-optimum nose shapes for missiles in the super-aerodynamic
-region .
-.A
-carter,w.j.
-.B
-j. ae. scs. 24, 1957, 527.
-.W
-optimum nose shapes for missiles in the super-aerodynamic
-region .
-  the mechanics of the kinetic theory of gases is employed to
-describe the drag force on the nose of a missile moving in the
-super-aerodynamic region of the atmosphere .  three separate cases are
-considered--ideal specular reflection, specular-type reflection
-from a slightly rough surface, and surface absorption followed by
-random emission of the striking molecules .  the calculus of
-variations is employed to obtain the differential equation of the nose
-shape which minimizes the drag force for each of the three cases .
-the resulting differential equations are then solved by a numerical
-procedure .  the drag coefficients for the optimum nose shapes are
-likewise determined and these are compared with the drag
-coefficients given by other nose shapes .  it is further shown that
-the drag coefficients arising when specular-type reflections occur
-are significantly dependent on the nose shape .  when surface
-absorption followed by random emission occurs, the drag
-coefficient is not strongly dependent on either the missile nose shape
-or the fineness ratio of the nose .
+Directory of Data Base in the Social and Behavioral Sciences
+
+Sessions, V.S.
+
+  As one of the early members of the computer community, I have
+been keenly interested in the development of quantitative methodologies
+in the social and behavioral sciences, and their encouragement
+by the data processing environment.  The economists, with an already
+established mathematical orientation, were among the earliest beneficiaries
+of the machine technology that enhances their ability to
+construct the test models of economic behavior.  Today, statistical
+methods have so affected many disciplines that it is not unusual for
+doctoral programs to accept statistical techniques as a substitute for
+one foreign language.  Similarly, the ability to program in an
+appropriate language is also frequently as acceptable as French or
+German in providing the research skills needed by doctoral students at
+The City University of New York and at other universities.
+  The chief function of this directory, in terms of academic supplies
+of data, is not to reinventory the social science data archives
+that are well-known to the academic community, not to duplicate the
+announcements of holdings that they themselves make available to their
+members.  The reason for mentioning them and indicating the nature of
+their holdings is to make this kind of data resource known to those
+researchers, either in or out of the university, who are not sufficiently
+aware of these important resources.
