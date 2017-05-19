@@ -9,16 +9,18 @@ public class Document {
     private Map<String,DocumentTermEntry> docTermEntry;
     private int id;
     private String name;
+    private String filepath;
     private int length;
 
     public int maxTF = 0;
     
     private static int counter = 0;
     
-    public Document(String name, int length) {
+    public Document(String name,String filepath, int length) {
         this.id = counter++; 
         this.name = name;
         this.length = length;
+        this.filepath = filepath;
         docTermEntry = new HashMap<>();
     }
     
@@ -45,6 +47,10 @@ public class Document {
     
     public String getName(){
         return name;
+    }
+    
+    public String getFilePath(){
+        return filepath;
     }
     
     public int getLength(){
@@ -78,5 +84,13 @@ public class Document {
         List<Document> doc = new ArrayList<>();
         dte.forEach(d -> doc.add(d.getDocument()));
         return doc;
+    }
+    
+    
+    
+    public int getFirstPosition(String t){
+        if(docTermEntry.containsKey(t))
+            return docTermEntry.get(t).getFirstPosition();
+        return -1;
     }
 }

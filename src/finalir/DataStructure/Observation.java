@@ -16,7 +16,7 @@ public class Observation {
     }
     
     public int getExactPosition() {
-        return position;
+        return exactPosition;
     }
 
     public TermType getType() {

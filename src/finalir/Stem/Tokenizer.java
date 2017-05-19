@@ -23,7 +23,7 @@ public class Tokenizer {
     }
         
     public List<CoreLabel> getTokens(String txt) {
-        return stemming(removeStopWords(Split(txt)));
+        return stemming(removeStopWords(Split(txt.toLowerCase())));
     }
     
     private int removedWordsCount = 0;

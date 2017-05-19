@@ -37,7 +37,7 @@ public class Engine{
     }
     
     
-    private void indexingXml(String name,File f){
+    private void indexingXml(String name,String path,File f){
         try
         {
             XPath xPath = XPathFactory.newInstance().newXPath();
@@ -50,7 +50,7 @@ public class Engine{
             String a = xPath.compile("/article/author").evaluate(xml).trim();
             String c = xPath.compile("/article/text").evaluate(xml).trim();
 
-            Document d = index.AddDoc(name, t.length() + a.length() + c.length());
+            Document d = index.AddDoc(name,path, t.length() + a.length() + c.length());
             int position = 0;
             for (CoreLabel w : toky.getTokens(t))
                 index.AddTerm(w.lemma(), d, position++ , w.beginPosition(), TermType.Titel);
@@ -65,8 +65,8 @@ public class Engine{
         }catch(Exception e){System.err.println("error reading xml file:" + name);}
     }
     
-    private void indexingPlanText(String name,List<CoreLabel> words){
-        Document d = index.AddDoc(name, words.size());
+    private void indexingPlanText(String name,String path,List<CoreLabel> words){
+        Document d = index.AddDoc(name,path, words.size());
         int postion = 0;
         for (CoreLabel w : words)
             index.AddTerm(w.lemma(), d, postion++ , w.beginPosition(), TermType.Text);
@@ -76,15 +76,15 @@ public class Engine{
     
     private static int id = 0;
     public Engine IndexText(String t){
-        indexingPlanText("NotFile" + ++id, toky.getTokens(t));
+        indexingPlanText("NotFile" + ++id,"", toky.getTokens(t));
         return this;
     }
     
     public Engine IndexFile(File f) throws IOException, TikaException{
         if(f.getName().endsWith(".xml"))
-            indexingXml(f.getName(), f);
+            indexingXml(f.getName(),f.getPath(), f);
         else
-            indexingPlanText(f.getName(), toky.getTokens(new Tika().parseToString(f)));
+            indexingPlanText(f.getName(),f.getPath(), toky.getTokens(new Tika().parseToString(f)));
         return this;
     }
     
@@ -159,24 +159,18 @@ public class Engine{
         
         
         List<DocumentResult> res = searcher.ranking(Document.convert(r), convertQueryToVector(toky.getTokens(query)));
-        res.sort((DocumentResult d1, DocumentResult d2) -> 
-        {
-            if(d1.getRank() < d2.getRank()) return 1;
-            else if(d1.getRank() > d2.getRank()) return -1;
-            return 0;
-        });
         
         cache.save(q + advanceSearch + useSynonyms + useHypernyms + useHyponyms + searchIn.toString(), res);
         completer.save(q);
         
-        System.out.println("your query:");
-        for (CoreLabel c: queryTokens)
-            System.out.print(c.lemma() + ", ");
-        System.out.println();
-        System.out.println("used query:");
-        for (CoreLabel c: toky.getTokens(query))
-            System.out.print(c.lemma() + ", ");
-        System.out.println();
+        
+        String dubg = "your query: ";
+        for (CoreLabel c: queryTokens) dubg += c.lemma() + ", ";
+        dubg += "\r\nused query: ";
+        for (CoreLabel c: toky.getTokens(query)) dubg += c.lemma() + ", ";
+        dubg+="\r\n";
+        
+        PrintErr(dubg);
         
         return res;
     }

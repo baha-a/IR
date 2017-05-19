@@ -194,6 +194,17 @@ public class Searcher {
         List<DocumentResult> result = new ArrayList<>();
         for (Document d : list)
             result.add(new DocumentResult(d, cosine(d,query)));
+        
+        result.sort((DocumentResult d1, DocumentResult d2) ->  {
+            if(d1.getRank() < d2.getRank()) return 1;
+            else if(d1.getRank() > d2.getRank()) return -1;
+            return 0; 
+        });
+        
+//        for (DocumentResult r : result)
+//            for (QueryTerm q : query)
+//                 r.addPosition(q.term);
+        
         return result;
     }
     

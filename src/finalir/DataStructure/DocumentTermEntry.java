@@ -88,4 +88,11 @@ public class DocumentTermEntry {
                 return true;
         return false;
     }
+    
+    public int getFirstPosition(){
+        if(observation == null || observation.get(0) == null)
+            return -1;
+        
+        return observation.get(0).getExactPosition();
+    }
 }

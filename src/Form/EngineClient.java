@@ -4,10 +4,15 @@ import finalir.DataStructure.DocumentResult;
 import finalir.DataStructure.TermType;
 import finalir.Engine;
 import finalir.JazzySpellChecker;
+import java.awt.Desktop;
 import java.io.File;
+import java.io.IOException;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.DefaultListModel;
 import javax.swing.JFileChooser;
+import javax.swing.JFrame;
 
 public class EngineClient extends javax.swing.JFrame {
 
@@ -48,6 +53,7 @@ public class EngineClient extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("IR mini-Search Engine 2017");
+        setLocationByPlatform(true);
         setResizable(false);
 
         jTextField1.setName("tbxSearch"); // NOI18N
@@ -81,6 +87,11 @@ public class EngineClient extends javax.swing.JFrame {
         });
         jScrollPane3.setViewportView(jList1);
 
+        jList2.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jList2MouseClicked(evt);
+            }
+        });
         jScrollPane2.setViewportView(jList2);
 
         jButton1.setText("Search");
@@ -151,13 +162,13 @@ public class EngineClient extends javax.swing.JFrame {
                             .addComponent(jTextField1, javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                                    .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                    .addComponent(jLabel2, javax.swing.GroupLayout.DEFAULT_SIZE, 283, Short.MAX_VALUE)
                                     .addComponent(jLabel3))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jScrollPane3, javax.swing.GroupLayout.PREFERRED_SIZE, 292, javax.swing.GroupLayout.PREFERRED_SIZE))
                             .addGroup(javax.swing.GroupLayout.Alignment.LEADING, layout.createSequentialGroup()
-                                .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 578, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(0, 1, Short.MAX_VALUE)))
+                                .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 569, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addGap(0, 0, Short.MAX_VALUE)))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                             .addComponent(jButton2, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
@@ -172,7 +183,7 @@ public class EngineClient extends javax.swing.JFrame {
                                     .addComponent(jCheckBox2, javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jCheckBox3, javax.swing.GroupLayout.Alignment.LEADING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                     .addComponent(jCheckBox4, javax.swing.GroupLayout.Alignment.LEADING))
-                                .addGap(0, 0, Short.MAX_VALUE)))))
+                                .addGap(0, 17, Short.MAX_VALUE)))))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
@@ -225,7 +236,9 @@ public class EngineClient extends javax.swing.JFrame {
     }//GEN-LAST:event_jList1MouseClicked
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        new EngineClient().setVisible(true);
+        EngineClient t = new EngineClient();
+        t.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        t.setVisible(true);                    
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel2MouseClicked
@@ -247,12 +260,14 @@ public class EngineClient extends javax.swing.JFrame {
 
                 jLabel1.setText(g.getDocumentsCount() + " docs");
             }
-            catch(Exception ex) { jLabel1.setText( "error!!" + ex.getMessage()); }
+            catch(Exception ex) { jLabel1.setText( "nothing"); }
 
             jProgressBar1.setValue(100);
         }).start();
     }//GEN-LAST:event_jButton2ActionPerformed
 
+    List<DocumentResult> lastResult;
+    
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
         
@@ -264,16 +279,16 @@ public class EngineClient extends javax.swing.JFrame {
         }
         
         StringBuilder str = new StringBuilder();
-        List<DocumentResult> res = g.SearchQuery( jTextField1.getText(), jCheckBox1.isSelected(),termtype);
+        lastResult = g.SearchQuery( jTextField1.getText(), jCheckBox1.isSelected(),termtype);
 
         long time = g.getLastTime();
-        int total = res.size();
+        int total = lastResult.size();
         int t = Integer.parseInt(jComboBox1.getSelectedItem().toString());
         //int pages = total / t;
 
         DefaultListModel<String> d =  new DefaultListModel<>();
-        for (DocumentResult r : res) {
-            d.addElement(r.getDocument().getName() + " --> " + r.getRank());
+        for (DocumentResult r : lastResult) {
+            d.addElement("  " + r.getDocument().getName() + "      -->     " + r.getRank());
             if(t-- <= 0)
             break;
         }
@@ -301,6 +316,8 @@ public class EngineClient extends javax.swing.JFrame {
 
     private void jCheckBox2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox2ActionPerformed
         g.useSynonyms = jCheckBox2.isSelected();
+        jCheckBox3.setEnabled(jCheckBox2.isSelected());
+        jCheckBox4.setEnabled(jCheckBox2.isSelected());
     }//GEN-LAST:event_jCheckBox2ActionPerformed
 
     private void jCheckBox3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jCheckBox3ActionPerformed
@@ -311,6 +328,17 @@ public class EngineClient extends javax.swing.JFrame {
         g.useHyponyms = jCheckBox4.isSelected();
     }//GEN-LAST:event_jCheckBox4ActionPerformed
 
+    private void jList2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jList2MouseClicked
+        if(evt.getClickCount() == 2)
+        {
+            if(lastResult != null && jList2.getSelectedIndex() >= 0)
+            try 
+            {
+                Desktop.getDesktop().open(new File(lastResult.get(jList2.getSelectedIndex()).getDocument().getFilePath()));
+            } catch (IOException ex) { }
+        }
+    }//GEN-LAST:event_jList2MouseClicked
+
     
     
     JazzySpellChecker speller = new JazzySpellChecker();
@@ -318,9 +346,9 @@ public class EngineClient extends javax.swing.JFrame {
     
     
     
-    
+    static String defualtpath = "src\\finalir\\testCases";
     public static File[] getFiles() {
-        final JFileChooser chooser = new JFileChooser(new File("src\\finalir\\testCases"));
+        final JFileChooser chooser = new JFileChooser(new File(defualtpath));
         chooser.setMultiSelectionEnabled(true);
         chooser.setAcceptAllFileFilterUsed(false);
 
@@ -328,6 +356,7 @@ public class EngineClient extends javax.swing.JFrame {
         if (chooser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION)
             files = chooser.getSelectedFiles();
         
+        defualtpath = chooser.getCurrentDirectory().toString();
         return files;
     }
 

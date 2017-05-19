@@ -7,8 +7,8 @@ public class InvertedIndex {
     private Map<String, Map<Integer, DocumentTermEntry>> _index = new HashMap<>();
     private Map<Integer, Document> _docs = new HashMap<>();
     
-    public Document AddDoc(String name,int length){
-        Document d = new Document(name,length);
+    public Document AddDoc(String name,String path,int length){
+        Document d = new Document(name,path,length);
         _docs.put(d.getId(),d);
         return d;
     }
