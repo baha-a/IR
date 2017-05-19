@@ -1,5 +1,7 @@
-package finalir;
+package finalir.Stem;
 
+import finalir.CoreLabel;
+import finalir.Engine;
 import java.io.*;
 import java.nio.file.Files;
 import java.util.*;
@@ -29,8 +31,8 @@ public class Tokenizer {
         return removedWordsCount;
     }
  
-    Stemmer enStemmer = new Stemmer();
-    ArabicStemmer arStemmer = new ArabicStemmer();
+    SnowballStemmer enStemmer = new englishStemmer();
+    SnowballStemmer arStemmer = new arabicStemmer();
     
     private List<CoreLabel> stemming(List<String> tokens) {
         
@@ -39,7 +41,14 @@ public class Tokenizer {
         int pos = 0;
         for (String c : tokens)
             if(c.length() > 0){
-                words.add(new CoreLabel(c,(c.charAt(0) <= 255) ? enStemmer.stem(c) : arStemmer.stem(c), pos));
+                try
+                {
+                    words.add(new CoreLabel(c,(c.charAt(0) <= 255) ? enStemmer.stem(c) : arStemmer.stem(c), pos));
+                }
+                catch(Exception ex) 
+                { 
+                    words.add(new CoreLabel(c,c, pos));
+                }
                 pos += c.length() + 1;
             }
         return words;
@@ -55,7 +64,7 @@ public class Tokenizer {
     }
     
     
-    final String delimitersRegex = "[\\[\\]*/=+!@#$%^&!?~|}{)(.,\n\r\t\\ ]";
+    final String delimitersRegex = "[\\[\\]*/=+!@#$%^&!?~|}{)(.,\n\r\t\\ :;\"؟><’÷×؛ـ/-`]";
     private List<String> Split(String str){
         return Arrays.asList(str.split(delimitersRegex));
     }

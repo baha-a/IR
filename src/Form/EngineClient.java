@@ -236,6 +236,8 @@ public class EngineClient extends javax.swing.JFrame {
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
 
         new Thread(() -> {
+            jProgressBar1.setValue(0);
+            jLabel1.setText("loading . . .");
             try
             {
                 g.IndexFiles(getFiles(), t -> {
@@ -245,7 +247,7 @@ public class EngineClient extends javax.swing.JFrame {
 
                 jLabel1.setText(g.getDocumentsCount() + " docs");
             }
-            catch(Exception ex) { jLabel1.setText( "nothing selected"); }
+            catch(Exception ex) { jLabel1.setText( "error!!" + ex.getMessage()); }
 
             jProgressBar1.setValue(100);
         }).start();

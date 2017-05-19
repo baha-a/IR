@@ -1,4 +1,4 @@
-package finalir.DataStructure;
+package finalir;
 
 import java.util.ArrayList;
 import java.util.HashMap;

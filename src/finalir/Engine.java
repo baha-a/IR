@@ -2,6 +2,7 @@ package finalir;
 
 import Form.EngineClient;
 import finalir.DataStructure.*;
+import finalir.Stem.Tokenizer;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -91,7 +92,7 @@ public class Engine{
         return IndexFiles(files, t -> Print(t + " %"));
     }
     
-    public Engine IndexFiles(File[] files, Callable2<Integer> processBar) throws IOException, TikaException{
+    public Engine IndexFiles(File[] files, Callback<Integer> processBar) throws IOException, TikaException{
         int i = 0;
         for (File f : files){
             IndexFile(f);

@@ -1,11 +1,11 @@
 package finalir;
 
+import finalir.Stem.Tokenizer;
 import java.util.ArrayList;
 import java.util.List;
 import net.sf.extjwnl.JWNLException;
 import net.sf.extjwnl.data.*;
 import net.sf.extjwnl.data.list.PointerTargetNode;
-import net.sf.extjwnl.data.list.PointerTargetNodeList;
 import net.sf.extjwnl.dictionary.Dictionary;
 
 public class LeskWSD{

@@ -1,4 +1,4 @@
-package finalir.DataStructure;
+package finalir;
 
 public class Stopwatch {
     
