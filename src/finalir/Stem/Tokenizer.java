@@ -13,8 +13,8 @@ public class Tokenizer {
     public Tokenizer() {        
         try 
         {
-            stopwords.addAll(Files.readAllLines(new File("src\\finalir\\stopwords.txt").toPath()));
-        } catch (IOException ex) { Engine.PrintErr("Can't load stopwords file . . ."); }
+            stopwords.addAll(Files.readAllLines(new File("src\\finalir\\Stem\\stopwords.txt").toPath()));
+        } catch (IOException ex) { Engine.PrintErr("Can't load stopwords file . . ." );  }
 
     }
 
@@ -23,7 +23,7 @@ public class Tokenizer {
     }
         
     public List<CoreLabel> getTokens(String txt) {
-        return stemming(removeStopWords(Split(txt.toLowerCase())));
+        return stemming(Split(txt.toLowerCase()));
     }
     
     private int removedWordsCount = 0;
@@ -41,27 +41,21 @@ public class Tokenizer {
         int pos = 0;
         for (String c : tokens)
             if(c.length() > 0){
-                try
+                if(stopwords.contains(c))
+                    removedWordsCount++;
+                else
                 {
-                    words.add(new CoreLabel(c,(c.charAt(0) <= 255) ? enStemmer.stem(c) : arStemmer.stem(c), pos));
-                }
-                catch(Exception ex) 
-                { 
-                    words.add(new CoreLabel(c,c, pos));
+                    try
+                    {    
+                        words.add(new CoreLabel(c,(c.charAt(0) <= 255) ? enStemmer.stem(c) : arStemmer.stem(c), pos));
+                    }
+                    catch(Exception ex)  {  words.add(new CoreLabel(c,c, pos)); }
                 }
                 pos += c.length() + 1;
             }
         return words;
     }
     
-    private List<String> removeStopWords(List<String> tokens) {
-        List<String> t = new ArrayList<>();
-        for (String s : tokens)
-            if(stopwords.contains(s) == false)
-                t.add(s);
-        removedWordsCount +=  t.size();
-        return t;
-    }
     
     
     final String delimitersRegex = "[\\[\\]*/=+!@#$%^&!?~|}{)(.,\n\r\t\\ :;\"؟><’÷×؛ـ/-`]";

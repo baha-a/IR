@@ -201,9 +201,9 @@ public class Searcher {
             return 0; 
         });
         
-//        for (DocumentResult r : result)
-//            for (QueryTerm q : query)
-//                 r.addPosition(q.term);
+        for (DocumentResult r : result)
+            for (QueryTerm q : query)
+                 r.addPosition(q.term);
         
         return result;
     }
