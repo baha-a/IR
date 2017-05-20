@@ -58,8 +58,12 @@ public class Tokenizer {
     
     
     
-    final String delimitersRegex = "[\\[\\]*/=+!@#$%^&!?~|}{)(.,\n\r\t\\ :;\"؟><’÷×؛ـ/-`]";
+    //final String delimitersRegex = "[\\[\\]*/=+!@#$%^&!?~|}{)(.,\n\r\t\\ :;\"؟><’÷×؛ـ/-`]";
+    //final String delimitersRegex = "[\\[\\^\\$\\.\\|?*+(){/=!@#%&!~}],\n\r\t:;\"؟><’÷×؛ـ/-` ]";
+    final String delimitersRegex = "[\\[\\]\\\\ (){}_=.@/,+?|^$*!#%&~:;؟><’÷×؛ـ/\"\'`]";
     private List<String> Split(String str){
         return Arrays.asList(str.split(delimitersRegex));
     }
+    
+    
 }

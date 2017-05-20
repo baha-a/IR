@@ -123,7 +123,7 @@ public class Engine{
     public List<DocumentResult> SearchQuery(String q,boolean advanceSearch,TermType searchIn) {
         Stopwatch st = new Stopwatch().Start();
         
-        List<DocumentResult> res = searchQuery2(q, advanceSearch,searchIn);
+        List<DocumentResult> res = searchQuery(q, advanceSearch,searchIn);
         
         st.Stop();
         Print(" TIME : " + st.GetMilisec() + " msec     RAM  : " + (st.GetMemoryUsage()/1024) + " Kbyte");
@@ -137,7 +137,7 @@ public class Engine{
     public boolean useHypernyms = true;
     public boolean useHyponyms = true;
     
-    private List<DocumentResult> searchQuery2(String q,boolean advanceSearch, TermType searchIn) {
+    private List<DocumentResult> searchQuery(String q,boolean advanceSearch, TermType searchIn) {
         
         String query = q = q.toLowerCase();
         

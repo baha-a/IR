@@ -45,21 +45,30 @@ public class Searcher {
         
         List<DocumentTermEntry> intersection = new ArrayList<>();
         
-        int p1 = 0 , p2 = 0, compare = 0;
-        while(p1 < c1.size() && p2 < c2.size()){
-            compare = c1.get(p1).getDocument().compareWith(c2.get(p2).getDocument());
-            
-            if(compare > 0)
-                p2++;
-            else if(compare < 0)
-                p1++;
-            else
-            {
-                intersection.add(c1.get(p1));
-                p1++;
-                p2++;
+        for (DocumentTermEntry d1 : c1) {
+            for (DocumentTermEntry d2 : c2) {
+                if(d1.getDocument().compareWith(d2.getDocument()) == 0)
+                {
+                    intersection.add(d1);
+                    break;
+                }
             }
         }
+//        int p1 = 0 , p2 = 0, compare = 0;
+//        while(p1 < c1.size() && p2 < c2.size()){
+//            compare = c1.get(p1).getDocument().compareWith(c2.get(p2).getDocument());
+//            
+//            if(compare > 0)
+//                p2++;
+//            else if(compare < 0)
+//                p1++;
+//            else
+//            {
+//                intersection.add(c1.get(p1));
+//                p1++;
+//                p2++;
+//            }
+//        }
         
         return intersection;
     }
@@ -70,22 +79,33 @@ public class Searcher {
         
         List<DocumentTermEntry> near = new ArrayList<>();
         
-        int p1 = 0 , p2 = 0, compare = 0;
-        while(p1 < c1.size() && p2 < c2.size()){
-            compare = c1.get(p1).getDocument().compareWith(c2.get(p2).getDocument());
-            
-            if(compare > 0)
-                p2++;
-            else if(compare < 0)
-                p1++;
-            else
-            {
-                if(c1.get(p1).getDistance(c2.get(p2),target) <= target)
-                    near.add(c2.get(p2));
-                p1++;
-                p2++;
+        for (DocumentTermEntry d1 : c1) {
+            for (DocumentTermEntry d2 : c2) {
+                if(d1.getDocument().compareWith(d2.getDocument()) == 0)
+                    if(d1.getDistance(d2,target) <= target)
+                    {
+                        near.add(d2);
+                        break;
+                    }
             }
         }
+//        
+//        int p1 = 0 , p2 = 0, compare = 0;
+//        while(p1 < c1.size() && p2 < c2.size()){
+//            compare = c1.get(p1).getDocument().compareWith(c2.get(p2).getDocument());
+//            
+//            if(compare > 0)
+//                p2++;
+//            else if(compare < 0)
+//                p1++;
+//            else
+//            {
+//                if(c1.get(p1).getDistance(c2.get(p2),target) <= target)
+//                    near.add(c2.get(p2));
+//                p1++;
+//                p2++;
+//            }
+//        }
         
         return near;
     }
