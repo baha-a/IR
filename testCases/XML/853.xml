@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="853">
+	<title>A Fast Algorithm for Automatic Classification	</title>
+	<author>Dattola, R. T.	</author>
+	<text>
+		   An economical classification process of order n log n (for n elements),
+		which does not employ n-square procedures.. Conversion proofs are given and
+		possible information retrieval applications are discussed..
+	</text>
+</article>
