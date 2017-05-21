@@ -1,6 +1,0 @@
-International Standards for the Interchange of Bibliographic Records inMachine-Readable Form
-
-Avram, Henriette D.
-
-   The paper describes the work in progress toward an international 
-machine-readable cataloging system and discusses the problems remaining..

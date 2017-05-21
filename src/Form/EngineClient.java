@@ -7,17 +7,11 @@ import finalir.JazzySpellChecker;
 import java.awt.Desktop;
 import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;
-import java.awt.event.WindowAdapter;
 import java.io.File;
-import java.io.IOException;
 import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.DefaultListModel;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
-import javax.swing.JOptionPane;
-import org.apache.tika.exception.TikaException;
 
 public class EngineClient extends javax.swing.JFrame {
 
@@ -294,7 +288,6 @@ public class EngineClient extends javax.swing.JFrame {
             case "text": termtype = TermType.Text; break;
         }
         
-        StringBuilder str = new StringBuilder();
         lastResult = g.SearchQuery( jTextField1.getText(), jCheckBox1.isSelected(),termtype);
 
         long time = g.getLastTime();
@@ -369,14 +362,12 @@ public class EngineClient extends javax.swing.JFrame {
             @Override
             public void componentHidden(ComponentEvent e) 
             {
-                if(t.dialogResult == DialogResult.AddText)
-                    g.IndexText(t.fileName,t.textResult);
+                if(t.dialogResult == DialogResult.AddText || t.dialogResult == DialogResult.AddAndSaveText)  
+                    g.IndexText(t.fileName,t.path,t.textResult);
                 else if(t.dialogResult == DialogResult.AddAndSaveXML || t.dialogResult == DialogResult.AddXML)
                     g.indexingXml(t.fileName,t.path,t.titletext,t.authortext,t.textResult);
-                else if(t.dialogResult == DialogResult.AddAndSaveText)
-                    try { g.IndexFile(new File(t.path)); } catch (Exception ex) {}
                 
-                if(t.dialogResult == DialogResult.Cancel)
+                if(t.dialogResult != DialogResult.Cancel)
                     g.ComputeTF_IDF();
                 
                 jLabel1.setText(g.getDocumentsCount() + " docs");

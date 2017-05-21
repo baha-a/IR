@@ -27,6 +27,7 @@ public class InvertedIndex {
     
     public InvertedIndex AddTerm(String term, Document doc, int position,int exactpostion, TermType type) {
         term = term.toLowerCase();
+        
         if (_index.containsKey(term) == false) {
             Map<Integer, DocumentTermEntry> e = new HashMap<>();
             e.put(doc.getId(), new DocumentTermEntry(doc,term).Add(position,exactpostion, type));

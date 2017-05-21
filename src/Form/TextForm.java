@@ -182,10 +182,9 @@ public class TextForm extends javax.swing.JFrame {
         
         fileName = jTextField1.getText() + "(txt)";
         
-        textResult = jTextField2.getText() +"\r\n\r\n"+
-                jTextField3.getText() + "\r\n\r\n" +
+        textResult = jTextField2.getText() +"\r\n"+
+                jTextField3.getText() + "\r\n" +
                 jEditorPane1.getText();
-
         
         setVisible(false);
     }//GEN-LAST:event_jButton3ActionPerformed
@@ -195,8 +194,8 @@ public class TextForm extends javax.swing.JFrame {
         dialogResult = DialogResult.AddAndSaveText;
         fileName = jTextField1.getText();
         
-        textResult = jTextField2.getText() +"\r\n\r\n"+
-                jTextField3.getText() + "\r\n\r\n" +
+        textResult = jTextField2.getText() +"\r\n"+
+                jTextField3.getText() + "\r\n" +
                 jEditorPane1.getText();
         
         if(fileChooser(false))
@@ -250,11 +249,6 @@ public class TextForm extends javax.swing.JFrame {
         return false;
     }
     
-    
-    public static void main(String args[]) {
-        java.awt.EventQueue.invokeLater(() -> { new TextForm().setVisible(true); });
-    }
-
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;

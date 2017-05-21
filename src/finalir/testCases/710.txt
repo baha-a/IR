@@ -1,7 +1,0 @@
-An International Mass Spectral Search System (MSSS). V. A status Report
-
-Heller, Rachelle S.Milne, G. W. A.Feldmann, Richard J.Heller, Stephen R.
-
-   The status of MSSS is described.. Problems and experiences that have been
-encountered in three years of commmercial operation of this system are 
-reported and discussed..

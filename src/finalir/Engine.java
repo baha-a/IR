@@ -82,8 +82,8 @@ public class Engine{
         return this;
     }
     
-    public Engine IndexText(String f,String t){
-        indexingPlanText(f,"", toky.getTokens(t));
+    public Engine IndexText(String f,String path,String t){
+        indexingPlanText(f, path, toky.getTokens(t));
         return this;
     }
     
@@ -123,7 +123,7 @@ public class Engine{
     public List<DocumentResult> SearchQuery(String q,boolean advanceSearch,TermType searchIn) {
         Stopwatch st = new Stopwatch().Start();
         
-        List<DocumentResult> res = searchQuery(q, advanceSearch,searchIn);
+        List<DocumentResult> res = searchQuery(q, advanceSearch, searchIn);
         
         st.Stop();
         Print(" TIME : " + st.GetMilisec() + " msec     RAM  : " + (st.GetMemoryUsage()/1024) + " Kbyte");
@@ -155,8 +155,7 @@ public class Engine{
                 r = searcher.SearchOr(w.lemma(), r);
         
         if(useSynonyms)//&& r.size() < 10)
-            for (CoreLabel w : queryTokens)
-                for(String s : lesker.getSynonyms(query,w.word(),useHypernyms,useHyponyms)){
+                for(String s : lesker.getSynonyms(query,queryTokens,useHypernyms,useHyponyms)){
                     r = searcher.SearchOr(s, r);
                     query += " or " + s;
                 }

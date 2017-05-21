@@ -1,6 +1,0 @@
-Searching Natural Language Text by computer
-
-Swanson, D.R.
-
-  Machine indexing and text searching offer an approach
-to the basic problems of library automation.
