@@ -2,10 +2,8 @@
 
 Simple text search engine for university class of 'Information Retrieval' (2016-2017)
 
-______________________________________________________
-
-
 Some Feature:
+
   - this search engine based on both vector model and boolean model,
   - support english language and arabic language too
   - support all types of documents (txt, pdf, docx, .... etc)
@@ -16,4 +14,7 @@ Some Feature:
   - solve the ambiguase of the wordnet synonyms
 
 
-______________________________________________________
+
+Screenshot:
+
+![main window](https://raw.githubusercontent.com/bhlshrf/IR/master/mainWindow.jpg)
