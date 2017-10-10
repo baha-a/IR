@@ -1,6 +1,6 @@
-Simple text search engine for university class of 'Information Retrieval' (2016-2017)
+Simple recall-based text search engine for university class of 'Information Retrieval' (2016-2017)
 
-Some Feature:
+# Some Feature:
 
   - this search engine based on both vector model and boolean model,
   - support english language and arabic language too
@@ -13,6 +13,6 @@ Some Feature:
 
 
 
-Screenshot:
+# Screenshot:
 
 ![the main window](https://raw.githubusercontent.com/bhlshrf/IR/master/mainWindow.jpg)
