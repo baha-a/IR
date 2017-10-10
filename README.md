@@ -1,5 +1,3 @@
-
-
 Simple text search engine for university class of 'Information Retrieval' (2016-2017)
 
 Some Feature:
@@ -17,5 +15,4 @@ Some Feature:
 
 Screenshot:
 
-![main window](https://raw.githubusercontent.com/bhlshrf/IR/master/mainWindow.jpg)
-![the main form](https://raw.githubusercontent.com/bhlshrf/IR/master/mainWindow.jpg)
+![the main window](https://raw.githubusercontent.com/bhlshrf/IR/master/mainWindow.jpg)
