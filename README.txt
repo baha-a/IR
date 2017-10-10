@@ -18,3 +18,4 @@ Some Feature:
 Screenshot:
 
 ![main window](https://raw.githubusercontent.com/bhlshrf/IR/master/mainWindow.jpg)
+
