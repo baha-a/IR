@@ -1,4 +1,6 @@
-Simple recall-based text search engine for university class of 'Information Retrieval' (2016-2017)
+# Information Retrieval Project
+
+A Simple recall-based text search engine for university class of 'Information Retrieval' (2016-2017)
 
 # Some Feature:
 
